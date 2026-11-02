@@ -1,0 +1,229 @@
+{
+  "election": {
+    "id": "2023-11-lakewood",
+    "date": "2023-11-07",
+    "name": "November 7, 2023 Lakewood city election",
+    "kind": "city",
+    "summary": "Lakewood voters elected Wendi Strom mayor and filled one City Council seat in each of the five wards, with no incumbents on the ballot in any council race, and voted to retain two municipal judges. Jeffco Public Schools voters filled two school board seats (Districts 3 and 4). Statewide, Proposition HH (property tax changes) failed and Proposition II (keeping nicotine tax revenue for preschool) passed.",
+    "turnout": "Jefferson County's official canvass lists 207,052 ballots cast out of 437,532 registered voters countywide (47.32%). A Lakewood-only turnout figure was not found; the mayor's race recorded 44,843 votes, plus 2,523 undervotes and 4 overvotes.",
+    "sources": ["src-jeffco-sovc-2023", "src-ccm-results-2023", "src-lakewood-voter-guide-2023"]
+  },
+  "sources": [
+    {"id": "src-jeffco-sovc-2023", "title": "2023 Coordinated Election Statement of Votes Cast, Official Canvass Results (Nov. 28, 2023)", "publisher": "Jefferson County Clerk and Recorder", "url": "https://www.jeffco.us/DocumentCenter/View/41430", "retrieved_on": "2026-10-09"},
+    {"id": "src-sos-rla-jeffco-2023", "title": "Jefferson County Audit Report, 2023 Coordinated Election (risk-limiting audit final report)", "publisher": "Colorado Secretary of State", "url": "https://coloradosos.gov/pubs/elections/RLA/files/2023/coordinated/finalReport/Jefferson.pdf", "retrieved_on": "2026-10-09"},
+    {"id": "src-sos-hh", "title": "2023 Nov 7 :: State of Colorado :: Proposition HH (Statutory)", "publisher": "Colorado Secretary of State, Historical Election Database", "url": "https://historicalelectiondata.coloradosos.gov/ballot_questions/view/25991", "retrieved_on": "2026-10-09"},
+    {"id": "src-sos-ii", "title": "2023 Nov 7 :: State of Colorado :: Proposition II (Statutory)", "publisher": "Colorado Secretary of State, Historical Election Database", "url": "https://historicalelectiondata.coloradosos.gov/ballot_questions/view/25992", "retrieved_on": "2026-10-09"},
+    {"id": "src-sos-county-ballot-questions-2023", "title": "Odd-Year Coordinated Election, November 7, 2023: statewide ballot questions by county", "publisher": "Colorado Secretary of State, Historical Election Database", "url": "https://historicalelectiondata.coloradosos.gov/eng/ballot_questions/search/file_id:472/show_granularity_dt_id:3/.pdf", "retrieved_on": "2026-10-09"},
+    {"id": "src-lakewood-voter-guide-2023", "title": "Looking at Lakewood, October 2023 Voters Guide", "publisher": "City of Lakewood", "url": "https://www.lakewoodco.gov/files/assets/public/v/1/city-managers-office/communications/ll-pdfs/looking-at-lakewood-oct-2023-voters-guide.pdf", "retrieved_on": "2026-10-09"},
+    {"id": "src-ccm-results-2023", "title": "New Lakewood Mayor Wendi Strom hopes to bring community together to heal city's growing pains", "publisher": "Colorado Community Media", "url": "https://coloradocommunitymedia.com/2023/11/07/lakewood-mayoral-race-and-city-council-election-results/", "retrieved_on": "2026-10-09"},
+    {"id": "src-ccm-sworn-in-2023", "title": "New council members and mayor sworn in at Lakewood City Council meeting", "publisher": "Colorado Community Media", "url": "https://coloradocommunitymedia.com/2023/12/01/new-council-members-and-mayor-sworn-in-at-lakewood-city-council-meeting/", "retrieved_on": "2026-10-09"},
+    {"id": "src-gazette-ward5-vacancy", "title": "Lakewood searches for city council candidates following mayoral election", "publisher": "Denver Gazette", "url": "https://www.denvergazette.com/2023/12/12/lakewood-searches-for-city-council-candidates-following-mayoral-election/", "retrieved_on": "2026-10-09"},
+    {"id": "src-chalkbeat-jeffco-2023", "title": "Jeffco school board election results: Union-backed candidates win two open seats", "publisher": "Chalkbeat Colorado", "url": "https://www.chalkbeat.org/colorado/2023/11/7/23951258/jeffco-school-board-voting-results-elections-2023/", "retrieved_on": "2026-10-09"},
+    {"id": "src-ballotpedia-wicke", "title": "Thomas Wicke", "publisher": "Ballotpedia", "url": "https://ballotpedia.org/Thomas_Wicke", "retrieved_on": "2026-10-09"},
+    {"id": "src-ballotpedia-newton", "title": "Joel Newton", "publisher": "Ballotpedia", "url": "https://ballotpedia.org/Joel_Newton", "retrieved_on": "2026-10-09"},
+    {"id": "src-jeffco-awards-2024", "title": "Clerk and Recorder's Office wins Clearie and NACo Achievement Awards (news release, June 10, 2024)", "publisher": "Jefferson County Clerk and Recorder", "url": "https://www.jeffco.us/CivicAlerts.aspx?AID=2276", "retrieved_on": "2026-10-09"}
+  ],
+  "contests": [
+    {
+      "id": "2023-mayor",
+      "level": "city",
+      "office": "Mayor of Lakewood",
+      "district": null,
+      "who_voted": "All Lakewood voters",
+      "seats": 1,
+      "nonpartisan": true,
+      "results_status": "official final",
+      "candidates": [
+        {"name": "Wendi Strom", "party": null, "incumbent": false, "votes": 21136, "pct": 47.1, "won": true},
+        {"name": "Don Burkhart", "party": null, "incumbent": false, "votes": 12707, "pct": 28.3, "won": false},
+        {"name": "Cathy Kentner", "party": null, "incumbent": false, "votes": 11000, "pct": 24.5, "won": false}
+      ],
+      "notes": "Official canvass totals from Jefferson County (Lakewood is entirely in Jefferson County). Percentages are of the 44,843 votes for candidates; there were also 2,523 undervotes and 4 overvotes. Open seat: outgoing Mayor Adam Paul did not run. Strom was the sitting Ward 5 council member and Mayor Pro Tem. The state's post-election risk-limiting audit of this race found no discrepancies. No recount was found.",
+      "sources": ["src-jeffco-sovc-2023", "src-sos-rla-jeffco-2023", "src-lakewood-voter-guide-2023", "src-ccm-sworn-in-2023"]
+    },
+    {
+      "id": "2023-council-ward-1",
+      "level": "city",
+      "office": "Lakewood City Council",
+      "district": "Ward 1",
+      "who_voted": "Ward 1 voters",
+      "seats": 1,
+      "nonpartisan": true,
+      "results_status": "official final",
+      "candidates": [
+        {"name": "Glenda Sinks", "party": null, "incumbent": false, "votes": 5621, "pct": 64.9, "won": true},
+        {"name": "Fred Clifford", "party": null, "incumbent": false, "votes": 3039, "pct": 35.1, "won": false}
+      ],
+      "notes": "Open seat; Charley Able was term-limited. 785 undervotes.",
+      "sources": ["src-jeffco-sovc-2023", "src-ccm-results-2023", "src-lakewood-voter-guide-2023"]
+    },
+    {
+      "id": "2023-council-ward-2",
+      "level": "city",
+      "office": "Lakewood City Council",
+      "district": "Ward 2",
+      "who_voted": "Ward 2 voters",
+      "seats": 1,
+      "nonpartisan": true,
+      "results_status": "official final",
+      "candidates": [
+        {"name": "Isabel Cruz", "party": null, "incumbent": false, "votes": 3837, "pct": 61.5, "won": true},
+        {"name": "Pete Del Duca", "party": null, "incumbent": false, "votes": 2403, "pct": 38.5, "won": false}
+      ],
+      "notes": "Open seat; Sharon Vincent was term-limited. 425 undervotes.",
+      "sources": ["src-jeffco-sovc-2023", "src-ccm-results-2023", "src-lakewood-voter-guide-2023"]
+    },
+    {
+      "id": "2023-council-ward-3",
+      "level": "city",
+      "office": "Lakewood City Council",
+      "district": "Ward 3",
+      "who_voted": "Ward 3 voters",
+      "seats": 1,
+      "nonpartisan": true,
+      "results_status": "official final",
+      "candidates": [
+        {"name": "Roger Low", "party": null, "incumbent": false, "votes": 6562, "pct": 100.0, "won": true}
+      ],
+      "notes": "Uncontested. Open seat; Anita Springsteen withdrew from seeking re-election. 2,518 undervotes.",
+      "sources": ["src-jeffco-sovc-2023", "src-ccm-results-2023"]
+    },
+    {
+      "id": "2023-council-ward-4",
+      "level": "city",
+      "office": "Lakewood City Council",
+      "district": "Ward 4",
+      "who_voted": "Ward 4 voters",
+      "seats": 1,
+      "nonpartisan": true,
+      "results_status": "official final",
+      "candidates": [
+        {"name": "Dave Rein", "party": null, "incumbent": false, "votes": 8295, "pct": 100.0, "won": true}
+      ],
+      "notes": "Uncontested. Open seat; Barbara Franks was term-limited. 3,578 undervotes.",
+      "sources": ["src-jeffco-sovc-2023", "src-ccm-results-2023", "src-lakewood-voter-guide-2023"]
+    },
+    {
+      "id": "2023-council-ward-5",
+      "level": "city",
+      "office": "Lakewood City Council",
+      "district": "Ward 5",
+      "who_voted": "Ward 5 voters",
+      "seats": 1,
+      "nonpartisan": true,
+      "results_status": "official final",
+      "candidates": [
+        {"name": "Jacob LaBure", "party": null, "incumbent": false, "votes": 7123, "pct": 100.0, "won": true}
+      ],
+      "notes": "Uncontested. Open seat; Mary Janssen did not seek re-election. LaBure had served on council from 2017 to 2021. 3,184 undervotes. Ward 5's other seat, held by Wendi Strom, became vacant when she was elected mayor; the city scheduled a Ward 5 special election for Jan. 30, 2024.",
+      "sources": ["src-jeffco-sovc-2023", "src-ccm-results-2023", "src-lakewood-voter-guide-2023", "src-gazette-ward5-vacancy"]
+    },
+    {
+      "id": "2023-jeffco-schools-d3",
+      "level": "school",
+      "office": "Jeffco Public Schools Board of Education",
+      "district": "District 3",
+      "who_voted": "All Jeffco Public Schools voters (directors are elected at large to represent a district)",
+      "seats": 1,
+      "nonpartisan": true,
+      "results_status": "official final",
+      "candidates": [
+        {"name": "Michelle Applegate", "party": null, "incumbent": false, "votes": 105449, "pct": 58.5, "won": true},
+        {"name": "Thomas Wicke", "party": null, "incumbent": false, "votes": 74779, "pct": 41.5, "won": false}
+      ],
+      "notes": "Open seat, previously held by Stephanie Schooley. Vote totals are from Ballotpedia; the county's official canvass PDF includes this contest, but the readable part of the file ended before its total row, so the totals could not be checked against it.",
+      "sources": ["src-ballotpedia-wicke", "src-chalkbeat-jeffco-2023", "src-jeffco-sovc-2023"]
+    },
+    {
+      "id": "2023-jeffco-schools-d4",
+      "level": "school",
+      "office": "Jeffco Public Schools Board of Education",
+      "district": "District 4",
+      "who_voted": "All Jeffco Public Schools voters (directors are elected at large to represent a district)",
+      "seats": 1,
+      "nonpartisan": true,
+      "results_status": "official final",
+      "candidates": [
+        {"name": "Erin Kenworthy", "party": null, "incumbent": false, "votes": 74958, "pct": 42.2, "won": true},
+        {"name": "Amara Hildebrand", "party": null, "incumbent": false, "votes": 60088, "pct": 33.8, "won": false},
+        {"name": "Joel Newton", "party": null, "incumbent": false, "votes": 42522, "pct": 23.9, "won": false}
+      ],
+      "notes": "Open seat, previously held by Susan Miller. Vote totals are from Ballotpedia and have not been checked against the county's official canvass.",
+      "sources": ["src-ballotpedia-newton", "src-chalkbeat-jeffco-2023"]
+    }
+  ],
+  "measures": [
+    {
+      "id": "2023-lakewood-retain-bozarth",
+      "number": "Judicial retention",
+      "jurisdiction": "City of Lakewood",
+      "short_title": "Retain Presiding Municipal Judge Nicole Bozarth",
+      "summary": "Lakewood voters were asked whether Presiding Judge Nicole Bozarth of the Lakewood Municipal Court should stay in office. Voters chose to retain her.",
+      "yes_votes": 29901,
+      "no_votes": 9659,
+      "yes_pct": 75.6,
+      "passed": true,
+      "results_status": "official final",
+      "sources": ["src-jeffco-sovc-2023", "src-lakewood-voter-guide-2023"]
+    },
+    {
+      "id": "2023-lakewood-retain-eastin",
+      "number": "Judicial retention",
+      "jurisdiction": "City of Lakewood",
+      "short_title": "Retain Municipal Judge Kellie Eastin",
+      "summary": "Lakewood voters were asked whether Judge Kellie Eastin of the Lakewood Municipal Court should stay in office. Voters chose to retain her.",
+      "yes_votes": 30071,
+      "no_votes": 9313,
+      "yes_pct": 76.4,
+      "passed": true,
+      "results_status": "official final",
+      "sources": ["src-jeffco-sovc-2023", "src-lakewood-voter-guide-2023"]
+    },
+    {
+      "id": "2023-co-prop-hh",
+      "number": "Proposition HH",
+      "jurisdiction": "State of Colorado",
+      "short_title": "Property tax changes and state revenue limit",
+      "summary": "This would have lowered property taxes on homes and businesses, expanded property tax relief for seniors, and paid local governments and school districts back for lost revenue using part of the state's surplus, which would have reduced TABOR refunds. It failed statewide and in Jefferson County.",
+      "yes_votes": 82272,
+      "no_votes": 122418,
+      "yes_pct": 40.2,
+      "passed": false,
+      "results_status": "official final",
+      "sources": ["src-sos-hh", "src-sos-county-ballot-questions-2023", "src-sos-rla-jeffco-2023"]
+    },
+    {
+      "id": "2023-co-prop-ii",
+      "number": "Proposition II",
+      "jurisdiction": "State of Colorado",
+      "short_title": "Keep nicotine tax revenue for preschool",
+      "summary": "This let the state keep about $23.65 million in cigarette, tobacco and nicotine tax revenue that came in above the 2020 Proposition EE estimate, and spend it on the state's universal preschool program, rather than lowering tax rates and refunding the money. It did not raise taxes. It passed statewide and in Jefferson County.",
+      "yes_votes": 138609,
+      "no_votes": 65689,
+      "yes_pct": 67.8,
+      "passed": true,
+      "results_status": "official final",
+      "sources": ["src-sos-ii", "src-sos-county-ballot-questions-2023"]
+    }
+  ],
+  "facts": [
+    {"key": "measure-totals-are-county", "text": "Proposition HH and II vote counts above are Jefferson County totals. Statewide, Proposition HH failed with 682,667 Yes (40.7%) and 995,259 No (59.3%), and Proposition II passed with 1,130,047 Yes (67.53%) and 543,405 No (32.47%).", "sources": ["src-sos-hh", "src-sos-ii"]},
+    {"key": "hh-audit-count-differs", "text": "The state's risk-limiting audit report lists slightly lower Jefferson County Prop HH totals (82,270 Yes, 122,416 No) than the Secretary of State's final results (82,272 Yes, 122,418 No). This archive uses the Secretary of State's final numbers.", "sources": ["src-sos-rla-jeffco-2023", "src-sos-hh"]},
+    {"key": "all-council-seats-open", "text": "No incumbent council member ran for re-election in 2023. One seat in each of the five wards was on the ballot, and three of the five races (Wards 3, 4 and 5) had only one candidate.", "sources": ["src-ccm-results-2023", "src-jeffco-sovc-2023"]},
+    {"key": "mail-ballot-election", "text": "The election was run by mail. Ballots went out Oct. 16-20, 2023, and had to be received by 7 p.m. on Nov. 7.", "sources": ["src-lakewood-voter-guide-2023"]},
+    {"key": "sworn-in", "text": "Mayor Wendi Strom and council members Glenda Sinks (Ward 1), Roger Low (Ward 3), Dave Rein (Ward 4) and Jacob LaBure (Ward 5) were sworn in on Nov. 27, 2023. Isabel Cruz (Ward 2) was not present and was to be sworn in later. They replaced outgoing two-term Mayor Adam Paul and the outgoing council members.", "sources": ["src-ccm-sworn-in-2023"]},
+    {"key": "ward5-vacancy", "text": "Strom's election as mayor left a Ward 5 council seat vacant. City Council called a special election for Jan. 30, 2024, to fill it.", "sources": ["src-gazette-ward5-vacancy"]},
+    {"key": "canvass-date", "text": "Jefferson County's official canvass results for the 2023 coordinated election are dated Nov. 28, 2023.", "sources": ["src-jeffco-sovc-2023"]},
+    {"key": "county-turnout", "text": "The Jefferson County Clerk reported that after a six-month turnout campaign, 2023 turnout rose from 43% to 47%, and that Jeffco was the only Colorado county to pass 200,000 returned ballots.", "sources": ["src-jeffco-awards-2024", "src-jeffco-sovc-2023"]},
+    {"key": "no-city-ballot-issues", "text": "The city's voter guide listed no Lakewood ballot issues or questions in 2023 other than the two judicial retention questions.", "sources": ["src-lakewood-voter-guide-2023"]}
+  ],
+  "open_questions": [
+    "Lakewood-only turnout (ballots cast and registered voters inside the city) was not found. Jefferson County's 2023 Election Report (https://www.jeffco.us/DocumentCenter/View/41670) could not be fetched.",
+    "Jeffco school board totals (District 3 and District 4) come from Ballotpedia. The county's official canvass PDF was readable only through page 83 of 228, which ended partway through the District 3 contest, so neither race could be checked against the county's own totals.",
+    "No Jeffco Public Schools ballot measure was found for November 2023, but the official canvass section that would list any district measures could not be read to confirm this.",
+    "No 2023 ballot measures were found for West Metro Fire Protection District, Foothills Park & Recreation District, Jefferson County, or other special districts covering Lakewood (the West Metro ballot-issue page found is for 2026). The county TABOR notice and the measure section of the official canvass were not available to confirm this.",
+    "No recount was found for any Lakewood or Jeffco Schools contest. The margins were wide, and the risk-limiting audit of the mayor's race found no discrepancies.",
+    "The jeffco.us 'Clerk and Recorder' release on the 43% to 47% turnout increase does not say which earlier election the 43% figure refers to.",
+    "The City of Lakewood's own certified results page for 2023 was not found. Results here come from Jefferson County's official canvass."
+  ]
+}

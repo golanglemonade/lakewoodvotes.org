@@ -1,0 +1,132 @@
+/* Lakewood Votes palette: the City of Lakewood blue (#017cc4) for large color areas (logo tile, markers),
+   and a darker shade of the same hue for text and links so they stay AAA. Contrast: accent on paper 7.3:1,
+   white on accent 7.6:1, accent-ink on tint 10:1. */
+:root {
+  --paper: #f8f9fb;
+  --sunk: #eef2f6;
+  --line: #d5dce5;
+  --line-strong: #7f8a97;
+  --brand: #017cc4;
+  --accent: #00578d;
+  --accent-ink: #003a5e;
+  --accent-tint: #e4f0f9;
+}
+.brand svg { color: var(--brand); }
+.step-num { background: var(--brand); }
+header.site { border-top: 4px solid var(--brand); }
+
+/* Lakewood Votes additions on top of the shared Boulder Votes stylesheet (site.css). */
+.src { font-family: var(--sans); font-size: var(--fs-sm); color: var(--ink-2); white-space: normal; }
+.src a { color: var(--ink-2); }
+.party { font-family: var(--sans); font-size: var(--fs-sm); color: var(--ink-2); }
+ul.facts > li, ul.sources > li { margin-bottom: var(--s3); }
+.code.code-lg, .code-lg { font-size: 1.1em; vertical-align: 0.08em; margin-right: 0.25em; }
+section.panel.callout { border-left: 4px solid var(--accent); }
+.measure-card h3 a { text-decoration: none; }
+.measure-card h3 a:hover span:not(.code) { text-decoration: underline; }
+dl.yesno.compact { margin: var(--s3) 0 0; }
+dl.yesno.compact dd { font-size: var(--fs-sm, 0.9rem); }
+.race ul.names { list-style: none; padding-left: 0; }
+.race ul.names li { margin: 0 0 2px; }
+table td .src { display: block; }
+
+/* Address lookup */
+form.lookup label { display: block; font-family: var(--sans); font-weight: 600; margin-bottom: var(--s2); }
+.lookup-row { display: flex; gap: var(--s2); flex-wrap: wrap; }
+.lookup-row input { flex: 1 1 18rem; min-height: 48px; font: inherit; font-size: 1rem; padding: 0 var(--s3);
+  border: 1px solid var(--line-strong); border-radius: var(--radius-sm, 6px); background: #fff; color: var(--ink); }
+.lookup-row .btn { min-height: 48px; }
+.lookup-row .btn[disabled] { opacity: .6; }
+.lookup-result:focus { outline: none; }
+.lookup-result:not(:empty) { margin-top: var(--s4); padding: var(--s4); background: var(--accent-tint); border-radius: var(--radius-sm, 6px); }
+.lookup-list { font-size: 1.1rem; }
+.lookup-list li { margin-bottom: var(--s2); }
+.lookup-list a { font-weight: 650; }
+.lookup-warn { font-family: var(--sans); font-weight: 600; color: var(--ink); }
+.race.is-mine { border: 2px solid var(--accent); }
+.race.not-mine { opacity: .55; }
+.badge.mine { background: var(--accent); color: #fff; align-self: flex-start; margin-bottom: var(--s2); }
+
+/* Past elections */
+.archive-race .table-scroll { margin: var(--s3) 0; }
+.archive-measures-table td:first-child { min-width: 16rem; }
+.archive-measures-table details.fold { margin-top: var(--s2); }
+.yearbar a[href="index.html"] { margin-left: auto; }
+.archive-grid { display: grid; gap: var(--s4); grid-template-columns: repeat(auto-fill, minmax(min(34rem, 100%), 1fr)); margin-bottom: var(--s6, 2rem); }
+.archive-grid .card { margin: 0; }
+.archive-race table td:first-child { min-width: 11rem; }
+
+/* Home: address lookup and AI prompt side by side (stacked on phones, address first) */
+.ask-combo { display: grid; gap: var(--s5); grid-template-columns: 1fr; max-width: none; }
+@media (min-width: 900px) { .ask-combo { grid-template-columns: 1fr 1fr; align-items: start; } }
+.ask-step h3 { font-size: 1.15rem; margin: 0 0 var(--s3); }
+.ask-step .ask-head { display: flex; gap: var(--s3); align-items: flex-start; justify-content: space-between; }
+.step-num { display: inline-grid; place-items: center; width: 1.6em; height: 1.6em; border-radius: 50%;
+  background: var(--accent); color: #fff; font-family: var(--sans); font-size: 0.85em; margin-right: 0.35em; vertical-align: 0.1em; }
+.ask-combo .lookup-result:not(:empty) { background: #fff; }
+
+/* ---------------------------------------------------------------- practice sample ballot */
+.b-tools { display: flex; flex-wrap: wrap; gap: var(--s3); align-items: center; margin: var(--s5) 0 var(--s3); }
+.ballot { background: #fff; border: 1px solid var(--line-strong); border-radius: var(--radius); padding: var(--s5);
+  columns: 2 22rem; column-gap: var(--s6); margin-bottom: var(--s7); }
+.b-head { column-span: all; border-bottom: 2px solid var(--ink); padding-bottom: var(--s3); margin-bottom: var(--s4); }
+.b-warn { font-family: var(--sans); font-weight: 700; letter-spacing: .02em; color: #8a1c1c; border: 2px dashed #8a1c1c;
+  padding: var(--s2) var(--s3); margin: 0 0 var(--s3); }
+.b-title { font-size: 1.3rem; margin: 0; }
+.b-meta { font-family: var(--sans); font-size: var(--fs-sm); color: var(--ink-2); margin: var(--s1) 0 0; }
+.b-section { column-span: all; font-size: 1.05rem; font-family: var(--sans); text-transform: uppercase; letter-spacing: .04em;
+  background: var(--accent); color: #fff; padding: var(--s2) var(--s3); margin: var(--s4) 0 var(--s3); border-radius: 3px; }
+fieldset.b-contest { break-inside: avoid; border: 1px solid var(--line); border-radius: var(--radius-sm); padding: var(--s3) var(--s4);
+  margin: 0 0 var(--s3); display: block; }
+fieldset.b-contest legend { font-weight: 700; font-size: 1.02rem; padding: 0 var(--s1); }
+.b-dist, .b-rule, .b-q, .b-more { font-family: var(--sans); font-size: var(--fs-sm); margin: 0 0 var(--s2); color: var(--ink-2); }
+.b-q { color: var(--ink); }
+.b-more { margin: var(--s2) 0 0; font-size: var(--fs-xs); }
+ul.b-opts { list-style: none; padding: 0; margin: 0; }
+ul.b-opts li { margin: 0; }
+ul.b-opts label { display: grid; grid-template-columns: 1.7rem 1fr; column-gap: var(--s2); align-items: start;
+  padding: 6px 4px; border-radius: 4px; cursor: pointer; }
+ul.b-opts label:hover { background: var(--accent-tint); }
+ul.b-opts input { position: absolute; opacity: 0; width: 1px; height: 1px; }
+.b-oval { grid-row: span 2; width: 1.5rem; height: 0.95rem; border: 2px solid var(--ink); border-radius: 50%; margin-top: 0.3em; }
+.b-name { font-weight: 600; }
+.b-sub { grid-column: 2; font-family: var(--sans); font-size: var(--fs-xs); color: var(--ink-2); line-height: 1.35; }
+ul.b-opts input:checked + .b-oval { background: var(--ink); box-shadow: inset 0 0 0 2px #fff; }
+ul.b-opts input:focus-visible + .b-oval { outline: 3px solid var(--ink); outline-offset: 2px; box-shadow: 0 0 0 6px var(--focus); }
+.b-foot { column-span: all; font-family: var(--sans); font-size: var(--fs-xs); color: var(--ink-2); border-top: 1px solid var(--line);
+  padding-top: var(--s3); margin-top: var(--s4); }
+.ballot.has-districts .not-mine { display: none; }
+.ballot .badge.mine { display: none; }
+
+@media print {
+  .no-print, header.site, footer.site { display: none !important; }
+  @page { margin: 0.45in; }
+  html { font-size: 9.5pt; }
+  .ballot { border: 0; padding: 0; margin: 0; columns: 2; column-gap: 0.3in; }
+  .b-section { background: #000 !important; color: #fff !important; -webkit-print-color-adjust: exact; print-color-adjust: exact;
+    padding: 2pt 5pt; margin: 6pt 0 4pt; font-size: 9pt; }
+  fieldset.b-contest { border-color: #999; padding: 3pt 6pt; margin-bottom: 4pt; }
+  ul.b-opts label { padding: 1pt 0; }
+  .b-sub { font-size: 7.5pt; }
+  .b-judge ul.b-yn { display: flex; gap: 18pt; }
+  .b-judge ul.b-yn label { grid-template-columns: 1.7rem auto; }
+  .b-section { break-after: avoid; }
+  .b-more { display: none; }
+  .b-oval { border-color: #000; -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+  ul.b-opts input:checked + .b-oval { background: #000 !important; }
+  .b-warn { color: #000; border-color: #000; }
+}
+
+/* Small print under the address box and the local-testing hint */
+form.lookup .note, .ask-step > .note:not(#ai-prompt-note), .ask-combo .note { font-size: var(--fs-xs); line-height: 1.4; }
+.note.tiny, .lookup-result .note { font-size: var(--fs-xs); }
+
+/* People */
+ul.plain { list-style: none; padding: 0; margin: 0; }
+ul.plain li { margin: 0 0 var(--s2); }
+ul.people-cols { columns: 3 14rem; column-gap: var(--s6); padding-left: 1.1em; }
+ul.people-cols li { break-inside: avoid; margin-bottom: var(--s1); }
+.qa { margin-bottom: var(--s4); }
+.qa .q { margin-bottom: var(--s2); }
+ul.edges li { margin-bottom: var(--s2); }
+ul.edges .pill { font-size: var(--fs-xs); padding: 1px 8px; min-height: 0; vertical-align: 0.1em; }

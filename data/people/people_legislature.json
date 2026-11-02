@@ -1,0 +1,1602 @@
+{
+  "section": "Colorado legislature candidates",
+  "sources": [
+    {
+      "id": "src-sos-general-candidates",
+      "title": "2026 General Election candidate list",
+      "publisher": "Colorado Secretary of State",
+      "url": "https://www.sos.state.co.us/pubs/elections/vote/generalCandidates.html",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-wiki-2026-co-senate",
+      "title": "2026 Colorado Senate election",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/2026_Colorado_Senate_election",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-wiki-2026-co-house",
+      "title": "2026 Colorado House of Representatives election",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/2026_Colorado_House_of_Representatives_election",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-tracer-qs-senate",
+      "title": "Colorado Senate Districts - 11/03/2026 Election (Quick Stats detail, footer dated 9/22/2026)",
+      "publisher": "Colorado Secretary of State TRACER",
+      "url": "https://tracer.sos.colorado.gov/PublicSite/Docs/BatchReports/rpt_QuickStatsMapDetail_2.pdf",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-tracer-qs-house",
+      "title": "Colorado House Districts - 11/03/2026 Election (Quick Stats detail, footer dated 10/5/2026)",
+      "publisher": "Colorado Secretary of State TRACER",
+      "url": "https://tracer.sos.colorado.gov/PublicSite/Docs/BatchReports/rpt_QuickStatsMapDetail_3.pdf",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-tracer-lieder",
+      "title": "TRACER Candidate Detail: Sheila Lieder",
+      "publisher": "Colorado Secretary of State TRACER",
+      "url": "https://tracer.sos.colorado.gov/PublicSite/SearchPages/CandidateDetail.aspx?SeqID=63475",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-tracer-rein",
+      "title": "TRACER Candidate Detail: Rein, David",
+      "publisher": "Colorado Secretary of State TRACER",
+      "url": "https://tracer.sos.colorado.gov/PublicSite/SearchPages/CandidateDetail.aspx?SeqID=63466",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-tracer-stewart",
+      "title": "TRACER Candidate Detail: Stewart, Rebekah",
+      "publisher": "Colorado Secretary of State TRACER",
+      "url": "https://tracer.sos.colorado.gov/PublicSite/SearchPages/CandidateDetail.aspx?OrgID=45300&Type=CO",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-ballotpedia-lieder",
+      "title": "Sheila Lieder",
+      "publisher": "Ballotpedia",
+      "url": "https://ballotpedia.org/Sheila_Lieder",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-wiki-lieder",
+      "title": "Sheila Lieder",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Sheila_Lieder",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-wiki-duran",
+      "title": "Monica Duran",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Monica_Duran",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-duran-site",
+      "title": "Monica Duran for State Senate (home)",
+      "publisher": "Duran for Colorado",
+      "url": "https://www.monicaduran.com/",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-duran-meet",
+      "title": "Meet Monica",
+      "publisher": "Duran for Colorado",
+      "url": "https://www.monicaduran.com/meet-monica",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-duran-endorsements",
+      "title": "Endorsements",
+      "publisher": "Duran for Colorado",
+      "url": "https://www.monicaduran.com/endorsements",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-wiki-stewart",
+      "title": "Rebekah Stewart",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Rebekah_Stewart",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-co-informed",
+      "title": "Candidates (June 30, 2026 primary)",
+      "publisher": "Colorado Informed (Colorado Forum)",
+      "url": "https://www.coloradoinformed.com/candidates",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-mancuso-site",
+      "title": "Mancuso for Colorado (home)",
+      "publisher": "Mancuso for Colorado",
+      "url": "https://www.mancusoforcolorado.com/",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-harkess-site",
+      "title": "Steve Harkess for Senate District 22",
+      "publisher": "Steve Harkess campaign",
+      "url": "https://steve4colorado.us/",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-goodparty-harkess",
+      "title": "Stephen Harkess for Colorado State Senate - District 22",
+      "publisher": "GoodParty.org",
+      "url": "https://goodparty.org/candidate/stephen-harkess/colorado-state-senate-district-22",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-jeffco-gop-2026",
+      "title": "Meet Your 2026 Candidates",
+      "publisher": "Jefferson County Republican Party",
+      "url": "https://jeffcorepublicans.com/meet-your-2026-candidates/",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-hoffkling-site",
+      "title": "Alexis Hoffkling for Colorado (home)",
+      "publisher": "Alexis for Colorado",
+      "url": "https://www.alexisforcolorado.com/",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-metler-site",
+      "title": "Ross Metler — Colorado HD23 (home)",
+      "publisher": "Ross Metler for Colorado House District 23",
+      "url": "https://ross4co.com/",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-metler-about",
+      "title": "About",
+      "publisher": "Ross Metler for Colorado House District 23",
+      "url": "https://ross4co.com/about.html",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-rein-site",
+      "title": "Rein For Colorado (home)",
+      "publisher": "Rein For Colorado",
+      "url": "https://www.reinforcolorado.com/",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-rein-meet",
+      "title": "Meet Dave",
+      "publisher": "Rein For Colorado",
+      "url": "https://www.reinforcolorado.com/meet-dave",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-lakewood-rein",
+      "title": "David Rein (City Council member page)",
+      "publisher": "City of Lakewood",
+      "url": "https://www.lakewoodco.gov/Local-Government/City-Council/City-Council-Members/David-Rein",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-switzer-site",
+      "title": "William Switzer for Colorado (home)",
+      "publisher": "Committee to Elect William Switzer",
+      "url": "https://www.williamswitzerforcolorado.com/",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-switzer-meet",
+      "title": "My Story",
+      "publisher": "Committee to Elect William Switzer",
+      "url": "https://www.williamswitzerforcolorado.com/meet_william",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-aflcio-2026",
+      "title": "Colorado AFL-CIO 2026 Voter Guide and Endorsements (Aug. 19, 2026)",
+      "publisher": "Colorado AFL-CIO",
+      "url": "https://coaflcio.org/press-releases/colorado-afl-cio-2026-voter-guide-and-endorsements",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-ppvc-2026",
+      "title": "Planned Parenthood Votes Colorado Announces Full 2026 General Election Endorsement Slate (Aug. 14, 2026)",
+      "publisher": "Planned Parenthood Votes Colorado",
+      "url": "https://www.plannedparenthoodaction.org/planned-parenthood-votes-colorado/blog-copy-2/planned-parenthood-votes-colorado-announces-full-2026-endorsement-slate",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-concol-2026",
+      "title": "Endorsements (2026 Endorsed Candidates)",
+      "publisher": "Conservation Colorado",
+      "url": "https://conservationco.org/endorsements/",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-cobalt-2026",
+      "title": "Endorsements",
+      "publisher": "Cobalt Advocates",
+      "url": "https://cobaltadvocates.org/endorsements/",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-cochamber-2026",
+      "title": "Colorado Chamber Announces General Election Endorsements (July 10, 2026)",
+      "publisher": "Colorado Chamber of Commerce",
+      "url": "https://cochamber.com/2026/07/10/colorado-chamber-announces-general-election-endorsements/",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-onecolorado-2026",
+      "title": "Endorsements (One Colorado PAC)",
+      "publisher": "One Colorado",
+      "url": "https://www.one-colorado.org/endorsements-c4",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-cea-2026",
+      "title": "Colorado Education Association Announces Recommendations for 2026 General Election (Sept. 22, 2026)",
+      "publisher": "Colorado Education Association",
+      "url": "https://coloradoea.org/news-updates/colorado-education-association-announces-recommendations-for-2026-general-election/",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-seiu-2026",
+      "title": "2026 Election Voter Guide",
+      "publisher": "SEIU Local 105",
+      "url": "https://www.seiu105.org/vote/",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-cowins-2026",
+      "title": "Our Endorsements",
+      "publisher": "Colorado WINS",
+      "url": "https://coloradowins.org/endorsements/",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-ufcw7-2026",
+      "title": "2026 Political Endorsements",
+      "publisher": "UFCW Local 7",
+      "url": "https://www.ufcw7.org/2026-political-endorsements",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-victoryfund-feb2026",
+      "title": "LGBTQ+ Victory Fund endorses 43 new candidates in February for 2026 campaigns (Feb. 26, 2026)",
+      "publisher": "LGBTQ+ Victory Fund",
+      "url": "https://victoryfund.org/news/lgbtq-victory-fund-endorses-43-new-candidates-for-2026-campaigns/",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-rmeq-2026",
+      "title": "2026 Questionnaire Answers from Endorsed State Senate and State House Candidates",
+      "publisher": "Rocky Mountain Equality (RMEQ Action Fund)",
+      "url": "https://www.rmequality.org/post/2026-questionnaire-answers-from-endorsed-state-senate-and-state-house-candidates",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-lwvjeffco-guide",
+      "title": "Jefferson County Election Guide",
+      "publisher": "League of Women Voters of Jefferson County",
+      "url": "https://lwvjeffco.org/content.aspx?page_id=22&club_id=213577&module_id=565117",
+      "retrieved_on": "2026-10-09"
+    }
+  ],
+  "people": [
+    {
+      "name": "Richard (Rich) Mancuso",
+      "contest_id": "sd-20",
+      "aka": [
+        "Rich Mancuso",
+        "Richard Mancuso"
+      ],
+      "bio": "Republican candidate for Colorado Senate District 20. His campaign says he is a U.S. Army veteran who served as a combat medic, worked in financial services, taught American history at D'Evelyn Junior/Senior High School, and has chaired the Jefferson County Liquor Board.",
+      "bio_sources": [
+        "src-sos-general-candidates",
+        "src-mancuso-site"
+      ],
+      "website": "https://www.mancusoforcolorado.com/",
+      "website_sources": [
+        "src-mancuso-site",
+        "src-jeffco-gop-2026",
+        "src-co-informed"
+      ],
+      "endorsements": [],
+      "answers": [],
+      "finance": [
+        {
+          "committee": "Mancuso for Colorado",
+          "filer": "TRACER",
+          "report": "TRACER Quick Stats, Colorado Senate Districts - 11/03/2026 Election (report footer dated 9/22/2026)",
+          "period_end": null,
+          "raised_total": 11716.0,
+          "spent_total": 6492.45,
+          "cash_on_hand": null,
+          "notes": "Quick Stats lists only contributions and expenditures under the name RICHARD MANCUSO; committee name is from the campaign site's paid-for-by line, not confirmed on a TRACER candidate page.",
+          "sources": [
+            "src-tracer-qs-senate",
+            "src-mancuso-site"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Sheila Lieder",
+      "contest_id": "sd-20",
+      "aka": [],
+      "bio": "Democratic state representative for House District 28 since January 2023, elected in 2022 and re-elected in 2024; she is running for the Senate District 20 seat held by Sen. Lisa Cutter, who is not seeking re-election. Ballotpedia lists a career in the telecom industry and work as legislative and political director for the Communications Workers of America in Colorado and Wyoming.",
+      "bio_sources": [
+        "src-wiki-lieder",
+        "src-ballotpedia-lieder",
+        "src-wiki-2026-co-senate"
+      ],
+      "website": "https://www.liederforcolorado.com/",
+      "website_sources": [
+        "src-tracer-lieder",
+        "src-co-informed"
+      ],
+      "endorsements": [
+        {
+          "endorser": "Colorado AFL-CIO",
+          "kind": "organization",
+          "title": null,
+          "provenance": "endorser_statement",
+          "sources": [
+            "src-aflcio-2026"
+          ]
+        },
+        {
+          "endorser": "Planned Parenthood Votes Colorado",
+          "kind": "organization",
+          "title": null,
+          "provenance": "endorser_statement",
+          "sources": [
+            "src-ppvc-2026"
+          ]
+        },
+        {
+          "endorser": "Conservation Colorado",
+          "kind": "organization",
+          "title": null,
+          "provenance": "endorser_statement",
+          "sources": [
+            "src-concol-2026"
+          ]
+        },
+        {
+          "endorser": "Cobalt Advocates",
+          "kind": "organization",
+          "title": null,
+          "provenance": "endorser_statement",
+          "sources": [
+            "src-cobalt-2026"
+          ]
+        },
+        {
+          "endorser": "One Colorado PAC",
+          "kind": "organization",
+          "title": null,
+          "provenance": "endorser_statement",
+          "sources": [
+            "src-onecolorado-2026"
+          ]
+        },
+        {
+          "endorser": "Colorado Education Association",
+          "kind": "organization",
+          "title": null,
+          "provenance": "endorser_statement",
+          "sources": [
+            "src-cea-2026"
+          ]
+        },
+        {
+          "endorser": "SEIU Local 105 (SEIU Colorado voter guide)",
+          "kind": "organization",
+          "title": null,
+          "provenance": "endorser_statement",
+          "sources": [
+            "src-seiu-2026"
+          ]
+        },
+        {
+          "endorser": "UFCW Local 7",
+          "kind": "organization",
+          "title": null,
+          "provenance": "endorser_statement",
+          "sources": [
+            "src-ufcw7-2026"
+          ]
+        },
+        {
+          "endorser": "Colorado WINS",
+          "kind": "organization",
+          "title": null,
+          "provenance": "endorser_statement",
+          "sources": [
+            "src-cowins-2026"
+          ]
+        }
+      ],
+      "answers": [],
+      "finance": [
+        {
+          "committee": "LIEDER FOR COLORADO",
+          "filer": "TRACER",
+          "report": "September 8, 2026 - Report of Contributions and Expenditures",
+          "period_end": "2026-09-02",
+          "raised_total": 108765.21,
+          "spent_total": 26056.2,
+          "cash_on_hand": 82709.01,
+          "notes": "TRACER summary for the 2026 State Candidate 4 Year cycle (12/9/2022 - 12/3/2026); beginning balance $0.00, so totals are cycle-to-date. Page showed data current as of September 8, 2026.",
+          "sources": [
+            "src-tracer-lieder"
+          ]
+        },
+        {
+          "committee": "LIEDER FOR COLORADO",
+          "filer": "TRACER",
+          "report": "TRACER Quick Stats, Colorado Senate Districts - 11/03/2026 Election (report footer dated 9/22/2026)",
+          "period_end": null,
+          "raised_total": 114840.21,
+          "spent_total": 29010.43,
+          "cash_on_hand": null,
+          "notes": "Later Quick Stats summary; lists contributions and expenditures only.",
+          "sources": [
+            "src-tracer-qs-senate"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Steve Harkess",
+      "contest_id": "sd-22",
+      "aka": [
+        "Stephen Harkess"
+      ],
+      "bio": "Republican candidate for Colorado Senate District 22. His campaign website gives no biographical details.",
+      "bio_sources": [
+        "src-sos-general-candidates",
+        "src-harkess-site"
+      ],
+      "website": "https://steve4colorado.us/",
+      "website_sources": [
+        "src-harkess-site",
+        "src-jeffco-gop-2026",
+        "src-goodparty-harkess"
+      ],
+      "endorsements": [],
+      "answers": [],
+      "finance": [
+        {
+          "committee": "STEPHEN HARKESS (committee name not confirmed)",
+          "filer": "TRACER",
+          "report": "TRACER Quick Stats, Colorado Senate Districts - 11/03/2026 Election (report footer dated 9/22/2026)",
+          "period_end": null,
+          "raised_total": 350.0,
+          "spent_total": 213.68,
+          "cash_on_hand": null,
+          "notes": "Quick Stats lists the filer as STEPHEN HARKESS; the TRACER candidate detail page could not be located, so the committee name is unconfirmed.",
+          "sources": [
+            "src-tracer-qs-senate"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Monica Irasema Duran",
+      "contest_id": "sd-22",
+      "aka": [
+        "Monica Duran"
+      ],
+      "bio": "Democratic state representative since 2019, for House District 24 (2019-2023) and House District 23 (2023-present), and House Majority Leader since 2023; she is term-limited in the House and running for the Senate District 22 seat held by term-limited Sen. Jessie Danielson. She previously served on the Wheat Ridge City Council and worked in the dental industry for more than 30 years.",
+      "bio_sources": [
+        "src-wiki-duran",
+        "src-duran-meet",
+        "src-wiki-2026-co-senate",
+        "src-wiki-2026-co-house"
+      ],
+      "website": "https://www.monicaduran.com/",
+      "website_sources": [
+        "src-duran-site",
+        "src-co-informed"
+      ],
+      "endorsements": [
+        {
+          "endorser": "Planned Parenthood Votes Colorado",
+          "kind": "organization",
+          "title": null,
+          "provenance": "endorser_statement",
+          "sources": [
+            "src-ppvc-2026"
+          ]
+        },
+        {
+          "endorser": "One Colorado PAC",
+          "kind": "organization",
+          "title": null,
+          "provenance": "endorser_statement",
+          "sources": [
+            "src-onecolorado-2026"
+          ]
+        },
+        {
+          "endorser": "Colorado Chamber PAC",
+          "kind": "organization",
+          "title": null,
+          "provenance": "endorser_statement",
+          "sources": [
+            "src-cochamber-2026"
+          ]
+        },
+        {
+          "endorser": "SEIU Local 105 (SEIU Colorado voter guide)",
+          "kind": "organization",
+          "title": null,
+          "provenance": "endorser_statement",
+          "sources": [
+            "src-seiu-2026"
+          ]
+        },
+        {
+          "endorser": "Colorado WINS",
+          "kind": "organization",
+          "title": null,
+          "provenance": "endorser_statement",
+          "sources": [
+            "src-cowins-2026"
+          ]
+        },
+        {
+          "endorser": "Sen. Jeff Bridges",
+          "kind": "elected",
+          "title": null,
+          "provenance": "campaign_claim",
+          "sources": [
+            "src-duran-endorsements"
+          ]
+        },
+        {
+          "endorser": "Sen. Robert Rodriguez",
+          "kind": "elected",
+          "title": null,
+          "provenance": "campaign_claim",
+          "sources": [
+            "src-duran-endorsements"
+          ]
+        },
+        {
+          "endorser": "Sen. Dafna Michaelson Jenet",
+          "kind": "elected",
+          "title": null,
+          "provenance": "campaign_claim",
+          "sources": [
+            "src-duran-endorsements"
+          ]
+        },
+        {
+          "endorser": "Sen. Dylan Roberts",
+          "kind": "elected",
+          "title": null,
+          "provenance": "campaign_claim",
+          "sources": [
+            "src-duran-endorsements"
+          ]
+        },
+        {
+          "endorser": "Sen. Chris Kolker",
+          "kind": "elected",
+          "title": null,
+          "provenance": "campaign_claim",
+          "sources": [
+            "src-duran-endorsements"
+          ]
+        },
+        {
+          "endorser": "Sen. Jessie Danielson",
+          "kind": "elected",
+          "title": null,
+          "provenance": "campaign_claim",
+          "sources": [
+            "src-duran-endorsements"
+          ]
+        },
+        {
+          "endorser": "Sen. Lisa Cutter",
+          "kind": "elected",
+          "title": null,
+          "provenance": "campaign_claim",
+          "sources": [
+            "src-duran-endorsements"
+          ]
+        },
+        {
+          "endorser": "Sen. Kyle Mullica",
+          "kind": "elected",
+          "title": null,
+          "provenance": "campaign_claim",
+          "sources": [
+            "src-duran-endorsements"
+          ]
+        },
+        {
+          "endorser": "Sen. Cathy Kipp",
+          "kind": "elected",
+          "title": null,
+          "provenance": "campaign_claim",
+          "sources": [
+            "src-duran-endorsements"
+          ]
+        },
+        {
+          "endorser": "Sen. Judy Amabile",
+          "kind": "elected",
+          "title": null,
+          "provenance": "campaign_claim",
+          "sources": [
+            "src-duran-endorsements"
+          ]
+        },
+        {
+          "endorser": "Sen. Lindsey Daugherty",
+          "kind": "elected",
+          "title": null,
+          "provenance": "campaign_claim",
+          "sources": [
+            "src-duran-endorsements"
+          ]
+        },
+        {
+          "endorser": "Sen. Marc Synder",
+          "kind": "elected",
+          "title": null,
+          "provenance": "campaign_claim",
+          "sources": [
+            "src-duran-endorsements"
+          ]
+        },
+        {
+          "endorser": "Sen. Iman Jodeh",
+          "kind": "elected",
+          "title": null,
+          "provenance": "campaign_claim",
+          "sources": [
+            "src-duran-endorsements"
+          ]
+        },
+        {
+          "endorser": "Rep. Andrew Boesenecker",
+          "kind": "elected",
+          "title": null,
+          "provenance": "campaign_claim",
+          "sources": [
+            "src-duran-endorsements"
+          ]
+        },
+        {
+          "endorser": "Rep. Chad Clifford",
+          "kind": "elected",
+          "title": null,
+          "provenance": "campaign_claim",
+          "sources": [
+            "src-duran-endorsements"
+          ]
+        },
+        {
+          "endorser": "Rep. Elizabeth Velasco",
+          "kind": "elected",
+          "title": null,
+          "provenance": "campaign_claim",
+          "sources": [
+            "src-duran-endorsements"
+          ]
+        },
+        {
+          "endorser": "Rep. Javier Mabrey",
+          "kind": "elected",
+          "title": null,
+          "provenance": "campaign_claim",
+          "sources": [
+            "src-duran-endorsements"
+          ]
+        },
+        {
+          "endorser": "Rep. Jenny Willford",
+          "kind": "elected",
+          "title": null,
+          "provenance": "campaign_claim",
+          "sources": [
+            "src-duran-endorsements"
+          ]
+        },
+        {
+          "endorser": "Rep. Kyle Brown",
+          "kind": "elected",
+          "title": null,
+          "provenance": "campaign_claim",
+          "sources": [
+            "src-duran-endorsements"
+          ]
+        },
+        {
+          "endorser": "Rep. Mandy Lindsay",
+          "kind": "elected",
+          "title": null,
+          "provenance": "campaign_claim",
+          "sources": [
+            "src-duran-endorsements"
+          ]
+        },
+        {
+          "endorser": "Rep. Matthew Martinez",
+          "kind": "elected",
+          "title": null,
+          "provenance": "campaign_claim",
+          "sources": [
+            "src-duran-endorsements"
+          ]
+        },
+        {
+          "endorser": "Rep. Meg Froelich",
+          "kind": "elected",
+          "title": null,
+          "provenance": "campaign_claim",
+          "sources": [
+            "src-duran-endorsements"
+          ]
+        },
+        {
+          "endorser": "Rep. Meghan Lukens",
+          "kind": "elected",
+          "title": null,
+          "provenance": "campaign_claim",
+          "sources": [
+            "src-duran-endorsements"
+          ]
+        },
+        {
+          "endorser": "Rep. Sean Camacho",
+          "kind": "elected",
+          "title": null,
+          "provenance": "campaign_claim",
+          "sources": [
+            "src-duran-endorsements"
+          ]
+        },
+        {
+          "endorser": "Rep. Naquetta Ricks",
+          "kind": "elected",
+          "title": null,
+          "provenance": "campaign_claim",
+          "sources": [
+            "src-duran-endorsements"
+          ]
+        },
+        {
+          "endorser": "Rep. Shannon Bird",
+          "kind": "elected",
+          "title": null,
+          "provenance": "campaign_claim",
+          "sources": [
+            "src-duran-endorsements"
+          ]
+        },
+        {
+          "endorser": "Rep. Sheila Lieder",
+          "kind": "elected",
+          "title": null,
+          "provenance": "campaign_claim",
+          "sources": [
+            "src-duran-endorsements"
+          ]
+        },
+        {
+          "endorser": "Rep. Tammy Story",
+          "kind": "elected",
+          "title": null,
+          "provenance": "campaign_claim",
+          "sources": [
+            "src-duran-endorsements"
+          ]
+        },
+        {
+          "endorser": "Rep. Tisha Mauro",
+          "kind": "elected",
+          "title": null,
+          "provenance": "campaign_claim",
+          "sources": [
+            "src-duran-endorsements"
+          ]
+        },
+        {
+          "endorser": "Rep. William Lindstedt",
+          "kind": "elected",
+          "title": null,
+          "provenance": "campaign_claim",
+          "sources": [
+            "src-duran-endorsements"
+          ]
+        },
+        {
+          "endorser": "Rep. Brianna Titone",
+          "kind": "elected",
+          "title": null,
+          "provenance": "campaign_claim",
+          "sources": [
+            "src-duran-endorsements"
+          ]
+        },
+        {
+          "endorser": "Rep. Dr. Regina English",
+          "kind": "elected",
+          "title": null,
+          "provenance": "campaign_claim",
+          "sources": [
+            "src-duran-endorsements"
+          ]
+        },
+        {
+          "endorser": "Rep. Lisa Feret",
+          "kind": "elected",
+          "title": null,
+          "provenance": "campaign_claim",
+          "sources": [
+            "src-duran-endorsements"
+          ]
+        },
+        {
+          "endorser": "Rep. Rebekah Stewart",
+          "kind": "elected",
+          "title": null,
+          "provenance": "campaign_claim",
+          "sources": [
+            "src-duran-endorsements"
+          ]
+        },
+        {
+          "endorser": "Rep. Steven Woodrow",
+          "kind": "elected",
+          "title": null,
+          "provenance": "campaign_claim",
+          "sources": [
+            "src-duran-endorsements"
+          ]
+        },
+        {
+          "endorser": "Rep. Cecelia Espenoza",
+          "kind": "elected",
+          "title": null,
+          "provenance": "campaign_claim",
+          "sources": [
+            "src-duran-endorsements"
+          ]
+        },
+        {
+          "endorser": "Rep. Michael Carter",
+          "kind": "elected",
+          "title": null,
+          "provenance": "campaign_claim",
+          "sources": [
+            "src-duran-endorsements"
+          ]
+        },
+        {
+          "endorser": "Rep. Leslie Smith",
+          "kind": "elected",
+          "title": null,
+          "provenance": "campaign_claim",
+          "sources": [
+            "src-duran-endorsements"
+          ]
+        },
+        {
+          "endorser": "Rep. Jacque Phillips",
+          "kind": "elected",
+          "title": null,
+          "provenance": "campaign_claim",
+          "sources": [
+            "src-duran-endorsements"
+          ]
+        },
+        {
+          "endorser": "Rep. Emily Sirota",
+          "kind": "elected",
+          "title": null,
+          "provenance": "campaign_claim",
+          "sources": [
+            "src-duran-endorsements"
+          ]
+        },
+        {
+          "endorser": "Rep. Gretchen Rydin",
+          "kind": "elected",
+          "title": null,
+          "provenance": "campaign_claim",
+          "sources": [
+            "src-duran-endorsements"
+          ]
+        },
+        {
+          "endorser": "Rep. Katie Stewart",
+          "kind": "elected",
+          "title": null,
+          "provenance": "campaign_claim",
+          "sources": [
+            "src-duran-endorsements"
+          ]
+        },
+        {
+          "endorser": "Rep. Alex Valdez",
+          "kind": "elected",
+          "title": null,
+          "provenance": "campaign_claim",
+          "sources": [
+            "src-duran-endorsements"
+          ]
+        },
+        {
+          "endorser": "Rep. Amy Paschal",
+          "kind": "elected",
+          "title": null,
+          "provenance": "campaign_claim",
+          "sources": [
+            "src-duran-endorsements"
+          ]
+        },
+        {
+          "endorser": "Rep. Karen McCormick",
+          "kind": "elected",
+          "title": null,
+          "provenance": "campaign_claim",
+          "sources": [
+            "src-duran-endorsements"
+          ]
+        },
+        {
+          "endorser": "Rep. Jamie Jackson",
+          "kind": "elected",
+          "title": null,
+          "provenance": "campaign_claim",
+          "sources": [
+            "src-duran-endorsements"
+          ]
+        },
+        {
+          "endorser": "Rep. Eliza Hamrick",
+          "kind": "elected",
+          "title": null,
+          "provenance": "campaign_claim",
+          "sources": [
+            "src-duran-endorsements"
+          ]
+        },
+        {
+          "endorser": "Rep. Lindsay Gilchrist",
+          "kind": "elected",
+          "title": null,
+          "provenance": "campaign_claim",
+          "sources": [
+            "src-duran-endorsements"
+          ]
+        },
+        {
+          "endorser": "Rep. Yara Zokaie",
+          "kind": "elected",
+          "title": null,
+          "provenance": "campaign_claim",
+          "sources": [
+            "src-duran-endorsements"
+          ]
+        },
+        {
+          "endorser": "Andy Kerr",
+          "kind": "elected",
+          "title": "Jefferson County Commissioner",
+          "provenance": "campaign_claim",
+          "sources": [
+            "src-duran-endorsements"
+          ]
+        },
+        {
+          "endorser": "Lesley Dahlkemper",
+          "kind": "elected",
+          "title": "Jefferson County Commissioner",
+          "provenance": "campaign_claim",
+          "sources": [
+            "src-duran-endorsements"
+          ]
+        },
+        {
+          "endorser": "Tracy Kraft-Tharp",
+          "kind": "elected",
+          "title": "Jefferson County Commissioner",
+          "provenance": "campaign_claim",
+          "sources": [
+            "src-duran-endorsements"
+          ]
+        },
+        {
+          "endorser": "Rachel Zenzinger",
+          "kind": "elected",
+          "title": "Jefferson County Commissioner-Elect",
+          "provenance": "campaign_claim",
+          "sources": [
+            "src-duran-endorsements"
+          ]
+        },
+        {
+          "endorser": "Dr. Annette Cannon",
+          "kind": "elected",
+          "title": "Jefferson County Coroner",
+          "provenance": "campaign_claim",
+          "sources": [
+            "src-duran-endorsements"
+          ]
+        },
+        {
+          "endorser": "Jerry DiTullio",
+          "kind": "elected",
+          "title": "Jefferson County Treasurer",
+          "provenance": "campaign_claim",
+          "sources": [
+            "src-duran-endorsements"
+          ]
+        },
+        {
+          "endorser": "Bud Starker",
+          "kind": "elected",
+          "title": "Mayor of Wheat Ridge",
+          "provenance": "campaign_claim",
+          "sources": [
+            "src-duran-endorsements"
+          ]
+        },
+        {
+          "endorser": "Wendi Strom",
+          "kind": "elected",
+          "title": "Mayor of Lakewood",
+          "provenance": "campaign_claim",
+          "sources": [
+            "src-duran-endorsements"
+          ]
+        },
+        {
+          "endorser": "David Rein",
+          "kind": "elected",
+          "title": "Lakewood City Councilor",
+          "provenance": "campaign_claim",
+          "sources": [
+            "src-duran-endorsements"
+          ]
+        },
+        {
+          "endorser": "Glenda Sinks",
+          "kind": "elected",
+          "title": "Lakewood City Councilor",
+          "provenance": "campaign_claim",
+          "sources": [
+            "src-duran-endorsements"
+          ]
+        },
+        {
+          "endorser": "Isabel Cruz",
+          "kind": "elected",
+          "title": "Lakewood City Councilor",
+          "provenance": "campaign_claim",
+          "sources": [
+            "src-duran-endorsements"
+          ]
+        },
+        {
+          "endorser": "Jacob LaBure",
+          "kind": "elected",
+          "title": "Lakewood City Councilor",
+          "provenance": "campaign_claim",
+          "sources": [
+            "src-duran-endorsements"
+          ]
+        },
+        {
+          "endorser": "Jeslin Shahrezaei",
+          "kind": "elected",
+          "title": "Lakewood City Councilor",
+          "provenance": "campaign_claim",
+          "sources": [
+            "src-duran-endorsements"
+          ]
+        },
+        {
+          "endorser": "Roger Low",
+          "kind": "elected",
+          "title": "Lakewood City Councilor",
+          "provenance": "campaign_claim",
+          "sources": [
+            "src-duran-endorsements"
+          ]
+        },
+        {
+          "endorser": "Sophia Mayott-Guerrero",
+          "kind": "elected",
+          "title": "Lakewood City Councilor",
+          "provenance": "campaign_claim",
+          "sources": [
+            "src-duran-endorsements"
+          ]
+        },
+        {
+          "endorser": "Hannah Gay Keao",
+          "kind": "elected",
+          "title": "Edgewater City Council",
+          "provenance": "campaign_claim",
+          "sources": [
+            "src-duran-endorsements"
+          ]
+        },
+        {
+          "endorser": "Former Sen. Betty Boyd",
+          "kind": "former_elected",
+          "title": null,
+          "provenance": "campaign_claim",
+          "sources": [
+            "src-duran-endorsements"
+          ]
+        },
+        {
+          "endorser": "Former Rep. Stephanie Vigil",
+          "kind": "former_elected",
+          "title": null,
+          "provenance": "campaign_claim",
+          "sources": [
+            "src-duran-endorsements"
+          ]
+        }
+      ],
+      "answers": [],
+      "finance": [
+        {
+          "committee": "Duran for Colorado",
+          "filer": "TRACER",
+          "report": "TRACER Quick Stats, Colorado Senate Districts - 11/03/2026 Election (report footer dated 9/22/2026)",
+          "period_end": null,
+          "raised_total": 108130.65,
+          "spent_total": 67534.1,
+          "cash_on_hand": null,
+          "notes": "Quick Stats lists the filer as MONICA IRASEMA DURAN with contributions and expenditures only; committee name is from the campaign site's paid-for-by line, not confirmed on a TRACER candidate page. The campaign site also names a separate Monica PAC.",
+          "sources": [
+            "src-tracer-qs-senate",
+            "src-duran-site"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Alexis Hoffkling",
+      "contest_id": "hd-23",
+      "aka": [
+        "Dr. Alexis Hoffkling"
+      ],
+      "bio": "Democratic candidate for the open House District 23 seat, which term-limited Rep. Monica Duran is leaving. Her campaign says she is a family doctor at a community health center that is part of Denver Health, teaches medical students and residents, and lives in Wheat Ridge.",
+      "bio_sources": [
+        "src-hoffkling-site",
+        "src-wiki-2026-co-house",
+        "src-sos-general-candidates"
+      ],
+      "website": "https://www.alexisforcolorado.com/",
+      "website_sources": [
+        "src-hoffkling-site",
+        "src-co-informed"
+      ],
+      "endorsements": [
+        {
+          "endorser": "Colorado AFL-CIO",
+          "kind": "organization",
+          "title": null,
+          "provenance": "endorser_statement",
+          "sources": [
+            "src-aflcio-2026"
+          ]
+        },
+        {
+          "endorser": "Planned Parenthood Votes Colorado",
+          "kind": "organization",
+          "title": null,
+          "provenance": "endorser_statement",
+          "sources": [
+            "src-ppvc-2026"
+          ]
+        },
+        {
+          "endorser": "Conservation Colorado",
+          "kind": "organization",
+          "title": null,
+          "provenance": "endorser_statement",
+          "sources": [
+            "src-concol-2026"
+          ]
+        },
+        {
+          "endorser": "Cobalt Advocates",
+          "kind": "organization",
+          "title": null,
+          "provenance": "endorser_statement",
+          "sources": [
+            "src-cobalt-2026"
+          ]
+        },
+        {
+          "endorser": "Colorado Chamber PAC",
+          "kind": "organization",
+          "title": null,
+          "provenance": "endorser_statement",
+          "sources": [
+            "src-cochamber-2026"
+          ]
+        },
+        {
+          "endorser": "Colorado Education Association",
+          "kind": "organization",
+          "title": null,
+          "provenance": "endorser_statement",
+          "sources": [
+            "src-cea-2026"
+          ]
+        },
+        {
+          "endorser": "SEIU Local 105 (SEIU Colorado voter guide)",
+          "kind": "organization",
+          "title": null,
+          "provenance": "endorser_statement",
+          "sources": [
+            "src-seiu-2026"
+          ]
+        },
+        {
+          "endorser": "Colorado WINS",
+          "kind": "organization",
+          "title": null,
+          "provenance": "endorser_statement",
+          "sources": [
+            "src-cowins-2026"
+          ]
+        },
+        {
+          "endorser": "LGBTQ+ Victory Fund",
+          "kind": "organization",
+          "title": null,
+          "provenance": "endorser_statement",
+          "sources": [
+            "src-victoryfund-feb2026"
+          ]
+        },
+        {
+          "endorser": "RMEQ Action Fund",
+          "kind": "organization",
+          "title": null,
+          "provenance": "endorser_statement",
+          "sources": [
+            "src-rmeq-2026"
+          ]
+        },
+        {
+          "endorser": "One Colorado PAC",
+          "kind": "organization",
+          "title": null,
+          "provenance": "endorser_statement",
+          "sources": [
+            "src-onecolorado-2026"
+          ]
+        }
+      ],
+      "answers": [],
+      "finance": [
+        {
+          "committee": "Alexis for Colorado",
+          "filer": "TRACER",
+          "report": "TRACER Quick Stats, Colorado House Districts - 11/03/2026 Election (report footer dated 10/5/2026)",
+          "period_end": null,
+          "raised_total": 120269.52,
+          "spent_total": 54201.68,
+          "cash_on_hand": null,
+          "notes": "Quick Stats lists contributions and expenditures only; committee name is from the campaign site's paid-for-by line, not confirmed on a TRACER candidate page. The campaign site also links a separate leadership PAC.",
+          "sources": [
+            "src-tracer-qs-house",
+            "src-hoffkling-site"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Ross Metler",
+      "contest_id": "hd-23",
+      "aka": [],
+      "bio": "Libertarian candidate for House District 23. His campaign says he is a software developer and data analyst who lives in Wheat Ridge, chairs the Jefferson County affiliate of the Libertarian Party of Colorado and serves as the state party's legislative director.",
+      "bio_sources": [
+        "src-metler-site",
+        "src-metler-about",
+        "src-sos-general-candidates"
+      ],
+      "website": "https://ross4co.com/",
+      "website_sources": [
+        "src-metler-site",
+        "src-jeffco-gop-2026"
+      ],
+      "endorsements": [],
+      "answers": [],
+      "finance": [
+        {
+          "committee": "Ross Metler for Colorado House District 23",
+          "filer": "TRACER",
+          "report": "TRACER Quick Stats, Colorado House Districts - 11/03/2026 Election (report footer dated 10/5/2026)",
+          "period_end": null,
+          "raised_total": 2980.3,
+          "spent_total": 2018.19,
+          "cash_on_hand": null,
+          "notes": "Quick Stats lists contributions and expenditures only; committee name is from the campaign site's paid-for-by line, not confirmed on a TRACER candidate page.",
+          "sources": [
+            "src-tracer-qs-house",
+            "src-metler-site"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "David Rein",
+      "contest_id": "hd-28",
+      "aka": [
+        "Dave Rein",
+        "David L. Rein Jr."
+      ],
+      "bio": "Democratic candidate for House District 28, the seat Rep. Sheila Lieder is leaving to run for the state Senate. He is the Lakewood City Council member for Ward 4, first elected in November 2023, and a lawyer; he previously served six years on the Lakewood Advisory Commission.",
+      "bio_sources": [
+        "src-lakewood-rein",
+        "src-rein-meet",
+        "src-wiki-2026-co-house",
+        "src-sos-general-candidates"
+      ],
+      "website": "https://www.reinforcolorado.com/",
+      "website_sources": [
+        "src-rein-site",
+        "src-tracer-rein",
+        "src-co-informed"
+      ],
+      "endorsements": [
+        {
+          "endorser": "Colorado AFL-CIO",
+          "kind": "organization",
+          "title": null,
+          "provenance": "endorser_statement",
+          "sources": [
+            "src-aflcio-2026"
+          ]
+        },
+        {
+          "endorser": "Planned Parenthood Votes Colorado",
+          "kind": "organization",
+          "title": null,
+          "provenance": "endorser_statement",
+          "sources": [
+            "src-ppvc-2026"
+          ]
+        },
+        {
+          "endorser": "Cobalt Advocates",
+          "kind": "organization",
+          "title": null,
+          "provenance": "endorser_statement",
+          "sources": [
+            "src-cobalt-2026"
+          ]
+        },
+        {
+          "endorser": "Colorado Chamber PAC",
+          "kind": "organization",
+          "title": null,
+          "provenance": "endorser_statement",
+          "sources": [
+            "src-cochamber-2026"
+          ]
+        },
+        {
+          "endorser": "Colorado Education Association",
+          "kind": "organization",
+          "title": null,
+          "provenance": "endorser_statement",
+          "sources": [
+            "src-cea-2026"
+          ]
+        },
+        {
+          "endorser": "SEIU Local 105 (SEIU Colorado voter guide)",
+          "kind": "organization",
+          "title": null,
+          "provenance": "endorser_statement",
+          "sources": [
+            "src-seiu-2026"
+          ]
+        },
+        {
+          "endorser": "Colorado WINS",
+          "kind": "organization",
+          "title": null,
+          "provenance": "endorser_statement",
+          "sources": [
+            "src-cowins-2026"
+          ]
+        },
+        {
+          "endorser": "One Colorado PAC",
+          "kind": "organization",
+          "title": null,
+          "provenance": "endorser_statement",
+          "sources": [
+            "src-onecolorado-2026"
+          ]
+        }
+      ],
+      "answers": [],
+      "finance": [
+        {
+          "committee": "REIN FOR COLORADO",
+          "filer": "TRACER",
+          "report": "October 6, 2026 - Report of Contributions and Expenditures",
+          "period_end": "2026-09-30",
+          "raised_total": 54205.73,
+          "spent_total": 4972.28,
+          "cash_on_hand": 51733.45,
+          "notes": "TRACER summary for the 2026 State Candidate 2 Year cycle (12/6/2024 - 12/3/2026); beginning balance $0.00, so totals are cycle-to-date. Also $2,500.00 in loans received and $423.00 in non-monetary contributions. Data current as of October 6, 2026.",
+          "sources": [
+            "src-tracer-rein"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Rebekah Stewart",
+      "contest_id": "hd-30",
+      "aka": [],
+      "bio": "Democratic state representative for House District 30 since January 2025 (elected 2024), running for re-election. She is a board-certified music therapist and a former member of the Lakewood City Council.",
+      "bio_sources": [
+        "src-wiki-stewart",
+        "src-wiki-2026-co-house",
+        "src-sos-general-candidates"
+      ],
+      "website": "https://rebekahforcolorado.com/",
+      "website_sources": [
+        "src-co-informed"
+      ],
+      "endorsements": [
+        {
+          "endorser": "Planned Parenthood Votes Colorado",
+          "kind": "organization",
+          "title": null,
+          "provenance": "endorser_statement",
+          "sources": [
+            "src-ppvc-2026"
+          ]
+        },
+        {
+          "endorser": "Conservation Colorado",
+          "kind": "organization",
+          "title": null,
+          "provenance": "endorser_statement",
+          "sources": [
+            "src-concol-2026"
+          ]
+        },
+        {
+          "endorser": "Cobalt Advocates",
+          "kind": "organization",
+          "title": null,
+          "provenance": "endorser_statement",
+          "sources": [
+            "src-cobalt-2026"
+          ]
+        },
+        {
+          "endorser": "Colorado Chamber PAC",
+          "kind": "organization",
+          "title": null,
+          "provenance": "endorser_statement",
+          "sources": [
+            "src-cochamber-2026"
+          ]
+        },
+        {
+          "endorser": "Colorado Education Association",
+          "kind": "organization",
+          "title": null,
+          "provenance": "endorser_statement",
+          "sources": [
+            "src-cea-2026"
+          ]
+        },
+        {
+          "endorser": "One Colorado PAC",
+          "kind": "organization",
+          "title": null,
+          "provenance": "endorser_statement",
+          "sources": [
+            "src-onecolorado-2026"
+          ]
+        }
+      ],
+      "answers": [],
+      "finance": [
+        {
+          "committee": "Rebekah Stewart for Colorado",
+          "filer": "TRACER",
+          "report": "September 21, 2026 - Report of Contributions and Expenditures",
+          "period_end": "2026-09-16",
+          "raised_total": 63932.0,
+          "spent_total": 41479.85,
+          "cash_on_hand": 54303.7,
+          "notes": "TRACER summary for the 2026 State Candidate 2 Year cycle (12/6/2024 - 12/3/2026); committee beginning balance $31,851.55 carried into the cycle, totals are cycle-to-date. Data current as of September 21, 2026; the House Quick Stats dated 10/5/2026 shows the same contribution and expenditure totals.",
+          "sources": [
+            "src-tracer-stewart",
+            "src-tracer-qs-house"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "William Tyler Switzer",
+      "contest_id": "hd-30",
+      "aka": [
+        "William Switzer",
+        "Tyler Switzer"
+      ],
+      "bio": "Republican candidate for House District 30. His campaign says he lives in Lakewood, holds a master's degree in public policy and has worked in business, including startups; it lists no prior elected office.",
+      "bio_sources": [
+        "src-switzer-meet",
+        "src-switzer-site",
+        "src-sos-general-candidates"
+      ],
+      "website": "https://www.williamswitzerforcolorado.com/",
+      "website_sources": [
+        "src-switzer-site",
+        "src-jeffco-gop-2026",
+        "src-co-informed"
+      ],
+      "endorsements": [],
+      "answers": [],
+      "finance": [
+        {
+          "committee": "Committee to Elect William Switzer",
+          "filer": "TRACER",
+          "report": "TRACER Quick Stats, Colorado House Districts - 11/03/2026 Election (report footer dated 10/5/2026)",
+          "period_end": null,
+          "raised_total": 4792.84,
+          "spent_total": 737.34,
+          "cash_on_hand": null,
+          "notes": "Quick Stats lists contributions and expenditures only; committee name is from the campaign site's paid-for-by line, not confirmed on a TRACER candidate page.",
+          "sources": [
+            "src-tracer-qs-house",
+            "src-switzer-site"
+          ]
+        }
+      ]
+    }
+  ],
+  "open_questions": [
+    "TRACER: WebFetch works on TRACER pages, but the Candidate Search form is a postback that can't be driven by URL, and direct HTTP access to tracer.sos.colorado.gov is blocked from this environment. Candidate detail pages were found only for Lieder, Rein and Stewart. Mancuso, Harkess, Duran, Hoffkling, Metler and Switzer figures come from TRACER's Quick Stats PDFs (contributions/expenditures only, no cash on hand or report period). Their committee names come from campaign-site disclaimers and should be checked on TRACER.",
+    "TRACER Quick Stats PDFs were inconsistent: rpt_QuickStatsMapDetail_1.pdf (Senate, footer 9/21/2026) and _2.pdf (Senate, footer 9/22/2026) show different Senate totals. The 9/22 figures are used. The Lieder candidate detail page (Sept 8 report) may be stale, because TRACER listed later filings for other candidates. Re-check all totals after the Oct. 19 reports.",
+    "Questionnaires: no written Q&A for any of these 9 candidates was found in the 2026 CPR News guide (statewide/federal races only), the Colorado Sun (robots-blocked), Colorado Community Media (no 2026 profiles found), Colorado Politics (its primary roundup skipped SD20/SD22) or Ballotpedia (2026 pages not fetchable or showing 'not completed'). Vote411 answers are rendered client-side and weren't readable. LWV Jefferson County held recorded forums for HD23 (Hoffkling, Metler) and HD30 (Stewart, Switzer), but those are video, not written answers. RMEQ Action Fund published Hoffkling's written answers, but those were not quoted because the source is an endorsing group and the full verbatim text wasn't captured.",
+    "David Rein: the TRACER filing (David L. Rein Jr., Democratic, HD28), the campaign 'Meet Dave' page (Lakewood City Council, 40 West Arts board, six years on the Lakewood Advisory Commission, lawyer) and the City of Lakewood Ward 4 page (lawyer, 40 West Arts, six years on the Lakewood Advisory Commission) match. They are treated as the same person. If elected, he would leave a council term that runs to November 2027; vacancy handling is not covered here.",
+    "One Colorado's endorsement page labels Alexis Hoffkling as 'SD-23'. She is recorded as endorsed for HD-23 on the assumption that this is a typo. The page also marks Dave Rein as an incumbent, which is inaccurate for HD-28.",
+    "Colorado WINS 'Our Endorsements' page has no explicit year. It is treated as 2026 because it lists Monica Duran for Senate District 22 and Hoffkling/Rein for their 2026 House seats.",
+    "The SEIU endorsements come from SEIU Local 105's 2026 voter guide page, headed as SEIU Colorado endorsements. It may be worth checking which SEIU entity is the endorser of record.",
+    "Not confirmed: LPAC lists Hoffkling among 'Our Candidates' without the word 'endorse'. Pages that failed to load: the Hoffkling campaign endorsements page (robots-blocked), the Rein campaign endorsements page (fetch error), the UFCW Local 7 full PDF (fetch error; only Lieder was visible on the HTML page), the Sierra Club Colorado and RMGO endorsement pages (fetch errors), and the Jeffco Dems Senate page (robots-blocked). No endorsements were found for Mancuso, Harkess, Metler or Switzer. The Colorado Realtors, FOP, Colorado Concern, AFP, NRA and Working Families Party slates were not found.",
+    "Duran's campaign endorsement list has no date. Its meta description also mentions Plumbers Local 3, The Herod Leadership Fund and Speaker Crisanta Duran, but these are not in the visible list and were not recorded.",
+    "Mancuso: a talk-show guest profile (kimmonson.com, partly auto-generated) says he was the 2006 Republican nominee against Mark Udall for Congress and later ran for Colorado GOP chair. His campaign site doesn't mention this, so it is left out of the bio pending confirmation.",
+    "Harkess and Switzer: no job or residence for Harkess was found on his campaign site. Switzer's employer isn't named on his campaign site. A talk-show profile says he works in the music industry and as a startup consultant, but it is unverified.",
+    "Lieder's campaign site (liederforcolorado.com) appears to contain older House-race content. It is listed as her website because TRACER and Colorado Informed point to it. Stewart's site (rebekahforcolorado.com) still describes her as a Lakewood City Councilor, which is also older content.",
+    "Colorado WINS's endorsement page lists Sheila Lieder under 'State Senate District 28', apparently a typo for SD 20 (she is running in SD 20)."
+  ]
+}

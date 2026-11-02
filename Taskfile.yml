@@ -1,0 +1,55 @@
+# Lakewood Votes tasks — run with https://taskfile.dev (brew install go-task)
+#   task            -> list tasks
+#   task local      -> build for local testing and open it
+#   task build      -> build for the live site (do this before committing docs/)
+version: "3"
+
+vars:
+  PYTHON: python3
+  DOCS: "{{.ROOT_DIR}}/docs"
+  LOCAL_URL: "file://{{.ROOT_DIR}}/docs/"
+
+tasks:
+  default:
+    silent: true
+    cmds:
+      - task --list
+
+  build:
+    desc: Build the site for lakewoodvotes.org into docs/
+    cmds:
+      - "{{.PYTHON}} build.py"
+
+  local:
+    desc: Build for local testing (AI prompt points at your local docs/) and open it
+    cmds:
+      - LV_SITE_URL={{.LOCAL_URL}} {{.PYTHON}} build.py
+      - open "{{.DOCS}}/index.html"
+
+  test:
+    desc: Run the checks (every fact has a source, no broken links); builds into a temp folder, leaves docs/ alone
+    cmds:
+      - "{{.PYTHON}} -m unittest"
+
+  check:
+    desc: Run the checks, then build for the live site (do this before committing)
+    cmds:
+      - task: test
+      - task: build
+
+  serve:
+    desc: Build for the live site and serve docs/ at http://localhost:8000
+    deps: [build]
+    cmds:
+      - "{{.PYTHON}} -m http.server 8000 --directory docs"
+
+  preview-date:
+    desc: "Build with a different 'today' for the dates timeline, e.g. task preview-date -- 2026-10-20"
+    cmds:
+      - LV_TODAY={{.CLI_ARGS}} LV_SITE_URL={{.LOCAL_URL}} {{.PYTHON}} build.py
+      - open "{{.DOCS}}/index.html"
+
+  clean:
+    desc: Delete the generated docs/ folder
+    cmds:
+      - rm -rf docs

@@ -1,0 +1,776 @@
+# Lakewood Votes — full guide
+
+Nonpartisan guide to the Tuesday, November 3, 2026 election for voters in Lakewood, Colorado (Jefferson County).
+Built 2026-11-02. Every fact below has a source URL. Do not add facts that are not here or in the linked sources.
+
+## Key dates
+
+- October 5, 2026: Ballots mailed; 24-hour drop boxes open (source: https://www.jeffco.us/4947/Elections)
+- October 19, 2026: Voter Service and Polling Centers open for in-person voting (source: https://www.jeffco.us/4947/Elections)
+- October 26, 2026: Last day to register and still get a ballot in the mail; last recommended day to mail your ballot back (source: https://www.jeffco.us/4947/Elections)
+- November 3, 2026: Election Day: ballots must be received by 7 p.m. You can still register and vote in person that day. (source: https://www.jeffco.us/4947/Elections)
+
+## Federal offices
+
+Everyone in Lakewood votes on these.
+
+### United States Senator
+Who votes: All Lakewood voters
+Job: One of Colorado's two members of the U.S. Senate. Senators vote on federal laws, the federal budget, treaties, and the president's nominees for judges and cabinet posts.
+Candidates (ballot order):
+- Mark Baisley (Republican Party)
+- John Hickenlooper (Democratic Party, incumbent)
+- Bob Chew (Forward Party)
+- Christopher Baum (Approval Voting Party)
+- Blake Huber (Libertarian Party)
+- Adam Withrow (Unity Party)
+Note: Yes, Sen. John Hickenlooper's seat is on the 2026 ballot. He won the Democratic primary over Julie Gonzales, and Mark Baisley was the only Republican on the primary ballot. The ballot has a blank line for a write-in.
+Sources: https://www.bhfs.com/wp-content/uploads/2026/07/Client-Alert-CO-Primary-Election-Results-2026.final_.formatted.pdf, https://www.cpr.org/2026/06/30/colorado-primary-election-2026-results-live-updates/, https://www.cpr.org/2026/09/24/vg-2026-colorado-midterm-election-voter-guide/, https://www.jeffco.us/4652/On-the-Ballot, https://www.jeffco.us/DocumentCenter/View/59222, https://www.thegreenpapers.com/G26/CO
+
+### U.S. Representative — Congressional District 7
+Who votes: All Lakewood voters (Lakewood is in Congressional District 7)
+Job: Represents this district in the U.S. House of Representatives. House members vote on federal laws and the federal budget, and help people who have problems with federal agencies.
+Candidates (ballot order):
+- Tim Bennett (Republican Party)
+- Brittany Pettersen (Democratic Party, incumbent)
+- Susan Hall (Unity Party)
+- Lawrence Kyle Clark (American Constitution Party)
+- Dan "Kilo" Sallis (Libertarian Party)
+- Joe Krzeczkowski (Unaffiliated)
+Note: The winner serves in the 120th Congress. The county's sample ballot also lists Districts 1, 2, and 6, but those districts cover other parts of Jefferson County, not Lakewood.
+Sources: https://en.wikipedia.org/wiki/Colorado%27s_7th_congressional_district, https://www.bhfs.com/wp-content/uploads/2026/07/Client-Alert-CO-Primary-Election-Results-2026.final_.formatted.pdf, https://www.cpr.org/2026/09/24/vg-2026-colorado-midterm-election-voter-guide/, https://www.jeffco.us/4652/On-the-Ballot, https://www.jeffco.us/DocumentCenter/View/59222, https://www.thegreenpapers.com/G26/CO
+
+## Colorado statewide offices
+
+Everyone in Lakewood votes on these.
+
+### Governor and Lieutenant Governor (voted on together)
+Who votes: All Lakewood voters
+Job: The governor runs state government, proposes the state budget, signs or vetoes bills, and appoints judges and agency heads. The lieutenant governor takes over if the governor cannot serve. You cast one vote for a governor and running-mate team.
+Candidates (ballot order):
+- Victor Marx / George Washington Markert (Republican Party)
+- Phil Weiser / Lesley Dahlkemper (Democratic Party)
+- Stephen T. Hamilton / James K Treibert (American Constitution Party)
+- Eric Mulder / Wayne Harlos (Libertarian Party)
+- Jeff Peckman / T.J. Cole (Unity Party)
+- Erik Underwood / Frank Atwood (Approval Voting Party)
+- Greg Lopez / Taralyn Romero (Unaffiliated)
+Note: This is an open seat. Gov. Jared Polis (Democrat) is term-limited. Phil Weiser, the current Attorney General, won the Democratic primary over Michael Bennet. Victor Marx narrowly won the Republican primary over Barb Kirkmeyer and Scott Bottoms. Weiser's running mate, Lesley Dahlkemper, is a Jefferson County commissioner. Greg Lopez is a former Republican member of Congress who is running unaffiliated. No candidate on the ticket is the current governor or lieutenant governor.
+Sources: https://www.bhfs.com/wp-content/uploads/2026/07/Client-Alert-CO-Primary-Election-Results-2026.final_.formatted.pdf, https://www.coloradopolitics.com/2026/07/31/republican-victor-marx-taps-george-markert-as-his-lieutenant-governor-pick-in-colorados-gubernatorial-race/, https://www.cpr.org/2026/09/24/vg-2026-colorado-midterm-election-voter-guide/, https://www.denvergazette.com/2026/10/02/colorado-governor-weiser-marx-and-lopez-vie-for-top-state-seat-4/, https://www.jeffco.us/4652/On-the-Ballot, https://www.jeffco.us/DocumentCenter/View/59222, https://www.thegreenpapers.com/G26/CO
+
+### Secretary of State
+Who votes: All Lakewood voters
+Job: Oversees Colorado elections, business filings, and charities and lobbyist registrations, and keeps the statewide voter list.
+Candidates (ballot order):
+- Amanda Gonzalez (Democratic Party)
+- James Wiley (Republican Party)
+- Sean Vadney (Libertarian Party)
+- Amanda Campbell (American Constitution Party)
+- Celeste Landry (Forward Party)
+Note: This is an open seat. Secretary of State Jena Griswold (Democrat) is term-limited and is running for Attorney General. Amanda Gonzalez is the current Jefferson County Clerk and Recorder. Sean Vadney took the Libertarian spot after the party's first nominee withdrew.
+Sources: https://en.wikipedia.org/wiki/2026_Colorado_Secretary_of_State_election, https://www.cpr.org/2026/09/24/vg-2026-colorado-midterm-election-voter-guide/, https://www.jeffco.us/4652/On-the-Ballot, https://www.jeffco.us/DocumentCenter/View/59222, https://www.thegreenpapers.com/G26/CO
+
+### State Treasurer
+Who votes: All Lakewood voters
+Job: Manages and invests the state's money, and runs the program that returns unclaimed property, such as forgotten bank accounts, to its owners.
+Candidates (ballot order):
+- Jeff Bridges (Democratic Party)
+- Kevin Grantham (Republican Party)
+- Jodie Barr (Libertarian Party)
+- Marilee Langner Sturgis (Approval Voting Party)
+Note: This is an open seat. Treasurer Dave Young (Democrat) is term-limited. Jeff Bridges is a state senator. Kevin Grantham is a Fremont County commissioner and a former state senator.
+Sources: https://en.wikipedia.org/wiki/2026_Colorado_State_Treasurer_election, https://www.bhfs.com/wp-content/uploads/2026/07/Client-Alert-CO-Primary-Election-Results-2026.final_.formatted.pdf, https://www.cpr.org/2026/09/24/vg-2026-colorado-midterm-election-voter-guide/, https://www.jeffco.us/4652/On-the-Ballot, https://www.jeffco.us/DocumentCenter/View/59222
+
+### Attorney General
+Who votes: All Lakewood voters
+Job: The state's top lawyer. Represents Colorado in court, gives legal advice to state agencies, and enforces consumer-protection and other state laws.
+Candidates (ballot order):
+- Michael J. Allen (Republican Party)
+- Jena Griswold (Democratic Party)
+Note: This is an open seat. The current Attorney General, Phil Weiser, is running for governor. Jena Griswold is the current Secretary of State. Only two candidates are on the ballot.
+Sources: https://en.wikipedia.org/wiki/2026_Colorado_Secretary_of_State_election, https://www.bhfs.com/wp-content/uploads/2026/07/Client-Alert-CO-Primary-Election-Results-2026.final_.formatted.pdf, https://www.cpr.org/2026/06/30/colorado-primary-election-2026-results-live-updates/, https://www.cpr.org/2026/09/24/vg-2026-colorado-midterm-election-voter-guide/, https://www.jeffco.us/4652/On-the-Ballot, https://www.jeffco.us/DocumentCenter/View/59222
+
+### State Board of Education Member — Congressional District 7
+Who votes: All Lakewood voters
+Job: The State Board of Education sets statewide academic standards, licenses teachers, and oversees the Colorado Department of Education. It does not run local schools; school boards do that.
+Candidates (ballot order):
+- Karla Esser (Democratic Party, incumbent)
+- Steve Barton (Republican Party)
+- Ross Klopf (Libertarian Party)
+Note: Karla Esser was elected to this seat in 2020, and her term ends in January 2027. The at-large State Board of Education seat is not on the 2026 Jefferson County ballot. The county ballot also lists the District 1 seat, which does not cover Lakewood.
+Sources: https://ed.cde.state.co.us/cdeboard/board-member-profiles-karla-esser, https://www.cpr.org/2026/09/24/vg-2026-colorado-midterm-election-voter-guide/, https://www.jeffco.us/4652/On-the-Ballot, https://www.jeffco.us/DocumentCenter/View/59222
+
+### Regent of the University of Colorado — Congressional District 7
+Who votes: All Lakewood voters
+Job: The nine-member Board of Regents governs the University of Colorado's four campuses. It sets tuition and the budget, approves major contracts and tenure, and oversees the university president.
+Candidates (ballot order):
+- Paul Mueller (Republican Party)
+- Nolbert Chavez (Democratic Party, incumbent)
+- BetteRose Ryan (Libertarian Party)
+Note: Nolbert Chavez was first elected in 2020. Regents can serve no more than two terms. The at-large regent seat is not on the 2026 ballot. Only Districts 2, 6, and 7 are up this year, and only District 7 covers Lakewood.
+Sources: https://www.cpr.org/2026/09/24/vg-2026-colorado-midterm-election-voter-guide/, https://www.cpr.org/2026/09/24/vg-2026-cu-board-of-regents-voter-guide/, https://www.jeffco.us/4652/On-the-Ballot, https://www.jeffco.us/DocumentCenter/View/59222
+
+## Colorado legislature
+
+Lakewood is split among several districts. You vote in one House district and one Senate district.
+
+### Colorado State Senator — State Senate District 20
+Who votes: Lakewood voters in State Senate District 20 (about 67,000 Lakewood residents; the district also takes in Arvada, Dakota Ridge, Fairmount and Evergreen)
+Job: State senators write and vote on Colorado's laws and the state budget. The Senate has 35 members.
+Candidates (ballot order):
+- Richard (Rich) Mancuso (Republican Party)
+- Sheila Lieder (Democratic Party)
+Note: Open seat. The current senator, Lisa Cutter (Democrat), is not on the 2026 ballot for this seat. Sheila Lieder now serves in the state House (District 28). Lakewood is split between Senate Districts 20 and 22.
+Sources: https://leg.colorado.gov/legislators, https://leg.colorado.gov/legislators/lisa-cutter, https://redistricting.colorado.gov/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdFFEIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--e2b0fcb53323be5a5373f91eb86f14edf849d6f4/2021_Senate_District_20.pdf, https://redistricting.colorado.gov/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6OTQ3LCJwdXIiOiJibG9iX2lkIn19--3493eaa57e7362efba8792f0328f84668d91c1bc/City%20Splits.pdf, https://www.sos.state.co.us/pubs/elections/vote/generalBallotOrder.html, https://www.sos.state.co.us/pubs/elections/vote/generalCandidates.html, https://www.sos.state.co.us/pubs/elections/vote/officeUpForElection.html
+
+### Colorado State Senator — State Senate District 22
+Who votes: Lakewood voters in State Senate District 22 (about 90,000 Lakewood residents; the district also takes in Wheat Ridge, Golden, Applewood and Edgewater)
+Job: State senators write and vote on Colorado's laws and the state budget. The Senate has 35 members.
+Candidates (ballot order):
+- Steve Harkess (Republican Party)
+- Monica Irasema Duran (Democratic Party)
+Note: Open seat. The current senator, Jessie Danielson (Democrat), is not on the 2026 ballot for this seat. Monica Duran now serves in the state House (District 23). Lakewood is split between Senate Districts 20 and 22.
+Sources: https://ballotpedia.org/Colorado_State_Senate_District_22, https://leg.colorado.gov/legislators, https://redistricting.colorado.gov/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdFlEIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--315c3276144afe15fb8103ab82bb4aed74c2b1ca/2021_Senate_District_22.pdf, https://redistricting.colorado.gov/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6OTQ3LCJwdXIiOiJibG9iX2lkIn19--3493eaa57e7362efba8792f0328f84668d91c1bc/City%20Splits.pdf, https://www.sos.state.co.us/pubs/elections/vote/generalBallotOrder.html, https://www.sos.state.co.us/pubs/elections/vote/generalCandidates.html, https://www.sos.state.co.us/pubs/elections/vote/officeUpForElection.html
+
+### Colorado State Representative — State House District 23
+Who votes: Lakewood voters in House District 23 (about 47,500 Lakewood residents; the district also takes in Wheat Ridge, Applewood, Mountain View and East Pleasant View)
+Job: State representatives write and vote on Colorado's laws and the state budget. The House has 65 members, all elected every two years.
+Candidates (ballot order):
+- Alexis Hoffkling (Democratic Party)
+- Ross Metler (Libertarian Party)
+Note: Open seat. The current representative, Monica Duran (Democrat), is running for State Senate District 22 instead. No Republican is on the ballot.
+Sources: https://ballotpedia.org/Colorado_House_of_Representatives_District_23, https://leg.colorado.gov/legislators, https://lpcolorado.org/jefferson-county, https://redistricting.colorado.gov/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaDBFIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--eb6621b01bcfdbd9024c46e9b5bf55773ef4ffe4/2021_House_District_23.pdf, https://redistricting.colorado.gov/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6OTAzLCJwdXIiOiJibG9iX2lkIn19--2fc8361d7bf4bf8771f41f5425ec02fef64c97db/City%20Splits.pdf, https://www.sos.state.co.us/pubs/elections/vote/generalBallotOrder.html, https://www.sos.state.co.us/pubs/elections/vote/generalCandidates.html
+
+### Colorado State Representative — State House District 28
+Who votes: Lakewood voters in House District 28 (about 28,500 Lakewood residents; the district also takes in Dakota Ridge and Columbine)
+Job: State representatives write and vote on Colorado's laws and the state budget. The House has 65 members, all elected every two years.
+Candidates (ballot order):
+- David Rein (Democratic Party)
+Note: Open seat with one candidate on the ballot. The current representative, Sheila Lieder (Democrat), is running for State Senate District 20 instead. A David Rein serves on Lakewood City Council (Ward 4); the city's page does not mention a state House run, so the guide should not assume they are the same person until confirmed.
+Sources: https://ballotpedia.org/Colorado_House_of_Representatives_District_28, https://leg.colorado.gov/legislators, https://redistricting.colorado.gov/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTA0OCwicHVyIjoiYmxvYl9pZCJ9fQ==--3e8dc0377891442f5a361f0efef0411f95e83195/2021_House_District_28.pdf, https://redistricting.colorado.gov/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6OTAzLCJwdXIiOiJibG9iX2lkIn19--2fc8361d7bf4bf8771f41f5425ec02fef64c97db/City%20Splits.pdf, https://www.sos.state.co.us/pubs/elections/vote/generalBallotOrder.html, https://www.sos.state.co.us/pubs/elections/vote/generalCandidates.html
+
+### Colorado State Representative — State House District 30
+Who votes: Lakewood voters in House District 30 (about 80,500 Lakewood residents; this district is almost all Lakewood, plus Edgewater)
+Job: State representatives write and vote on Colorado's laws and the state budget. The House has 65 members, all elected every two years.
+Candidates (ballot order):
+- Rebekah Stewart (Democratic Party, incumbent)
+- William Tyler Switzer (Republican Party)
+Note: Rebekah Stewart has held this seat since January 2025.
+Sources: https://ballotpedia.org/Colorado_House_of_Representatives_District_30, https://goodparty.org/people/william-switzer-ee8d2df5, https://leg.colorado.gov/legislators, https://linktr.ee/rebekahforcolorado, https://redistricting.colorado.gov/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTA0NiwicHVyIjoiYmxvYl9pZCJ9fQ==--f4f6c5de112ada95de26bc88891d6d8c987542b6/2021_House_District_30.pdf, https://redistricting.colorado.gov/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6OTAzLCJwdXIiOiJibG9iX2lkIn19--2fc8361d7bf4bf8771f41f5425ec02fef64c97db/City%20Splits.pdf, https://www.sos.state.co.us/pubs/elections/vote/generalBallotOrder.html, https://www.sos.state.co.us/pubs/elections/vote/generalCandidates.html
+
+## Jefferson County offices
+
+Everyone in Lakewood votes on these.
+
+### Jefferson County Commissioner — Commissioner District 3
+Who votes: All Lakewood voters (all Jefferson County voters vote for this seat, even though the winner must live in District 3)
+Job: The three county commissioners run Jefferson County government. They set the county budget, pass county rules, and oversee county services like roads, parks, and human services.
+Candidates (ballot order):
+- Stephanie VandenBerg (Republican Party)
+- Lisa A. Cutter (Democratic Party)
+Note: Open seat. Commissioner Lesley Dahlkemper (District 3) chose not to run again; she is also the Democratic nominee for lieutenant governor. Lisa Cutter is a state senator. Only District 3 is on the 2026 ballot; Districts 1 and 2 are not.
+Sources: https://criticalreport.substack.com/p/2026-co-county-primaries, https://www.denvergazette.com/2026/07/23/jefferson-county-to-fill-commissioner-vacancy-after-dahlkemper-tapped-for-lieutenant-governor/, https://www.jeffco.us/1987/History-of-the-County-Commissioners-Offi, https://www.jeffco.us/4652/On-the-Ballot, https://www.jeffco.us/664/Meet-the-Commissioners, https://www.jeffco.us/DocumentCenter/View/59222
+
+### Jefferson County Clerk and Recorder
+Who votes: All Lakewood voters
+Job: The clerk runs county elections, keeps official land and property records, and issues vehicle titles and registrations and marriage licenses.
+Candidates (ballot order):
+- Paul Poston (Republican Party)
+- Nicole Hensel (Democratic Party)
+Note: Open seat. Current Clerk Amanda Gonzalez (elected 2022) is running for Colorado Secretary of State instead.
+Sources: https://coloradosun.com/2026/06/30/colorado-primary-election-secretary-of-state-results/, https://www.jeffco.us/4652/On-the-Ballot, https://www.jeffco.us/DocumentCenter/View/59222, https://www.theballotbrief.com/state/colorado/jefferson-county
+
+### Jefferson County Treasurer
+Who votes: All Lakewood voters
+Job: The treasurer collects property taxes, sends the money to the county, cities, schools, and special districts, and invests county funds.
+Candidates (ballot order):
+- Eric Proctor (Democratic Party)
+- Murl Hendrickson (Libertarian Party)
+Note: Open seat. Current Treasurer Jerry DiTullio (in office since 2018) is not on the ballot. No Republican appears on the official sample ballot for this office.
+Sources: https://www.jeffco.us/3795/Treasurer-Biography, https://www.jeffco.us/4652/On-the-Ballot, https://www.jeffco.us/DocumentCenter/View/59222, https://www.theballotbrief.com/state/colorado/jefferson-county
+
+### Jefferson County Assessor
+Who votes: All Lakewood voters
+Job: The assessor sets the value of homes, businesses, and land for property tax purposes.
+Candidates (ballot order):
+- Vera King (Republican Party)
+- Andy Kerr (Democratic Party)
+- Greg Ketcham (Unaffiliated)
+Note: Open seat. Current Assessor Scot Kersgaard is not on the ballot. Andy Kerr is now the District 2 county commissioner; he won the Democratic primary over Deputy Assessor Sue Flageolle.
+Sources: https://criticalreport.substack.com/p/2026-co-county-primaries, https://www.jeffco.us/4652/On-the-Ballot, https://www.jeffco.us/533/Assessor-Biography, https://www.jeffco.us/664/Meet-the-Commissioners, https://www.jeffco.us/DocumentCenter/View/59222, https://www.theballotbrief.com/state/colorado/jefferson-county
+
+### Jefferson County Sheriff
+Who votes: All Lakewood voters
+Job: The sheriff runs the county jail, patrols unincorporated parts of the county, and provides court security and wildfire response. Lakewood itself has its own city police.
+Candidates (ballot order):
+- Regina "Reggie" Marinelli (Democratic Party, incumbent)
+- Randall Doizaki (Republican Party)
+Note: Sheriff Marinelli has held the office since January 2023. Weston Imer won the June Republican primary, but Randall Doizaki is the Republican on the certified sample ballot.
+Sources: https://criticalreport.substack.com/p/2026-co-county-primaries, https://jeffcorepublicans.com/meet-your-2026-candidates/, https://theballotbrief.com/state/colorado/jefferson-county/sheriff, https://www.jeffco.us/DocumentCenter/View/59222
+
+### Jefferson County Surveyor
+Who votes: All Lakewood voters
+Job: The surveyor keeps survey records and helps settle questions about property lines and county boundaries.
+Candidates (ballot order):
+- Robert Hennessy (Republican Party, incumbent)
+Note: Only one candidate is on the ballot. No Democrat qualified for the primary.
+Sources: https://criticalreport.substack.com/p/2026-co-county-primaries, https://www.jeffco.us/DocumentCenter/View/59222
+
+### Jefferson County Coroner
+Who votes: All Lakewood voters
+Job: The coroner looks into sudden, violent, or unexplained deaths and decides the cause and manner of death.
+Candidates (ballot order):
+- Nick Lobello (Democratic Party)
+- Allison Harmon (Republican Party)
+Note: Open seat. Current Coroner Annette Cannon's term ends December 31, 2026, and she is not on the ballot. Nick Lobello is a former chief deputy coroner; Allison Harmon is a nurse.
+Sources: https://criticalreport.substack.com/p/2026-co-county-primaries, https://www.ballotready.org/people/annette-cannon, https://www.jeffco.us/4652/On-the-Ballot, https://www.jeffco.us/DocumentCenter/View/59222
+
+## Judges up for retention
+
+- Colorado Supreme Court: William W. Hood, III — commission finding: Meets Performance Standards (sources: https://judicialperformance.colorado.gov/hood-iii-william-w-2026-evaluation, https://judicialperformance.colorado.gov/know-your-judges/2026-judicial-performance-evaluations, https://www.jeffco.us/DocumentCenter/View/59222)
+- Colorado Court of Appeals: Rebecca Rankin Freyre — commission finding: Meets Performance Standards (sources: https://judicialperformance.colorado.gov/know-your-judges/2026-judicial-performance-evaluations, https://www.jeffco.us/DocumentCenter/View/59222)
+- Colorado Court of Appeals: Elizabeth L. Harris — commission finding: Meets Performance Standards (sources: https://judicialperformance.colorado.gov/know-your-judges/2026-judicial-performance-evaluations, https://www.jeffco.us/DocumentCenter/View/59222)
+- Colorado Court of Appeals: Katharine E. Lum — commission finding: Meets Performance Standards (sources: https://judicialperformance.colorado.gov/know-your-judges/2026-judicial-performance-evaluations, https://www.jeffco.us/DocumentCenter/View/59222)
+- Colorado Court of Appeals: Pax Moultrie — commission finding: Meets Performance Standards (sources: https://judicialperformance.colorado.gov/know-your-judges/2026-judicial-performance-evaluations, https://www.jeffco.us/DocumentCenter/View/59222)
+- Colorado Court of Appeals: Karl L. Schock — commission finding: Meets Performance Standards (sources: https://judicialperformance.colorado.gov/know-your-judges/2026-judicial-performance-evaluations, https://www.jeffco.us/DocumentCenter/View/59222)
+- Colorado Court of Appeals: Grant Sullivan — commission finding: Meets Performance Standards (sources: https://judicialperformance.colorado.gov/know-your-judges/2026-judicial-performance-evaluations, https://judicialperformance.colorado.gov/sullivan-grant-2026-evaluation, https://www.jeffco.us/DocumentCenter/View/59222)
+- 1st Judicial District Court (Jefferson and Gilpin counties): Chantel E. Contiguglia — commission finding: Meets Performance Standards (sources: https://judicialperformance.colorado.gov/know-your-judges/2026-judicial-performance-evaluations, https://www.jeffco.us/DocumentCenter/View/59222)
+- 1st Judicial District Court (Jefferson and Gilpin counties): Ryan P. Loewer — commission finding: Meets Performance Standards (sources: https://judicialperformance.colorado.gov/know-your-judges/2026-judicial-performance-evaluations, https://www.jeffco.us/DocumentCenter/View/59222)
+- 1st Judicial District Court (Jefferson and Gilpin counties): Meegan Miloud — commission finding: Meets Performance Standards (sources: https://judicialperformance.colorado.gov/know-your-judges/2026-judicial-performance-evaluations, https://www.jeffco.us/DocumentCenter/View/59222)
+- 1st Judicial District Court (Jefferson and Gilpin counties): Andrew C. Poland — commission finding: Meets Performance Standards (sources: https://judicialperformance.colorado.gov/know-your-judges/2026-judicial-performance-evaluations, https://www.jeffco.us/DocumentCenter/View/59222)
+- 1st Judicial District Court (Jefferson and Gilpin counties): Christopher Rhamey — commission finding: Meets Performance Standards (sources: https://judicialperformance.colorado.gov/know-your-judges/2026-judicial-performance-evaluations, https://www.jeffco.us/DocumentCenter/View/59222)
+- 1st Judicial District Court (Jefferson and Gilpin counties): Tamara S. Russell — commission finding: Meets Performance Standards (sources: https://judicialperformance.colorado.gov/know-your-judges/2026-judicial-performance-evaluations, https://www.jeffco.us/DocumentCenter/View/59222)
+- 1st Judicial District Court (Jefferson and Gilpin counties): Christopher C. Zenisek — commission finding: Meets Performance Standards (sources: https://judicialperformance.colorado.gov/know-your-judges/2026-judicial-performance-evaluations, https://www.jeffco.us/DocumentCenter/View/59222)
+- Jefferson County Court: Sara Garrido — commission finding: Meets Performance Standards (sources: https://judicialperformance.colorado.gov/know-your-judges/2026-judicial-performance-evaluations, https://www.jeffco.us/DocumentCenter/View/59222)
+- Jefferson County Court: Corinne Magid — commission finding: Meets Performance Standards (sources: https://judicialperformance.colorado.gov/know-your-judges/2026-judicial-performance-evaluations, https://www.jeffco.us/DocumentCenter/View/59222)
+- Jefferson County Court: Jennifer Lynn Melton — commission finding: Meets Performance Standards (sources: https://judicialperformance.colorado.gov/know-your-judges/2026-judicial-performance-evaluations, https://www.jeffco.us/DocumentCenter/View/59222)
+
+## Measures — State of Colorado
+
+### Amendment 81: Police must tell federal immigration officials about certain charges
+This would change the state constitution. When police or prosecutors charge someone with a violent crime, or with any crime if the person has a past felony conviction, and they cannot confirm the person is lawfully in the U.S., they would have to notify the U.S. Department of Homeland Security within 72 hours. Violent crimes include crimes like murder, assault, kidnapping, and aggravated robbery. Today, state law allows cooperation in some criminal matters but limits local help with civil immigration enforcement.
+Yes means: Law enforcement must notify federal immigration authorities after filing certain criminal charges against people who are not confirmed to be lawfully present.
+No means: Current law stays the same, which allows some cooperation in criminal matters but limits local involvement in civil immigration enforcement.
+Needs: 55% (constitutional amendment)
+Money: Small state costs, about $50,000 for the Department of Revenue and $10,000 for the Department of Natural Resources to update systems. Local costs, mostly for district attorney offices, were not estimated.
+Supporters: Brighter Colorado; Eagle County Republican Women Club
+Opponents: Colorado Communities First; The People's No; Vote Common Sense; People for a Fair Colorado
+Sources: https://content.leg.colorado.gov/sites/default/files/2026-blue-book-en-accessible.pdf, https://www.coloradosos.gov/pubs/elections/Initiatives/ballot/contacts/2026.html, https://www.coloradosos.gov/pubs/newsRoom/pressReleases/2026/PR20260904BallotCertification.html
+
+### Amendment 82: Right to buy and sell natural gas
+This would add a right to the state constitution for homes and businesses to buy natural gas for heating and cooking. It would also protect the right of gas distributors and utilities to sell it. It could limit how much the state and local governments can restrict natural gas, for example through building codes.
+Yes means: Creates a state constitutional right to buy and sell natural gas for use in homes and businesses.
+No means: Current laws and rules about buying and selling natural gas stay the same.
+Needs: 55% (constitutional amendment)
+Money: Small state costs that were not estimated, mostly for the Department of Local Affairs and legal and regulatory work. Local governments with building codes that limit gas could face higher legal and compliance costs.
+Supporters: Brighter Colorado; Energy Freedom Alliance of the Rockies; Affordable Colorado
+Opponents: No Pollution in the Constitution; Vote Common Sense; People for a Fair Colorado
+Sources: https://content.leg.colorado.gov/sites/default/files/2026-blue-book-en-accessible.pdf, https://www.coloradosos.gov/pubs/elections/Initiatives/ballot/contacts/2026.html, https://www.coloradosos.gov/pubs/newsRoom/pressReleases/2026/PR20260904BallotCertification.html
+
+### Amendment 83: Right to hunt and fish
+This would add a right to hunt and fish, using traditional methods, to the state constitution. It would make hunting and fishing the preferred way to manage wildlife. The state could still regulate hunting and fishing for conservation, public safety, or to keep these activities available in the future.
+Yes means: Creates a state constitutional right to hunt and fish.
+No means: Hunting and fishing continue as allowed under current state and federal law.
+Needs: 55% (constitutional amendment)
+Money: No major change expected right away. Colorado Parks and Wildlife could have added legal and rulemaking costs, and the state could face lawsuit costs. These were not estimated.
+Supporters: Let's Go Colorado; Vote Yes on 83; Colorado's Wildlife Deserve Better; Hunt to Conserve Colorado
+Opponents: Protect Colorado's Constitution; Stop the Constitutional Power Grab; Colorado Hunters and Anglers for Sensible Wildlife Conservation; Vote No 83; People for a Fair Colorado
+Sources: https://content.leg.colorado.gov/sites/default/files/2026-blue-book-en-accessible.pdf, https://www.coloradosos.gov/pubs/elections/Initiatives/ballot/contacts/2026.html, https://www.coloradosos.gov/pubs/newsRoom/pressReleases/2026/PR20260904BallotCertification.html
+
+### Amendment 84: ID number required on mail ballots
+This would change the state constitution so that mail ballots must include the last four digits of the voter's Social Security number, or their Colorado driver's license or state ID number. This would be in addition to the voter's signature. Voters whose number is missing or does not match could fix it up to eight days after Election Day.
+Yes means: Voters must provide identification information with their mail ballot, in addition to their signature.
+No means: Mail ballots continue to be checked by signature only.
+Needs: 55% (constitutional amendment)
+Money: Up to $2.7 million in state and county costs in 2026-27 and about $1.2 million a year after that. The state would repay counties for part of their costs.
+Supporters: Colorado Voter Trust Initiative
+Opponents: Defend our Ballots Issue Committee; Vote Common Sense; People for a Fair Colorado
+Sources: https://content.leg.colorado.gov/sites/default/files/2026-blue-book-en-accessible.pdf, https://www.coloradosos.gov/pubs/elections/Initiatives/ballot/contacts/2026.html, https://www.coloradosos.gov/pubs/newsRoom/pressReleases/2026/PR20260904BallotCertification.html
+
+### Amendment 85: Plain-language ballot titles
+This would require the titles of all state and local ballot measures to be written in plain language at no higher than an eighth-grade reading level. It would also stop laws from requiring wording in citizen initiative titles that gets in the way of plain language. The measure does not define plain language or say who decides if a title meets the standard.
+Yes means: Ballot titles must be written in plain language at an eighth-grade reading level.
+No means: Current law stays; titles must still be clear, but there is no set reading-level standard.
+Needs: 55% (constitutional amendment)
+Money: A small, unestimated increase in work for the state Title Board.
+Supporters: Brighter Colorado
+Opponents: Vote Common Sense; People for a Fair Colorado
+Sources: https://content.leg.colorado.gov/sites/default/files/2026-blue-book-en-accessible.pdf, https://www.coloradosos.gov/pubs/elections/Initiatives/ballot/contacts/2026.html, https://www.coloradosos.gov/pubs/newsRoom/pressReleases/2026/PR20260904BallotCertification.html, https://www.leg.colorado.gov/ballots/plain-language-ballot-titles-2/files/blue-book
+
+### Amendment 86: Rules for redrawing congressional districts between censuses
+Colorado normally redraws its U.S. House districts once every ten years, after the census. This measure says any change made in other years must be approved by the state's Independent Congressional Redistricting Commission and the Colorado Supreme Court. It would require at least three public hearings. It would also ban changes that favor a political party or split communities without need.
+Yes means: Any new congressional map drawn outside the usual once-a-decade schedule must be approved by the independent commission and the state Supreme Court.
+No means: The current system stays, in which congressional districts are redrawn every ten years.
+Needs: 55% (constitutional amendment)
+Money: About $370,000 in any year the commission must meet to review an off-schedule map, plus a small added workload for the courts.
+Supporters: Fair Redistricting Colorado; Brighter Colorado
+Opponents: People for a Fair Colorado
+Sources: https://content.leg.colorado.gov/sites/default/files/2026-blue-book-en-accessible.pdf, https://leg.colorado.gov/ballots/requirements-for-off-cycle-congressional-redistricting-2/files/blue-book, https://www.coloradosos.gov/pubs/elections/Initiatives/ballot/contacts/2026.html, https://www.coloradosos.gov/pubs/newsRoom/pressReleases/2026/PR20260904BallotCertification.html
+
+### Amendment 87: Graduated (tiered) state income tax
+Colorado now taxes all income at one flat rate of 4.4%. Starting in 2027, this would replace it with six tax brackets, from 3.7% up to 8.4%. People with taxable income up to $500,000 would pay the same or a lower rate on that income, and income above $500,000 would be taxed at 7.4% to 8.4%. The extra money would go to K-12 schools, health care, and early childhood programs, and would not count against the state's TABOR revenue limit. This measure conflicts with Proposition 136; if both pass, a court or the legislature may have to sort out the result.
+Yes means: Creates a graduated state income tax that raises more money for K-12 education, health care, and early childhood programs, outside the TABOR revenue limit.
+No means: Keeps the current constitutional requirement for one flat state income tax rate.
+Needs: Majority (the Blue Book says it needs a simple majority, though it changes the constitution; Colorado Newsline reports this is because its constitutional part only repeals existing language)
+Money: Estimated to raise about $958 million in its first half-year (2026-27) and about $1.97 billion in 2027-28. Legislative staff estimate taxpayers with taxable income below about $510,800 would pay less, and those above would pay more.
+Supporters: Protect Colorado's Future Coalition; People for a Fair Colorado
+Opponents: Americans For Prosperity Colorado Issue Committee; Your Family's Future Alliance; No on 87, Yes on 136; Brighter Colorado; Affordable Colorado; Let's Go Colorado; Don't Price Us Out
+Sources: https://coloradonewsline.com/2026/09/08/14-measures-will-appear-on-colorados-statewide-ballot-in-2026/, https://content.leg.colorado.gov/sites/default/files/2026-blue-book-en-accessible.pdf, https://leg.colorado.gov/ballots/graduated-income-tax-2/files/blue-book, https://www.chalkbeat.org/colorado/2026/10/01/voter-guide-amendment-87-ballot-measure-school-funding/, https://www.coloradosos.gov/pubs/elections/Initiatives/ballot/contacts/2026.html, https://www.coloradosos.gov/pubs/newsRoom/pressReleases/2026/PR20260904BallotCertification.html
+
+### Proposition NN: Let the state keep TABOR refund money for schools and kids
+Under the Taxpayer's Bill of Rights (TABOR), the state must refund money it collects above a yearly limit. This measure would let the state keep some of that money, up to a new limit tied to K-12 school spending. For the first ten years, the kept money would go to K-12 education and programs that support children; after that, the legislature would decide. It also requires audits and reports.
+Yes means: The state can keep some or all money that would otherwise be refunded under TABOR and spend it on K-12 education, children's programs, and other purposes.
+No means: TABOR refunds continue as under current law, and current funding levels stay the same.
+Needs: Majority
+Money: Legislative staff estimate the state would keep about $330 million in 2026-27 and $521 million in 2027-28, which would eliminate TABOR refunds in those years. School districts would get about $241.5 million in 2026-27 and $234 million in 2027-28.
+Supporters: Yes for Colorado Kids; People for a Fair Colorado
+Opponents: Brighter Colorado; Affordable Colorado; Let's Go Colorado; Keep Colorado Affordable; Don't Price Us Out
+Sources: https://coloradonewsline.com/2026/09/08/14-measures-will-appear-on-colorados-statewide-ballot-in-2026/, https://content.leg.colorado.gov/sites/default/files/2026-blue-book-en-accessible.pdf, https://www.coloradosos.gov/pubs/elections/Initiatives/ballot/contacts/2026.html, https://www.coloradosos.gov/pubs/newsRoom/pressReleases/2026/PR20260904BallotCertification.html
+
+### Proposition 132: Tougher penalties for fentanyl crimes
+This would make having any amount of fentanyl a felony. Today, possessing a small amount is a misdemeanor. It would require at least eight years in prison for selling or distributing any amount. It would also remove some options courts now have to lower penalties.
+Yes means: Possessing any amount of fentanyl becomes a felony, distribution carries a mandatory minimum of 8 years in prison, and some options to reduce penalties end.
+No means: Possessing a small amount stays a misdemeanor, distribution penalties stay based on quantity, and current options to reduce penalties remain.
+Needs: Majority
+Money: State costs for courts, public defenders, and prisons would grow from about $0.9 million in the first year to about $8.9 million in the second year and $68.2 million by the fifth year. County-funded district attorneys would also have higher costs.
+Supporters: Brighter Colorado; Eagle County Republican Women Club
+Opponents: The People's No; Coloradans For Real Safety Solutions; Vote Common Sense; People for a Fair Colorado
+Sources: https://content.leg.colorado.gov/sites/default/files/2026-blue-book-en-accessible.pdf, https://www.coloradosos.gov/pubs/elections/Initiatives/ballot/contacts/2026.html, https://www.coloradosos.gov/pubs/newsRoom/pressReleases/2026/PR20260904BallotCertification.html
+
+### Proposition 133: Life in prison for child sex trafficking
+This would make the penalty for sex trafficking of a child life in prison without parole. It would also widen the crime to include knowingly giving something of value to buy sexual activity with a minor. Today the penalty is 8 to 48 years in prison plus parole.
+Yes means: The penalty for child sex trafficking becomes life in prison without parole, and the crime is expanded to include buying sexual activity with a minor.
+No means: Current penalties of 8 to 48 years in prison plus mandatory parole stay in place.
+Needs: Majority
+Money: Prison costs would start in about 14 years (around $180,000 in 2041-42) and rise by about $180,000 each year for several years. Small added workload for courts, public defenders, and district attorneys.
+Supporters: Protect Kids Colorado - Issue Committee; Protect Our Children
+Opponents: Vote Common Sense; People for a Fair Colorado
+Sources: https://content.leg.colorado.gov/sites/default/files/2026-blue-book-en-accessible.pdf, https://www.coloradosos.gov/pubs/elections/Initiatives/ballot/contacts/2026.html, https://www.coloradosos.gov/pubs/newsRoom/pressReleases/2026/PR20260904BallotCertification.html
+
+### Proposition 134: School and college sports teams based on biological sex
+This would require every school sports team, from elementary school through college, to be labeled for boys only, girls only, or mixed. Students would have to play on teams that match their biological sex or on mixed teams. Girls could play on a boys' team if there is no girls' team for that sport. It applies to public and private schools, but not separate youth leagues.
+Yes means: All school-based teams must be designated for biological males, biological females, or mixed, and schools must adopt sex-eligibility policies.
+No means: Schools, districts, and athletic associations keep setting their own policies under current state and federal law.
+Needs: Majority
+Money: No dollar estimate. Schools, districts, and colleges would have small costs to update policies; the state could have costs only if a district refuses to comply.
+Supporters: Protect Kids Colorado - Issue Committee; Protect Our Children
+Opponents: The People's No; Families not Politics; No on 134 and 135; Protect Trans Kids; Vote Common Sense; People for a Fair Colorado
+Sources: https://content.leg.colorado.gov/sites/default/files/2026-blue-book-en-accessible.pdf, https://leg.colorado.gov/ballots/male-and-female-participation-in-school-and-collegiate-sports-2/files/blue-book, https://www.coloradosos.gov/pubs/elections/Initiatives/ballot/contacts/2026.html, https://www.coloradosos.gov/pubs/newsRoom/pressReleases/2026/PR20260904BallotCertification.html
+
+### Proposition 135: Ban on gender-related surgery for minors
+This would ban surgery on people under 18 that changes their biological sex characteristics because of how they see their sex or gender. It would also stop state or federal funds, Medicaid, and private insurance from paying for these surgeries. Counseling and other non-surgical care would not be affected. Some medical conditions are exempt.
+Yes means: These surgeries on minors are prohibited, and public funds and insurance cannot pay for them.
+No means: Current state law stays, which protects access to these surgeries and allows insurance to cover them.
+Needs: Majority
+Money: No dollar estimate. Legislative staff expect minimal state costs for updating rules and handling complaints, and possibly small savings for Medicaid and state employee health plans.
+Supporters: Protect Kids Colorado - Issue Committee; Protect Our Children
+Opponents: The People's No; Families not Politics; No on 134 and 135; Protect Trans Kids; Vote Common Sense; People for a Fair Colorado
+Sources: https://content.leg.colorado.gov/sites/default/files/2026-blue-book-en-accessible.pdf, https://leg.colorado.gov/ballots/prohibit-surgery-on-minors-in-response-to-perception-of-sex-or-gender-2/files/blue-book, https://www.coloradosos.gov/pubs/elections/Initiatives/ballot/contacts/2026.html, https://www.coloradosos.gov/pubs/newsRoom/pressReleases/2026/PR20260904BallotCertification.html
+
+### Proposition 136: Cap the state income tax rate at 4.4%
+This would put a 4.4% cap on the state income tax rate into state law, starting in 2027. It applies to people and businesses. It does not change today's 4.4% rate. It conflicts with Amendment 87; if both pass, a court or the legislature may have to sort out the result.
+Yes means: The current 4.4% rate becomes the highest rate allowed in state law.
+No means: The rate stays at 4.4% for now, but no new limit is written into law.
+Needs: Majority
+Money: No change to state or local revenue or spending, according to legislative staff.
+Supporters: Brighter Colorado; No on 87, Yes on 136
+Opponents: Vote Common Sense; People for a Fair Colorado; Protect Colorado's Future Coalition
+Sources: https://content.leg.colorado.gov/sites/default/files/2026-blue-book-en-accessible.pdf, https://www.coloradosos.gov/pubs/elections/Initiatives/ballot/contacts/2026.html, https://www.coloradosos.gov/pubs/newsRoom/pressReleases/2026/PR20260904BallotCertification.html, https://www.leg.colorado.gov/ballots/income-tax-rate-limit-2/files/blue-book
+
+### Proposition 137: Use sporting goods sales tax for conservation and wildfire work
+This would take sales tax the state already collects on sporting goods and send it to land, water, and forest conservation, wildfire prevention, and outdoor recreation. The money would go to Great Outdoors Colorado, the State Forest Service and Department of Natural Resources, Colorado Parks and Wildlife, and the state outdoor recreation office. It would not raise taxes or prices. The money would not count against the state's TABOR revenue limit, which means smaller TABOR refunds in years when there are refunds.
+Yes means: Sporting goods sales tax money goes to the named conservation and wildfire programs and is exempt from the state revenue limit.
+No means: That money stays in the state's general budget, under the revenue limit, to be spent by the legislature or refunded when required.
+Needs: Majority
+Money: About $175 million in 2027-28 and $180 million in 2028-29 would move out of the state's general fund to these programs. TABOR refunds for tax year 2027 would fall by about $175 million; some sales-tax refunds per filer would drop by roughly $26 to $166.
+Supporters: Protect Colorado's Land and Water, Prevent Wildfires
+Opponents: Protect Colorado's Land, Communities, and Tax Dollars
+Sources: https://content.leg.colorado.gov/sites/default/files/2026-blue-book-en-accessible.pdf, https://leg.colorado.gov/ballots/direct-sporting-goods-sales-tax-revenue-for-conservation-2/files/blue-book, https://www.coloradosos.gov/pubs/elections/Initiatives/ballot/contacts/2026.html, https://www.coloradosos.gov/pubs/newsRoom/pressReleases/2026/PR20260904BallotCertification.html
+
+## Measures — City of Lakewood
+
+### Ballot Issue 2G: City sales tax increase for public safety and traffic safety
+This would raise Lakewood's city sales and use tax from 3% to 3.5%. Food, including groceries, would not pay the added half-cent. The new money could only be used for public safety (including crime prevention and homelessness response) and traffic safety (streets, sidewalks, slowing traffic, and walking and biking safety). The city could keep and spend all of this money without TABOR limits. The city says the tax would be the first increase in about 20 years.
+Yes means: The city sales tax goes up by half a cent per dollar (to 3.5%), with the money set aside for public safety and traffic safety.
+No means: The city sales tax stays at 3%.
+Needs: Majority
+Money: Up to $17.6 million in the first full year, then whatever the tax raises after that. That is 50 cents on a $100 taxable purchase. Food for home use is exempt from the increase.
+Supporters: Councilmembers Glenda Sinks, Jeslin Shahrezaei and Jacob LaBure (spoke for sending it to voters)
+Opponents: Mayor Wendi Strom and Councilmember Ken Cruz (voted against putting it on the ballot; reasons not reported)
+Sources: https://www.jeffco.us/4652/On-the-Ballot, https://www.jeffco.us/DocumentCenter/View/59081/2026-General-TABOR-Booklet-PDF, https://www.jeffcotranscript.com/news/article_cd5931e7-fba1-46be-bbfa-ca200017a72b.html, https://www.lakewoodco.gov/Local-Government/Departments/City-Clerks-Office/Elections/November-3-2026-General-Election, https://www.lakewoodco.gov/files/assets/public/v/1/city-clerks-office/pdfs/legal-notices/o-2026-29.pdf
+
+### Ballot Question 2H: When new mayor and council terms begin
+This changes the city charter to say that a newly elected mayor or council member starts their term at the first regular council meeting after election results are certified. The city says this lets council hold its first November meeting instead of canceling it. The city says the actual swearing-in date would not change. If passed, it takes effect Jan. 1, 2027.
+Yes means: New mayor and council terms start at the first regular council meeting after results are certified.
+No means: The charter's current wording on when terms start stays the same.
+Needs: Majority
+Sources: https://www.jeffco.us/4652/On-the-Ballot, https://www.lakewoodco.gov/files/assets/public/v/1/city-clerks-office/pdfs/legal-notices/o-2026-25.pdf, https://www.lakewoodco.gov/files/assets/public/v/11/city-clerks-office/pdfs/city-council-votes/2026/2026-lakewood-city-council-ordinances-list-da-compliant.pdf
+
+### Ballot Question 2I: Voter approval required for city property tax increases
+This would repeal and replace Section 12.12 of the city charter, the section on property taxes. According to the county's ballot information, the new section removes an outdated allowance for a yearly property tax increase and bars the city from raising property taxes unless voters approve.
+Yes means: The charter's property tax section is replaced with language that bars city property tax increases without a vote of the people.
+No means: The current Section 12.12 of the charter stays as it is.
+Needs: Majority
+Sources: https://www.jeffco.us/4652/On-the-Ballot, https://www.jeffco.us/DocumentCenter/View/59081/2026-General-TABOR-Booklet-PDF, https://www.lakewoodco.gov/Local-Government/Departments/City-Clerks-Office/Elections/November-3-2026-General-Election, https://www.lakewoodco.gov/files/assets/public/v/11/city-clerks-office/pdfs/city-council-votes/2026/2026-lakewood-city-council-ordinances-list-da-compliant.pdf
+
+### Ballot Question 2J: Timing of elections on citizen initiatives and referendums
+When citizens petition to pass or repeal a city law, the charter now says the election must be held 30 to 90 days after the petition is found sufficient. This would change that window to 60 to 150 days. The city says the old window worked for in-person voting but is hard to meet for mail-ballot elections. If passed, it takes effect Jan. 1, 2027.
+Yes means: Elections on citizen initiatives and referendums would be held 60 to 150 days after a petition is found sufficient.
+No means: The current 30-to-90-day window stays in place.
+Needs: Majority
+Sources: https://www.jeffco.us/4652/On-the-Ballot, https://www.lakewoodco.gov/files/assets/public/v/1/city-clerks-office/pdfs/legal-notices/o-2026-28.pdf, https://www.lakewoodco.gov/files/assets/public/v/11/city-clerks-office/pdfs/city-council-votes/2026/2026-lakewood-city-council-ordinances-list-da-compliant.pdf
+
+## Measures — Jeffco Public Schools (Jefferson County School District R-1)
+
+### Ballot Issue 5A: School property tax for staff pay and career programs
+This is a mill levy override, a local property tax increase for schools. It would raise $73 million a year, starting with taxes paid in 2027. Most of the money would go to pay for teachers, support staff and school leaders. About $10 million would expand career and technical education. A citizen committee would review spending and the district would report each year. Jeffco last passed a tax increase like this in 2018.
+Yes means: Property taxes go up to give Jeffco Schools $73 million more per year for staff pay and career programs.
+No means: This school property tax increase does not happen.
+Needs: Majority
+Money: $73 million a year. The district says 5A and 5B together would cost about $3.50 a month per $100,000 of home value (about $42 a year), or about $273 a year on a $650,000 home.
+Supporters: Jeffco Board of Education (voted unanimously to refer; Vice President Erin Kenworthy and member Denine Echevarria spoke in favor)
+Sources: https://www.chalkbeat.org/colorado/2026/08/21/jeffco-school-board-puts-133-million-mill-levy-overrides-on-ballot/, https://www.chalkbeat.org/colorado/2026/10/07/voter-guide-jeffco-public-schools-ballot-issues-5a-5b/, https://www.jeffco.us/4652/On-the-Ballot, https://www.jeffco.us/DocumentCenter/View/59081/2026-General-TABOR-Booklet-PDF, https://www.jeffcopublicschools.org/about/bond-and-mill-levy-overview/2026-mill-levy-override-and-special-mill
+
+### Ballot Issue 5B: School property tax for building repairs, technology and safety
+This is a special property tax for school buildings under the state's Debt Free Schools law. It would raise $60 million in its first year, and the amount could grow with inflation after that. The money must go into a separate fund for repairs, construction, technology and maintenance, such as roofs, heating and cooling, plumbing, parking lots and security. It is pay-as-you-go, not a bond, so no debt is taken on. The same citizen committee as 5A would oversee it.
+Yes means: Property taxes go up to give Jeffco Schools $60 million a year, rising with inflation, for building repairs, technology and safety.
+No means: This school property tax increase does not happen.
+Needs: Majority
+Money: $60 million in the first year, which can rise with inflation. See 5A for the combined cost estimate to homeowners.
+Supporters: Jeffco Board of Education (voted unanimously to refer)
+Sources: https://www.chalkbeat.org/colorado/2026/08/21/jeffco-school-board-puts-133-million-mill-levy-overrides-on-ballot/, https://www.chalkbeat.org/colorado/2026/10/07/voter-guide-jeffco-public-schools-ballot-issues-5a-5b/, https://www.jeffco.us/4652/On-the-Ballot, https://www.jeffco.us/DocumentCenter/View/59081/2026-General-TABOR-Booklet-PDF, https://www.jeffcopublicschools.org/about/bond-and-mill-levy-overview/2026-mill-levy-override-and-special-mill
+
+## Measures — West Metro Fire Protection District
+
+### Ballot Issue 7C: Fire district sales tax for emergency medical and fire services
+This would add a new 0.75% sales tax inside the West Metro Fire district. Groceries, gas and medicine would be exempt. The money would pay for emergency medical and fire response, staffing, safety gear for firefighters and paramedics, rescue equipment, and wildfire response. The district says it faces a $40 million funding gap in 2027 and has not asked voters for new money in over 20 years. A citizen board would review spending monthly, with a yearly independent audit.
+Yes means: A new 0.75% fire district sales tax is added (75 cents on a $100 purchase) to fund fire and emergency medical services.
+No means: No new fire district sales tax.
+Needs: Majority
+Money: Up to $36.3 million in fiscal year 2027, then whatever the tax raises after that. The county's tax notice includes written comments against it, but they are not signed by a named group.
+Supporters: West Metro Fire Protection District (district's ballot information page)
+Sources: https://www.jeffco.us/4652/On-the-Ballot, https://www.jeffco.us/DocumentCenter/View/59081/2026-General-TABOR-Booklet-PDF, https://www.westmetrofire.org/communities-covered, https://www.westmetrofire.org/west-metro-november-ballot-issue
+
+## Measures — Front Range Passenger Rail District
+
+### Ballot Issue 7A: Sales tax and borrowing for Front Range passenger rail
+This would add a 0.333% sales tax (about a third of a cent per dollar) in a district that runs along the Front Range and includes Lakewood. It would also let the district borrow up to $580 million. The money would build and run a planned passenger train, called the Colorado Connector, between Fort Collins and Pueblo. Service between Denver and Fort Collins is planned first. The legislature redrew the district in 2026 to include named cities, including Lakewood.
+Yes means: A new 0.333% district sales tax is added and the district may borrow up to $580 million for Front Range passenger rail.
+No means: No new rail district sales tax or borrowing.
+Needs: Majority of all votes cast across the whole district
+Money: About $295 million a year at first, rising later. Up to $580 million in debt, with total repayment up to about $785 million.
+Supporters: John Putnam, chair of the Front Range Passenger Rail District; Jack Wheeler, president, Colorado Rail Passenger Association
+Opponents: Randal O'Toole, Independence Institute; Denver Gazette Editorial Board
+Sources: https://completecolorado.com/2026/08/27/front-range-rail-district-major-tax-debt-hike/, https://leg.colorado.gov/laws/session-laws/SB26-172/153/download, https://news.ballotpedia.org/2026/09/09/two-multi-county-transit-districts-in-california-and-colorado-will-decide-on-sales-tax-measures-to-fund-public-transportation-projects-in-november/, https://www.jeffco.us/4652/On-the-Ballot
+
+## Candidates in local races: bios, endorsements, money
+
+### Adam Withrow (us-senate) — https://lakewoodvotes.org/people/adam-withrow.html
+Adam Withrow is the Unity Party nominee for U.S. Senate.
+
+### Blake Huber (us-senate) — https://lakewoodvotes.org/people/blake-huber.html
+Blake Huber is the Libertarian nominee for U.S. Senate, an election-reform advocate and co-founder of the Approval Voting Party who says he has worked more than 30 years in management, and he has previously served as a Libertarian Party state chair and national committee member. He was the Approval Voting Party's vice-presidential candidate in 2016, its Colorado secretary of state candidate in 2018, and its presidential candidate in 2020 and 2024 (with running mate Andrea Denault in 2024).
+
+### Bob Chew (us-senate) — https://lakewoodvotes.org/people/bob-chew.html
+Bob Chew is the Forward Party nominee for U.S. Senate; he changed his registration from Republican to Forward in 2025. He is a former Navy nuclear submarine officer and engineer who co-founded an engineering and technical services company in 1996 and served as its CEO. He lives in Boulder.
+
+### Christopher Baum (us-senate) — https://lakewoodvotes.org/people/christopher-baum.html
+Christopher Baum is the Approval Voting Party nominee for U.S. Senate. A candidate profile describes him as a computer consultant and Navy veteran.
+
+### John Hickenlooper (us-senate) — https://lakewoodvotes.org/people/john-hickenlooper.html
+John Hickenlooper is Colorado's incumbent Democratic U.S. senator, elected in 2020, and is seeking a second term. He was governor of Colorado from 2011 to 2019 and was elected mayor of Denver in 2003. Earlier he worked as a geologist and opened a brewpub in Denver's Lower Downtown.
+
+### Mark Baisley (us-senate) — https://lakewoodvotes.org/people/mark-baisley.html
+Mark Baisley is a Republican state senator from Senate District 4 who previously served in the Colorado House; he sought the Republican nomination for governor before switching to the U.S. Senate race in January 2026. He is an aerospace engineer who has worked for NASA and defense contractors, and lives in Woodland Park.
+
+### Brittany Pettersen (us-house-cd7) — https://lakewoodvotes.org/people/brittany-pettersen.html
+Brittany Pettersen, a Democrat, is the incumbent U.S. representative for the 7th Congressional District, first elected in 2022, and is seeking a third term. She previously served in the Colorado House of Representatives (2013-2019) and the Colorado Senate (2019-2023). She grew up in and lives in Jefferson County.
+Endorsements: Colorado AFL-CIO; National Education Association; Colorado Education Association; SEIU Local 105 (SEIU Colorado voter guide)
+Money (FEC, Latest FEC financial summary, 2025-2026 cycle (coverage 2025-01-01 to 2026-06-30); fec.gov did not display the report name in our fetch (coverage end matches the July Quarterly)): raised $1,866,765, spent $1,322,310, cash $1,105,388
+
+### Dan "Kilo" Sallis (us-house-cd7) — https://lakewoodvotes.org/people/dan-kilo-sallis.html
+Dan "Kilo" Sallis is the Libertarian candidate. He is a small business owner based in Jefferson County.
+
+### Joe Krzeczkowski (us-house-cd7) — https://lakewoodvotes.org/people/joe-krzeczkowski.html
+Joe Krzeczkowski is an unaffiliated candidate and a technology executive who lives in Lakewood. He most recently led a community council in Lakewood and supported the Make Lakewood Livable campaign.
+Money (FEC, Latest FEC financial summary, 2025-2026 cycle (coverage 2025-11-12 to 2026-06-30); fec.gov did not display the report name in our fetch (coverage end matches the July Quarterly)): raised $3,531, spent $2,614, cash $916
+
+### Lawrence Kyle Clark (us-house-cd7) — https://lakewoodvotes.org/people/lawrence-kyle-clark.html
+Lawrence Kyle Clark is the American Constitution Party candidate. He is an entrepreneur based in Colorado Springs.
+
+### Susan Hall (us-house-cd7) — https://lakewoodvotes.org/people/susan-hall.html
+Susan Hall is the Unity Party candidate. She is a teacher who was born and raised in Denver.
+
+### Tim Bennett (us-house-cd7) — https://lakewoodvotes.org/people/tim-bennett.html
+Tim Bennett is the Republican nominee and a retired U.S. Army officer who served nearly 30 years and retired in 2018. He was elected in 2025 to the Lewis-Palmer School District 38 Board of Education and lives in Monument.
+Money (FEC, Latest FEC financial summary, 2025-2026 cycle (coverage 2026-01-01 to 2026-06-30); fec.gov did not display the report name in our fetch (coverage end matches the July Quarterly)): raised $63,306, spent $61,981, cash $1,325
+
+### Eric Mulder (governor) — https://lakewoodvotes.org/people/eric-mulder.html
+Eric Mulder, the Libertarian nominee for governor, is a U.S. Army veteran who served in Afghanistan as a chaplain's assistant and a small-business owner from Aurora. He previously served on the City of Aurora's Veterans Affairs and Civic Engagement Commission.
+
+### Erik Underwood (governor) — https://lakewoodvotes.org/people/erik-underwood.html
+Erik Underwood, the Approval Voting Party nominee for governor, is a technology entrepreneur who describes himself as the owner and patent holder of Vurbil's AI technology; a candidate profile also lists him as chairman of Illmatic Ventures and CEO of My24HourNews.com. He previously worked in the U.S. Senate.
+
+### Frank Atwood (governor) — https://lakewoodvotes.org/people/frank-atwood.html
+Frank Atwood, the Approval Voting Party nominee for lieutenant governor, co-founded the Approval Voting Party and is listed as a lobbyist for Approval Voting USA. He was the party's presidential candidate in 2016 and vice-presidential candidate in 2020, and ran for U.S. Senate in 2022 and Colorado's 4th Congressional District in 2024.
+
+### George Washington Markert (governor) — https://lakewoodvotes.org/people/george-washington-markert.html
+George Markert, Victor Marx's Republican running mate for lieutenant governor, is a retired Marine Corps colonel with 30 years of service. He lives in Broomfield, moved to Colorado about three years ago, and sought the 2026 Republican U.S. Senate nomination but did not make the primary ballot.
+
+### Greg Lopez (governor) — https://lakewoodvotes.org/people/greg-lopez.html
+Greg Lopez of Elizabeth is running for governor as an unaffiliated candidate after leaving the Republican Party. He represented Colorado's 4th Congressional District for the last six months of 2024 after winning a special election, and was mayor of Parker in the 1990s. He describes himself as an Air Force veteran and small-business owner.
+
+### James K Treibert (governor) — https://lakewoodvotes.org/people/james-k-treibert.html
+James K Treibert is the American Constitution Party nominee for lieutenant governor. BallotReady lists earlier candidacies for CU Regent at-large (2018), Thornton mayor (2019) and State Board of Education District 8 (2022).
+
+### Jeff Peckman (governor) — https://lakewoodvotes.org/people/jeff-peckman.html
+Jeff Peckman, the Unity Party nominee for governor, is a Denver-based entrepreneur, consultant and author who sponsored Denver's 2010 ballot initiative to create an extraterrestrial-affairs commission. He previously ran for U.S. Senate in 1998 (Natural Law Party), the state House in 2004 and Denver mayor in 2011.
+
+### Lesley Dahlkemper (governor) — https://lakewoodvotes.org/people/lesley-dahlkemper.html
+Lesley Dahlkemper, Phil Weiser's Democratic running mate for lieutenant governor, has been a Jefferson County commissioner since 2019. She previously served on the Jeffco Public Schools board of education and has lived in Jefferson County for 30 years.
+
+### Phil Weiser (governor) — https://lakewoodvotes.org/people/phil-weiser.html
+Phil Weiser, the Democratic nominee for governor, has been Colorado's attorney general since 2019 and is term-limited. He previously was dean of the University of Colorado Law School, held senior positions at the U.S. Department of Justice, and clerked for U.S. Supreme Court Justices Byron White and Ruth Bader Ginsburg. He lives in Denver.
+
+### Stephen T. Hamilton (governor) — https://lakewoodvotes.org/people/stephen-t-hamilton.html
+Stephen T. Hamilton is the American Constitution Party nominee for governor, with James K Treibert as his running mate.
+
+### T.J. Cole (governor) — https://lakewoodvotes.org/people/t-j-cole.html
+Tijani "T.J." Cole, the Unity Party nominee for lieutenant governor, is an attorney who has served as a judge on the Wheat Ridge Municipal Court and the Boulder District Court, founded Denver Justice High School, and chairs the Unity Party of Colorado. He was the Unity Party's candidate for CU Regent at-large in 2024 and for U.S. Senate in 2022.
+
+### Taralyn Romero (governor) — https://lakewoodvotes.org/people/taralyn-romero.html
+Taralyn Romero, Greg Lopez's running mate for lieutenant governor, is a Jefferson County property-rights activist and health care worker.
+
+### Victor Marx (governor) — https://lakewoodvotes.org/people/victor-marx.html
+Victor Marx, the Republican nominee for governor, is a Marine Corps veteran and first-time candidate who leads All Things Possible Ministries, a nonprofit based in Colorado Springs. He previously worked as an assistant to James Dobson at Focus on the Family.
+
+### Wayne Harlos (governor) — https://lakewoodvotes.org/people/wayne-harlos.html
+Wayne Harlos, the Libertarian nominee for lieutenant governor, is a real estate agent who lives in Castle Rock and is a former chair of the Libertarian Party of Colorado. BallotReady lists earlier candidacies for Castle Rock Town Council (2018) and state Senate District 4 (2020).
+
+### Amanda Campbell (secretary-of-state) — https://lakewoodvotes.org/people/amanda-campbell.html
+Amanda Campbell is the American Constitution Party nominee for secretary of state, an office she also ran for in 2018 and 2022. A Colorado native, she describes herself as a former business owner.
+
+### Amanda Gonzalez (secretary-of-state) — https://lakewoodvotes.org/people/amanda-gonzalez.html
+Amanda Gonzalez, a Democrat, is the Jefferson County clerk and recorder, an office she won in 2022. An attorney, she was executive director of Colorado Common Cause from 2018 to 2021 and is an adjunct law professor at the University of Denver.
+
+### Celeste Landry (secretary-of-state) — https://lakewoodvotes.org/people/celeste-landry.html
+Celeste Landry, of Boulder, is the Forward Party nominee. She has worked as a math teacher and a manufacturing production scheduler, and has been a volunteer lobbyist on election issues, including with the League of Women Voters, and a leader of groups that advocate for alternative voting methods.
+
+### James Wiley (secretary-of-state) — https://lakewoodvotes.org/people/james-wiley.html
+James Wiley is the Republican nominee and a former executive director of the Libertarian Party of Colorado who switched parties to run. He holds a degree and an MBA from CSU-Pueblo, has worked as a business consultant, and has been involved in election-related lawsuits and advocacy, including founding a group called the Union of Ballot Counters.
+
+### Sean Vadney (secretary-of-state) — https://lakewoodvotes.org/people/sean-vadney.html
+Sean Vadney, of Highlands Ranch, is a musician and small business owner who has been involved with the Libertarian Party of Colorado since 2019 and has served as its communications director. The party's vacancy committee named him its nominee after primary winner Alex Astley withdrew.
+
+### Jeff Bridges (state-treasurer) — https://lakewoodvotes.org/people/jeff-bridges.html
+Jeff Bridges, a Democrat from Greenwood Village, has represented Senate District 26 in the Colorado Senate since 2019 and serves on the legislature's Joint Budget Committee. He served in the Colorado House from 2017 to 2019 and earlier worked for U.S. Sen. Ken Salazar and for Union Theological Seminary.
+
+### Jodie Barr (state-treasurer) — https://lakewoodvotes.org/people/jodie-barr.html
+Jodie Barr is the Libertarian nominee for state treasurer and, according to Colorado Politics, has run a small business and studied state and municipal finance.
+
+### Kevin Grantham (state-treasurer) — https://lakewoodvotes.org/people/kevin-grantham.html
+Kevin Grantham, a Republican from Cañon City, has been a Fremont County commissioner since 2021. He served in the Colorado Senate from 2011 to 2019, including as Senate president in 2017 and 2018, and served on the Joint Budget Committee.
+
+### Jena Griswold (attorney-general) — https://lakewoodvotes.org/people/jena-griswold.html
+Jena Griswold, a Democrat, has been Colorado secretary of state since 2019 and is term-limited in that office. An attorney who grew up in Estes Park, she previously practiced international anti-corruption law in Washington, D.C., and directed the Colorado governor's Washington, D.C., office.
+
+### Michael J. Allen (attorney-general) — https://lakewoodvotes.org/people/michael-j-allen.html
+Michael J. Allen, a Republican, has been district attorney for the 4th Judicial District (El Paso and Teller counties) since 2021; he was first elected in 2020 and re-elected in 2024. He served eight years in the U.S. Navy and worked as a consumer protection attorney in the Kansas Attorney General's Office.
+
+### Karla Esser (sboe-cd7) — https://lakewoodvotes.org/people/karla-esser.html
+Karla Esser, a Democrat from Lakewood, has represented the 7th Congressional District on the State Board of Education since January 2021. She has worked in education for more than 35 years as a teacher, school and district administrator and professor, and recently retired as director of the Master of Arts in Education program at Regis University.
+
+### Ross Klopf (sboe-cd7) — https://lakewoodvotes.org/people/ross-klopf.html
+Ross Klopf, a Libertarian, is a civil engineer who has worked for about 25 years in water resources and transportation. He was previously active with the Libertarian Party of Jefferson County.
+
+### Steve Barton (sboe-cd7) — https://lakewoodvotes.org/people/steve-barton.html
+Steve Barton, a Republican, is a patent attorney who most recently worked at Cozen O'Connor and earlier at Lathrop GPM, after working as an engineer at Intel and Ford Microelectronics. He holds degrees in engineering, law, medicine and business, and lists himself as vacancy chair of the Fremont County Republican Central Committee.
+
+### BetteRose Ryan (cu-regent-cd7) — https://lakewoodvotes.org/people/betterose-ryan.html
+BetteRose Ryan, a Libertarian, is an Army veteran who studied mathematics at Metropolitan State University of Denver. She was a Libertarian candidate for Colorado State Senate District 20 in 2022.
+
+### Nolbert Chavez (cu-regent-cd7) — https://lakewoodvotes.org/people/nolbert-chavez.html
+Nolbert Chavez, a Democrat from Lakewood, has represented the 7th Congressional District on the University of Colorado Board of Regents since 2021. He is chief of external initiatives and executive director of CityCenter at CU Denver, and served four terms in the Colorado House of Representatives from 1995 to 2002.
+
+### Paul Mueller (cu-regent-cd7) — https://lakewoodvotes.org/people/paul-mueller.html
+Paul Mueller, a Republican from Leadville, is a senior research fellow at the American Institute for Economic Research and owns a bed and breakfast in Leadville. He holds a Ph.D. in economics from George Mason University and previously taught at The King's College in New York City.
+
+### Richard (Rich) Mancuso (sd-20) — https://lakewoodvotes.org/people/richard-rich-mancuso.html
+Republican candidate for Colorado Senate District 20. His campaign says he is a U.S. Army veteran who served as a combat medic, worked in financial services, taught American history at D'Evelyn Junior/Senior High School, and has chaired the Jefferson County Liquor Board.
+Money (TRACER, TRACER Quick Stats, Colorado Senate Districts - 11/03/2026 Election (report footer dated 9/22/2026)): raised $11,716, spent $6,492, cash —
+
+### Sheila Lieder (sd-20) — https://lakewoodvotes.org/people/sheila-lieder.html
+Democratic state representative for House District 28 since January 2023, elected in 2022 and re-elected in 2024; she is running for the Senate District 20 seat held by Sen. Lisa Cutter, who is not seeking re-election. Ballotpedia lists a career in the telecom industry and work as legislative and political director for the Communications Workers of America in Colorado and Wyoming.
+Endorsements: Colorado AFL-CIO; Planned Parenthood Votes Colorado; Conservation Colorado; Cobalt Advocates; One Colorado PAC; Colorado Education Association; SEIU Local 105 (SEIU Colorado voter guide); UFCW Local 7; Colorado WINS
+Money (TRACER, September 8, 2026 - Report of Contributions and Expenditures): raised $108,765, spent $26,056, cash $82,709
+Money (TRACER, TRACER Quick Stats, Colorado Senate Districts - 11/03/2026 Election (report footer dated 9/22/2026)): raised $114,840, spent $29,010, cash —
+
+### Monica Irasema Duran (sd-22) — https://lakewoodvotes.org/people/monica-irasema-duran.html
+Democratic state representative since 2019, for House District 24 (2019-2023) and House District 23 (2023-present), and House Majority Leader since 2023; she is term-limited in the House and running for the Senate District 22 seat held by term-limited Sen. Jessie Danielson. She previously served on the Wheat Ridge City Council and worked in the dental industry for more than 30 years.
+Endorsements: Planned Parenthood Votes Colorado; One Colorado PAC; Colorado Chamber PAC; SEIU Local 105 (SEIU Colorado voter guide); Colorado WINS; Sen. Jeff Bridges (campaign claim); Sen. Robert Rodriguez (campaign claim); Sen. Dafna Michaelson Jenet (campaign claim); Sen. Dylan Roberts (campaign claim); Sen. Chris Kolker (campaign claim); Sen. Jessie Danielson (campaign claim); Sen. Lisa Cutter (campaign claim); Sen. Kyle Mullica (campaign claim); Sen. Cathy Kipp (campaign claim); Sen. Judy Amabile (campaign claim); Sen. Lindsey Daugherty (campaign claim); Sen. Marc Synder (campaign claim); Sen. Iman Jodeh (campaign claim); Rep. Andrew Boesenecker (campaign claim); Rep. Chad Clifford (campaign claim); Rep. Elizabeth Velasco (campaign claim); Rep. Javier Mabrey (campaign claim); Rep. Jenny Willford (campaign claim); Rep. Kyle Brown (campaign claim); Rep. Mandy Lindsay (campaign claim); Rep. Matthew Martinez (campaign claim); Rep. Meg Froelich (campaign claim); Rep. Meghan Lukens (campaign claim); Rep. Sean Camacho (campaign claim); Rep. Naquetta Ricks (campaign claim); Rep. Shannon Bird (campaign claim); Rep. Sheila Lieder (campaign claim); Rep. Tammy Story (campaign claim); Rep. Tisha Mauro (campaign claim); Rep. William Lindstedt (campaign claim); Rep. Brianna Titone (campaign claim); Rep. Dr. Regina English (campaign claim); Rep. Lisa Feret (campaign claim); Rep. Rebekah Stewart (campaign claim); Rep. Steven Woodrow (campaign claim); Rep. Cecelia Espenoza (campaign claim); Rep. Michael Carter (campaign claim); Rep. Leslie Smith (campaign claim); Rep. Jacque Phillips (campaign claim); Rep. Emily Sirota (campaign claim); Rep. Gretchen Rydin (campaign claim); Rep. Katie Stewart (campaign claim); Rep. Alex Valdez (campaign claim); Rep. Amy Paschal (campaign claim); Rep. Karen McCormick (campaign claim); Rep. Jamie Jackson (campaign claim); Rep. Eliza Hamrick (campaign claim); Rep. Lindsay Gilchrist (campaign claim); Rep. Yara Zokaie (campaign claim); Andy Kerr (campaign claim); Lesley Dahlkemper (campaign claim); Tracy Kraft-Tharp (campaign claim); Rachel Zenzinger (campaign claim); Dr. Annette Cannon (campaign claim); Jerry DiTullio (campaign claim); Bud Starker (campaign claim); Wendi Strom (campaign claim); David Rein (campaign claim); Glenda Sinks (campaign claim); Isabel Cruz (campaign claim); Jacob LaBure (campaign claim); Jeslin Shahrezaei (campaign claim); Roger Low (campaign claim); Sophia Mayott-Guerrero (campaign claim); Hannah Gay Keao (campaign claim); Former Sen. Betty Boyd (campaign claim); Former Rep. Stephanie Vigil (campaign claim)
+Money (TRACER, TRACER Quick Stats, Colorado Senate Districts - 11/03/2026 Election (report footer dated 9/22/2026)): raised $108,131, spent $67,534, cash —
+
+### Steve Harkess (sd-22) — https://lakewoodvotes.org/people/steve-harkess.html
+Republican candidate for Colorado Senate District 22. His campaign website gives no biographical details.
+Money (TRACER, TRACER Quick Stats, Colorado Senate Districts - 11/03/2026 Election (report footer dated 9/22/2026)): raised $350, spent $214, cash —
+
+### Alexis Hoffkling (hd-23) — https://lakewoodvotes.org/people/alexis-hoffkling.html
+Democratic candidate for the open House District 23 seat, which term-limited Rep. Monica Duran is leaving. Her campaign says she is a family doctor at a community health center that is part of Denver Health, teaches medical students and residents, and lives in Wheat Ridge.
+Endorsements: Colorado AFL-CIO; Planned Parenthood Votes Colorado; Conservation Colorado; Cobalt Advocates; Colorado Chamber PAC; Colorado Education Association; SEIU Local 105 (SEIU Colorado voter guide); Colorado WINS; LGBTQ+ Victory Fund; RMEQ Action Fund; One Colorado PAC
+Money (TRACER, TRACER Quick Stats, Colorado House Districts - 11/03/2026 Election (report footer dated 10/5/2026)): raised $120,270, spent $54,202, cash —
+
+### Ross Metler (hd-23) — https://lakewoodvotes.org/people/ross-metler.html
+Libertarian candidate for House District 23. His campaign says he is a software developer and data analyst who lives in Wheat Ridge, chairs the Jefferson County affiliate of the Libertarian Party of Colorado and serves as the state party's legislative director.
+Money (TRACER, TRACER Quick Stats, Colorado House Districts - 11/03/2026 Election (report footer dated 10/5/2026)): raised $2,980, spent $2,018, cash —
+
+### David Rein (hd-28) — https://lakewoodvotes.org/people/david-rein.html
+Democratic candidate for House District 28, the seat Rep. Sheila Lieder is leaving to run for the state Senate. He is the Lakewood City Council member for Ward 4, first elected in November 2023, and a lawyer; he previously served six years on the Lakewood Advisory Commission.
+Endorsements: Colorado AFL-CIO; Planned Parenthood Votes Colorado; Cobalt Advocates; Colorado Chamber PAC; Colorado Education Association; SEIU Local 105 (SEIU Colorado voter guide); Colorado WINS; One Colorado PAC
+Money (TRACER, October 6, 2026 - Report of Contributions and Expenditures): raised $54,206, spent $4,972, cash $51,733
+
+### Rebekah Stewart (hd-30) — https://lakewoodvotes.org/people/rebekah-stewart.html
+Democratic state representative for House District 30 since January 2025 (elected 2024), running for re-election. She is a board-certified music therapist and a former member of the Lakewood City Council.
+Endorsements: Planned Parenthood Votes Colorado; Conservation Colorado; Cobalt Advocates; Colorado Chamber PAC; Colorado Education Association; One Colorado PAC
+Money (TRACER, September 21, 2026 - Report of Contributions and Expenditures): raised $63,932, spent $41,480, cash $54,304
+
+### William Tyler Switzer (hd-30) — https://lakewoodvotes.org/people/william-tyler-switzer.html
+Republican candidate for House District 30. His campaign says he lives in Lakewood, holds a master's degree in public policy and has worked in business, including startups; it lists no prior elected office.
+Money (TRACER, TRACER Quick Stats, Colorado House Districts - 11/03/2026 Election (report footer dated 10/5/2026)): raised $4,793, spent $737, cash —
+
+### Lisa A. Cutter (jeffco-commissioner-d3) — https://lakewoodvotes.org/people/lisa-a-cutter.html
+Lisa Cutter, a Democrat, is a Colorado state senator representing Senate District 20 (since January 2023) and previously served in the Colorado House, District 25, from 2019 to 2023. Her campaign says she runs a communications firm and lives in Jefferson County.
+Endorsements: Denver Area Labor Federation; Conservation Colorado
+
+### Stephanie VandenBerg (jeffco-commissioner-d3) — https://lakewoodvotes.org/people/stephanie-vandenberg.html
+Stephanie VandenBerg is the Republican nominee for Jefferson County Commissioner, District 3. She is a certified public accountant who owns a small business in Jefferson County, and she previously served as treasurer of a Jeffco charter school. Her campaign says her family has lived in Jefferson County since 2014 and in Deer Creek Canyon since 2018.
+
+### Nicole Hensel (jeffco-clerk) — https://lakewoodvotes.org/people/nicole-hensel.html
+Nicole Hensel is the Democratic nominee for Jefferson County Clerk and Recorder. Her campaign describes her as a former teacher, organizer and nonprofit leader who has worked on election-protection and voting-policy efforts.
+Endorsements: Denver Area Labor Federation; Brittany Pettersen (campaign claim); George Stern (campaign claim); Pam Anderson (campaign claim); Lesley Dahlkemper (campaign claim); Andy Kerr (campaign claim); Rachel Zenzinger (campaign claim); Jerry DiTullio (campaign claim); Reggie Marinelli (campaign claim); Scot Kersgaard (campaign claim); Monica Duran (campaign claim); Lisa Cutter (campaign claim); Jessie Danielson (campaign claim); Lindsey Daugherty (campaign claim); Betty Boyd (campaign claim); Sheila Lieder (campaign claim); Lisa Feret (campaign claim); Lorena Garcia (campaign claim); Rebekah Stewart (campaign claim); Gretchen Rydin (campaign claim); Javier Mabrey (campaign claim); Paul Lopez (campaign claim); Molly Fitzpatrick (campaign claim); Josh Zygielbaum (campaign claim); Michael Dougherty (campaign claim); Lauren Simpson (campaign claim); Laura Weinberg (campaign claim); Claire Carmelia (campaign claim); Jeslin Shahrezaei (campaign claim); Dave Rein (campaign claim); Isabel Cruz (campaign claim); Roger Low (campaign claim); Sophia Mayott-Guerrero (campaign claim); Hannah Gay Keao (campaign claim); Obi Ezeadi (campaign claim); Val Nosler Beck (campaign claim); Danielle Varda (campaign claim); Karla Esser (campaign claim); Elliott Hood (campaign claim)
+
+### Paul Poston (jeffco-clerk) — https://lakewoodvotes.org/people/paul-poston.html
+Paul Poston is the Republican nominee for Jefferson County Clerk and Recorder.
+
+### Eric Proctor (jeffco-treasurer) — https://lakewoodvotes.org/people/eric-proctor.html
+Eric Proctor is the Democratic nominee for Jefferson County Treasurer. He describes himself as a community banker and a former public school teacher, and he has held Democratic Party posts including Jefferson County Democratic Party secretary.
+Endorsements: Denver Area Labor Federation
+
+### Murl Hendrickson (jeffco-treasurer) — https://lakewoodvotes.org/people/murl-hendrickson.html
+Murl Hendrickson is the Libertarian Party candidate for Jefferson County Treasurer. His campaign says he lives in Arvada, works as an associate financial representative, holds a B.A. in economics from the University of Colorado, and is completing Certified Financial Planner certification.
+Endorsements: Janak Joshi (campaign claim); Lori Saine (campaign claim); Cody LeBlanc (campaign claim); Peg Cage (campaign claim)
+
+### Andy Kerr (jeffco-assessor) — https://lakewoodvotes.org/people/andy-kerr.html
+Andy Kerr, a Democrat, is the Jefferson County Commissioner for District 2, a seat he has held since 2021. He served in the Colorado House (District 26) from 2006 to 2013 and the Colorado Senate (District 22) from 2013 to 2019, and he previously taught in Jeffco Public Schools.
+Endorsements: Denver Area Labor Federation; Brittany Pettersen (campaign claim); Jason Crow (campaign claim); Diana DeGette (campaign claim); Joe Neguse (campaign claim); Dave Young (campaign claim); Karla Esser (campaign claim); Nolbert Chavez (campaign claim); Ilana Spiegel (campaign claim); Elliot Hood (campaign claim); Irene Griego (campaign claim); Jane Goff (campaign claim); Terrance Carroll (campaign claim); Mark Ferrandino (campaign claim); Ed Perlmutter (campaign claim); Jessie Danielson (campaign claim); Nancy Todd (campaign claim); Betty Boyd (campaign claim); Louis Court (campaign claim); Lucia Guzman (campaign claim); Deanna Hanna (campaign claim); Sue Windels (campaign claim); Sara Gagliardi (campaign claim); Sue Schafer (campaign claim); Max Tyler (campaign claim); Monica Duran (campaign claim); Lisa Cutter (campaign claim); Brianna Titone (campaign claim); Sheila Lieder (campaign claim); Rebekah Stewart (campaign claim); Lisa Feret (campaign claim); Danielle Varda (campaign claim); Lesley Dahlkemper (campaign claim); Rachel Zenzinger (campaign claim); Annette Cannon (campaign claim); Jerry DiTullio (campaign claim); Alexis King (campaign claim); Eva Henry (campaign claim); Steve O'Doriso (campaign claim); Lauren Simpson (campaign claim); Sharon Davis (campaign claim); Bob Fifer (campaign claim); Randy Moorman (campaign claim); Shawna Ambrose (campaign claim); Hannah Gay Keao (campaign claim); Kris Teegardin (campaign claim); Reggie Marinelli (campaign claim); Laura Weinberg (campaign claim); Jim Dale (campaign claim); J.J. Trout (campaign claim); Jacob LaBure (campaign claim); Dave Rein (campaign claim); Bill Furman (campaign claim); Jeslin Shahrezaei (campaign claim); Wendi Strom (campaign claim); Liz Black (campaign claim); Roger Low (campaign claim); Isabel Cruz (campaign claim); Ken Cruz (campaign claim); Cindy Baroway (campaign claim); Adam Paul (campaign claim); Dana Gutwein (campaign claim); Sharon Vincent (campaign claim); Erin Kenworthy (campaign claim); Mary Parker (campaign claim); Obi Ezeadi (campaign claim); Amber Hott (campaign claim); Kathryn Skulley (campaign claim); Rachel Hultin (campaign claim); Pat Quinn (campaign claim); Scott Ohm (campaign claim); Janeece Hoppe (campaign claim); Val Nosler Beck (campaign claim); Emilie Mitcham (campaign claim); Cassie Tanner (campaign claim); Mike Feeley (campaign claim); Pam Feely (campaign claim); Marta Murray (campaign claim); Carolyn Wolfrum (campaign claim)
+
+### Greg Ketcham (jeffco-assessor) — https://lakewoodvotes.org/people/greg-ketcham.html
+Greg Ketcham is an unaffiliated candidate for Jefferson County Assessor. His campaign says he is a certified general appraiser who has worked as a residential and commercial appraiser in the Jefferson County Assessor's Office since 2017, and that he was born and raised in Littleton.
+
+### Vera King (jeffco-assessor) — https://lakewoodvotes.org/people/vera-king.html
+Vera King is the Republican nominee for Jefferson County Assessor. The Critical Report describes her as a community advocate.
+
+### Randall Doizaki (jeffco-sheriff) — https://lakewoodvotes.org/people/randall-doizaki.html
+Randall Doizaki is the Republican nominee for Jefferson County Sheriff. His campaign says he is a Marine Corps veteran and a retired lieutenant with more than 23 years at the Arapahoe County Sheriff's Office, and that he is currently a lieutenant in Denver Public Schools' Department of Climate and Safety.
+
+### Regina "Reggie" Marinelli (jeffco-sheriff) — https://lakewoodvotes.org/people/regina-reggie-marinelli.html
+Reggie Marinelli, a Democrat, has been Jefferson County Sheriff since January 2023 and is seeking re-election. According to the Sheriff's Office, she has worked there for more than 36 years, with supervisory roles in patrol, detentions, investigations and support services, and she commanded the West Metro Drug Task Force from 2012 to 2015.
+Money (TRACER, August 4, 2026 - Report of Contributions and Expenditures): raised $6,028, spent $2,221, cash $7,312
+
+### Robert Hennessy (jeffco-surveyor) — https://lakewoodvotes.org/people/robert-hennessy.html
+Robert Hennessy, a Republican, is the Jefferson County Surveyor and is unopposed on the ballot. BallotReady lists him as surveyor since 2020 and as a professional land surveyor with Rick Engineering Company.
+
+### Allison Harmon (jeffco-coroner) — https://lakewoodvotes.org/people/allison-harmon.html
+Allison Harmon is the Republican nominee for Jefferson County Coroner and has cited her experience as a nurse. She announced on June 1 that she was withdrawing because she does not hold the certification a 2024 state law (HB 24-1100) requires of coroners in larger counties, but she did not file to remove her name and remains on the ballot; the county Republican chair says the party wants her to stay in to challenge the law in court.
+
+### Nick Lobello (jeffco-coroner) — https://lakewoodvotes.org/people/nick-lobello.html
+Nick Lobello is the Democratic nominee for Jefferson County Coroner. He is a former chief deputy coroner (eight years, per his campaign) and a board-certified medicolegal death investigator; his campaign also lists past work as a firefighter/paramedic and a licensed practical nurse.
+Endorsements: Denver Area Labor Federation; Annette Cannon (campaign claim); Lesley Dahlkemper (campaign claim); Rachel Zenzinger (campaign claim); Andy Kerr (campaign claim); Reggie Marinelli (campaign claim); Jerry DiTullio (campaign claim); Lisa Cutter (campaign claim); Dave Rein (campaign claim)
+
+
+## Past elections (results)
+
+### April 7, 2026 Lakewood special election (zoning referendum)
+Lakewood voters decided four referendum questions on whether to repeal the four ordinances in the City Council's 2025 zoning code update. Voters repealed all four, each by about 62% to 38%, so the prior zoning code remains in effect.
+- Question 1 (City of Lakewood): Repeal zoning Ordinance 2025-27: Building and site design, parking, signs and other standards (Articles 6-14) — passed, yes 22,310, no 13,357
+- Question 2 (City of Lakewood): Repeal zoning Ordinance 2025-28: Zoning code purpose, procedures, use and dimensional standards (Articles 1, 2, 4 and 5) — passed, yes 22,198, no 13,487
+- Question 3 (City of Lakewood): Repeal zoning Ordinance 2025-29: Zone districts (Article 3) — passed, yes 22,294, no 13,372
+- Question 4 (City of Lakewood): Repeal zoning Ordinance 2025-30: New zoning map and rezoning — passed, yes 22,245, no 13,409
+Sources: https://coloradosun.com/2026/04/08/lakewood-housing-voters-strike-down-pro-density-zoning/, https://denverite.com/2026/04/02/lakewood-development-special-election-explainer/, https://www.coloradopolitics.com/2026/01/13/lakewood-zoning-petitions-deemed-sufficient-may-lead-to-special-election/, https://www.coloradopolitics.com/2026/02/10/lakewood-city-council-urges-residents-to-keep-zoning-changes, https://www.denvergazette.com/2026/01/27/lakewood-zoning-changes-heading-to-special-election/, https://www.denvergazette.com/2026/04/08/officials-residents-respond-to-lakewood-rezoning-special-election-results/, https://www.jeffcotranscript.com/news/article_34cd2a1b-03f9-4640-8086-551caa3b08a1.html, https://www.lakewoodco.gov/SpecialElection
+
+### November 4, 2025 Lakewood city election (coordinated election)
+Lakewood voters chose City Council members in all five wards; four incumbents were reelected and Liz Black won the open Ward 2 seat. Voters also chose three Jeffco Public Schools board members and decided two statewide measures, Propositions LL and MM, which both passed. There were no City of Lakewood ballot questions.
+- Lakewood City Council (Ward 1): won by Jeslin Shahrezaei. Jeslin Shahrezaei 6,131
+- Lakewood City Council (Ward 2): won by Liz Black. Liz Black 4,485
+- Lakewood City Council (Ward 3): won by Ken Cruz. Ken Cruz 4,182; Pedro "Pete" Roybal 2,249; Bonnie Nguyen 1,742
+- Lakewood City Council (Ward 4): won by Bill Furman. Bill Furman 7,208; Ariel Manzanares-Scisney 1,388; Desirée González 1,266; Nick Munden (qualified write-in) 16
+- Lakewood City Council (Ward 5): won by Paula Nystrom. Paula Nystrom 6,014; Karen Gordey 2,860
+- Jeffco Public Schools Board of Education (Director District 1): won by Denine Echevarria. Denine Echevarria 88,689; Michael Yocum 48,865
+- Jeffco Public Schools Board of Education (Director District 2): won by Peter Gibbins. Peter Gibbins 97,888; Samuel Myrant 46,072
+- Jeffco Public Schools Board of Education (Director District 5): won by Tina Moeinian. Tina Moeinian —; Mary Parker 45,678; Gloria "Terri" Rascon 39,928
+- Proposition LL (State of Colorado): Keep revenue already collected for Healthy School Meals for All — passed, yes 1,116,209, no 569,836
+- Proposition MM (State of Colorado): Further limit income tax deductions for high earners to fund school meals and food aid — passed, yes 1,010,644, no 681,400
+Sources: https://coloradosos.gov/pubs/newsRoom/pressReleases/2025/PR20251126ElectionResults.html, https://denverite.com/2026/04/02/lakewood-development-special-election-explainer/, https://spl.cde.state.co.us/artemis/goserials/go4312internet/go43122025023internet.pdf, https://www.coloradopolitics.com/2025/11/05/westminster-elects-new-mayor-jeffco-pick-new-school-leaders/, https://www.coloradopolitics.com/2026/01/13/lakewood-zoning-petitions-deemed-sufficient-may-lead-to-special-election/, https://www.denvergazette.com/2025/11/26/lakewood-swears-in-new-city-councilmembers/, https://www.jeffco.us/578/Election-Results, https://www.jeffco.us/DocumentCenter/View/53584/2025-Coordinated-Sample-Ballot-PDF, https://www.jeffco.us/DocumentCenter/View/54798, https://www.jeffco.us/DocumentCenter/View/54926, https://www.jeffcopublicschools.org/about/board-of-education/board-elections, https://www.jeffcotranscript.com/news/article_34cd2a1b-03f9-4640-8086-551caa3b08a1.html, https://www.jeffcotranscript.com/news/article_36055c24-47f5-4466-b8fe-3f93a60c1c3c.html, https://www.jeffcotranscript.com/news/article_472a9e4d-1958-4325-91e7-13d846467b57.html, https://www.lakewood.org/Government/Departments/City-Clerks-Office/Elections/2024-General-Election, https://www.lakewoodco.gov/City-Hall/City-Council/City-Council-Members/Mayor-Wendi-Strom, https://www.lakewoodco.gov/City-Hall/Departments/City-Clerks-Office/Elections
+
+### November 5, 2024 general election
+Lakewood voters chose a president, their member of Congress (CD-7), a CU regent, state representatives and two Jefferson County commissioners, and voted on 14 statewide measures. Locally, voters approved Lakewood Ballot Issue 2A, which lets the city keep revenue above its TABOR limit permanently, along with Jefferson County 1A and RTD 7A, which made similar changes for the county and RTD.
+- President and Vice President of the United States: won by Kamala D. Harris / Tim Walz. Kamala D. Harris / Tim Walz 210,875; Donald J. Trump / JD Vance 140,505; Robert F. Kennedy Jr. / Nicole Shanahan 4,251; Chase Russell Oliver / Mike ter Maat 2,785; Jill Stein / Rudolph Ware 1,949; Cornel West / Melina Abdullah 529; Randall Terry / Stephen E. Broden 407; Blake Huber / Andrea Denault 203; Peter Sonski / Lauren Onak (write-in) 121; Claudia De la Cruz / Karina Garcia (write-in) 90; Bill Frankel / Steve Jenkins (write-in) 1
+- U.S. Representative (Congressional District 7): won by Brittany Pettersen. Brittany Pettersen 178,809; Sergei Matveyuk 116,297; Patrick Bohan 7,059; Ron Tupa 4,032; Patrick Flaherty (write-in) 29
+- Regent of the University of Colorado (At large): won by Elliott Hood. Elliott Hood 179,308; Eric Rinard 144,171; T.J. Cole 6,749; Thomas Reasoner 3,347
+- Colorado State Representative (House District 23): won by Monica Irasema Duran. Monica Irasema Duran 31,854; Cory Ohnesorge 18,073
+- Colorado State Representative (House District 28): won by Sheila Lieder. Sheila Lieder 26,960; Peter Boddie 24,066
+- Colorado State Representative (House District 30): won by Rebekah Stewart. Rebekah Stewart 26,647; Ramey Johnson 16,162
+- Jefferson County Commissioner (District 1): won by Rachel Zenzinger. Rachel Zenzinger 187,145; Charlie Johnson 143,570; Orion Schalhamer 7,716; Eric Bodenstab 3,522
+- Jefferson County Commissioner (District 2): won by Andy Kerr. Andy Kerr 188,220; Natalie Menten 146,803
+- District Attorney (1st Judicial District (Jefferson and Gilpin counties)): won by Alexis King. Alexis King 228,841
+- RTD Board of Directors (District M): won by Brett Paglieri. Brett Paglieri 70,897; Richard "Dick" Shuster (write-in) 589
+- RTD Board of Directors (District D): won by Chris D. Gutschenritter. Chris D. Gutschenritter 2,930; Barbara McManus 2,552
+- Ballot Issue 2A (City of Lakewood): Keep revenue above TABOR limits permanently — passed, yes 51,365, no 31,686
+- Ballot Issue 1A (Jefferson County): County keeps revenue above TABOR limits — passed, yes 197,090, no 143,822
+- Ballot Issue 7A (Regional Transportation District (RTD)): RTD keeps revenue above TABOR limits — passed, yes 209,659, no 130,970
+- Amendment G (State of Colorado): Veterans' property tax exemption — passed, yes 251,028, no 96,456
+- Amendment H (State of Colorado): Judicial discipline board — passed, yes 245,332, no 92,857
+- Amendment I (State of Colorado): No bail for first-degree murder — passed, yes 244,135, no 100,932
+- Amendment J (State of Colorado): Remove same-sex marriage ban — passed, yes 244,903, no 107,952
+- Amendment K (State of Colorado): Petition and retention deadlines — failed, yes 152,129, no 179,816
+- Amendment 79 (State of Colorado): Right to abortion — passed, yes 232,101, no 122,900
+- Amendment 80 (State of Colorado): Right to school choice — failed, yes 160,676, no 189,914
+- Proposition JJ (State of Colorado): Keep sports betting tax revenue — passed, yes 271,634, no 81,082
+- Proposition KK (State of Colorado): Tax on guns and ammunition — passed, yes 202,441, no 149,574
+- Proposition 127 (State of Colorado): Ban hunting of mountain lions, bobcats and lynx — failed, yes 158,481, no 189,931
+- Proposition 128 (State of Colorado): Longer time before parole for violent crimes — passed, yes 207,327, no 135,755
+- Proposition 129 (State of Colorado): Veterinary professional associates — passed, yes 178,209, no 161,598
+- Proposition 130 (State of Colorado): Police funding — passed, yes 173,885, no 168,157
+- Proposition 131 (State of Colorado): Top-four primaries and ranked-choice voting — failed, yes 160,907, no 180,181
+- Judicial retention: Justice Berkenkotter (Colorado Supreme Court): Retain Justice Berkenkotter? — passed, yes 190,440, no 88,769
+- Judicial retention: Justice Boatright (Colorado Supreme Court): Retain Justice Boatright? — passed, yes 178,083, no 99,116
+- Judicial retention: Justice Márquez (Colorado Supreme Court): Retain Justice Márquez? — passed, yes 185,472, no 92,863
+- Judicial retention: Judge Dunn (Colorado Court of Appeals): Retain Judge Dunn? — passed, yes 189,837, no 80,045
+- Judicial retention: Judge Jones (Colorado Court of Appeals): Retain Judge Jones? — passed, yes 164,634, no 102,441
+- Judicial retention: Judge Kuhn (Colorado Court of Appeals): Retain Judge Kuhn? — passed, yes 184,736, no 82,821
+- Judicial retention: Judge Román (Colorado Court of Appeals): Retain Judge Román? — passed, yes 182,284, no 84,791
+- Judicial retention: Judge Schutz (Colorado Court of Appeals): Retain Judge Schutz? — passed, yes 177,526, no 88,313
+- Judicial retention: Judge Carrithers (District Court, 1st Judicial District): Retain Judge Carrithers? — passed, yes 177,687, no 86,270
+- Judicial retention: Judge Hunt (District Court, 1st Judicial District): Retain Judge Hunt? — passed, yes 182,406, no 80,801
+- Judicial retention: Judge Burback (Jefferson County Court): Retain Judge Burback? — passed, yes 186,413, no 78,303
+- Judicial retention: Judge Carpenter (Jefferson County Court): Retain Judge Carpenter? — passed, yes 186,503, no 78,151
+- Judicial retention: Judge Goman (Jefferson County Court): Retain Judge Goman? — passed, yes 183,095, no 80,213
+- Judicial retention: Judge Peper (Jefferson County Court): Retain Judge Peper? — passed, yes 185,159, no 78,725
+- Judicial retention: Judge Wheeler (Jefferson County Court): Retain Judge Wheeler? — passed, yes 187,382, no 77,149
+Sources: https://ballotpedia.org/Colorado_2024_ballot_measures, https://ballotpedia.org/Colorado_House_of_Representatives_District_23, https://ballotpedia.org/Colorado_House_of_Representatives_District_28, https://ballotpedia.org/Colorado_House_of_Representatives_District_30, https://ballotpedia.org/Presidential_election_in_Colorado,_2024, https://coloradosos.gov/pubs/elections/Results/2024/2024BiennialAbstract.pdf, https://coloradosos.gov/pubs/newsRoom/pressReleases/2024/PR20241206Election.html, https://coloradotimesrecorder.com/2024/10/former-lakewood-councilwoman-running-for-state-rep-attacks-lakewood-councilwoman-for-using-position-to-run-for-state-rep/65347, https://cpr.org/2024/11/05/ballot-measure-7a-tabor-revenue-rtd-results, https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_Colorado, https://en.wikipedia.org/wiki/2024_University_of_Colorado_Board_of_Regents_at-large_election, https://en.wikipedia.org/wiki/Rebekah_Stewart, https://firstda.co/who-we-are/da-alexis-king/, https://historicalelectiondata.coloradosos.gov/candidates/view/257, https://morrisonco.us/DocumentCenter/View/2636/Election-Summary-Report---Jefferson-County, https://www.ballotready.org/measures/issue-2a-227c5d0b-86e6-4158-acaa-6228232fbb0a, https://www.cbsnews.com/colorado/news/lakewood-city-council-approves-ballot-measure-permanently-lift-colorado-tabor-limits, https://www.coloradocommunitymedia.com/archives/jeffco/election-home-page/article_2a0a0950-1a0c-5ef9-8ba5-9c2a51e29fae.html, https://www.coloradopolitics.com/2024/10/16/jefferson-county-commissioner-candidates-2024-voter-guide/, https://www.coloradopolitics.com/2024/11/07/colorado-voters-fill-3-seats-for-university-of-colorado-board-of-regents/, https://www.cpr.org/2024/10/14/vg-2024-university-of-colorado-regents-at-large-election/, https://www.jeffco.us/4520/2024-Ballot-Measure-and-Statement, https://www.jeffco.us/DocumentCenter/View/49629, https://www.rtd-denver.com/community/news/eight-directors-sworn-in-on-rtd-board-at-tonight-s-meeting, https://www.rtd-denver.com/community/news/eight-directors-sworn-rtd-board-of-directors
+
+### November 7, 2023 Lakewood city election
+Lakewood voters elected Wendi Strom mayor and filled one City Council seat in each of the five wards, with no incumbents on the ballot in any council race, and voted to retain two municipal judges. Jeffco Public Schools voters filled two school board seats (Districts 3 and 4). Statewide, Proposition HH (property tax changes) failed and Proposition II (keeping nicotine tax revenue for preschool) passed.
+- Mayor of Lakewood: won by Wendi Strom. Wendi Strom 21,136; Don Burkhart 12,707; Cathy Kentner 11,000
+- Lakewood City Council (Ward 1): won by Glenda Sinks. Glenda Sinks 5,621; Fred Clifford 3,039
+- Lakewood City Council (Ward 2): won by Isabel Cruz. Isabel Cruz 3,837; Pete Del Duca 2,403
+- Lakewood City Council (Ward 3): won by Roger Low. Roger Low 6,562
+- Lakewood City Council (Ward 4): won by Dave Rein. Dave Rein 8,295
+- Lakewood City Council (Ward 5): won by Jacob LaBure. Jacob LaBure 7,123
+- Jeffco Public Schools Board of Education (District 3): won by Michelle Applegate. Michelle Applegate 105,449; Thomas Wicke 74,779
+- Jeffco Public Schools Board of Education (District 4): won by Erin Kenworthy. Erin Kenworthy 74,958; Amara Hildebrand 60,088; Joel Newton 42,522
+- Judicial retention (City of Lakewood): Retain Presiding Municipal Judge Nicole Bozarth — passed, yes 29,901, no 9,659
+- Judicial retention (City of Lakewood): Retain Municipal Judge Kellie Eastin — passed, yes 30,071, no 9,313
+- Proposition HH (State of Colorado): Property tax changes and state revenue limit — failed, yes 82,272, no 122,418
+- Proposition II (State of Colorado): Keep nicotine tax revenue for preschool — passed, yes 138,609, no 65,689
+Sources: https://ballotpedia.org/Joel_Newton, https://ballotpedia.org/Thomas_Wicke, https://coloradocommunitymedia.com/2023/11/07/lakewood-mayoral-race-and-city-council-election-results/, https://coloradocommunitymedia.com/2023/12/01/new-council-members-and-mayor-sworn-in-at-lakewood-city-council-meeting/, https://coloradosos.gov/pubs/elections/RLA/files/2023/coordinated/finalReport/Jefferson.pdf, https://historicalelectiondata.coloradosos.gov/ballot_questions/view/25991, https://historicalelectiondata.coloradosos.gov/ballot_questions/view/25992, https://historicalelectiondata.coloradosos.gov/eng/ballot_questions/search/file_id:472/show_granularity_dt_id:3/.pdf, https://www.chalkbeat.org/colorado/2023/11/7/23951258/jeffco-school-board-voting-results-elections-2023/, https://www.denvergazette.com/2023/12/12/lakewood-searches-for-city-council-candidates-following-mayoral-election/, https://www.jeffco.us/CivicAlerts.aspx?AID=2276, https://www.jeffco.us/DocumentCenter/View/41430, https://www.lakewoodco.gov/files/assets/public/v/1/city-managers-office/communications/ll-pdfs/looking-at-lakewood-oct-2023-voters-guide.pdf
+

@@ -1,0 +1,1839 @@
+{
+  "section": "Jefferson County candidates",
+  "sources": [
+    {
+      "id": "src-jeffco-on-the-ballot",
+      "title": "On the Ballot (2026 General Election)",
+      "publisher": "Jefferson County Clerk and Recorder, Elections Division",
+      "url": "https://www.jeffco.us/4652/On-the-Ballot",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-jeffco-leadership",
+      "title": "Leadership",
+      "publisher": "Jefferson County, Colorado",
+      "url": "https://www.jeffco.us/2078/Leadership",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-jeffco-gop-candidates",
+      "title": "Meet Your 2026 Candidates",
+      "publisher": "Jefferson County Republican Party",
+      "url": "https://jeffcorepublicans.com/meet-your-2026-candidates/",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-jeffco-dems-candidates",
+      "title": "Jefferson County Candidates",
+      "publisher": "Jefferson County Democratic Party",
+      "url": "https://www.jeffcodems.org/2026-candidates-jeffco",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-coloradopolitics-dahlkemper",
+      "title": "Jefferson County to fill commissioner vacancy after Dahlkemper tapped for lieutenant governor",
+      "publisher": "Colorado Politics",
+      "url": "https://www.coloradopolitics.com/2026/07/23/jefferson-county-to-fill-commissioner-vacancy-after-dahlkemper-tapped-for-lieutenant-governor/",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-critical-report-primaries",
+      "title": "Commissioner Andy Kerr Wins Democratic Primary for Jefferson County Assessor (2026 CO county primaries)",
+      "publisher": "The Critical Report",
+      "url": "https://criticalreport.substack.com/p/2026-co-county-primaries",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-ballotbrief-sheriff",
+      "title": "Jefferson County Sheriff 2026: Marinelli vs. Doizaki",
+      "publisher": "The Ballot Brief",
+      "url": "https://theballotbrief.com/state/colorado/jefferson-county/sheriff",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-ballotbrief-clerk",
+      "title": "Jefferson County Clerk and Recorder 2026: Hensel vs. Poston",
+      "publisher": "The Ballot Brief",
+      "url": "https://theballotbrief.com/state/colorado/jefferson-county/clerk-and-recorder",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-ctr-marx-event",
+      "title": "Victor Marx Headlines GOP Candidate Event in Jeffco, Blames His Donors for Past Campaign Violations",
+      "publisher": "Colorado Times Recorder",
+      "url": "https://coloradotimesrecorder.com/2026/09/victor-marx-headlines-jeffco-gop-event-blames-his-donors-for-past-campaign-violations/81613/",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-doizaki-home",
+      "title": "Randall Doizaki for Jefferson County Sheriff",
+      "publisher": "Doizaki for Sheriff campaign",
+      "url": "https://doizakiforsheriff.com/",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-doizaki-about",
+      "title": "About",
+      "publisher": "Doizaki for Sheriff campaign",
+      "url": "https://doizakiforsheriff.com/about",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-goodparty-imer",
+      "title": "Weston Imer - Candidate for Jefferson County Sheriff",
+      "publisher": "GoodParty.org",
+      "url": "https://goodparty.org/candidate/weston-imer/jefferson-county-sheriff",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-imer-site",
+      "title": "Weston Imer for Sheriff",
+      "publisher": "Imer for Sheriff campaign",
+      "url": "https://www.imerforsheriff.com/",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-goodparty-szulczewski",
+      "title": "Robert Szulczewski for Jefferson County Treasurer",
+      "publisher": "GoodParty.org",
+      "url": "https://goodparty.org/candidate/robert-szulczewski/jefferson-county-treasurer",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-jcso-about",
+      "title": "About the Sheriff's Office",
+      "publisher": "Jefferson County Sheriff's Office",
+      "url": "https://www.jeffcosheriffco.gov/about",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-marinelli-site",
+      "title": "Re-Elect Sheriff Marinelli",
+      "publisher": "Marinelli for Sheriff campaign",
+      "url": "https://marinelliforsheriff.com/",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-tracer-marinelli",
+      "title": "TRACER - Candidate Detail: MARINELLI, REGINA (Marinelli for Sheriff)",
+      "publisher": "Colorado Secretary of State, TRACER",
+      "url": "https://tracer.sos.colorado.gov/PublicSite/SearchPages/CandidateDetail.aspx?OrgID=40016&Type=CO",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-murl-home",
+      "title": "Murl Hendrickson - Jefferson County Treasurer 2026",
+      "publisher": "Murl Hendrickson campaign",
+      "url": "https://murl4jeffco.com/",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-murl-about",
+      "title": "About Murl - Murl Hendrickson for Jefferson County Treasurer",
+      "publisher": "Murl Hendrickson campaign",
+      "url": "https://murl4jeffco.com/about",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-murl-endorsements",
+      "title": "Endorsements",
+      "publisher": "Murl Hendrickson campaign",
+      "url": "https://murl4jeffco.com/endorsements.html",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-lp-hendrickson",
+      "title": "Murl Hendrickson",
+      "publisher": "Libertarian Party",
+      "url": "https://lp.org/candidate/murl-hendrickson/",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-apa-proctor",
+      "title": "Eric Proctor (D) Jefferson County Treasurer",
+      "publisher": "Arvadans For Progressive Action",
+      "url": "https://arvadansforprogressiveaction.org/political-action-team/eric-proctor/",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-apa-2026-guide",
+      "title": "Election 2026: Arvada, Jeffco, and Colorado ballot guide",
+      "publisher": "Arvadans For Progressive Action",
+      "url": "https://arvadansforprogressiveaction.org/political-action-team/2026-election-information/",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-cbs-harmon",
+      "title": "Coroner candidate reverses course, remains on ballot in Colorado's Jefferson County despite lack of required certification",
+      "publisher": "CBS Colorado",
+      "url": "https://www.cbsnews.com/colorado/news/coroner-candidate-allison-harmon-jefferson-county/",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-hoodline-harmon",
+      "title": "Jefferson County Coroner Candidate Lacks Certification",
+      "publisher": "Hoodline",
+      "url": "https://hoodline.com/2026/09/jefferson-county-coroner-candidate-remains-on-ballot-as-certification-dispute-continues/",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-nick-coroner",
+      "title": "Nick Lobello for Coroner (home)",
+      "publisher": "Nick Lobello campaign",
+      "url": "https://www.nickforcoroner.com/",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-nicole-home",
+      "title": "Nicole Hensel for Jefferson County Clerk and Recorder",
+      "publisher": "Nicole Hensel campaign",
+      "url": "https://nicoleforjeffco.com/",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-nicole-endorsements",
+      "title": "Endorsements",
+      "publisher": "Nicole Hensel campaign",
+      "url": "https://www.nicoleforjeffco.com/endorsements",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-kerr-home",
+      "title": "Kerr For Jeffco",
+      "publisher": "Andy Kerr campaign",
+      "url": "https://kerrforjeffco.com/",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-kerr-about",
+      "title": "About",
+      "publisher": "Andy Kerr campaign",
+      "url": "https://kerrforjeffco.com/about/",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-kerr-endorsements",
+      "title": "Endorsements",
+      "publisher": "Andy Kerr campaign",
+      "url": "https://kerrforjeffco.com/endorsements/",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-wiki-kerr",
+      "title": "Andy Kerr (American politician)",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Andy_Kerr_(American_politician)",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-vandenberg-home",
+      "title": "Stephanie VandenBerg for Jefferson County Commissioner",
+      "publisher": "VandenBerg campaign",
+      "url": "https://vandenbergforcolorado.com/",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-vandenberg-about",
+      "title": "About Stephanie",
+      "publisher": "VandenBerg campaign",
+      "url": "https://vandenbergforcolorado.com/about-stephanie/",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-greg-home",
+      "title": "Greg for Assessor 2026",
+      "publisher": "Greg Ketcham campaign",
+      "url": "https://gregforjeffco.com/",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-greg-about",
+      "title": "About",
+      "publisher": "Greg Ketcham campaign",
+      "url": "https://gregforjeffco.com/about",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-leg-cutter",
+      "title": "Lisa Cutter (legislator page)",
+      "publisher": "Colorado General Assembly",
+      "url": "https://leg.colorado.gov/legislators/lisa-cutter",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-wiki-cutter",
+      "title": "Lisa Cutter",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Lisa_Cutter",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-cutter-home",
+      "title": "Lisa Cutter for Jefferson County Commissioner",
+      "publisher": "Lisa Cutter campaign",
+      "url": "https://www.cutterforcolorado.com/",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-cutter-jeffco-endorsements",
+      "title": "Jeffco Endorsements",
+      "publisher": "Lisa Cutter campaign",
+      "url": "https://www.cutterforcolorado.com/jeffco-endorsements",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-dalf-endorsements",
+      "title": "2026 November Election Endorsements",
+      "publisher": "Denver Area Labor Federation",
+      "url": "https://denverlabor.org/content/15130",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-coaflcio-2026",
+      "title": "Colorado AFL-CIO 2026 Voter Guide and Endorsements",
+      "publisher": "Colorado AFL-CIO",
+      "url": "https://coaflcio.org/press-releases/colorado-afl-cio-2026-voter-guide-and-endorsements",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-conservationco-endorsements",
+      "title": "Endorsements",
+      "publisher": "Conservation Colorado",
+      "url": "https://conservationco.org/endorsements",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-ballotready-hennessy",
+      "title": "Robert J. Hennessy",
+      "publisher": "BallotReady",
+      "url": "https://www.ballotready.org/co/colorado-jefferson-county-surveyor-unexpired-term/robert-hennessy",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-goodparty-vera-king",
+      "title": "Vera King for Jefferson County Assessor",
+      "publisher": "GoodParty.org",
+      "url": "https://goodparty.org/candidate/vera-king/jefferson-county-assessor",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-tracer-search",
+      "title": "TRACER - Candidate Search",
+      "publisher": "Colorado Secretary of State, TRACER",
+      "url": "https://tracer.sos.colorado.gov/PublicSite/SearchPages/CandidateSearch.aspx",
+      "retrieved_on": "2026-10-09"
+    }
+  ],
+  "people": [
+    {
+      "name": "Stephanie VandenBerg",
+      "contest_id": "jeffco-commissioner-d3",
+      "aka": [],
+      "bio": "Stephanie VandenBerg is the Republican nominee for Jefferson County Commissioner, District 3. She is a certified public accountant who owns a small business in Jefferson County, and she previously served as treasurer of a Jeffco charter school. Her campaign says her family has lived in Jefferson County since 2014 and in Deer Creek Canyon since 2018.",
+      "bio_sources": [
+        "src-coloradopolitics-dahlkemper",
+        "src-vandenberg-home",
+        "src-vandenberg-about"
+      ],
+      "website": "https://vandenbergforcolorado.com/",
+      "website_sources": [
+        "src-jeffco-gop-candidates",
+        "src-vandenberg-home"
+      ],
+      "endorsements": [],
+      "answers": [],
+      "finance": []
+    },
+    {
+      "name": "Lisa A. Cutter",
+      "contest_id": "jeffco-commissioner-d3",
+      "aka": [
+        "Lisa Cutter"
+      ],
+      "bio": "Lisa Cutter, a Democrat, is a Colorado state senator representing Senate District 20 (since January 2023) and previously served in the Colorado House, District 25, from 2019 to 2023. Her campaign says she runs a communications firm and lives in Jefferson County.",
+      "bio_sources": [
+        "src-leg-cutter",
+        "src-wiki-cutter",
+        "src-cutter-home",
+        "src-coloradopolitics-dahlkemper"
+      ],
+      "website": "https://www.cutterforcolorado.com/",
+      "website_sources": [
+        "src-cutter-home"
+      ],
+      "endorsements": [
+        {
+          "endorser": "Denver Area Labor Federation",
+          "kind": "organization",
+          "title": null,
+          "provenance": "endorser_statement",
+          "sources": [
+            "src-dalf-endorsements",
+            "src-coaflcio-2026"
+          ]
+        },
+        {
+          "endorser": "Conservation Colorado",
+          "kind": "organization",
+          "title": null,
+          "provenance": "endorser_statement",
+          "sources": [
+            "src-conservationco-endorsements"
+          ]
+        }
+      ],
+      "answers": [],
+      "finance": []
+    },
+    {
+      "name": "Paul Poston",
+      "contest_id": "jeffco-clerk",
+      "aka": [],
+      "bio": "Paul Poston is the Republican nominee for Jefferson County Clerk and Recorder.",
+      "bio_sources": [
+        "src-jeffco-on-the-ballot",
+        "src-critical-report-primaries",
+        "src-ballotbrief-clerk"
+      ],
+      "website": "https://paulforclerk.com/",
+      "website_sources": [
+        "src-jeffco-gop-candidates",
+        "src-ballotbrief-clerk"
+      ],
+      "endorsements": [],
+      "answers": [],
+      "finance": []
+    },
+    {
+      "name": "Nicole Hensel",
+      "contest_id": "jeffco-clerk",
+      "aka": [],
+      "bio": "Nicole Hensel is the Democratic nominee for Jefferson County Clerk and Recorder. Her campaign describes her as a former teacher, organizer and nonprofit leader who has worked on election-protection and voting-policy efforts.",
+      "bio_sources": [
+        "src-nicole-home",
+        "src-critical-report-primaries"
+      ],
+      "website": "https://nicoleforjeffco.com/",
+      "website_sources": [
+        "src-jeffco-dems-candidates",
+        "src-nicole-home"
+      ],
+      "endorsements": [
+        {
+          "endorser": "Denver Area Labor Federation",
+          "kind": "organization",
+          "title": null,
+          "provenance": "endorser_statement",
+          "sources": [
+            "src-dalf-endorsements",
+            "src-coaflcio-2026"
+          ]
+        },
+        {
+          "endorser": "Brittany Pettersen",
+          "kind": "elected",
+          "title": "Congresswoman, Colorado's 7th District",
+          "provenance": "campaign_claim",
+          "sources": [
+            "src-nicole-endorsements"
+          ]
+        },
+        {
+          "endorser": "George Stern",
+          "kind": "former_elected",
+          "title": "Former Jefferson County Clerk and Recorder",
+          "provenance": "campaign_claim",
+          "sources": [
+            "src-nicole-endorsements"
+          ]
+        },
+        {
+          "endorser": "Pam Anderson",
+          "kind": "former_elected",
+          "title": "Former Jefferson County Clerk and Recorder",
+          "provenance": "campaign_claim",
+          "sources": [
+            "src-nicole-endorsements"
+          ]
+        },
+        {
+          "endorser": "Lesley Dahlkemper",
+          "kind": "elected",
+          "title": "Jefferson County Commissioner",
+          "provenance": "campaign_claim",
+          "sources": [
+            "src-nicole-endorsements"
+          ]
+        },
+        {
+          "endorser": "Andy Kerr",
+          "kind": "elected",
+          "title": "Jefferson County Commissioner",
+          "provenance": "campaign_claim",
+          "sources": [
+            "src-nicole-endorsements"
+          ]
+        },
+        {
+          "endorser": "Rachel Zenzinger",
+          "kind": "elected",
+          "title": "Jefferson County Commissioner",
+          "provenance": "campaign_claim",
+          "sources": [
+            "src-nicole-endorsements"
+          ]
+        },
+        {
+          "endorser": "Jerry DiTullio",
+          "kind": "elected",
+          "title": "Jefferson County Treasurer",
+          "provenance": "campaign_claim",
+          "sources": [
+            "src-nicole-endorsements"
+          ]
+        },
+        {
+          "endorser": "Reggie Marinelli",
+          "kind": "elected",
+          "title": "Jefferson County Sheriff",
+          "provenance": "campaign_claim",
+          "sources": [
+            "src-nicole-endorsements"
+          ]
+        },
+        {
+          "endorser": "Scot Kersgaard",
+          "kind": "elected",
+          "title": "Jefferson County Assessor",
+          "provenance": "campaign_claim",
+          "sources": [
+            "src-nicole-endorsements"
+          ]
+        },
+        {
+          "endorser": "Monica Duran",
+          "kind": "elected",
+          "title": "Majority Leader",
+          "provenance": "campaign_claim",
+          "sources": [
+            "src-nicole-endorsements"
+          ]
+        },
+        {
+          "endorser": "Lisa Cutter",
+          "kind": "elected",
+          "title": "State Senator",
+          "provenance": "campaign_claim",
+          "sources": [
+            "src-nicole-endorsements"
+          ]
+        },
+        {
+          "endorser": "Jessie Danielson",
+          "kind": "elected",
+          "title": "State Senator",
+          "provenance": "campaign_claim",
+          "sources": [
+            "src-nicole-endorsements"
+          ]
+        },
+        {
+          "endorser": "Lindsey Daugherty",
+          "kind": "elected",
+          "title": "State Senator",
+          "provenance": "campaign_claim",
+          "sources": [
+            "src-nicole-endorsements"
+          ]
+        },
+        {
+          "endorser": "Betty Boyd",
+          "kind": "former_elected",
+          "title": "Former State Senator",
+          "provenance": "campaign_claim",
+          "sources": [
+            "src-nicole-endorsements"
+          ]
+        },
+        {
+          "endorser": "Sheila Lieder",
+          "kind": "elected",
+          "title": "State Representative",
+          "provenance": "campaign_claim",
+          "sources": [
+            "src-nicole-endorsements"
+          ]
+        },
+        {
+          "endorser": "Lisa Feret",
+          "kind": "elected",
+          "title": "State Representative",
+          "provenance": "campaign_claim",
+          "sources": [
+            "src-nicole-endorsements"
+          ]
+        },
+        {
+          "endorser": "Lorena Garcia",
+          "kind": "elected",
+          "title": "State Representative",
+          "provenance": "campaign_claim",
+          "sources": [
+            "src-nicole-endorsements"
+          ]
+        },
+        {
+          "endorser": "Rebekah Stewart",
+          "kind": "elected",
+          "title": "State Representative",
+          "provenance": "campaign_claim",
+          "sources": [
+            "src-nicole-endorsements"
+          ]
+        },
+        {
+          "endorser": "Gretchen Rydin",
+          "kind": "elected",
+          "title": "State Representative",
+          "provenance": "campaign_claim",
+          "sources": [
+            "src-nicole-endorsements"
+          ]
+        },
+        {
+          "endorser": "Javier Mabrey",
+          "kind": "elected",
+          "title": "State Representative",
+          "provenance": "campaign_claim",
+          "sources": [
+            "src-nicole-endorsements"
+          ]
+        },
+        {
+          "endorser": "Paul Lopez",
+          "kind": "elected",
+          "title": "Denver County Clerk and Recorder",
+          "provenance": "campaign_claim",
+          "sources": [
+            "src-nicole-endorsements"
+          ]
+        },
+        {
+          "endorser": "Molly Fitzpatrick",
+          "kind": "elected",
+          "title": "Boulder County Clerk and Recorder",
+          "provenance": "campaign_claim",
+          "sources": [
+            "src-nicole-endorsements"
+          ]
+        },
+        {
+          "endorser": "Josh Zygielbaum",
+          "kind": "elected",
+          "title": "Adams County Clerk and Recorder",
+          "provenance": "campaign_claim",
+          "sources": [
+            "src-nicole-endorsements"
+          ]
+        },
+        {
+          "endorser": "Michael Dougherty",
+          "kind": "elected",
+          "title": "Boulder County District Attorney",
+          "provenance": "campaign_claim",
+          "sources": [
+            "src-nicole-endorsements"
+          ]
+        },
+        {
+          "endorser": "Lauren Simpson",
+          "kind": "elected",
+          "title": "Arvada Mayor",
+          "provenance": "campaign_claim",
+          "sources": [
+            "src-nicole-endorsements"
+          ]
+        },
+        {
+          "endorser": "Laura Weinberg",
+          "kind": "elected",
+          "title": "Golden Mayor",
+          "provenance": "campaign_claim",
+          "sources": [
+            "src-nicole-endorsements"
+          ]
+        },
+        {
+          "endorser": "Claire Carmelia",
+          "kind": "elected",
+          "title": "Westminster Mayor Elect",
+          "provenance": "campaign_claim",
+          "sources": [
+            "src-nicole-endorsements"
+          ]
+        },
+        {
+          "endorser": "Jeslin Shahrezaei",
+          "kind": "elected",
+          "title": "Lakewood City Councilor",
+          "provenance": "campaign_claim",
+          "sources": [
+            "src-nicole-endorsements"
+          ]
+        },
+        {
+          "endorser": "Dave Rein",
+          "kind": "elected",
+          "title": "Lakewood City Councilor",
+          "provenance": "campaign_claim",
+          "sources": [
+            "src-nicole-endorsements"
+          ]
+        },
+        {
+          "endorser": "Isabel Cruz",
+          "kind": "elected",
+          "title": "Lakewood City Councilor",
+          "provenance": "campaign_claim",
+          "sources": [
+            "src-nicole-endorsements"
+          ]
+        },
+        {
+          "endorser": "Roger Low",
+          "kind": "elected",
+          "title": "Lakewood City Councilor",
+          "provenance": "campaign_claim",
+          "sources": [
+            "src-nicole-endorsements"
+          ]
+        },
+        {
+          "endorser": "Sophia Mayott-Guerrero",
+          "kind": "former_elected",
+          "title": "Former Lakewood City Councilor",
+          "provenance": "campaign_claim",
+          "sources": [
+            "src-nicole-endorsements"
+          ]
+        },
+        {
+          "endorser": "Hannah Gay Keao",
+          "kind": "elected",
+          "title": "Edgewater City Councilor",
+          "provenance": "campaign_claim",
+          "sources": [
+            "src-nicole-endorsements"
+          ]
+        },
+        {
+          "endorser": "Obi Ezeadi",
+          "kind": "elected",
+          "title": "Westminster City Councilor",
+          "provenance": "campaign_claim",
+          "sources": [
+            "src-nicole-endorsements"
+          ]
+        },
+        {
+          "endorser": "Val Nosler Beck",
+          "kind": "former_elected",
+          "title": "Former Wheat Ridge City Councilor",
+          "provenance": "campaign_claim",
+          "sources": [
+            "src-nicole-endorsements"
+          ]
+        },
+        {
+          "endorser": "Danielle Varda",
+          "kind": "former_elected",
+          "title": "Former Jefferson County School Board Member",
+          "provenance": "campaign_claim",
+          "sources": [
+            "src-nicole-endorsements"
+          ]
+        },
+        {
+          "endorser": "Karla Esser",
+          "kind": "elected",
+          "title": "State Board of Education Member",
+          "provenance": "campaign_claim",
+          "sources": [
+            "src-nicole-endorsements"
+          ]
+        },
+        {
+          "endorser": "Elliott Hood",
+          "kind": "elected",
+          "title": "CU Regent",
+          "provenance": "campaign_claim",
+          "sources": [
+            "src-nicole-endorsements"
+          ]
+        }
+      ],
+      "answers": [],
+      "finance": []
+    },
+    {
+      "name": "Eric Proctor",
+      "contest_id": "jeffco-treasurer",
+      "aka": [],
+      "bio": "Eric Proctor is the Democratic nominee for Jefferson County Treasurer. He describes himself as a community banker and a former public school teacher, and he has held Democratic Party posts including Jefferson County Democratic Party secretary.",
+      "bio_sources": [
+        "src-jeffco-dems-candidates",
+        "src-critical-report-primaries",
+        "src-apa-proctor"
+      ],
+      "website": "https://ericproctor.com/",
+      "website_sources": [
+        "src-jeffco-dems-candidates"
+      ],
+      "endorsements": [
+        {
+          "endorser": "Denver Area Labor Federation",
+          "kind": "organization",
+          "title": null,
+          "provenance": "endorser_statement",
+          "sources": [
+            "src-dalf-endorsements",
+            "src-coaflcio-2026"
+          ]
+        }
+      ],
+      "answers": [],
+      "finance": []
+    },
+    {
+      "name": "Murl Hendrickson",
+      "contest_id": "jeffco-treasurer",
+      "aka": [
+        "Murl S. Hendrickson IV"
+      ],
+      "bio": "Murl Hendrickson is the Libertarian Party candidate for Jefferson County Treasurer. His campaign says he lives in Arvada, works as an associate financial representative, holds a B.A. in economics from the University of Colorado, and is completing Certified Financial Planner certification.",
+      "bio_sources": [
+        "src-jeffco-on-the-ballot",
+        "src-murl-home",
+        "src-murl-about",
+        "src-lp-hendrickson"
+      ],
+      "website": "https://murl4jeffco.com/",
+      "website_sources": [
+        "src-murl-home",
+        "src-jeffco-gop-candidates"
+      ],
+      "endorsements": [
+        {
+          "endorser": "Janak Joshi",
+          "kind": "former_elected",
+          "title": "Former State Representative",
+          "provenance": "campaign_claim",
+          "sources": [
+            "src-murl-endorsements"
+          ]
+        },
+        {
+          "endorser": "Lori Saine",
+          "kind": "former_elected",
+          "title": "Former State Representative",
+          "provenance": "campaign_claim",
+          "sources": [
+            "src-murl-endorsements"
+          ]
+        },
+        {
+          "endorser": "Cody LeBlanc",
+          "kind": "former_elected",
+          "title": "Former Weld RE-8 School Board Member",
+          "provenance": "campaign_claim",
+          "sources": [
+            "src-murl-endorsements"
+          ]
+        },
+        {
+          "endorser": "Peg Cage",
+          "kind": "individual",
+          "title": "Chair, Boulder County Republicans",
+          "provenance": "campaign_claim",
+          "sources": [
+            "src-murl-endorsements"
+          ]
+        }
+      ],
+      "answers": [],
+      "finance": []
+    },
+    {
+      "name": "Vera King",
+      "contest_id": "jeffco-assessor",
+      "aka": [],
+      "bio": "Vera King is the Republican nominee for Jefferson County Assessor. The Critical Report describes her as a community advocate.",
+      "bio_sources": [
+        "src-jeffco-on-the-ballot",
+        "src-critical-report-primaries",
+        "src-goodparty-vera-king"
+      ],
+      "website": null,
+      "website_sources": [],
+      "endorsements": [],
+      "answers": [],
+      "finance": []
+    },
+    {
+      "name": "Andy Kerr",
+      "contest_id": "jeffco-assessor",
+      "aka": [],
+      "bio": "Andy Kerr, a Democrat, is the Jefferson County Commissioner for District 2, a seat he has held since 2021. He served in the Colorado House (District 26) from 2006 to 2013 and the Colorado Senate (District 22) from 2013 to 2019, and he previously taught in Jeffco Public Schools.",
+      "bio_sources": [
+        "src-wiki-kerr",
+        "src-kerr-about",
+        "src-coloradopolitics-dahlkemper"
+      ],
+      "website": "https://kerrforjeffco.com/",
+      "website_sources": [
+        "src-kerr-home"
+      ],
+      "endorsements": [
+        {
+          "endorser": "Denver Area Labor Federation",
+          "kind": "organization",
+          "title": null,
+          "provenance": "endorser_statement",
+          "sources": [
+            "src-dalf-endorsements",
+            "src-coaflcio-2026"
+          ]
+        },
+        {
+          "endorser": "Brittany Pettersen",
+          "kind": "elected",
+          "title": "Congresswoman",
+          "provenance": "campaign_claim",
+          "sources": [
+            "src-kerr-endorsements"
+          ]
+        },
+        {
+          "endorser": "Jason Crow",
+          "kind": "elected",
+          "title": "Congressman",
+          "provenance": "campaign_claim",
+          "sources": [
+            "src-kerr-endorsements"
+          ]
+        },
+        {
+          "endorser": "Diana DeGette",
+          "kind": "elected",
+          "title": "Congresswoman",
+          "provenance": "campaign_claim",
+          "sources": [
+            "src-kerr-endorsements"
+          ]
+        },
+        {
+          "endorser": "Joe Neguse",
+          "kind": "elected",
+          "title": "Congressman",
+          "provenance": "campaign_claim",
+          "sources": [
+            "src-kerr-endorsements"
+          ]
+        },
+        {
+          "endorser": "Dave Young",
+          "kind": "elected",
+          "title": "Treasurer",
+          "provenance": "campaign_claim",
+          "sources": [
+            "src-kerr-endorsements"
+          ]
+        },
+        {
+          "endorser": "Karla Esser",
+          "kind": "elected",
+          "title": "State Board of Education member",
+          "provenance": "campaign_claim",
+          "sources": [
+            "src-kerr-endorsements"
+          ]
+        },
+        {
+          "endorser": "Nolbert Chavez",
+          "kind": "elected",
+          "title": "University of Colorado Regent",
+          "provenance": "campaign_claim",
+          "sources": [
+            "src-kerr-endorsements"
+          ]
+        },
+        {
+          "endorser": "Ilana Spiegel",
+          "kind": "elected",
+          "title": "University of Colorado Regent",
+          "provenance": "campaign_claim",
+          "sources": [
+            "src-kerr-endorsements"
+          ]
+        },
+        {
+          "endorser": "Elliot Hood",
+          "kind": "elected",
+          "title": "University of Colorado Regent",
+          "provenance": "campaign_claim",
+          "sources": [
+            "src-kerr-endorsements"
+          ]
+        },
+        {
+          "endorser": "Irene Griego",
+          "kind": "former_elected",
+          "title": "former University of Colorado Regent",
+          "provenance": "campaign_claim",
+          "sources": [
+            "src-kerr-endorsements"
+          ]
+        },
+        {
+          "endorser": "Jane Goff",
+          "kind": "former_elected",
+          "title": "former State Board of Education member",
+          "provenance": "campaign_claim",
+          "sources": [
+            "src-kerr-endorsements"
+          ]
+        },
+        {
+          "endorser": "Terrance Carroll",
+          "kind": "former_elected",
+          "title": "former Colorado House Speaker",
+          "provenance": "campaign_claim",
+          "sources": [
+            "src-kerr-endorsements"
+          ]
+        },
+        {
+          "endorser": "Mark Ferrandino",
+          "kind": "former_elected",
+          "title": "former Colorado House Speaker",
+          "provenance": "campaign_claim",
+          "sources": [
+            "src-kerr-endorsements"
+          ]
+        },
+        {
+          "endorser": "Ed Perlmutter",
+          "kind": "former_elected",
+          "title": "former Congressman",
+          "provenance": "campaign_claim",
+          "sources": [
+            "src-kerr-endorsements"
+          ]
+        },
+        {
+          "endorser": "Jessie Danielson",
+          "kind": "elected",
+          "title": "State Senator",
+          "provenance": "campaign_claim",
+          "sources": [
+            "src-kerr-endorsements"
+          ]
+        },
+        {
+          "endorser": "Nancy Todd",
+          "kind": "former_elected",
+          "title": "former State Senator",
+          "provenance": "campaign_claim",
+          "sources": [
+            "src-kerr-endorsements"
+          ]
+        },
+        {
+          "endorser": "Betty Boyd",
+          "kind": "former_elected",
+          "title": "former State Senator",
+          "provenance": "campaign_claim",
+          "sources": [
+            "src-kerr-endorsements"
+          ]
+        },
+        {
+          "endorser": "Louis Court",
+          "kind": "former_elected",
+          "title": "former State Senator",
+          "provenance": "campaign_claim",
+          "sources": [
+            "src-kerr-endorsements"
+          ]
+        },
+        {
+          "endorser": "Lucia Guzman",
+          "kind": "former_elected",
+          "title": "former State Senator",
+          "provenance": "campaign_claim",
+          "sources": [
+            "src-kerr-endorsements"
+          ]
+        },
+        {
+          "endorser": "Deanna Hanna",
+          "kind": "former_elected",
+          "title": "former State Senator",
+          "provenance": "campaign_claim",
+          "sources": [
+            "src-kerr-endorsements"
+          ]
+        },
+        {
+          "endorser": "Sue Windels",
+          "kind": "former_elected",
+          "title": "former State Senator",
+          "provenance": "campaign_claim",
+          "sources": [
+            "src-kerr-endorsements"
+          ]
+        },
+        {
+          "endorser": "Sara Gagliardi",
+          "kind": "former_elected",
+          "title": "former State Representative",
+          "provenance": "campaign_claim",
+          "sources": [
+            "src-kerr-endorsements"
+          ]
+        },
+        {
+          "endorser": "Sue Schafer",
+          "kind": "former_elected",
+          "title": "former State Representative",
+          "provenance": "campaign_claim",
+          "sources": [
+            "src-kerr-endorsements"
+          ]
+        },
+        {
+          "endorser": "Max Tyler",
+          "kind": "former_elected",
+          "title": "former State Representative",
+          "provenance": "campaign_claim",
+          "sources": [
+            "src-kerr-endorsements"
+          ]
+        },
+        {
+          "endorser": "Monica Duran",
+          "kind": "elected",
+          "title": "House Majority Leader",
+          "provenance": "campaign_claim",
+          "sources": [
+            "src-kerr-endorsements"
+          ]
+        },
+        {
+          "endorser": "Lisa Cutter",
+          "kind": "elected",
+          "title": "State Senator",
+          "provenance": "campaign_claim",
+          "sources": [
+            "src-kerr-endorsements"
+          ]
+        },
+        {
+          "endorser": "Brianna Titone",
+          "kind": "elected",
+          "title": "State Representative",
+          "provenance": "campaign_claim",
+          "sources": [
+            "src-kerr-endorsements"
+          ]
+        },
+        {
+          "endorser": "Sheila Lieder",
+          "kind": "elected",
+          "title": "State Representative",
+          "provenance": "campaign_claim",
+          "sources": [
+            "src-kerr-endorsements"
+          ]
+        },
+        {
+          "endorser": "Rebekah Stewart",
+          "kind": "elected",
+          "title": "State Representative",
+          "provenance": "campaign_claim",
+          "sources": [
+            "src-kerr-endorsements"
+          ]
+        },
+        {
+          "endorser": "Lisa Feret",
+          "kind": "elected",
+          "title": "State Representative",
+          "provenance": "campaign_claim",
+          "sources": [
+            "src-kerr-endorsements"
+          ]
+        },
+        {
+          "endorser": "Danielle Varda",
+          "kind": "former_elected",
+          "title": "former JeffCo School Board and current candidate for HD27",
+          "provenance": "campaign_claim",
+          "sources": [
+            "src-kerr-endorsements"
+          ]
+        },
+        {
+          "endorser": "Lesley Dahlkemper",
+          "kind": "elected",
+          "title": "Jefferson County Commissioner",
+          "provenance": "campaign_claim",
+          "sources": [
+            "src-kerr-endorsements"
+          ]
+        },
+        {
+          "endorser": "Rachel Zenzinger",
+          "kind": "elected",
+          "title": "Jefferson County Commissioner",
+          "provenance": "campaign_claim",
+          "sources": [
+            "src-kerr-endorsements"
+          ]
+        },
+        {
+          "endorser": "Annette Cannon",
+          "kind": "elected",
+          "title": "Jefferson County Coroner",
+          "provenance": "campaign_claim",
+          "sources": [
+            "src-kerr-endorsements"
+          ]
+        },
+        {
+          "endorser": "Jerry DiTullio",
+          "kind": "elected",
+          "title": "Jefferson County Treasurer",
+          "provenance": "campaign_claim",
+          "sources": [
+            "src-kerr-endorsements"
+          ]
+        },
+        {
+          "endorser": "Alexis King",
+          "kind": "elected",
+          "title": "1st JD District Attorney",
+          "provenance": "campaign_claim",
+          "sources": [
+            "src-kerr-endorsements"
+          ]
+        },
+        {
+          "endorser": "Eva Henry",
+          "kind": "elected",
+          "title": "Adams County Commissioner",
+          "provenance": "campaign_claim",
+          "sources": [
+            "src-kerr-endorsements"
+          ]
+        },
+        {
+          "endorser": "Steve O'Doriso",
+          "kind": "elected",
+          "title": "Adams County Commissioner",
+          "provenance": "campaign_claim",
+          "sources": [
+            "src-kerr-endorsements"
+          ]
+        },
+        {
+          "endorser": "Lauren Simpson",
+          "kind": "elected",
+          "title": "Arvada Mayor",
+          "provenance": "campaign_claim",
+          "sources": [
+            "src-kerr-endorsements"
+          ]
+        },
+        {
+          "endorser": "Sharon Davis",
+          "kind": "elected",
+          "title": "Arvada City Councilor",
+          "provenance": "campaign_claim",
+          "sources": [
+            "src-kerr-endorsements"
+          ]
+        },
+        {
+          "endorser": "Bob Fifer",
+          "kind": "elected",
+          "title": "Arvada City Councilor",
+          "provenance": "campaign_claim",
+          "sources": [
+            "src-kerr-endorsements"
+          ]
+        },
+        {
+          "endorser": "Randy Moorman",
+          "kind": "elected",
+          "title": "Arvada City Councilor",
+          "provenance": "campaign_claim",
+          "sources": [
+            "src-kerr-endorsements"
+          ]
+        },
+        {
+          "endorser": "Shawna Ambrose",
+          "kind": "elected",
+          "title": "Arvada City Councilor",
+          "provenance": "campaign_claim",
+          "sources": [
+            "src-kerr-endorsements"
+          ]
+        },
+        {
+          "endorser": "Hannah Gay Keao",
+          "kind": "elected",
+          "title": "Edgewater city council",
+          "provenance": "campaign_claim",
+          "sources": [
+            "src-kerr-endorsements"
+          ]
+        },
+        {
+          "endorser": "Kris Teegardin",
+          "kind": "former_elected",
+          "title": "former Edgewater Mayor",
+          "provenance": "campaign_claim",
+          "sources": [
+            "src-kerr-endorsements"
+          ]
+        },
+        {
+          "endorser": "Reggie Marinelli",
+          "kind": "elected",
+          "title": "Jefferson County Sheriff",
+          "provenance": "campaign_claim",
+          "sources": [
+            "src-kerr-endorsements"
+          ]
+        },
+        {
+          "endorser": "Laura Weinberg",
+          "kind": "elected",
+          "title": "Golden Mayor",
+          "provenance": "campaign_claim",
+          "sources": [
+            "src-kerr-endorsements"
+          ]
+        },
+        {
+          "endorser": "Jim Dale",
+          "kind": "former_elected",
+          "title": "former Golden City Councilor",
+          "provenance": "campaign_claim",
+          "sources": [
+            "src-kerr-endorsements"
+          ]
+        },
+        {
+          "endorser": "J.J. Trout",
+          "kind": "former_elected",
+          "title": "former Golden City Council",
+          "provenance": "campaign_claim",
+          "sources": [
+            "src-kerr-endorsements"
+          ]
+        },
+        {
+          "endorser": "Jacob LaBure",
+          "kind": "elected",
+          "title": "Lakewood City Council",
+          "provenance": "campaign_claim",
+          "sources": [
+            "src-kerr-endorsements"
+          ]
+        },
+        {
+          "endorser": "Dave Rein",
+          "kind": "elected",
+          "title": "Lakewood City Council",
+          "provenance": "campaign_claim",
+          "sources": [
+            "src-kerr-endorsements"
+          ]
+        },
+        {
+          "endorser": "Bill Furman",
+          "kind": "elected",
+          "title": "Lakewood City Council",
+          "provenance": "campaign_claim",
+          "sources": [
+            "src-kerr-endorsements"
+          ]
+        },
+        {
+          "endorser": "Jeslin Shahrezaei",
+          "kind": "elected",
+          "title": "Lakewood City Council",
+          "provenance": "campaign_claim",
+          "sources": [
+            "src-kerr-endorsements"
+          ]
+        },
+        {
+          "endorser": "Wendi Strom",
+          "kind": "elected",
+          "title": "Lakewood Mayor",
+          "provenance": "campaign_claim",
+          "sources": [
+            "src-kerr-endorsements"
+          ]
+        },
+        {
+          "endorser": "Liz Black",
+          "kind": "elected",
+          "title": "Lakewood City Council",
+          "provenance": "campaign_claim",
+          "sources": [
+            "src-kerr-endorsements"
+          ]
+        },
+        {
+          "endorser": "Roger Low",
+          "kind": "elected",
+          "title": "Lakewood City Council",
+          "provenance": "campaign_claim",
+          "sources": [
+            "src-kerr-endorsements"
+          ]
+        },
+        {
+          "endorser": "Isabel Cruz",
+          "kind": "elected",
+          "title": "Lakewood City Council",
+          "provenance": "campaign_claim",
+          "sources": [
+            "src-kerr-endorsements"
+          ]
+        },
+        {
+          "endorser": "Ken Cruz",
+          "kind": "elected",
+          "title": "Lakewood City Council",
+          "provenance": "campaign_claim",
+          "sources": [
+            "src-kerr-endorsements"
+          ]
+        },
+        {
+          "endorser": "Cindy Baroway",
+          "kind": "former_elected",
+          "title": "former Lakewood City Council",
+          "provenance": "campaign_claim",
+          "sources": [
+            "src-kerr-endorsements"
+          ]
+        },
+        {
+          "endorser": "Adam Paul",
+          "kind": "former_elected",
+          "title": "former Lakewood Mayor",
+          "provenance": "campaign_claim",
+          "sources": [
+            "src-kerr-endorsements"
+          ]
+        },
+        {
+          "endorser": "Dana Gutwein",
+          "kind": "former_elected",
+          "title": "former Lakewood City Councilor",
+          "provenance": "campaign_claim",
+          "sources": [
+            "src-kerr-endorsements"
+          ]
+        },
+        {
+          "endorser": "Sharon Vincent",
+          "kind": "former_elected",
+          "title": "former Lakewood City Council",
+          "provenance": "campaign_claim",
+          "sources": [
+            "src-kerr-endorsements"
+          ]
+        },
+        {
+          "endorser": "Erin Kenworthy",
+          "kind": "elected",
+          "title": "Jefferson County School Board",
+          "provenance": "campaign_claim",
+          "sources": [
+            "src-kerr-endorsements"
+          ]
+        },
+        {
+          "endorser": "Mary Parker",
+          "kind": "former_elected",
+          "title": "former Jefferson County School Board",
+          "provenance": "campaign_claim",
+          "sources": [
+            "src-kerr-endorsements"
+          ]
+        },
+        {
+          "endorser": "Obi Ezeadi",
+          "kind": "elected",
+          "title": "Westminster City Councilor",
+          "provenance": "campaign_claim",
+          "sources": [
+            "src-kerr-endorsements"
+          ]
+        },
+        {
+          "endorser": "Amber Hott",
+          "kind": "elected",
+          "title": "Westminster City Councilor",
+          "provenance": "campaign_claim",
+          "sources": [
+            "src-kerr-endorsements"
+          ]
+        },
+        {
+          "endorser": "Kathryn Skulley",
+          "kind": "former_elected",
+          "title": "former Westminster City Councilor",
+          "provenance": "campaign_claim",
+          "sources": [
+            "src-kerr-endorsements"
+          ]
+        },
+        {
+          "endorser": "Rachel Hultin",
+          "kind": "elected",
+          "title": "Wheat Ridge City Councilor",
+          "provenance": "campaign_claim",
+          "sources": [
+            "src-kerr-endorsements"
+          ]
+        },
+        {
+          "endorser": "Pat Quinn",
+          "kind": "elected",
+          "title": "Wheat Ridge City Councilor",
+          "provenance": "campaign_claim",
+          "sources": [
+            "src-kerr-endorsements"
+          ]
+        },
+        {
+          "endorser": "Scott Ohm",
+          "kind": "elected",
+          "title": "Wheat Ridge City Councilor",
+          "provenance": "campaign_claim",
+          "sources": [
+            "src-kerr-endorsements"
+          ]
+        },
+        {
+          "endorser": "Janeece Hoppe",
+          "kind": "elected",
+          "title": "Wheat Ridge City Councilor",
+          "provenance": "campaign_claim",
+          "sources": [
+            "src-kerr-endorsements"
+          ]
+        },
+        {
+          "endorser": "Val Nosler Beck",
+          "kind": "former_elected",
+          "title": "former Wheat Ridge City Councilor",
+          "provenance": "campaign_claim",
+          "sources": [
+            "src-kerr-endorsements"
+          ]
+        },
+        {
+          "endorser": "Emilie Mitcham",
+          "kind": "elected",
+          "title": "Mountain View Mayor",
+          "provenance": "campaign_claim",
+          "sources": [
+            "src-kerr-endorsements"
+          ]
+        },
+        {
+          "endorser": "Cassie Tanner",
+          "kind": "former_elected",
+          "title": "former West Metro Fire Board President",
+          "provenance": "campaign_claim",
+          "sources": [
+            "src-kerr-endorsements"
+          ]
+        },
+        {
+          "endorser": "Mike Feeley",
+          "kind": "former_elected",
+          "title": "former West Metro Fire Board Member",
+          "provenance": "campaign_claim",
+          "sources": [
+            "src-kerr-endorsements"
+          ]
+        },
+        {
+          "endorser": "Pam Feely",
+          "kind": "former_elected",
+          "title": "former West Metro Fire Board member",
+          "provenance": "campaign_claim",
+          "sources": [
+            "src-kerr-endorsements"
+          ]
+        },
+        {
+          "endorser": "Marta Murray",
+          "kind": "former_elected",
+          "title": "former West Metro Fire Board member",
+          "provenance": "campaign_claim",
+          "sources": [
+            "src-kerr-endorsements"
+          ]
+        },
+        {
+          "endorser": "Carolyn Wolfrum",
+          "kind": "former_elected",
+          "title": "former West Metro Fire Board member",
+          "provenance": "campaign_claim",
+          "sources": [
+            "src-kerr-endorsements"
+          ]
+        }
+      ],
+      "answers": [],
+      "finance": []
+    },
+    {
+      "name": "Greg Ketcham",
+      "contest_id": "jeffco-assessor",
+      "aka": [],
+      "bio": "Greg Ketcham is an unaffiliated candidate for Jefferson County Assessor. His campaign says he is a certified general appraiser who has worked as a residential and commercial appraiser in the Jefferson County Assessor's Office since 2017, and that he was born and raised in Littleton.",
+      "bio_sources": [
+        "src-jeffco-on-the-ballot",
+        "src-greg-home",
+        "src-greg-about"
+      ],
+      "website": "https://gregforjeffco.com/",
+      "website_sources": [
+        "src-greg-home"
+      ],
+      "endorsements": [],
+      "answers": [],
+      "finance": []
+    },
+    {
+      "name": "Regina \"Reggie\" Marinelli",
+      "contest_id": "jeffco-sheriff",
+      "aka": [
+        "Reggie Marinelli",
+        "Regina Marinelli",
+        "Regina Marie Marinelli"
+      ],
+      "bio": "Reggie Marinelli, a Democrat, has been Jefferson County Sheriff since January 2023 and is seeking re-election. According to the Sheriff's Office, she has worked there for more than 36 years, with supervisory roles in patrol, detentions, investigations and support services, and she commanded the West Metro Drug Task Force from 2012 to 2015.",
+      "bio_sources": [
+        "src-jcso-about",
+        "src-jeffco-leadership",
+        "src-jeffco-on-the-ballot"
+      ],
+      "website": "https://marinelliforsheriff.com/",
+      "website_sources": [
+        "src-marinelli-site",
+        "src-ballotbrief-sheriff"
+      ],
+      "endorsements": [],
+      "answers": [],
+      "finance": [
+        {
+          "committee": "Marinelli for Sheriff",
+          "filer": "TRACER",
+          "report": "August 4, 2026 - Report of Contributions and Expenditures",
+          "period_end": "2026-07-30",
+          "raised_total": 6028.0,
+          "spent_total": 2221.45,
+          "cash_on_hand": 7312.4,
+          "notes": "As printed in TRACER's Financial Summary (data current as of August 4, 2026; election cycle 2026 County Candidate 4 Year, 12/9/2022-12/3/2026): beginning balance ($3,664.81), total contributions $6,028.00, total expenditures $2,221.45, ending balance $7,312.40. TRACER notes 'Balances for this election cycle have been manually adjusted', and the printed figures do not sum to the ending balance; whether the contribution/expenditure totals are for the report period or cycle-to-date is not stated. The October 13, 2026 report (period 07/31-10/08) was not yet due/posted at retrieval.",
+          "sources": [
+            "src-tracer-marinelli"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Randall Doizaki",
+      "contest_id": "jeffco-sheriff",
+      "aka": [],
+      "bio": "Randall Doizaki is the Republican nominee for Jefferson County Sheriff. His campaign says he is a Marine Corps veteran and a retired lieutenant with more than 23 years at the Arapahoe County Sheriff's Office, and that he is currently a lieutenant in Denver Public Schools' Department of Climate and Safety.",
+      "bio_sources": [
+        "src-jeffco-on-the-ballot",
+        "src-doizaki-about",
+        "src-ballotbrief-sheriff"
+      ],
+      "website": "https://doizakiforsheriff.com/",
+      "website_sources": [
+        "src-jeffco-gop-candidates",
+        "src-doizaki-home"
+      ],
+      "endorsements": [],
+      "answers": [],
+      "finance": []
+    },
+    {
+      "name": "Robert Hennessy",
+      "contest_id": "jeffco-surveyor",
+      "aka": [
+        "Robert J. Hennessy"
+      ],
+      "bio": "Robert Hennessy, a Republican, is the Jefferson County Surveyor and is unopposed on the ballot. BallotReady lists him as surveyor since 2020 and as a professional land surveyor with Rick Engineering Company.",
+      "bio_sources": [
+        "src-jeffco-leadership",
+        "src-jeffco-on-the-ballot",
+        "src-ballotready-hennessy"
+      ],
+      "website": null,
+      "website_sources": [],
+      "endorsements": [],
+      "answers": [],
+      "finance": []
+    },
+    {
+      "name": "Nick Lobello",
+      "contest_id": "jeffco-coroner",
+      "aka": [],
+      "bio": "Nick Lobello is the Democratic nominee for Jefferson County Coroner. He is a former chief deputy coroner (eight years, per his campaign) and a board-certified medicolegal death investigator; his campaign also lists past work as a firefighter/paramedic and a licensed practical nurse.",
+      "bio_sources": [
+        "src-critical-report-primaries",
+        "src-cbs-harmon",
+        "src-nick-coroner"
+      ],
+      "website": "https://www.nickforcoroner.com/",
+      "website_sources": [
+        "src-jeffco-dems-candidates",
+        "src-nick-coroner"
+      ],
+      "endorsements": [
+        {
+          "endorser": "Denver Area Labor Federation",
+          "kind": "organization",
+          "title": null,
+          "provenance": "endorser_statement",
+          "sources": [
+            "src-dalf-endorsements",
+            "src-coaflcio-2026"
+          ]
+        },
+        {
+          "endorser": "Annette Cannon",
+          "kind": "elected",
+          "title": "Jefferson County Coroner",
+          "provenance": "campaign_claim",
+          "sources": [
+            "src-nick-coroner"
+          ]
+        },
+        {
+          "endorser": "Lesley Dahlkemper",
+          "kind": "elected",
+          "title": "Jefferson County Commissioners",
+          "provenance": "campaign_claim",
+          "sources": [
+            "src-nick-coroner"
+          ]
+        },
+        {
+          "endorser": "Rachel Zenzinger",
+          "kind": "elected",
+          "title": "Jefferson County Commissioners",
+          "provenance": "campaign_claim",
+          "sources": [
+            "src-nick-coroner"
+          ]
+        },
+        {
+          "endorser": "Andy Kerr",
+          "kind": "elected",
+          "title": "Jefferson County Commissioners",
+          "provenance": "campaign_claim",
+          "sources": [
+            "src-nick-coroner"
+          ]
+        },
+        {
+          "endorser": "Reggie Marinelli",
+          "kind": "elected",
+          "title": "Jefferson County Sheriff",
+          "provenance": "campaign_claim",
+          "sources": [
+            "src-nick-coroner"
+          ]
+        },
+        {
+          "endorser": "Jerry DiTullio",
+          "kind": "elected",
+          "title": "Treasurer",
+          "provenance": "campaign_claim",
+          "sources": [
+            "src-nick-coroner"
+          ]
+        },
+        {
+          "endorser": "Lisa Cutter",
+          "kind": "elected",
+          "title": "Senator & Jeffco Commissioner Candidate",
+          "provenance": "campaign_claim",
+          "sources": [
+            "src-nick-coroner"
+          ]
+        },
+        {
+          "endorser": "Dave Rein",
+          "kind": "elected",
+          "title": "State HD 28 Candidate",
+          "provenance": "campaign_claim",
+          "sources": [
+            "src-nick-coroner"
+          ]
+        }
+      ],
+      "answers": [],
+      "finance": []
+    },
+    {
+      "name": "Allison Harmon",
+      "contest_id": "jeffco-coroner",
+      "aka": [],
+      "bio": "Allison Harmon is the Republican nominee for Jefferson County Coroner and has cited her experience as a nurse. She announced on June 1 that she was withdrawing because she does not hold the certification a 2024 state law (HB 24-1100) requires of coroners in larger counties, but she did not file to remove her name and remains on the ballot; the county Republican chair says the party wants her to stay in to challenge the law in court.",
+      "bio_sources": [
+        "src-cbs-harmon",
+        "src-hoodline-harmon",
+        "src-critical-report-primaries",
+        "src-jeffco-on-the-ballot"
+      ],
+      "website": null,
+      "website_sources": [],
+      "endorsements": [],
+      "answers": [],
+      "finance": []
+    }
+  ],
+  "open_questions": [
+    "Sheriff: Weston Imer won the June 30 Republican primary (src-critical-report-primaries), but Randall Doizaki is the Republican on the county's general-election candidate list (src-jeffco-on-the-ballot). No source found explaining the switch (withdrawal + vacancy committee is the usual Colorado mechanism, but not confirmed). Imer's campaign site still calls him the 'Republican Nominee' (src-imer-site) and GoodParty.org still lists him (src-goodparty-imer). Doizaki told a Sept. 14 GOP event 'I'm running because I was asked to' (src-ctr-marx-event). Confirm with the Clerk's Elections Division (303-271-8111).",
+    "Treasurer: Bob (Robert) Szulczewski was the Republican primary nominee (src-critical-report-primaries); GoodParty.org still lists him as a Republican candidate (src-goodparty-szulczewski), but no Republican is on the county list (src-jeffco-on-the-ballot). No source found on a withdrawal or why no vacancy replacement appears. Hendrickson's Libertarian Party profile says no Republican is running (src-lp-hendrickson). The Jefferson County Republican Party lists Libertarian Murl Hendrickson as its Treasurer candidate on its 'Meet Your 2026 Candidates' page without an explicit endorsement label (src-jeffco-gop-candidates); not recorded as an endorsement.",
+    "Campaign finance: TRACER candidate search is a form-postback page that could not be queried through the available tools (src-tracer-search); direct downloads to tracer.sos.colorado.gov (bulk data) were blocked by the network proxy. Only Marinelli's candidate-detail page was reachable via a direct link. Finance for the other 13 candidates is missing; the Oct. 13, 2026 reports will also be new.",
+    "Questionnaires: no published written Q&A from the approved outlets (Vote411/LWV Jefferson County, CPR, Colorado Sun, Colorado Community Media, Denver Gazette, Denver Post, Ballotpedia) was found for these county races. Ballotpedia and Colorado Community Media pages returned robots-disallowed; Vote411 requires an address lookup; lwvjeffco.org failed to load. LWV Jefferson County held a county-candidate forum on Oct. 1 (per goldenunited.org; not a written questionnaire). Arvadans For Progressive Action (an advocacy group) published survey answers from Cutter, Hensel, Proctor, Kerr, Ketcham and Lobello (src-apa-2026-guide), not used because it is not on the approved outlet list.",
+    "Cutter's 'Jeffco Endorsements' page shows endorsers only as images (filenames suggest Neguse, Zenzinger, Kerr, Bridges, Kolker, Titone, Duran, Stewart, Proctor, others) (src-cutter-jeffco-endorsements); not recorded. Her site's 'Organizations' page appears to be a legacy Senate list and was not used.",
+    "Kerr's campaign site shows three unlabeled logos (filenames suggest IBEW, CWF, DALF) (src-kerr-home); only DALF is recorded, from DALF's own page.",
+    "Endorsement lists for Kerr, Hensel and Lobello were read through a page-summarizing fetch; spellings should be spot-checked (e.g., Hensel's page reportedly prints 'Brittney Pettersen' and 'Claire Carmelia'; Lobello's page reportedly prints 'Westminister Mayor' with 'Claire Camelia', omitted here pending verification).",
+    "Eric Proctor's campaign site (ericproctor.com) blocks automated fetching; website taken from the Jeffco Democrats candidate page. His bio relies partly on his own answers published by Arvadans For Progressive Action.",
+    "Paul Poston's site (paulforclerk.com) returned no readable content; no bio beyond nominee status. Vera King has no campaign website found; her bio relies on The Critical Report's one-word description.",
+    "Robert Hennessy: incumbency and employer come from BallotReady, not a county biography; the county Leadership page confirms he is the current Surveyor.",
+    "Allison Harmon: what happens if she wins without the required certification is unresolved (src-cbs-harmon). No campaign website found.",
+    "No sheriff endorsements found from FOP, Jeffco deputies associations or other law-enforcement groups for either Marinelli or Doizaki; Marinelli's campaign site lists no endorsements and Doizaki's site has only individual testimonials. No newspaper editorial endorsements found for any of these county races as of Oct. 9."
+  ]
+}

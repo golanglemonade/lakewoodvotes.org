@@ -1,0 +1,217 @@
+{
+  "election": {
+    "id": "2026-04-lakewood-special",
+    "date": "2026-04-07",
+    "name": "April 7, 2026 Lakewood special election (zoning referendum)",
+    "kind": "special",
+    "summary": "Lakewood voters decided four referendum questions on whether to repeal the four ordinances in the City Council's 2025 zoning code update. Voters repealed all four, each by about 62% to 38%, so the prior zoning code remains in effect.",
+    "turnout": "35,760 ballots were cast (City of Lakewood final official results). The number of registered voters was not posted; the Denver Gazette reported turnout of around 25% of registered voters based on early returns.",
+    "sources": [
+      "src-lkw-special",
+      "src-dg-results"
+    ]
+  },
+  "sources": [
+    {
+      "id": "src-lkw-special",
+      "title": "April 7 Special Election (Final Official Results)",
+      "publisher": "City of Lakewood",
+      "url": "https://www.lakewoodco.gov/SpecialElection",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-transcript-special-preview",
+      "title": "Lakewood special election on zoning ordinances (Mar. 12, 2026)",
+      "publisher": "Jeffco Transcript / Colorado Community Media",
+      "url": "https://www.jeffcotranscript.com/news/article_34cd2a1b-03f9-4640-8086-551caa3b08a1.html",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-denverite-explainer",
+      "title": "Lakewood development special election explainer (Apr. 2, 2026; updated Apr. 10)",
+      "publisher": "Denverite",
+      "url": "https://denverite.com/2026/04/02/lakewood-development-special-election-explainer/",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-cosun-zoning",
+      "title": "Lakewood voters strike down pro-density zoning (Apr. 2026)",
+      "publisher": "The Colorado Sun",
+      "url": "https://coloradosun.com/2026/04/08/lakewood-housing-voters-strike-down-pro-density-zoning/",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-dg-results",
+      "title": "Officials, residents respond to Lakewood rezoning special election results (Apr. 8, 2026)",
+      "publisher": "Denver Gazette",
+      "url": "https://www.denvergazette.com/2026/04/08/officials-residents-respond-to-lakewood-rezoning-special-election-results/",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-cp-petitions",
+      "title": "Lakewood zoning petitions deemed sufficient, may lead to special election (Jan. 13, 2026)",
+      "publisher": "Colorado Politics / Denver Gazette",
+      "url": "https://www.coloradopolitics.com/2026/01/13/lakewood-zoning-petitions-deemed-sufficient-may-lead-to-special-election/",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-dg-special-called",
+      "title": "Lakewood zoning changes heading to special election (Jan. 27, 2026)",
+      "publisher": "Denver Gazette",
+      "url": "https://www.denvergazette.com/2026/01/27/lakewood-zoning-changes-heading-to-special-election/",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-cp-council-resolution",
+      "title": "Lakewood City Council urges residents to keep zoning changes (Feb. 10, 2026)",
+      "publisher": "Colorado Politics / Denver Gazette",
+      "url": "https://www.coloradopolitics.com/2026/02/10/lakewood-city-council-urges-residents-to-keep-zoning-changes",
+      "retrieved_on": "2026-10-09"
+    }
+  ],
+  "contests": [],
+  "measures": [
+    {
+      "id": "2026-04-lakewood-q1",
+      "number": "Question 1",
+      "jurisdiction": "City of Lakewood",
+      "short_title": "Repeal zoning Ordinance 2025-27: Building and site design, parking, signs and other standards (Articles 6-14)",
+      "summary": "This question asked whether to repeal Ordinance 2025-27. That ordinance replaced Articles 6 through 14 of the zoning code, which cover building and site design standards, parking and loading, signs, wireless facilities, historic preservation, nonconforming uses, sustainable development and definitions. A YES vote meant repeal (against the ordinance); a NO vote meant keep it (for the ordinance).",
+      "yes_votes": 22310,
+      "no_votes": 13357,
+      "yes_pct": 62.55,
+      "passed": true,
+      "results_status": "official final",
+      "sources": [
+        "src-lkw-special",
+        "src-denverite-explainer"
+      ]
+    },
+    {
+      "id": "2026-04-lakewood-q2",
+      "number": "Question 2",
+      "jurisdiction": "City of Lakewood",
+      "short_title": "Repeal zoning Ordinance 2025-28: Zoning code purpose, procedures, use and dimensional standards (Articles 1, 2, 4 and 5)",
+      "summary": "This question asked whether to repeal Ordinance 2025-28. That ordinance replaced Articles 1, 2, 4 and 5 of the zoning code, which cover its purpose and administration, procedures and appeals, use standards, and dimensional and development standards. A YES vote meant repeal (against the ordinance); a NO vote meant keep it (for the ordinance).",
+      "yes_votes": 22198,
+      "no_votes": 13487,
+      "yes_pct": 62.21,
+      "passed": true,
+      "results_status": "official final",
+      "sources": [
+        "src-lkw-special",
+        "src-denverite-explainer"
+      ]
+    },
+    {
+      "id": "2026-04-lakewood-q3",
+      "number": "Question 3",
+      "jurisdiction": "City of Lakewood",
+      "short_title": "Repeal zoning Ordinance 2025-29: Zone districts (Article 3)",
+      "summary": "This question asked whether to repeal Ordinance 2025-29. That ordinance replaced Article 3 of the zoning code, which sets up the city's zone districts, including the new residential districts that allow more than one home per lot in areas that had been single-family only. A YES vote meant repeal (against the ordinance); a NO vote meant keep it (for the ordinance).",
+      "yes_votes": 22294,
+      "no_votes": 13372,
+      "yes_pct": 62.51,
+      "passed": true,
+      "results_status": "official final",
+      "sources": [
+        "src-lkw-special",
+        "src-denverite-explainer"
+      ]
+    },
+    {
+      "id": "2026-04-lakewood-q4",
+      "number": "Question 4",
+      "jurisdiction": "City of Lakewood",
+      "short_title": "Repeal zoning Ordinance 2025-30: New zoning map and rezoning",
+      "summary": "This question asked whether to repeal Ordinance 2025-30. That ordinance replaced the city's zoning map with a new one and rezoned properties to match the new districts. A YES vote meant repeal (against the ordinance); a NO vote meant keep it (for the ordinance).",
+      "yes_votes": 22245,
+      "no_votes": 13409,
+      "yes_pct": 62.39,
+      "passed": true,
+      "results_status": "official final",
+      "sources": [
+        "src-lkw-special",
+        "src-denverite-explainer"
+      ]
+    }
+  ],
+  "facts": [
+    {
+      "key": "what-was-decided",
+      "text": "Voters were asked whether to repeal four ordinances that made up the City Council's 2025 zoning code update. The update replaced single-family-only zones with residential zones that allow more than one home per lot, with limits on building size, such as 5,000 square feet and 35 feet or three floors in low-form zones. A YES vote repealed an ordinance and a NO vote kept it.",
+      "sources": [
+        "src-lkw-special",
+        "src-denverite-explainer",
+        "src-transcript-special-preview"
+      ]
+    },
+    {
+      "key": "result",
+      "text": "All four repeal questions passed with about 62% YES. The new zoning rules, which had been paused pending the election, are repealed and the prior zoning code stays in effect.",
+      "sources": [
+        "src-lkw-special",
+        "src-cosun-zoning",
+        "src-dg-results"
+      ]
+    },
+    {
+      "key": "how-it-got-here",
+      "text": "Council gave final approval to the zoning update on October 13, 2025. Residents filed four referendum petitions, each with at least 3,600 signatures, and the city found them sufficient in January 2026. On January 26, 2026, the council voted unanimously to send the four ordinances to a special election instead of repealing them itself.",
+      "sources": [
+        "src-cp-petitions",
+        "src-dg-special-called",
+        "src-transcript-special-preview"
+      ]
+    },
+    {
+      "key": "election-logistics",
+      "text": "It was a mail-ballot-only special election run by the City of Lakewood. Ballots were mailed March 16-20, 2026, and were due by 7 p.m. on April 7, 2026. These four questions were the only items on the ballot.",
+      "sources": [
+        "src-lkw-special",
+        "src-transcript-special-preview"
+      ]
+    },
+    {
+      "key": "final-results-posted",
+      "text": "The city posted final official results at 7:30 p.m. on April 15, 2026, with 35,760 total ballots cast, and said no other results would be posted.",
+      "sources": [
+        "src-lkw-special"
+      ]
+    },
+    {
+      "key": "council-position",
+      "text": "On February 9, 2026, the City Council passed a resolution, 9-2, encouraging a NO vote on all four questions. Council members Jacob LaBure and Paula Nystrom voted against the resolution.",
+      "sources": [
+        "src-cp-council-resolution",
+        "src-transcript-special-preview"
+      ]
+    },
+    {
+      "key": "campaign-yes-repeal",
+      "text": "Groups on the YES (repeal) side included the Lakewood Citizens Alliance, led by Karen Gordey; Lakewood Stronger Together, which with the Alliance turned in the petitions; the Imagine Lakewood issue committee, led by Karin Schantz; and Lakewood for All. Denverite reported the repeal campaign had raised $46,442 as of March 28, 2026.",
+      "sources": [
+        "src-denverite-explainer",
+        "src-transcript-special-preview",
+        "src-cp-council-resolution",
+        "src-dg-results"
+      ]
+    },
+    {
+      "key": "campaign-no-keep",
+      "text": "The main NO (keep the new zoning) campaign was Make Lakewood Livable, managed by former council member Sophia Mayott-Guerrero. Denverite reported it had raised $269,351, with Action Now, Inc. as its top contributor. Its listed endorsers included U.S. Rep. Brittany Pettersen, the ACLU and Mayor Wendi Strom.",
+      "sources": [
+        "src-denverite-explainer",
+        "src-dg-results",
+        "src-cosun-zoning"
+      ]
+    }
+  ],
+  "open_questions": [
+    "The city's results page does not give the number of registered or active voters, so an official turnout percentage was not found.",
+    "The city labels results 'final official'; a separate canvass or certification document and date (Denver Gazette said official results were due by April 17) were not retrieved.",
+    "The Colorado Sun described the keep-zoning side as having less financial support, which conflicts with Denverite's reported totals ($269,351 for Make Lakewood Livable vs. $46,442 for the repeal side as of March 28). Final campaign finance reports were not reviewed.",
+    "Ward-by-ward results exist as an image on the city page (Votes-by-Ward-Image_Final.jpg) but were not transcribed.",
+    "Whether Lakewood for All was a separate registered committee on the repeal side (named by Denverite) was not confirmed."
+  ]
+}

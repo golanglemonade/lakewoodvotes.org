@@ -1,0 +1,530 @@
+{
+  "election": {
+    "id": "2025-11-lakewood",
+    "date": "2025-11-04",
+    "name": "November 4, 2025 Lakewood city election (coordinated election)",
+    "kind": "city",
+    "summary": "Lakewood voters chose City Council members in all five wards; four incumbents were reelected and Liz Black won the open Ward 2 seat. Voters also chose three Jeffco Public Schools board members and decided two statewide measures, Propositions LL and MM, which both passed. There were no City of Lakewood ballot questions.",
+    "turnout": "In Lakewood's five wards, 45,817 ballots were cast out of 112,168 registered voters (about 40.85%, summed from county ward totals). Jefferson County overall: 199,921 of 440,729 (45.36%). Statewide: 1,716,655 of 4,135,705 active voters (41.51%).",
+    "sources": [
+      "src-jeffco-sovc-2025",
+      "src-jeffco-report-2025",
+      "src-sos-pr-2025"
+    ]
+  },
+  "sources": [
+    {
+      "id": "src-jeffco-sovc-2025",
+      "title": "Statement of Votes Cast, November 4, 2025 (Votes Cast by Precinct, run 11/20/2025)",
+      "publisher": "Jefferson County Clerk and Recorder",
+      "url": "https://www.jeffco.us/DocumentCenter/View/54798",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-jeffco-results-page",
+      "title": "Election Results (2025 Coordinated Election links)",
+      "publisher": "Jefferson County Clerk and Recorder",
+      "url": "https://www.jeffco.us/578/Election-Results",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-jeffco-report-2025",
+      "title": "2025 Coordinated Election Report to the Jeffco Community",
+      "publisher": "Jefferson County Clerk and Recorder",
+      "url": "https://www.jeffco.us/DocumentCenter/View/54926",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-jeffco-sample-2025",
+      "title": "2025 Coordinated Sample Ballot",
+      "publisher": "Jefferson County Clerk and Recorder",
+      "url": "https://www.jeffco.us/DocumentCenter/View/53584/2025-Coordinated-Sample-Ballot-PDF",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-lkw-2025-page",
+      "title": "November 4, 2025, Council Election",
+      "publisher": "City of Lakewood",
+      "url": "https://www.lakewood.org/Government/Departments/City-Clerks-Office/Elections/2024-General-Election",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-lkw-elections",
+      "title": "Elections (City Clerk's Office)",
+      "publisher": "City of Lakewood",
+      "url": "https://www.lakewoodco.gov/City-Hall/Departments/City-Clerks-Office/Elections",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-lkw-strom",
+      "title": "Mayor Wendi Strom",
+      "publisher": "City of Lakewood",
+      "url": "https://www.lakewoodco.gov/City-Hall/City-Council/City-Council-Members/Mayor-Wendi-Strom",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-sos-pr-2025",
+      "title": "Secretary of State certifies 2025 Coordinated Election results (Nov. 26, 2025)",
+      "publisher": "Colorado Secretary of State",
+      "url": "https://coloradosos.gov/pubs/newsRoom/pressReleases/2025/PR20251126ElectionResults.html",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-gov-d2025023",
+      "title": "Executive Order D 2025 023: Declaration of Vote on Measures Referred to the 2025 Coordinated Election Ballot",
+      "publisher": "Office of the Governor of Colorado (via Colorado State Publications Library)",
+      "url": "https://spl.cde.state.co.us/artemis/goserials/go4312internet/go43122025023internet.pdf",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-cp-20251105",
+      "title": "Westminster elects new mayor; Jeffco pick new school leaders (Nov. 5, 2025)",
+      "publisher": "Colorado Politics / Denver Gazette",
+      "url": "https://www.coloradopolitics.com/2025/11/05/westminster-elects-new-mayor-jeffco-pick-new-school-leaders/",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-transcript-council-2025",
+      "title": "Lakewood City Council election results (Nov. 5, 2025, uncertified)",
+      "publisher": "Jeffco Transcript / Colorado Community Media",
+      "url": "https://www.jeffcotranscript.com/news/article_472a9e4d-1958-4325-91e7-13d846467b57.html",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-transcript-schoolboard-2025",
+      "title": "Jeffco school board election results (Nov. 2025, preliminary)",
+      "publisher": "Jeffco Transcript / Colorado Community Media",
+      "url": "https://www.jeffcotranscript.com/news/article_36055c24-47f5-4466-b8fe-3f93a60c1c3c.html",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-jeffcoschools-board-elections",
+      "title": "Board Elections",
+      "publisher": "Jeffco Public Schools",
+      "url": "https://www.jeffcopublicschools.org/about/board-of-education/board-elections",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-dg-swearing-in",
+      "title": "Lakewood swears in new city councilmembers (Nov. 26, 2025)",
+      "publisher": "Denver Gazette",
+      "url": "https://www.denvergazette.com/2025/11/26/lakewood-swears-in-new-city-councilmembers/",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-cp-petitions",
+      "title": "Lakewood zoning petitions deemed sufficient, may lead to special election (Jan. 13, 2026)",
+      "publisher": "Colorado Politics / Denver Gazette",
+      "url": "https://www.coloradopolitics.com/2026/01/13/lakewood-zoning-petitions-deemed-sufficient-may-lead-to-special-election/",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-transcript-special-preview",
+      "title": "Lakewood special election on zoning ordinances (Mar. 12, 2026)",
+      "publisher": "Jeffco Transcript / Colorado Community Media",
+      "url": "https://www.jeffcotranscript.com/news/article_34cd2a1b-03f9-4640-8086-551caa3b08a1.html",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-denverite-explainer",
+      "title": "Lakewood development special election explainer (Apr. 2, 2026)",
+      "publisher": "Denverite",
+      "url": "https://denverite.com/2026/04/02/lakewood-development-special-election-explainer/",
+      "retrieved_on": "2026-10-09"
+    }
+  ],
+  "contests": [
+    {
+      "id": "2025-lakewood-ward1",
+      "level": "city",
+      "office": "Lakewood City Council",
+      "district": "Ward 1",
+      "who_voted": "Ward 1 voters",
+      "seats": 1,
+      "nonpartisan": true,
+      "results_status": "official final",
+      "candidates": [
+        {
+          "name": "Jeslin Shahrezaei",
+          "party": null,
+          "incumbent": true,
+          "votes": 6131,
+          "pct": 100.0,
+          "won": true
+        }
+      ],
+      "notes": "Jefferson County statement of votes cast: 9,335 ballots cast in Ward 1 of 22,733 registered voters; 3,204 undervotes. Percentages are of total votes in the contest. Unopposed. Percentage is of votes cast in the contest; voters who skipped the race are counted as undervotes.",
+      "sources": [
+        "src-jeffco-sovc-2025",
+        "src-dg-swearing-in",
+        "src-cp-20251105"
+      ]
+    },
+    {
+      "id": "2025-lakewood-ward2",
+      "level": "city",
+      "office": "Lakewood City Council",
+      "district": "Ward 2",
+      "who_voted": "Ward 2 voters",
+      "seats": 1,
+      "nonpartisan": true,
+      "results_status": "official final",
+      "candidates": [
+        {
+          "name": "Liz Black",
+          "party": null,
+          "incumbent": false,
+          "votes": 4485,
+          "pct": 100.0,
+          "won": true
+        }
+      ],
+      "notes": "Jefferson County statement of votes cast: 6,598 ballots cast in Ward 2 of 19,375 registered voters; 2,113 undervotes. Percentages are of total votes in the contest. Unopposed open seat; incumbent Sophia Mayott-Guerrero did not seek reelection.",
+      "sources": [
+        "src-jeffco-sovc-2025",
+        "src-dg-swearing-in",
+        "src-cp-20251105"
+      ]
+    },
+    {
+      "id": "2025-lakewood-ward3",
+      "level": "city",
+      "office": "Lakewood City Council",
+      "district": "Ward 3",
+      "who_voted": "Ward 3 voters",
+      "seats": 1,
+      "nonpartisan": true,
+      "results_status": "official final",
+      "candidates": [
+        {
+          "name": "Ken Cruz",
+          "party": null,
+          "incumbent": true,
+          "votes": 4182,
+          "pct": 51.17,
+          "won": true
+        },
+        {
+          "name": "Pedro \"Pete\" Roybal",
+          "party": null,
+          "incumbent": false,
+          "votes": 2249,
+          "pct": 27.52,
+          "won": false
+        },
+        {
+          "name": "Bonnie Nguyen",
+          "party": null,
+          "incumbent": false,
+          "votes": 1742,
+          "pct": 21.31,
+          "won": false
+        }
+      ],
+      "notes": "Jefferson County statement of votes cast: 8,750 ballots cast in Ward 3 of 22,177 registered voters; 576 undervotes. Percentages are of total votes in the contest.",
+      "sources": [
+        "src-jeffco-sovc-2025",
+        "src-cp-20251105"
+      ]
+    },
+    {
+      "id": "2025-lakewood-ward4",
+      "level": "city",
+      "office": "Lakewood City Council",
+      "district": "Ward 4",
+      "who_voted": "Ward 4 voters",
+      "seats": 1,
+      "nonpartisan": true,
+      "results_status": "official final",
+      "candidates": [
+        {
+          "name": "Bill Furman",
+          "party": null,
+          "incumbent": true,
+          "votes": 7208,
+          "pct": 72.97,
+          "won": true
+        },
+        {
+          "name": "Ariel Manzanares-Scisney",
+          "party": null,
+          "incumbent": false,
+          "votes": 1388,
+          "pct": 14.05,
+          "won": false
+        },
+        {
+          "name": "Desirée González",
+          "party": null,
+          "incumbent": false,
+          "votes": 1266,
+          "pct": 12.82,
+          "won": false
+        },
+        {
+          "name": "Nick Munden (qualified write-in)",
+          "party": null,
+          "incumbent": false,
+          "votes": 16,
+          "pct": 0.16,
+          "won": false
+        }
+      ],
+      "notes": "Jefferson County statement of votes cast: 11,140 ballots cast in Ward 4 of 23,735 registered voters; 1,261 undervotes. Percentages are of total votes in the contest.",
+      "sources": [
+        "src-jeffco-sovc-2025",
+        "src-cp-20251105",
+        "src-transcript-council-2025"
+      ]
+    },
+    {
+      "id": "2025-lakewood-ward5",
+      "level": "city",
+      "office": "Lakewood City Council",
+      "district": "Ward 5",
+      "who_voted": "Ward 5 voters",
+      "seats": 1,
+      "nonpartisan": true,
+      "results_status": "official final",
+      "candidates": [
+        {
+          "name": "Paula Nystrom",
+          "party": null,
+          "incumbent": true,
+          "votes": 6014,
+          "pct": 67.77,
+          "won": true
+        },
+        {
+          "name": "Karen Gordey",
+          "party": null,
+          "incumbent": false,
+          "votes": 2860,
+          "pct": 32.23,
+          "won": false
+        }
+      ],
+      "notes": "Jefferson County statement of votes cast: 9,994 ballots cast in Ward 5 of 24,148 registered voters; 1,119 undervotes. Percentages are of total votes in the contest.",
+      "sources": [
+        "src-jeffco-sovc-2025",
+        "src-cp-20251105"
+      ]
+    },
+    {
+      "id": "2025-jeffco-schools-d1",
+      "level": "school",
+      "office": "Jeffco Public Schools Board of Education",
+      "district": "Director District 1",
+      "who_voted": "All Jeffco Public Schools (Jefferson County R-1) voters, including Lakewood",
+      "seats": 1,
+      "nonpartisan": true,
+      "results_status": "partial",
+      "candidates": [
+        {
+          "name": "Denine Echevarria",
+          "party": null,
+          "incumbent": false,
+          "votes": 88689,
+          "pct": 64.5,
+          "won": true
+        },
+        {
+          "name": "Michael Yocum",
+          "party": null,
+          "incumbent": false,
+          "votes": 48865,
+          "pct": null,
+          "won": false
+        }
+      ],
+      "notes": "Open seat (Danielle Varda did not seek reelection). Vote counts are preliminary, uncertified figures reported by the Jeffco Transcript shortly after Election Day; certified totals were not retrieved. Colorado Politics reported 64.48% for Echevarria (unofficial, Nov. 5). Opponent's surname appears as Yocum in the Transcript and Yoccum in Colorado Politics.",
+      "sources": [
+        "src-transcript-schoolboard-2025",
+        "src-cp-20251105",
+        "src-jeffcoschools-board-elections"
+      ]
+    },
+    {
+      "id": "2025-jeffco-schools-d2",
+      "level": "school",
+      "office": "Jeffco Public Schools Board of Education",
+      "district": "Director District 2",
+      "who_voted": "All Jeffco Public Schools (Jefferson County R-1) voters, including Lakewood",
+      "seats": 1,
+      "nonpartisan": true,
+      "results_status": "partial",
+      "candidates": [
+        {
+          "name": "Peter Gibbins",
+          "party": null,
+          "incumbent": false,
+          "votes": 97888,
+          "pct": 68.0,
+          "won": true
+        },
+        {
+          "name": "Samuel Myrant",
+          "party": null,
+          "incumbent": false,
+          "votes": 46072,
+          "pct": null,
+          "won": false
+        }
+      ],
+      "notes": "Open seat (Paula Reed did not seek reelection). Preliminary, uncertified counts from the Jeffco Transcript; certified totals were not retrieved.",
+      "sources": [
+        "src-transcript-schoolboard-2025",
+        "src-cp-20251105",
+        "src-jeffcoschools-board-elections"
+      ]
+    },
+    {
+      "id": "2025-jeffco-schools-d5",
+      "level": "school",
+      "office": "Jeffco Public Schools Board of Education",
+      "district": "Director District 5",
+      "who_voted": "All Jeffco Public Schools (Jefferson County R-1) voters, including Lakewood",
+      "seats": 1,
+      "nonpartisan": true,
+      "results_status": "partial",
+      "candidates": [
+        {
+          "name": "Tina Moeinian",
+          "party": null,
+          "incumbent": false,
+          "votes": null,
+          "pct": 40.7,
+          "won": true
+        },
+        {
+          "name": "Mary Parker",
+          "party": null,
+          "incumbent": true,
+          "votes": 45678,
+          "pct": 31.6,
+          "won": false
+        },
+        {
+          "name": "Gloria \"Terri\" Rascon",
+          "party": null,
+          "incumbent": false,
+          "votes": 39928,
+          "pct": 27.7,
+          "won": false
+        }
+      ],
+      "notes": "Mary Parker was the incumbent and board president. Preliminary, uncertified figures from the Jeffco Transcript, which did not give Moeinian's vote count; certified totals were not retrieved. Colorado Politics (unofficial, Nov. 5) reported 40.73% / 31.63% / 27.64%. Rascon's middle name appears as \"Terri\" in the Transcript and \"Teresa\" in Colorado Politics.",
+      "sources": [
+        "src-transcript-schoolboard-2025",
+        "src-cp-20251105",
+        "src-jeffcoschools-board-elections"
+      ]
+    }
+  ],
+  "measures": [
+    {
+      "id": "2025-state-prop-ll",
+      "number": "Proposition LL",
+      "jurisdiction": "State of Colorado",
+      "short_title": "Keep revenue already collected for Healthy School Meals for All",
+      "summary": "Asked whether the state could keep and spend money it had collected above estimates from the 2022 voter-approved limits on income tax deductions for people with incomes of $300,000 or more, and keep those limits in place, to fund the free school meals program. Totals shown are statewide certified results.",
+      "yes_votes": 1116209,
+      "no_votes": 569836,
+      "yes_pct": 66.2,
+      "passed": true,
+      "results_status": "certified",
+      "sources": [
+        "src-gov-d2025023",
+        "src-jeffco-sample-2025",
+        "src-sos-pr-2025"
+      ]
+    },
+    {
+      "id": "2025-state-prop-mm",
+      "number": "Proposition MM",
+      "jurisdiction": "State of Colorado",
+      "short_title": "Further limit income tax deductions for high earners to fund school meals and food aid",
+      "summary": "Asked whether to raise about $95 million a year by limiting state income tax deductions to $1,000 for single filers or $2,000 for joint filers with federal taxable income of $300,000 or more. The money goes to the school meals program, wages for school food workers, and SNAP food assistance. Totals shown are statewide certified results.",
+      "yes_votes": 1010644,
+      "no_votes": 681400,
+      "yes_pct": 59.73,
+      "passed": true,
+      "results_status": "certified",
+      "sources": [
+        "src-gov-d2025023",
+        "src-jeffco-sample-2025",
+        "src-sos-pr-2025"
+      ]
+    }
+  ],
+  "facts": [
+    {
+      "key": "no-lakewood-measures-2025",
+      "text": "There were no City of Lakewood ballot questions, no Jefferson County measures, and no Jeffco Public Schools measures on the November 2025 ballot. The special-district measures on the county ballot (Lookout Mountain Water, Mountain Shadows Metro, South Metro Fire Rescue, Coal Creek Canyon Fire) were for other areas.",
+      "sources": [
+        "src-jeffco-sample-2025"
+      ]
+    },
+    {
+      "key": "no-mayor-2025",
+      "text": "Lakewood holds regular city elections in November of odd-numbered years. The mayor and council members serve four-year terms. The mayor was not on the 2025 ballot; Mayor Wendi Strom's term runs November 2023 to November 2027.",
+      "sources": [
+        "src-lkw-elections",
+        "src-lkw-strom"
+      ]
+    },
+    {
+      "key": "lakewood-ward-turnout-2025",
+      "text": "Adding the five ward totals in the county's statement of votes cast: 45,817 ballots were cast in Lakewood's wards out of 112,168 registered voters (about 40.85%).",
+      "sources": [
+        "src-jeffco-sovc-2025"
+      ]
+    },
+    {
+      "key": "county-turnout-2025",
+      "text": "Jefferson County: 199,921 ballots cast out of 440,729 registered voters (45.36%). The Clerk reports 196,849 voted by mail and 2,979 in person. The county canvass certified results on November 25, 2025.",
+      "sources": [
+        "src-jeffco-sovc-2025",
+        "src-jeffco-report-2025"
+      ]
+    },
+    {
+      "key": "state-turnout-2025",
+      "text": "Statewide, 1,716,655 ballots were cast out of 4,135,705 active voters (41.51%). The Secretary of State certified results on November 26, 2025.",
+      "sources": [
+        "src-sos-pr-2025"
+      ]
+    },
+    {
+      "key": "council-sworn-in",
+      "text": "New and reelected council members were sworn in on November 24, 2025: Jeslin Shahrezaei, Liz Black, Ken Cruz, Bill Furman and Paula Nystrom.",
+      "sources": [
+        "src-dg-swearing-in"
+      ]
+    },
+    {
+      "key": "school-board-seated",
+      "text": "The three newly elected Jeffco school board members (Echevarria, Gibbins, Moeinian) were scheduled to be sworn in on December 3, 2025, to four-year terms.",
+      "sources": [
+        "src-jeffcoschools-board-elections"
+      ]
+    },
+    {
+      "key": "zoning-ordinances-oct-2025",
+      "text": "On October 13, 2025, the City Council gave final approval to a nearly 400-page zoning code update, made up of four ordinances (2025-27, 2025-28, 2025-29 and 2025-30). The new rules replaced single-family-only zones with residential zones that allow more than one home per lot. Residents then petitioned to refer all four ordinances to voters, which led to the April 7, 2026 special election.",
+      "sources": [
+        "src-cp-petitions",
+        "src-transcript-special-preview",
+        "src-denverite-explainer"
+      ]
+    }
+  ],
+  "open_questions": [
+    "Lakewood council results come from Jefferson County's Statement of Votes Cast run on Nov. 20, 2025 (before the Nov. 25 canvass certification) and linked as the 2025 results record; the PDF is not labeled certified. Confirm against the certified Clarity results (results.enr.clarityelections.com/CO/Jefferson/124410/), which could not be fetched.",
+    "Certified Jeffco Public Schools board vote totals were not retrieved (the county PDF text was cut off at page 72 of 182 and the Clarity site could not be fetched). Board counts shown are preliminary.",
+    "Jefferson County totals for Propositions LL and MM were not retrieved; only statewide certified totals are shown.",
+    "The City of Lakewood's 2025 election page lists a different candidate set (Ward 1: Robert James Hooser; Ward 2: Alexei Fernandez; Ward 4: Nicholas Munden as a listed candidate) than the county ballot results. These names did not appear on the county results as ballot candidates (Munden was a qualified write-in); the city page may be an early or outdated list.",
+    "Party affiliation is not listed because Lakewood council and Jeffco school board races are nonpartisan.",
+    "Exact council vote counts and dates of each reading for ordinances 2025-27 to 2025-30 were not confirmed; a city legal notice for O-2025-28 showed a planned final passage of Sept. 8, 2025, while news reports say the full update received final approval Oct. 13, 2025."
+  ]
+}

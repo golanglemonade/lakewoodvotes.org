@@ -1,0 +1,995 @@
+{
+  "section": "Statewide ballot measures",
+  "sources": [
+    {
+      "id": "src-sos-cert-pr",
+      "title": "Secretary of State certifies 14 statewide ballot measures (news release, Sept. 4, 2026)",
+      "publisher": "Colorado Secretary of State",
+      "url": "https://www.coloradosos.gov/pubs/newsRoom/pressReleases/2026/PR20260904BallotCertification.html",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-sos-contacts",
+      "title": "Amendments and Propositions on the 2026 Ballot - committees in favor and opposed",
+      "publisher": "Colorado Secretary of State",
+      "url": "https://www.coloradosos.gov/pubs/elections/Initiatives/ballot/contacts/2026.html",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-bluebook",
+      "title": "2026 State Ballot Information Booklet (Blue Book), accessible PDF",
+      "publisher": "Colorado Legislative Council Staff",
+      "url": "https://content.leg.colorado.gov/sites/default/files/2026-blue-book-en-accessible.pdf",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-lcs-bluebook-page",
+      "title": "Ballot Information Booklet (Blue Book) page",
+      "publisher": "Colorado General Assembly / Legislative Council Staff",
+      "url": "https://leg.colorado.gov/initiatives/ballot-information-booklet-blue-book",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-lcs-a85",
+      "title": "Blue Book analysis: Amendment 85, Plain Language Ballot Titles",
+      "publisher": "Colorado Legislative Council Staff",
+      "url": "https://www.leg.colorado.gov/ballots/plain-language-ballot-titles-2/files/blue-book",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-lcs-a86",
+      "title": "Blue Book analysis: Amendment 86, Requirements for Off-Cycle Congressional Redistricting",
+      "publisher": "Colorado Legislative Council Staff",
+      "url": "https://leg.colorado.gov/ballots/requirements-for-off-cycle-congressional-redistricting-2/files/blue-book",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-lcs-a87",
+      "title": "Blue Book analysis: Amendment 87, Graduated Income Tax",
+      "publisher": "Colorado Legislative Council Staff",
+      "url": "https://leg.colorado.gov/ballots/graduated-income-tax-2/files/blue-book",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-lcs-p134",
+      "title": "Blue Book analysis: Proposition 134, Male and Female Participation in School and Collegiate Sports",
+      "publisher": "Colorado Legislative Council Staff",
+      "url": "https://leg.colorado.gov/ballots/male-and-female-participation-in-school-and-collegiate-sports-2/files/blue-book",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-lcs-p135",
+      "title": "Blue Book analysis: Proposition 135, Prohibit Surgery on Minors in Response to Perception of Sex or Gender",
+      "publisher": "Colorado Legislative Council Staff",
+      "url": "https://leg.colorado.gov/ballots/prohibit-surgery-on-minors-in-response-to-perception-of-sex-or-gender-2/files/blue-book",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-lcs-p136",
+      "title": "Blue Book analysis: Proposition 136, Income Tax Rate Limit",
+      "publisher": "Colorado Legislative Council Staff",
+      "url": "https://www.leg.colorado.gov/ballots/income-tax-rate-limit-2/files/blue-book",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-lcs-p137",
+      "title": "Blue Book analysis: Proposition 137, Direct Sporting Goods Sales Tax Revenue for Conservation",
+      "publisher": "Colorado Legislative Council Staff",
+      "url": "https://leg.colorado.gov/ballots/direct-sporting-goods-sales-tax-revenue-for-conservation-2/files/blue-book",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-bp-news",
+      "title": "Colorado voters will decide on 14 ballot measures in 2026",
+      "publisher": "Ballotpedia News",
+      "url": "https://news.ballotpedia.org/2026/09/14/colorado-voters-will-decide-on-14-ballot-measures-in-2026/",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-newsline-14",
+      "title": "14 measures will appear on Colorado's statewide ballot in 2026",
+      "publisher": "Colorado Newsline",
+      "url": "https://coloradonewsline.com/2026/09/08/14-measures-will-appear-on-colorados-statewide-ballot-in-2026/",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-chalkbeat-a87",
+      "title": "2026 Colorado voter guide: What to know about Amendment 87",
+      "publisher": "Chalkbeat Colorado",
+      "url": "https://www.chalkbeat.org/colorado/2026/10/01/voter-guide-amendment-87-ballot-measure-school-funding/",
+      "retrieved_on": "2026-10-09"
+    }
+  ],
+  "contests": [],
+  "retention": [],
+  "measures": [
+    {
+      "id": "amendment-81",
+      "number": "Amendment 81",
+      "jurisdiction": "State of Colorado",
+      "who_votes": "All registered voters in Colorado, including all Lakewood voters",
+      "short_title": "Police must tell federal immigration officials about certain charges",
+      "how_it_got_on_ballot": "Citizen initiative (petition signatures); filed as Initiative #95",
+      "passing_threshold": "55% (constitutional amendment)",
+      "summary": "This would change the state constitution. When police or prosecutors charge someone with a violent crime, or with any crime if the person has a past felony conviction, and they cannot confirm the person is lawfully in the U.S., they would have to notify the U.S. Department of Homeland Security within 72 hours. Violent crimes include crimes like murder, assault, kidnapping, and aggravated robbery. Today, state law allows cooperation in some criminal matters but limits local help with civil immigration enforcement.",
+      "yes_means": "Law enforcement must notify federal immigration authorities after filing certain criminal charges against people who are not confirmed to be lawfully present.",
+      "no_means": "Current law stays the same, which allows some cooperation in criminal matters but limits local involvement in civil immigration enforcement.",
+      "money": "Small state costs, about $50,000 for the Department of Revenue and $10,000 for the Department of Natural Resources to update systems. Local costs, mostly for district attorney offices, were not estimated.",
+      "supporters": [
+        {
+          "name": "Brighter Colorado",
+          "sources": [
+            "src-sos-contacts"
+          ]
+        },
+        {
+          "name": "Eagle County Republican Women Club",
+          "sources": [
+            "src-sos-contacts"
+          ]
+        }
+      ],
+      "opponents": [
+        {
+          "name": "Colorado Communities First",
+          "sources": [
+            "src-sos-contacts"
+          ]
+        },
+        {
+          "name": "The People's No",
+          "sources": [
+            "src-sos-contacts"
+          ]
+        },
+        {
+          "name": "Vote Common Sense",
+          "sources": [
+            "src-sos-contacts"
+          ]
+        },
+        {
+          "name": "People for a Fair Colorado",
+          "sources": [
+            "src-sos-contacts"
+          ]
+        }
+      ],
+      "sources": [
+        "src-sos-cert-pr",
+        "src-bluebook",
+        "src-sos-contacts"
+      ]
+    },
+    {
+      "id": "amendment-82",
+      "number": "Amendment 82",
+      "jurisdiction": "State of Colorado",
+      "who_votes": "All registered voters in Colorado, including all Lakewood voters",
+      "short_title": "Right to buy and sell natural gas",
+      "how_it_got_on_ballot": "Citizen initiative (petition signatures); filed as Initiative #177",
+      "passing_threshold": "55% (constitutional amendment)",
+      "summary": "This would add a right to the state constitution for homes and businesses to buy natural gas for heating and cooking. It would also protect the right of gas distributors and utilities to sell it. It could limit how much the state and local governments can restrict natural gas, for example through building codes.",
+      "yes_means": "Creates a state constitutional right to buy and sell natural gas for use in homes and businesses.",
+      "no_means": "Current laws and rules about buying and selling natural gas stay the same.",
+      "money": "Small state costs that were not estimated, mostly for the Department of Local Affairs and legal and regulatory work. Local governments with building codes that limit gas could face higher legal and compliance costs.",
+      "supporters": [
+        {
+          "name": "Brighter Colorado",
+          "sources": [
+            "src-sos-contacts"
+          ]
+        },
+        {
+          "name": "Energy Freedom Alliance of the Rockies",
+          "sources": [
+            "src-sos-contacts"
+          ]
+        },
+        {
+          "name": "Affordable Colorado",
+          "sources": [
+            "src-sos-contacts"
+          ]
+        }
+      ],
+      "opponents": [
+        {
+          "name": "No Pollution in the Constitution",
+          "sources": [
+            "src-sos-contacts"
+          ]
+        },
+        {
+          "name": "Vote Common Sense",
+          "sources": [
+            "src-sos-contacts"
+          ]
+        },
+        {
+          "name": "People for a Fair Colorado",
+          "sources": [
+            "src-sos-contacts"
+          ]
+        }
+      ],
+      "sources": [
+        "src-sos-cert-pr",
+        "src-bluebook",
+        "src-sos-contacts"
+      ]
+    },
+    {
+      "id": "amendment-83",
+      "number": "Amendment 83",
+      "jurisdiction": "State of Colorado",
+      "who_votes": "All registered voters in Colorado, including all Lakewood voters",
+      "short_title": "Right to hunt and fish",
+      "how_it_got_on_ballot": "Citizen initiative (petition signatures); filed as Initiative #302",
+      "passing_threshold": "55% (constitutional amendment)",
+      "summary": "This would add a right to hunt and fish, using traditional methods, to the state constitution. It would make hunting and fishing the preferred way to manage wildlife. The state could still regulate hunting and fishing for conservation, public safety, or to keep these activities available in the future.",
+      "yes_means": "Creates a state constitutional right to hunt and fish.",
+      "no_means": "Hunting and fishing continue as allowed under current state and federal law.",
+      "money": "No major change expected right away. Colorado Parks and Wildlife could have added legal and rulemaking costs, and the state could face lawsuit costs. These were not estimated.",
+      "supporters": [
+        {
+          "name": "Let's Go Colorado",
+          "sources": [
+            "src-sos-contacts"
+          ]
+        },
+        {
+          "name": "Vote Yes on 83",
+          "sources": [
+            "src-sos-contacts"
+          ]
+        },
+        {
+          "name": "Colorado's Wildlife Deserve Better",
+          "sources": [
+            "src-sos-contacts"
+          ]
+        },
+        {
+          "name": "Hunt to Conserve Colorado",
+          "sources": [
+            "src-sos-contacts"
+          ]
+        }
+      ],
+      "opponents": [
+        {
+          "name": "Protect Colorado's Constitution",
+          "sources": [
+            "src-sos-contacts"
+          ]
+        },
+        {
+          "name": "Stop the Constitutional Power Grab",
+          "sources": [
+            "src-sos-contacts"
+          ]
+        },
+        {
+          "name": "Colorado Hunters and Anglers for Sensible Wildlife Conservation",
+          "sources": [
+            "src-sos-contacts"
+          ]
+        },
+        {
+          "name": "Vote No 83",
+          "sources": [
+            "src-sos-contacts"
+          ]
+        },
+        {
+          "name": "People for a Fair Colorado",
+          "sources": [
+            "src-sos-contacts"
+          ]
+        }
+      ],
+      "sources": [
+        "src-sos-cert-pr",
+        "src-bluebook",
+        "src-sos-contacts"
+      ]
+    },
+    {
+      "id": "amendment-84",
+      "number": "Amendment 84",
+      "jurisdiction": "State of Colorado",
+      "who_votes": "All registered voters in Colorado, including all Lakewood voters",
+      "short_title": "ID number required on mail ballots",
+      "how_it_got_on_ballot": "Citizen initiative (petition signatures); filed as Initiative #362",
+      "passing_threshold": "55% (constitutional amendment)",
+      "summary": "This would change the state constitution so that mail ballots must include the last four digits of the voter's Social Security number, or their Colorado driver's license or state ID number. This would be in addition to the voter's signature. Voters whose number is missing or does not match could fix it up to eight days after Election Day.",
+      "yes_means": "Voters must provide identification information with their mail ballot, in addition to their signature.",
+      "no_means": "Mail ballots continue to be checked by signature only.",
+      "money": "Up to $2.7 million in state and county costs in 2026-27 and about $1.2 million a year after that. The state would repay counties for part of their costs.",
+      "supporters": [
+        {
+          "name": "Colorado Voter Trust Initiative",
+          "sources": [
+            "src-sos-contacts"
+          ]
+        }
+      ],
+      "opponents": [
+        {
+          "name": "Defend our Ballots Issue Committee",
+          "sources": [
+            "src-sos-contacts"
+          ]
+        },
+        {
+          "name": "Vote Common Sense",
+          "sources": [
+            "src-sos-contacts"
+          ]
+        },
+        {
+          "name": "People for a Fair Colorado",
+          "sources": [
+            "src-sos-contacts"
+          ]
+        }
+      ],
+      "sources": [
+        "src-sos-cert-pr",
+        "src-bluebook",
+        "src-sos-contacts"
+      ]
+    },
+    {
+      "id": "amendment-85",
+      "number": "Amendment 85",
+      "jurisdiction": "State of Colorado",
+      "who_votes": "All registered voters in Colorado, including all Lakewood voters",
+      "short_title": "Plain-language ballot titles",
+      "how_it_got_on_ballot": "Citizen initiative (petition signatures); filed as Initiative #234",
+      "passing_threshold": "55% (constitutional amendment)",
+      "summary": "This would require the titles of all state and local ballot measures to be written in plain language at no higher than an eighth-grade reading level. It would also stop laws from requiring wording in citizen initiative titles that gets in the way of plain language. The measure does not define plain language or say who decides if a title meets the standard.",
+      "yes_means": "Ballot titles must be written in plain language at an eighth-grade reading level.",
+      "no_means": "Current law stays; titles must still be clear, but there is no set reading-level standard.",
+      "money": "A small, unestimated increase in work for the state Title Board.",
+      "supporters": [
+        {
+          "name": "Brighter Colorado",
+          "sources": [
+            "src-sos-contacts"
+          ]
+        }
+      ],
+      "opponents": [
+        {
+          "name": "Vote Common Sense",
+          "sources": [
+            "src-sos-contacts"
+          ]
+        },
+        {
+          "name": "People for a Fair Colorado",
+          "sources": [
+            "src-sos-contacts"
+          ]
+        }
+      ],
+      "sources": [
+        "src-sos-cert-pr",
+        "src-bluebook",
+        "src-lcs-a85",
+        "src-sos-contacts"
+      ]
+    },
+    {
+      "id": "amendment-86",
+      "number": "Amendment 86",
+      "jurisdiction": "State of Colorado",
+      "who_votes": "All registered voters in Colorado, including all Lakewood voters",
+      "short_title": "Rules for redrawing congressional districts between censuses",
+      "how_it_got_on_ballot": "Citizen initiative (petition signatures); filed as Initiative #256",
+      "passing_threshold": "55% (constitutional amendment)",
+      "summary": "Colorado normally redraws its U.S. House districts once every ten years, after the census. This measure says any change made in other years must be approved by the state's Independent Congressional Redistricting Commission and the Colorado Supreme Court. It would require at least three public hearings. It would also ban changes that favor a political party or split communities without need.",
+      "yes_means": "Any new congressional map drawn outside the usual once-a-decade schedule must be approved by the independent commission and the state Supreme Court.",
+      "no_means": "The current system stays, in which congressional districts are redrawn every ten years.",
+      "money": "About $370,000 in any year the commission must meet to review an off-schedule map, plus a small added workload for the courts.",
+      "supporters": [
+        {
+          "name": "Fair Redistricting Colorado",
+          "sources": [
+            "src-sos-contacts"
+          ]
+        },
+        {
+          "name": "Brighter Colorado",
+          "sources": [
+            "src-sos-contacts"
+          ]
+        }
+      ],
+      "opponents": [
+        {
+          "name": "People for a Fair Colorado",
+          "sources": [
+            "src-sos-contacts"
+          ]
+        }
+      ],
+      "sources": [
+        "src-sos-cert-pr",
+        "src-bluebook",
+        "src-lcs-a86",
+        "src-sos-contacts"
+      ]
+    },
+    {
+      "id": "amendment-87",
+      "number": "Amendment 87",
+      "jurisdiction": "State of Colorado",
+      "who_votes": "All registered voters in Colorado, including all Lakewood voters",
+      "short_title": "Graduated (tiered) state income tax",
+      "how_it_got_on_ballot": "Citizen initiative (petition signatures); filed as Initiative #195",
+      "passing_threshold": "Majority (the Blue Book says it needs a simple majority, though it changes the constitution; Colorado Newsline reports this is because its constitutional part only repeals existing language)",
+      "summary": "Colorado now taxes all income at one flat rate of 4.4%. Starting in 2027, this would replace it with six tax brackets, from 3.7% up to 8.4%. People with taxable income up to $500,000 would pay the same or a lower rate on that income, and income above $500,000 would be taxed at 7.4% to 8.4%. The extra money would go to K-12 schools, health care, and early childhood programs, and would not count against the state's TABOR revenue limit. This measure conflicts with Proposition 136; if both pass, a court or the legislature may have to sort out the result.",
+      "yes_means": "Creates a graduated state income tax that raises more money for K-12 education, health care, and early childhood programs, outside the TABOR revenue limit.",
+      "no_means": "Keeps the current constitutional requirement for one flat state income tax rate.",
+      "money": "Estimated to raise about $958 million in its first half-year (2026-27) and about $1.97 billion in 2027-28. Legislative staff estimate taxpayers with taxable income below about $510,800 would pay less, and those above would pay more.",
+      "supporters": [
+        {
+          "name": "Protect Colorado's Future Coalition",
+          "sources": [
+            "src-sos-contacts"
+          ]
+        },
+        {
+          "name": "People for a Fair Colorado",
+          "sources": [
+            "src-sos-contacts"
+          ]
+        }
+      ],
+      "opponents": [
+        {
+          "name": "Americans For Prosperity Colorado Issue Committee",
+          "sources": [
+            "src-sos-contacts"
+          ]
+        },
+        {
+          "name": "Your Family's Future Alliance",
+          "sources": [
+            "src-sos-contacts"
+          ]
+        },
+        {
+          "name": "No on 87, Yes on 136",
+          "sources": [
+            "src-sos-contacts"
+          ]
+        },
+        {
+          "name": "Brighter Colorado",
+          "sources": [
+            "src-sos-contacts"
+          ]
+        },
+        {
+          "name": "Affordable Colorado",
+          "sources": [
+            "src-sos-contacts"
+          ]
+        },
+        {
+          "name": "Let's Go Colorado",
+          "sources": [
+            "src-sos-contacts"
+          ]
+        },
+        {
+          "name": "Don't Price Us Out",
+          "sources": [
+            "src-sos-contacts"
+          ]
+        }
+      ],
+      "sources": [
+        "src-sos-cert-pr",
+        "src-bluebook",
+        "src-lcs-a87",
+        "src-newsline-14",
+        "src-chalkbeat-a87",
+        "src-sos-contacts"
+      ]
+    },
+    {
+      "id": "proposition-nn",
+      "number": "Proposition NN",
+      "jurisdiction": "State of Colorado",
+      "who_votes": "All registered voters in Colorado, including all Lakewood voters",
+      "short_title": "Let the state keep TABOR refund money for schools and kids",
+      "how_it_got_on_ballot": "Referred by the state legislature (Senate Bill 26-135)",
+      "passing_threshold": "Majority",
+      "summary": "Under the Taxpayer's Bill of Rights (TABOR), the state must refund money it collects above a yearly limit. This measure would let the state keep some of that money, up to a new limit tied to K-12 school spending. For the first ten years, the kept money would go to K-12 education and programs that support children; after that, the legislature would decide. It also requires audits and reports.",
+      "yes_means": "The state can keep some or all money that would otherwise be refunded under TABOR and spend it on K-12 education, children's programs, and other purposes.",
+      "no_means": "TABOR refunds continue as under current law, and current funding levels stay the same.",
+      "money": "Legislative staff estimate the state would keep about $330 million in 2026-27 and $521 million in 2027-28, which would eliminate TABOR refunds in those years. School districts would get about $241.5 million in 2026-27 and $234 million in 2027-28.",
+      "supporters": [
+        {
+          "name": "Yes for Colorado Kids",
+          "sources": [
+            "src-sos-contacts"
+          ]
+        },
+        {
+          "name": "People for a Fair Colorado",
+          "sources": [
+            "src-sos-contacts"
+          ]
+        }
+      ],
+      "opponents": [
+        {
+          "name": "Brighter Colorado",
+          "sources": [
+            "src-sos-contacts"
+          ]
+        },
+        {
+          "name": "Affordable Colorado",
+          "sources": [
+            "src-sos-contacts"
+          ]
+        },
+        {
+          "name": "Let's Go Colorado",
+          "sources": [
+            "src-sos-contacts"
+          ]
+        },
+        {
+          "name": "Keep Colorado Affordable",
+          "sources": [
+            "src-sos-contacts"
+          ]
+        },
+        {
+          "name": "Don't Price Us Out",
+          "sources": [
+            "src-sos-contacts"
+          ]
+        }
+      ],
+      "sources": [
+        "src-sos-cert-pr",
+        "src-bluebook",
+        "src-newsline-14",
+        "src-sos-contacts"
+      ]
+    },
+    {
+      "id": "proposition-132",
+      "number": "Proposition 132",
+      "jurisdiction": "State of Colorado",
+      "who_votes": "All registered voters in Colorado, including all Lakewood voters",
+      "short_title": "Tougher penalties for fentanyl crimes",
+      "how_it_got_on_ballot": "Citizen initiative (petition signatures); filed as Initiative #85",
+      "passing_threshold": "Majority",
+      "summary": "This would make having any amount of fentanyl a felony. Today, possessing a small amount is a misdemeanor. It would require at least eight years in prison for selling or distributing any amount. It would also remove some options courts now have to lower penalties.",
+      "yes_means": "Possessing any amount of fentanyl becomes a felony, distribution carries a mandatory minimum of 8 years in prison, and some options to reduce penalties end.",
+      "no_means": "Possessing a small amount stays a misdemeanor, distribution penalties stay based on quantity, and current options to reduce penalties remain.",
+      "money": "State costs for courts, public defenders, and prisons would grow from about $0.9 million in the first year to about $8.9 million in the second year and $68.2 million by the fifth year. County-funded district attorneys would also have higher costs.",
+      "supporters": [
+        {
+          "name": "Brighter Colorado",
+          "sources": [
+            "src-sos-contacts"
+          ]
+        },
+        {
+          "name": "Eagle County Republican Women Club",
+          "sources": [
+            "src-sos-contacts"
+          ]
+        }
+      ],
+      "opponents": [
+        {
+          "name": "The People's No",
+          "sources": [
+            "src-sos-contacts"
+          ]
+        },
+        {
+          "name": "Coloradans For Real Safety Solutions",
+          "sources": [
+            "src-sos-contacts"
+          ]
+        },
+        {
+          "name": "Vote Common Sense",
+          "sources": [
+            "src-sos-contacts"
+          ]
+        },
+        {
+          "name": "People for a Fair Colorado",
+          "sources": [
+            "src-sos-contacts"
+          ]
+        }
+      ],
+      "sources": [
+        "src-sos-cert-pr",
+        "src-bluebook",
+        "src-sos-contacts"
+      ]
+    },
+    {
+      "id": "proposition-133",
+      "number": "Proposition 133",
+      "jurisdiction": "State of Colorado",
+      "who_votes": "All registered voters in Colorado, including all Lakewood voters",
+      "short_title": "Life in prison for child sex trafficking",
+      "how_it_got_on_ballot": "Citizen initiative (petition signatures); filed as Initiative #108",
+      "passing_threshold": "Majority",
+      "summary": "This would make the penalty for sex trafficking of a child life in prison without parole. It would also widen the crime to include knowingly giving something of value to buy sexual activity with a minor. Today the penalty is 8 to 48 years in prison plus parole.",
+      "yes_means": "The penalty for child sex trafficking becomes life in prison without parole, and the crime is expanded to include buying sexual activity with a minor.",
+      "no_means": "Current penalties of 8 to 48 years in prison plus mandatory parole stay in place.",
+      "money": "Prison costs would start in about 14 years (around $180,000 in 2041-42) and rise by about $180,000 each year for several years. Small added workload for courts, public defenders, and district attorneys.",
+      "supporters": [
+        {
+          "name": "Protect Kids Colorado - Issue Committee",
+          "sources": [
+            "src-sos-contacts"
+          ]
+        },
+        {
+          "name": "Protect Our Children",
+          "sources": [
+            "src-sos-contacts"
+          ]
+        }
+      ],
+      "opponents": [
+        {
+          "name": "Vote Common Sense",
+          "sources": [
+            "src-sos-contacts"
+          ]
+        },
+        {
+          "name": "People for a Fair Colorado",
+          "sources": [
+            "src-sos-contacts"
+          ]
+        }
+      ],
+      "sources": [
+        "src-sos-cert-pr",
+        "src-bluebook",
+        "src-sos-contacts"
+      ]
+    },
+    {
+      "id": "proposition-134",
+      "number": "Proposition 134",
+      "jurisdiction": "State of Colorado",
+      "who_votes": "All registered voters in Colorado, including all Lakewood voters",
+      "short_title": "School and college sports teams based on biological sex",
+      "how_it_got_on_ballot": "Citizen initiative (petition signatures); filed as Initiative #109",
+      "passing_threshold": "Majority",
+      "summary": "This would require every school sports team, from elementary school through college, to be labeled for boys only, girls only, or mixed. Students would have to play on teams that match their biological sex or on mixed teams. Girls could play on a boys' team if there is no girls' team for that sport. It applies to public and private schools, but not separate youth leagues.",
+      "yes_means": "All school-based teams must be designated for biological males, biological females, or mixed, and schools must adopt sex-eligibility policies.",
+      "no_means": "Schools, districts, and athletic associations keep setting their own policies under current state and federal law.",
+      "money": "No dollar estimate. Schools, districts, and colleges would have small costs to update policies; the state could have costs only if a district refuses to comply.",
+      "supporters": [
+        {
+          "name": "Protect Kids Colorado - Issue Committee",
+          "sources": [
+            "src-sos-contacts"
+          ]
+        },
+        {
+          "name": "Protect Our Children",
+          "sources": [
+            "src-sos-contacts"
+          ]
+        }
+      ],
+      "opponents": [
+        {
+          "name": "The People's No",
+          "sources": [
+            "src-sos-contacts"
+          ]
+        },
+        {
+          "name": "Families not Politics",
+          "sources": [
+            "src-sos-contacts"
+          ]
+        },
+        {
+          "name": "No on 134 and 135",
+          "sources": [
+            "src-sos-contacts"
+          ]
+        },
+        {
+          "name": "Protect Trans Kids",
+          "sources": [
+            "src-sos-contacts"
+          ]
+        },
+        {
+          "name": "Vote Common Sense",
+          "sources": [
+            "src-sos-contacts"
+          ]
+        },
+        {
+          "name": "People for a Fair Colorado",
+          "sources": [
+            "src-sos-contacts"
+          ]
+        }
+      ],
+      "sources": [
+        "src-sos-cert-pr",
+        "src-bluebook",
+        "src-lcs-p134",
+        "src-sos-contacts"
+      ]
+    },
+    {
+      "id": "proposition-135",
+      "number": "Proposition 135",
+      "jurisdiction": "State of Colorado",
+      "who_votes": "All registered voters in Colorado, including all Lakewood voters",
+      "short_title": "Ban on gender-related surgery for minors",
+      "how_it_got_on_ballot": "Citizen initiative (petition signatures); filed as Initiative #110",
+      "passing_threshold": "Majority",
+      "summary": "This would ban surgery on people under 18 that changes their biological sex characteristics because of how they see their sex or gender. It would also stop state or federal funds, Medicaid, and private insurance from paying for these surgeries. Counseling and other non-surgical care would not be affected. Some medical conditions are exempt.",
+      "yes_means": "These surgeries on minors are prohibited, and public funds and insurance cannot pay for them.",
+      "no_means": "Current state law stays, which protects access to these surgeries and allows insurance to cover them.",
+      "money": "No dollar estimate. Legislative staff expect minimal state costs for updating rules and handling complaints, and possibly small savings for Medicaid and state employee health plans.",
+      "supporters": [
+        {
+          "name": "Protect Kids Colorado - Issue Committee",
+          "sources": [
+            "src-sos-contacts"
+          ]
+        },
+        {
+          "name": "Protect Our Children",
+          "sources": [
+            "src-sos-contacts"
+          ]
+        }
+      ],
+      "opponents": [
+        {
+          "name": "The People's No",
+          "sources": [
+            "src-sos-contacts"
+          ]
+        },
+        {
+          "name": "Families not Politics",
+          "sources": [
+            "src-sos-contacts"
+          ]
+        },
+        {
+          "name": "No on 134 and 135",
+          "sources": [
+            "src-sos-contacts"
+          ]
+        },
+        {
+          "name": "Protect Trans Kids",
+          "sources": [
+            "src-sos-contacts"
+          ]
+        },
+        {
+          "name": "Vote Common Sense",
+          "sources": [
+            "src-sos-contacts"
+          ]
+        },
+        {
+          "name": "People for a Fair Colorado",
+          "sources": [
+            "src-sos-contacts"
+          ]
+        }
+      ],
+      "sources": [
+        "src-sos-cert-pr",
+        "src-bluebook",
+        "src-lcs-p135",
+        "src-sos-contacts"
+      ]
+    },
+    {
+      "id": "proposition-136",
+      "number": "Proposition 136",
+      "jurisdiction": "State of Colorado",
+      "who_votes": "All registered voters in Colorado, including all Lakewood voters",
+      "short_title": "Cap the state income tax rate at 4.4%",
+      "how_it_got_on_ballot": "Citizen initiative (petition signatures); filed as Initiative #232",
+      "passing_threshold": "Majority",
+      "summary": "This would put a 4.4% cap on the state income tax rate into state law, starting in 2027. It applies to people and businesses. It does not change today's 4.4% rate. It conflicts with Amendment 87; if both pass, a court or the legislature may have to sort out the result.",
+      "yes_means": "The current 4.4% rate becomes the highest rate allowed in state law.",
+      "no_means": "The rate stays at 4.4% for now, but no new limit is written into law.",
+      "money": "No change to state or local revenue or spending, according to legislative staff.",
+      "supporters": [
+        {
+          "name": "Brighter Colorado",
+          "sources": [
+            "src-sos-contacts"
+          ]
+        },
+        {
+          "name": "No on 87, Yes on 136",
+          "sources": [
+            "src-sos-contacts"
+          ]
+        }
+      ],
+      "opponents": [
+        {
+          "name": "Vote Common Sense",
+          "sources": [
+            "src-sos-contacts"
+          ]
+        },
+        {
+          "name": "People for a Fair Colorado",
+          "sources": [
+            "src-sos-contacts"
+          ]
+        },
+        {
+          "name": "Protect Colorado's Future Coalition",
+          "sources": [
+            "src-sos-contacts"
+          ]
+        }
+      ],
+      "sources": [
+        "src-sos-cert-pr",
+        "src-bluebook",
+        "src-lcs-p136",
+        "src-sos-contacts"
+      ]
+    },
+    {
+      "id": "proposition-137",
+      "number": "Proposition 137",
+      "jurisdiction": "State of Colorado",
+      "who_votes": "All registered voters in Colorado, including all Lakewood voters",
+      "short_title": "Use sporting goods sales tax for conservation and wildfire work",
+      "how_it_got_on_ballot": "Citizen initiative (petition signatures); filed as Initiative #308",
+      "passing_threshold": "Majority",
+      "summary": "This would take sales tax the state already collects on sporting goods and send it to land, water, and forest conservation, wildfire prevention, and outdoor recreation. The money would go to Great Outdoors Colorado, the State Forest Service and Department of Natural Resources, Colorado Parks and Wildlife, and the state outdoor recreation office. It would not raise taxes or prices. The money would not count against the state's TABOR revenue limit, which means smaller TABOR refunds in years when there are refunds.",
+      "yes_means": "Sporting goods sales tax money goes to the named conservation and wildfire programs and is exempt from the state revenue limit.",
+      "no_means": "That money stays in the state's general budget, under the revenue limit, to be spent by the legislature or refunded when required.",
+      "money": "About $175 million in 2027-28 and $180 million in 2028-29 would move out of the state's general fund to these programs. TABOR refunds for tax year 2027 would fall by about $175 million; some sales-tax refunds per filer would drop by roughly $26 to $166.",
+      "supporters": [
+        {
+          "name": "Protect Colorado's Land and Water, Prevent Wildfires",
+          "sources": [
+            "src-sos-contacts"
+          ]
+        }
+      ],
+      "opponents": [
+        {
+          "name": "Protect Colorado's Land, Communities, and Tax Dollars",
+          "sources": [
+            "src-sos-contacts"
+          ]
+        }
+      ],
+      "sources": [
+        "src-sos-cert-pr",
+        "src-bluebook",
+        "src-lcs-p137",
+        "src-sos-contacts"
+      ]
+    }
+  ],
+  "facts": [
+    {
+      "key": "statewide-measure-count",
+      "text": "There are 14 statewide measures on the November 3, 2026 ballot: Amendments 81 through 87 and Propositions NN and 132 through 137. The Secretary of State certified them on September 4, 2026.",
+      "sources": [
+        "src-sos-cert-pr",
+        "src-bluebook",
+        "src-bp-news"
+      ]
+    },
+    {
+      "key": "how-measures-got-on-ballot",
+      "text": "Thirteen of the 14 measures were put on the ballot by citizen petitions. Only Proposition NN was sent to voters by the state legislature.",
+      "sources": [
+        "src-bluebook",
+        "src-bp-news"
+      ]
+    },
+    {
+      "key": "amendments-vs-propositions",
+      "text": "An 'Amendment' changes the Colorado Constitution and usually needs 55% of the vote to pass. A 'Proposition' changes state law and needs a simple majority.",
+      "sources": [
+        "src-bluebook",
+        "src-bp-news"
+      ]
+    },
+    {
+      "key": "competing-income-tax-measures",
+      "text": "Amendment 87 (graduated income tax) and Proposition 136 (4.4% income tax cap) conflict. If both pass, legislative staff say the exact result is unclear and a court or the legislature may need to resolve it.",
+      "sources": [
+        "src-lcs-a87",
+        "src-lcs-p136"
+      ]
+    },
+    {
+      "key": "blue-book-what-it-is",
+      "text": "The State Ballot Information Booklet, called the Blue Book, is written by nonpartisan Legislative Council Staff. It explains each statewide measure with arguments for and against and an estimate of its cost.",
+      "sources": [
+        "src-bluebook",
+        "src-lcs-bluebook-page"
+      ]
+    },
+    {
+      "key": "blue-book-mailed",
+      "text": "The Blue Book is mailed to every Colorado household with a registered voter. It is also online at leg.colorado.gov, in Spanish, and in audio through the Colorado Talking Book Library.",
+      "sources": [
+        "src-bluebook",
+        "src-lcs-bluebook-page"
+      ]
+    },
+    {
+      "key": "blue-book-request",
+      "text": "To request another copy of the Blue Book or a Spanish copy, email Legislative Council Staff at bluebook.ga@coleg.gov.",
+      "sources": [
+        "src-lcs-bluebook-page"
+      ]
+    },
+    {
+      "key": "campaign-committee-list",
+      "text": "The Secretary of State keeps a list of groups that have registered to support or oppose each measure. The list may change before the election.",
+      "sources": [
+        "src-sos-contacts",
+        "src-lcs-bluebook-page"
+      ]
+    },
+    {
+      "key": "election-day-and-ballots",
+      "text": "Election Day is Tuesday, November 3, 2026. Polling places are open 7 a.m. to 7 p.m. Mail ballots were scheduled to go out to registered voters starting October 2 through October 9, 2026.",
+      "sources": [
+        "src-bluebook",
+        "src-newsline-14"
+      ]
+    },
+    {
+      "key": "front-range-rail-not-statewide",
+      "text": "Ballot Issue 7A, a Front Range Passenger Rail District sales tax, is in the Blue Book but is not statewide. Only voters inside that district will see it. Check the Jefferson County sample ballot to see if it is on yours.",
+      "sources": [
+        "src-sos-cert-pr",
+        "src-bluebook"
+      ]
+    }
+  ],
+  "open_questions": [
+    "Amendment 87 passing threshold: the Blue Book, Colorado Newsline and Chalkbeat say a simple majority (Newsline says this is because its constitutional part only repeals language), but a Ballotpedia News article (Sept. 14, 2026) says 55%. This file follows the official Blue Book. Recheck if Ballotpedia corrects its article.",
+    "Proposition NN fiscal estimates: the Blue Book summary says the state could keep up to $4.6 billion in the first year but is expected to keep about $500 million, while its fiscal section estimates $329.9 million (2026-27) and $521.0 million (2027-28). This file uses the fiscal-section figures; reconcile against the printed Blue Book.",
+    "The Secretary of State's committee list says it is not final. Committee names are listed as they appear there. They were not checked against TRACER filings or fundraising totals.",
+    "Some groups on the SOS list (for example Brighter Colorado, People for a Fair Colorado, Vote Common Sense) take positions on many measures. News outlets also name Advance Colorado as the sponsor of several initiatives and Protect Kids Colorado as the sponsor of Propositions 133-135, but those exact names were not cross-checked in TRACER.",
+    "Ballotpedia's main 'Colorado 2026 ballot measures' page came back with stale content (dated September 2025) and was not cited. The count of 14 was confirmed by the SOS release, the Blue Book, Ballotpedia News, and Colorado Newsline.",
+    "Whether Ballot Issue 7A (Front Range Passenger Rail District) appears on Lakewood ballots was not checked; that belongs in the local/district section."
+  ]
+}

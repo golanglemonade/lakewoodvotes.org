@@ -1,0 +1,182 @@
+{
+  "section": "Jefferson County offices and judges",
+  "sources": [
+    {"id": "src-jeffco-on-the-ballot", "title": "On the Ballot (2026 General Election)", "publisher": "Jefferson County Clerk and Recorder, Elections Division", "url": "https://www.jeffco.us/4652/On-the-Ballot", "retrieved_on": "2026-10-09"},
+    {"id": "src-jeffco-sample-ballot", "title": "All-Inclusive Sample Ballot for Jefferson County, Colorado, General Election, November 3, 2026 (header: JEFFCO SAMPLE 2026-09-30)", "publisher": "Jefferson County Clerk and Recorder", "url": "https://www.jeffco.us/DocumentCenter/View/59222", "retrieved_on": "2026-10-09"},
+    {"id": "src-jeffco-commissioner-history", "title": "History of the County Commissioners' Office", "publisher": "Jefferson County, Colorado", "url": "https://www.jeffco.us/1987/History-of-the-County-Commissioners-Offi", "retrieved_on": "2026-10-09"},
+    {"id": "src-jeffco-meet-commissioners", "title": "Meet the Commissioners", "publisher": "Jefferson County, Colorado", "url": "https://www.jeffco.us/664/Meet-the-Commissioners", "retrieved_on": "2026-10-09"},
+    {"id": "src-jeffco-treasurer-bio", "title": "Treasurer Biography", "publisher": "Jefferson County, Colorado", "url": "https://www.jeffco.us/3795/Treasurer-Biography", "retrieved_on": "2026-10-09"},
+    {"id": "src-jeffco-assessor-bio", "title": "Assessor Biography", "publisher": "Jefferson County, Colorado", "url": "https://www.jeffco.us/533/Assessor-Biography", "retrieved_on": "2026-10-09"},
+    {"id": "src-ojpe-2026-list", "title": "2026 Judicial Performance Evaluations", "publisher": "Colorado Office of Judicial Performance Evaluation", "url": "https://judicialperformance.colorado.gov/know-your-judges/2026-judicial-performance-evaluations", "retrieved_on": "2026-10-09"},
+    {"id": "src-ojpe-hood", "title": "Hood III, William W. 2026 Evaluation", "publisher": "Colorado Office of Judicial Performance Evaluation", "url": "https://judicialperformance.colorado.gov/hood-iii-william-w-2026-evaluation", "retrieved_on": "2026-10-09"},
+    {"id": "src-ojpe-sullivan", "title": "Sullivan, Grant 2026 Evaluation", "publisher": "Colorado Office of Judicial Performance Evaluation", "url": "https://judicialperformance.colorado.gov/sullivan-grant-2026-evaluation", "retrieved_on": "2026-10-09"},
+    {"id": "src-sos-king-history", "title": "Alexis King (D) - candidate election history", "publisher": "Colorado Secretary of State, Historical Election Data", "url": "https://historicalelectiondata.coloradosos.gov/candidates/view/257", "retrieved_on": "2026-10-09"},
+    {"id": "src-firstda-king", "title": "DA Alexis King", "publisher": "First Judicial District Attorney's Office", "url": "https://firstda.co/who-we-are/da-alexis-king/", "retrieved_on": "2026-10-09"},
+    {"id": "src-gazette-dahlkemper", "title": "Jefferson County to fill commissioner vacancy after Dahlkemper tapped for lieutenant governor", "publisher": "Denver Gazette", "url": "https://www.denvergazette.com/2026/07/23/jefferson-county-to-fill-commissioner-vacancy-after-dahlkemper-tapped-for-lieutenant-governor/", "retrieved_on": "2026-10-09"},
+    {"id": "src-cosun-gonzalez", "title": "Amanda Gonzalez wins Democratic primary for Colorado secretary of state", "publisher": "The Colorado Sun", "url": "https://coloradosun.com/2026/06/30/colorado-primary-election-secretary-of-state-results/", "retrieved_on": "2026-10-09"},
+    {"id": "src-critical-report-primaries", "title": "Commissioner Andy Kerr Wins Democratic Primary for Jefferson County Assessor (2026 CO county primaries)", "publisher": "The Critical Report (Substack, Brett Hense)", "url": "https://criticalreport.substack.com/p/2026-co-county-primaries", "retrieved_on": "2026-10-09"},
+    {"id": "src-ballotbrief-jeffco", "title": "Jefferson County (Colorado) 2026 races", "publisher": "The Ballot Brief", "url": "https://www.theballotbrief.com/state/colorado/jefferson-county", "retrieved_on": "2026-10-09"},
+    {"id": "src-ballotbrief-sheriff", "title": "Jefferson County Sheriff - Marinelli vs. Doizaki", "publisher": "The Ballot Brief", "url": "https://theballotbrief.com/state/colorado/jefferson-county/sheriff", "retrieved_on": "2026-10-09"},
+    {"id": "src-ballotready-cannon", "title": "Annette Cannon", "publisher": "BallotReady", "url": "https://www.ballotready.org/people/annette-cannon", "retrieved_on": "2026-10-09"},
+    {"id": "src-jeffco-gop-candidates", "title": "Meet Your 2026 Candidates", "publisher": "Jefferson County Republican Party", "url": "https://jeffcorepublicans.com/meet-your-2026-candidates/", "retrieved_on": "2026-10-09"},
+    {"id": "src-jeffco-dems-candidates", "title": "Jefferson County Candidates 2026", "publisher": "Jefferson County Democratic Party", "url": "https://www.jeffcodems.org/2026-candidates-jeffco", "retrieved_on": "2026-10-09"}
+  ],
+  "contests": [
+    {
+      "id": "jeffco-commissioner-d3",
+      "level": "county",
+      "office": "Jefferson County Commissioner",
+      "district": "Commissioner District 3",
+      "who_votes": "All Lakewood voters (all Jefferson County voters vote for this seat, even though the winner must live in District 3)",
+      "seats": 1,
+      "term_years": 4,
+      "what_the_job_is": "The three county commissioners run Jefferson County government. They set the county budget, pass county rules, and oversee county services like roads, parks, and human services.",
+      "candidates": [
+        {"name": "Stephanie VandenBerg", "party": "Republican", "incumbent": false, "website": null, "ballot_order": 1, "sources": ["src-jeffco-sample-ballot", "src-jeffco-on-the-ballot"]},
+        {"name": "Lisa A. Cutter", "party": "Democratic", "incumbent": false, "website": null, "ballot_order": 2, "sources": ["src-jeffco-sample-ballot", "src-jeffco-on-the-ballot"]}
+      ],
+      "notes": "Open seat. Commissioner Lesley Dahlkemper (District 3) chose not to run again; she is also the Democratic nominee for lieutenant governor. Lisa Cutter is a state senator. Only District 3 is on the 2026 ballot; Districts 1 and 2 are not.",
+      "sources": ["src-jeffco-sample-ballot", "src-jeffco-commissioner-history", "src-jeffco-meet-commissioners", "src-gazette-dahlkemper", "src-critical-report-primaries"]
+    },
+    {
+      "id": "jeffco-clerk",
+      "level": "county",
+      "office": "Jefferson County Clerk and Recorder",
+      "district": null,
+      "who_votes": "All Lakewood voters",
+      "seats": 1,
+      "term_years": 4,
+      "what_the_job_is": "The clerk runs county elections, keeps official land and property records, and issues vehicle titles and registrations and marriage licenses.",
+      "candidates": [
+        {"name": "Paul Poston", "party": "Republican", "incumbent": false, "website": null, "ballot_order": 1, "sources": ["src-jeffco-sample-ballot", "src-jeffco-on-the-ballot"]},
+        {"name": "Nicole Hensel", "party": "Democratic", "incumbent": false, "website": null, "ballot_order": 2, "sources": ["src-jeffco-sample-ballot", "src-jeffco-on-the-ballot"]}
+      ],
+      "notes": "Open seat. Current Clerk Amanda Gonzalez (elected 2022) is running for Colorado Secretary of State instead.",
+      "sources": ["src-jeffco-sample-ballot", "src-cosun-gonzalez", "src-ballotbrief-jeffco"]
+    },
+    {
+      "id": "jeffco-treasurer",
+      "level": "county",
+      "office": "Jefferson County Treasurer",
+      "district": null,
+      "who_votes": "All Lakewood voters",
+      "seats": 1,
+      "term_years": 4,
+      "what_the_job_is": "The treasurer collects property taxes, sends the money to the county, cities, schools, and special districts, and invests county funds.",
+      "candidates": [
+        {"name": "Eric Proctor", "party": "Democratic", "incumbent": false, "website": null, "ballot_order": 1, "sources": ["src-jeffco-sample-ballot", "src-jeffco-on-the-ballot"]},
+        {"name": "Murl Hendrickson", "party": "Libertarian", "incumbent": false, "website": null, "ballot_order": 2, "sources": ["src-jeffco-sample-ballot", "src-jeffco-on-the-ballot"]}
+      ],
+      "notes": "Open seat. Current Treasurer Jerry DiTullio (in office since 2018) is not on the ballot. No Republican appears on the official sample ballot for this office.",
+      "sources": ["src-jeffco-sample-ballot", "src-jeffco-treasurer-bio", "src-ballotbrief-jeffco"]
+    },
+    {
+      "id": "jeffco-assessor",
+      "level": "county",
+      "office": "Jefferson County Assessor",
+      "district": null,
+      "who_votes": "All Lakewood voters",
+      "seats": 1,
+      "term_years": 4,
+      "what_the_job_is": "The assessor sets the value of homes, businesses, and land for property tax purposes.",
+      "candidates": [
+        {"name": "Vera King", "party": "Republican", "incumbent": false, "website": null, "ballot_order": 1, "sources": ["src-jeffco-sample-ballot", "src-jeffco-on-the-ballot"]},
+        {"name": "Andy Kerr", "party": "Democratic", "incumbent": false, "website": null, "ballot_order": 2, "sources": ["src-jeffco-sample-ballot", "src-jeffco-on-the-ballot"]},
+        {"name": "Greg Ketcham", "party": "Unaffiliated", "incumbent": false, "website": null, "ballot_order": 3, "sources": ["src-jeffco-sample-ballot", "src-jeffco-on-the-ballot"]}
+      ],
+      "notes": "Open seat. Current Assessor Scot Kersgaard is not on the ballot. Andy Kerr is now the District 2 county commissioner; he won the Democratic primary over Deputy Assessor Sue Flageolle.",
+      "sources": ["src-jeffco-sample-ballot", "src-jeffco-assessor-bio", "src-jeffco-meet-commissioners", "src-critical-report-primaries", "src-ballotbrief-jeffco"]
+    },
+    {
+      "id": "jeffco-sheriff",
+      "level": "county",
+      "office": "Jefferson County Sheriff",
+      "district": null,
+      "who_votes": "All Lakewood voters",
+      "seats": 1,
+      "term_years": 4,
+      "what_the_job_is": "The sheriff runs the county jail, patrols unincorporated parts of the county, and provides court security and wildfire response. Lakewood itself has its own city police.",
+      "candidates": [
+        {"name": "Regina \"Reggie\" Marinelli", "party": "Democratic", "incumbent": true, "website": null, "ballot_order": 1, "sources": ["src-jeffco-sample-ballot", "src-critical-report-primaries", "src-ballotbrief-sheriff"]},
+        {"name": "Randall Doizaki", "party": "Republican", "incumbent": false, "website": null, "ballot_order": 2, "sources": ["src-jeffco-sample-ballot", "src-jeffco-gop-candidates"]}
+      ],
+      "notes": "Sheriff Marinelli has held the office since January 2023. Weston Imer won the June Republican primary, but Randall Doizaki is the Republican on the certified sample ballot.",
+      "sources": ["src-jeffco-sample-ballot", "src-ballotbrief-sheriff", "src-critical-report-primaries"]
+    },
+    {
+      "id": "jeffco-surveyor",
+      "level": "county",
+      "office": "Jefferson County Surveyor",
+      "district": null,
+      "who_votes": "All Lakewood voters",
+      "seats": 1,
+      "term_years": 4,
+      "what_the_job_is": "The surveyor keeps survey records and helps settle questions about property lines and county boundaries.",
+      "candidates": [
+        {"name": "Robert Hennessy", "party": "Republican", "incumbent": true, "website": null, "ballot_order": 1, "sources": ["src-jeffco-sample-ballot", "src-critical-report-primaries"]}
+      ],
+      "notes": "Only one candidate is on the ballot. No Democrat qualified for the primary.",
+      "sources": ["src-jeffco-sample-ballot", "src-critical-report-primaries"]
+    },
+    {
+      "id": "jeffco-coroner",
+      "level": "county",
+      "office": "Jefferson County Coroner",
+      "district": null,
+      "who_votes": "All Lakewood voters",
+      "seats": 1,
+      "term_years": 4,
+      "what_the_job_is": "The coroner looks into sudden, violent, or unexplained deaths and decides the cause and manner of death.",
+      "candidates": [
+        {"name": "Nick Lobello", "party": "Democratic", "incumbent": false, "website": null, "ballot_order": 1, "sources": ["src-jeffco-sample-ballot", "src-jeffco-on-the-ballot"]},
+        {"name": "Allison Harmon", "party": "Republican", "incumbent": false, "website": null, "ballot_order": 2, "sources": ["src-jeffco-sample-ballot", "src-jeffco-on-the-ballot"]}
+      ],
+      "notes": "Open seat. Current Coroner Annette Cannon's term ends December 31, 2026, and she is not on the ballot. Nick Lobello is a former chief deputy coroner; Allison Harmon is a nurse.",
+      "sources": ["src-jeffco-sample-ballot", "src-ballotready-cannon", "src-critical-report-primaries"]
+    }
+  ],
+  "retention": [
+    {"id": "ret-cosc-hood", "court": "Colorado Supreme Court", "judge": "William W. Hood, III", "who_votes": "All Colorado voters, including all Lakewood voters", "commission_recommendation": "Meets Performance Standards", "sources": ["src-jeffco-sample-ballot", "src-ojpe-2026-list", "src-ojpe-hood"]},
+    {"id": "ret-coa-freyre", "court": "Colorado Court of Appeals", "judge": "Rebecca Rankin Freyre", "who_votes": "All Colorado voters, including all Lakewood voters", "commission_recommendation": "Meets Performance Standards", "sources": ["src-jeffco-sample-ballot", "src-ojpe-2026-list"]},
+    {"id": "ret-coa-harris", "court": "Colorado Court of Appeals", "judge": "Elizabeth L. Harris", "who_votes": "All Colorado voters, including all Lakewood voters", "commission_recommendation": "Meets Performance Standards", "sources": ["src-jeffco-sample-ballot", "src-ojpe-2026-list"]},
+    {"id": "ret-coa-lum", "court": "Colorado Court of Appeals", "judge": "Katharine E. Lum", "who_votes": "All Colorado voters, including all Lakewood voters", "commission_recommendation": "Meets Performance Standards", "sources": ["src-jeffco-sample-ballot", "src-ojpe-2026-list"]},
+    {"id": "ret-coa-moultrie", "court": "Colorado Court of Appeals", "judge": "Pax Moultrie", "who_votes": "All Colorado voters, including all Lakewood voters", "commission_recommendation": "Meets Performance Standards", "sources": ["src-jeffco-sample-ballot", "src-ojpe-2026-list"]},
+    {"id": "ret-coa-schock", "court": "Colorado Court of Appeals", "judge": "Karl L. Schock", "who_votes": "All Colorado voters, including all Lakewood voters", "commission_recommendation": "Meets Performance Standards", "sources": ["src-jeffco-sample-ballot", "src-ojpe-2026-list"]},
+    {"id": "ret-coa-sullivan", "court": "Colorado Court of Appeals", "judge": "Grant Sullivan", "who_votes": "All Colorado voters, including all Lakewood voters", "commission_recommendation": "Meets Performance Standards", "sources": ["src-jeffco-sample-ballot", "src-ojpe-2026-list", "src-ojpe-sullivan"]},
+    {"id": "ret-1jd-contiguglia", "court": "1st Judicial District Court (Jefferson and Gilpin counties)", "judge": "Chantel E. Contiguglia", "who_votes": "All Jefferson and Gilpin county voters, including all Lakewood voters", "commission_recommendation": "Meets Performance Standards", "sources": ["src-jeffco-sample-ballot", "src-ojpe-2026-list"]},
+    {"id": "ret-1jd-loewer", "court": "1st Judicial District Court (Jefferson and Gilpin counties)", "judge": "Ryan P. Loewer", "who_votes": "All Jefferson and Gilpin county voters, including all Lakewood voters", "commission_recommendation": "Meets Performance Standards", "sources": ["src-jeffco-sample-ballot", "src-ojpe-2026-list"]},
+    {"id": "ret-1jd-miloud", "court": "1st Judicial District Court (Jefferson and Gilpin counties)", "judge": "Meegan Miloud", "who_votes": "All Jefferson and Gilpin county voters, including all Lakewood voters", "commission_recommendation": "Meets Performance Standards", "sources": ["src-jeffco-sample-ballot", "src-ojpe-2026-list"]},
+    {"id": "ret-1jd-poland", "court": "1st Judicial District Court (Jefferson and Gilpin counties)", "judge": "Andrew C. Poland", "who_votes": "All Jefferson and Gilpin county voters, including all Lakewood voters", "commission_recommendation": "Meets Performance Standards", "sources": ["src-jeffco-sample-ballot", "src-ojpe-2026-list"]},
+    {"id": "ret-1jd-rhamey", "court": "1st Judicial District Court (Jefferson and Gilpin counties)", "judge": "Christopher Rhamey", "who_votes": "All Jefferson and Gilpin county voters, including all Lakewood voters", "commission_recommendation": "Meets Performance Standards", "sources": ["src-jeffco-sample-ballot", "src-ojpe-2026-list"]},
+    {"id": "ret-1jd-russell", "court": "1st Judicial District Court (Jefferson and Gilpin counties)", "judge": "Tamara S. Russell", "who_votes": "All Jefferson and Gilpin county voters, including all Lakewood voters", "commission_recommendation": "Meets Performance Standards", "sources": ["src-jeffco-sample-ballot", "src-ojpe-2026-list"]},
+    {"id": "ret-1jd-zenisek", "court": "1st Judicial District Court (Jefferson and Gilpin counties)", "judge": "Christopher C. Zenisek", "who_votes": "All Jefferson and Gilpin county voters, including all Lakewood voters", "commission_recommendation": "Meets Performance Standards", "sources": ["src-jeffco-sample-ballot", "src-ojpe-2026-list"]},
+    {"id": "ret-jeffco-county-garrido", "court": "Jefferson County Court", "judge": "Sara Garrido", "who_votes": "All Jefferson County voters, including all Lakewood voters", "commission_recommendation": "Meets Performance Standards", "sources": ["src-jeffco-sample-ballot", "src-ojpe-2026-list"]},
+    {"id": "ret-jeffco-county-magid", "court": "Jefferson County Court", "judge": "Corinne Magid", "who_votes": "All Jefferson County voters, including all Lakewood voters", "commission_recommendation": "Meets Performance Standards", "sources": ["src-jeffco-sample-ballot", "src-ojpe-2026-list"]},
+    {"id": "ret-jeffco-county-melton", "court": "Jefferson County Court", "judge": "Jennifer Lynn Melton", "who_votes": "All Jefferson County voters, including all Lakewood voters", "commission_recommendation": "Meets Performance Standards", "sources": ["src-jeffco-sample-ballot", "src-ojpe-2026-list"]}
+  ],
+  "measures": [],
+  "facts": [
+    {"key": "jeffco-sample-ballot-url", "text": "Jefferson County publishes one all-inclusive sample ballot (English and Spanish) that shows every race and question in the county, dated September 30, 2026: https://www.jeffco.us/DocumentCenter/View/59222. Each voter's real ballot shows only the races for where they live. No separate Lakewood-only sample ballot was found.", "sources": ["src-jeffco-sample-ballot", "src-jeffco-on-the-ballot"]},
+    {"key": "jeffco-on-the-ballot-page", "text": "The county's 'On the Ballot' page lists all 2026 candidates and measures: https://www.jeffco.us/4652/On-the-Ballot", "sources": ["src-jeffco-on-the-ballot"]},
+    {"key": "commissioners-elected-at-large", "text": "Jefferson County has three commissioners. Each must live in one of three commissioner districts, but every county voter votes for every commissioner seat. Terms are four years.", "sources": ["src-jeffco-commissioner-history", "src-jeffco-meet-commissioners"]},
+    {"key": "current-commissioners", "text": "The current commissioners are Rachel Zenzinger (District 1), Andy Kerr (District 2), and Lesley Dahlkemper (District 3). Only the District 3 seat is on the 2026 ballot.", "sources": ["src-jeffco-meet-commissioners", "src-jeffco-sample-ballot"]},
+    {"key": "kerr-possible-vacancy", "text": "If Commissioner Andy Kerr wins the assessor race, his District 2 commissioner seat would become vacant. If Lesley Dahlkemper is elected lieutenant governor, she would leave her District 3 seat before her term ends.", "sources": ["src-gazette-dahlkemper"]},
+    {"key": "da-not-on-ballot", "text": "The District Attorney for the 1st Judicial District is not on the 2026 ballot. Alexis King (Democrat) was first elected in November 2020; the 2026 sample ballot has no DA race.", "sources": ["src-sos-king-history", "src-firstda-king", "src-jeffco-sample-ballot"]},
+    {"key": "retention-how-it-works", "text": "Judges do not run against anyone. Voters answer YES or NO on whether each judge should stay on the bench. A state commission reviews each judge first; every judge on the Lakewood ballot in 2026 was rated 'Meets Performance Standards.'", "sources": ["src-jeffco-sample-ballot", "src-ojpe-2026-list"]},
+    {"key": "retention-evaluations-url", "text": "Full judge reviews are posted at https://judicialperformance.colorado.gov/know-your-judges/2026-judicial-performance-evaluations", "sources": ["src-ojpe-2026-list"]},
+    {"key": "election-day-hours", "text": "Election Day is Tuesday, November 3, 2026. In-person voting on Election Day runs from 7 a.m. to 7 p.m.", "sources": ["src-jeffco-on-the-ballot"]},
+    {"key": "jeffco-clerk-contact", "text": "The Jefferson County Clerk's office is at 3500 Illinois Street, Suite 1100, Golden, CO 80401. Phone: 303-271-8111.", "sources": ["src-jeffco-on-the-ballot"]}
+  ],
+  "open_questions": [
+    "Colorado SOS certified candidate list and Ballotpedia could not be fetched (blocked); candidate lists rely on the Jefferson County official sample ballot (dated 2026-09-30) and the county 'On the Ballot' page.",
+    "Sheriff: Weston Imer won the June 2026 Republican primary (per The Critical Report), but Randall Doizaki is the Republican on the sample ballot. How and when Doizaki replaced Imer (e.g., vacancy committee) was not confirmed.",
+    "Treasurer: Bob (Robert) Szulczewski reportedly won the Republican primary, but no Republican is on the official sample ballot. Murl Hendrickson is listed as Libertarian on the county ballot, though the Jeffco GOP candidate page and The Ballot Brief list him with Republicans. The withdrawal and party label should be confirmed with the Clerk; the official ballot label (Libertarian) is used here.",
+    "Coroner: The Ballot Brief said no Republican was found as of Sept. 8, but the official sample ballot lists Allison Harmon (Republican). The official ballot is used here.",
+    "Whether Treasurer DiTullio, Assessor Kersgaard, Clerk Gonzalez, or Coroner Cannon are term-limited (versus simply not running) was not confirmed. DiTullio's and Kersgaard's reasons for not running were not checked against an official or news source beyond The Ballot Brief.",
+    "Robert Hennessy is called the incumbent surveyor only by The Critical Report and The Ballot Brief; not confirmed on a county page.",
+    "Alexis King's 2024 re-election (term through early 2029) was not confirmed from a fetched source; only her 2020 election was confirmed. The 2026 sample ballot shows no DA race.",
+    "Which parts of Lakewood lie in Commissioner District 3 was not checked (not needed for voting, since all county voters vote on the seat).",
+    "Ballot order numbers reflect the order on the county sample ballot as read; confirm against the printed ballot.",
+    "Candidate websites were not collected (set to null)."
+  ]
+}

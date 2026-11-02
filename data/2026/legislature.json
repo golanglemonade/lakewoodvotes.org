@@ -1,0 +1,130 @@
+{
+  "section": "Colorado General Assembly",
+  "sources": [
+    {"id": "src-sos-general-candidates-2026", "title": "2026 General Election Official Candidate List", "publisher": "Colorado Secretary of State", "url": "https://www.sos.state.co.us/pubs/elections/vote/generalCandidates.html", "retrieved_on": "2026-10-09"},
+    {"id": "src-sos-ballot-order-2026", "title": "2026 General Election Ballot Order (major and minor party candidates)", "publisher": "Colorado Secretary of State", "url": "https://www.sos.state.co.us/pubs/elections/vote/generalBallotOrder.html", "retrieved_on": "2026-10-09"},
+    {"id": "src-sos-offices-up-2026", "title": "2026 Offices Up for Election", "publisher": "Colorado Secretary of State", "url": "https://www.sos.state.co.us/pubs/elections/vote/officeUpForElection.html", "retrieved_on": "2026-10-09"},
+    {"id": "src-irc-house-city-splits", "title": "Assigned District Splits (Cities), 2021 Final Approved House Plan", "publisher": "Colorado Independent Redistricting Commissions", "url": "https://redistricting.colorado.gov/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6OTAzLCJwdXIiOiJibG9iX2lkIn19--2fc8361d7bf4bf8771f41f5425ec02fef64c97db/City%20Splits.pdf", "retrieved_on": "2026-10-09"},
+    {"id": "src-irc-senate-city-splits", "title": "Assigned District Splits (Cities), 2021 Final Approved Senate Plan (Errata)", "publisher": "Colorado Independent Redistricting Commissions", "url": "https://redistricting.colorado.gov/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6OTQ3LCJwdXIiOiJibG9iX2lkIn19--3493eaa57e7362efba8792f0328f84668d91c1bc/City%20Splits.pdf", "retrieved_on": "2026-10-09"},
+    {"id": "src-irc-house-final", "title": "House Final Approved Plan", "publisher": "Colorado Independent Redistricting Commissions", "url": "https://redistricting.colorado.gov/content/house-final-approved", "retrieved_on": "2026-10-09"},
+    {"id": "src-irc-final-maps", "title": "2021 Final Maps", "publisher": "Colorado Independent Redistricting Commissions", "url": "https://redistricting.colorado.gov/content/2021-final-maps", "retrieved_on": "2026-10-09"},
+    {"id": "src-irc-hd23-sheet", "title": "2021 House District 23 data sheet", "publisher": "Colorado Independent Redistricting Commissions", "url": "https://redistricting.colorado.gov/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaDBFIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--eb6621b01bcfdbd9024c46e9b5bf55773ef4ffe4/2021_House_District_23.pdf", "retrieved_on": "2026-10-09"},
+    {"id": "src-irc-hd28-sheet", "title": "2021 House District 28 data sheet", "publisher": "Colorado Independent Redistricting Commissions", "url": "https://redistricting.colorado.gov/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTA0OCwicHVyIjoiYmxvYl9pZCJ9fQ==--3e8dc0377891442f5a361f0efef0411f95e83195/2021_House_District_28.pdf", "retrieved_on": "2026-10-09"},
+    {"id": "src-irc-hd30-sheet", "title": "2021 House District 30 data sheet", "publisher": "Colorado Independent Redistricting Commissions", "url": "https://redistricting.colorado.gov/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTA0NiwicHVyIjoiYmxvYl9pZCJ9fQ==--f4f6c5de112ada95de26bc88891d6d8c987542b6/2021_House_District_30.pdf", "retrieved_on": "2026-10-09"},
+    {"id": "src-irc-sd20-sheet", "title": "2021 Senate District 20 data sheet", "publisher": "Colorado Independent Redistricting Commissions", "url": "https://redistricting.colorado.gov/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdFFEIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--e2b0fcb53323be5a5373f91eb86f14edf849d6f4/2021_Senate_District_20.pdf", "retrieved_on": "2026-10-09"},
+    {"id": "src-irc-sd22-sheet", "title": "2021 Senate District 22 data sheet", "publisher": "Colorado Independent Redistricting Commissions", "url": "https://redistricting.colorado.gov/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdFlEIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--315c3276144afe15fb8103ab82bb4aed74c2b1ca/2021_Senate_District_22.pdf", "retrieved_on": "2026-10-09"},
+    {"id": "src-cga-legislators", "title": "Legislators", "publisher": "Colorado General Assembly", "url": "https://leg.colorado.gov/legislators", "retrieved_on": "2026-10-09"},
+    {"id": "src-cga-cutter", "title": "Lisa Cutter", "publisher": "Colorado General Assembly", "url": "https://leg.colorado.gov/legislators/lisa-cutter", "retrieved_on": "2026-10-09"},
+    {"id": "src-bp-hd30", "title": "Colorado House of Representatives District 30", "publisher": "Ballotpedia", "url": "https://ballotpedia.org/Colorado_House_of_Representatives_District_30", "retrieved_on": "2026-10-09"},
+    {"id": "src-bp-hd28", "title": "Colorado House of Representatives District 28", "publisher": "Ballotpedia", "url": "https://ballotpedia.org/Colorado_House_of_Representatives_District_28", "retrieved_on": "2026-10-09"},
+    {"id": "src-bp-hd23", "title": "Colorado House of Representatives District 23", "publisher": "Ballotpedia", "url": "https://ballotpedia.org/Colorado_House_of_Representatives_District_23", "retrieved_on": "2026-10-09"},
+    {"id": "src-bp-sd20", "title": "Colorado State Senate District 20", "publisher": "Ballotpedia", "url": "https://ballotpedia.org/Colorado_State_Senate_District_20", "retrieved_on": "2026-10-09"},
+    {"id": "src-bp-sd22", "title": "Colorado State Senate District 22", "publisher": "Ballotpedia", "url": "https://ballotpedia.org/Colorado_State_Senate_District_22", "retrieved_on": "2026-10-09"},
+    {"id": "src-lakewood-rein", "title": "David Rein, City Council Member", "publisher": "City of Lakewood", "url": "https://www.lakewoodco.gov/Local-Government/City-Council/City-Council-Members/David-Rein", "retrieved_on": "2026-10-09"},
+    {"id": "src-stewart-linktree", "title": "Rebekah for Colorado (campaign links page)", "publisher": "Rebekah Stewart campaign (Linktree)", "url": "https://linktr.ee/rebekahforcolorado", "retrieved_on": "2026-10-09"},
+    {"id": "src-goodparty-switzer", "title": "William Switzer candidate profile", "publisher": "GoodParty.org", "url": "https://goodparty.org/people/william-switzer-ee8d2df5", "retrieved_on": "2026-10-09"},
+    {"id": "src-lp-jeffco", "title": "Jefferson County (Libertarian Party of Colorado)", "publisher": "Libertarian Party of Colorado", "url": "https://lpcolorado.org/jefferson-county", "retrieved_on": "2026-10-09"}
+  ],
+  "contests": [
+    {
+      "id": "sd-20",
+      "level": "legislature",
+      "office": "Colorado State Senator",
+      "district": "State Senate District 20",
+      "who_votes": "Lakewood voters in State Senate District 20 (about 67,000 Lakewood residents; the district also takes in Arvada, Dakota Ridge, Fairmount and Evergreen)",
+      "seats": 1,
+      "term_years": 4,
+      "what_the_job_is": "State senators write and vote on Colorado's laws and the state budget. The Senate has 35 members.",
+      "candidates": [
+        {"name": "Richard (Rich) Mancuso", "party": "Republican", "incumbent": false, "website": null, "ballot_order": 1, "sources": ["src-sos-general-candidates-2026", "src-sos-ballot-order-2026"]},
+        {"name": "Sheila Lieder", "party": "Democratic", "incumbent": false, "website": null, "ballot_order": 2, "sources": ["src-sos-general-candidates-2026", "src-sos-ballot-order-2026", "src-cga-legislators"]}
+      ],
+      "notes": "Open seat. The current senator, Lisa Cutter (Democrat), is not on the 2026 ballot for this seat. Sheila Lieder now serves in the state House (District 28). Lakewood is split between Senate Districts 20 and 22.",
+      "sources": ["src-sos-general-candidates-2026", "src-sos-offices-up-2026", "src-irc-senate-city-splits", "src-irc-sd20-sheet", "src-cga-legislators", "src-cga-cutter"]
+    },
+    {
+      "id": "sd-22",
+      "level": "legislature",
+      "office": "Colorado State Senator",
+      "district": "State Senate District 22",
+      "who_votes": "Lakewood voters in State Senate District 22 (about 90,000 Lakewood residents; the district also takes in Wheat Ridge, Golden, Applewood and Edgewater)",
+      "seats": 1,
+      "term_years": 4,
+      "what_the_job_is": "State senators write and vote on Colorado's laws and the state budget. The Senate has 35 members.",
+      "candidates": [
+        {"name": "Steve Harkess", "party": "Republican", "incumbent": false, "website": null, "ballot_order": 1, "sources": ["src-sos-general-candidates-2026", "src-sos-ballot-order-2026"]},
+        {"name": "Monica Irasema Duran", "party": "Democratic", "incumbent": false, "website": null, "ballot_order": 2, "sources": ["src-sos-general-candidates-2026", "src-sos-ballot-order-2026", "src-cga-legislators"]}
+      ],
+      "notes": "Open seat. The current senator, Jessie Danielson (Democrat), is not on the 2026 ballot for this seat. Monica Duran now serves in the state House (District 23). Lakewood is split between Senate Districts 20 and 22.",
+      "sources": ["src-sos-general-candidates-2026", "src-sos-offices-up-2026", "src-irc-senate-city-splits", "src-irc-sd22-sheet", "src-cga-legislators", "src-bp-sd22"]
+    },
+    {
+      "id": "hd-23",
+      "level": "legislature",
+      "office": "Colorado State Representative",
+      "district": "State House District 23",
+      "who_votes": "Lakewood voters in House District 23 (about 47,500 Lakewood residents; the district also takes in Wheat Ridge, Applewood, Mountain View and East Pleasant View)",
+      "seats": 1,
+      "term_years": 2,
+      "what_the_job_is": "State representatives write and vote on Colorado's laws and the state budget. The House has 65 members, all elected every two years.",
+      "candidates": [
+        {"name": "Alexis Hoffkling", "party": "Democratic", "incumbent": false, "website": null, "ballot_order": 1, "sources": ["src-sos-general-candidates-2026", "src-sos-ballot-order-2026"]},
+        {"name": "Ross Metler", "party": "Libertarian", "incumbent": false, "website": null, "ballot_order": 2, "sources": ["src-sos-general-candidates-2026", "src-sos-ballot-order-2026", "src-lp-jeffco"]}
+      ],
+      "notes": "Open seat. The current representative, Monica Duran (Democrat), is running for State Senate District 22 instead. No Republican is on the ballot.",
+      "sources": ["src-sos-general-candidates-2026", "src-irc-house-city-splits", "src-irc-hd23-sheet", "src-cga-legislators", "src-bp-hd23"]
+    },
+    {
+      "id": "hd-28",
+      "level": "legislature",
+      "office": "Colorado State Representative",
+      "district": "State House District 28",
+      "who_votes": "Lakewood voters in House District 28 (about 28,500 Lakewood residents; the district also takes in Dakota Ridge and Columbine)",
+      "seats": 1,
+      "term_years": 2,
+      "what_the_job_is": "State representatives write and vote on Colorado's laws and the state budget. The House has 65 members, all elected every two years.",
+      "candidates": [
+        {"name": "David Rein", "party": "Democratic", "incumbent": false, "website": null, "ballot_order": 1, "sources": ["src-sos-general-candidates-2026", "src-sos-ballot-order-2026"]}
+      ],
+      "notes": "Open seat with one candidate on the ballot. The current representative, Sheila Lieder (Democrat), is running for State Senate District 20 instead. A David Rein serves on Lakewood City Council (Ward 4); the city's page does not mention a state House run, so the guide should not assume they are the same person until confirmed.",
+      "sources": ["src-sos-general-candidates-2026", "src-irc-house-city-splits", "src-irc-hd28-sheet", "src-cga-legislators", "src-bp-hd28"]
+    },
+    {
+      "id": "hd-30",
+      "level": "legislature",
+      "office": "Colorado State Representative",
+      "district": "State House District 30",
+      "who_votes": "Lakewood voters in House District 30 (about 80,500 Lakewood residents; this district is almost all Lakewood, plus Edgewater)",
+      "seats": 1,
+      "term_years": 2,
+      "what_the_job_is": "State representatives write and vote on Colorado's laws and the state budget. The House has 65 members, all elected every two years.",
+      "candidates": [
+        {"name": "Rebekah Stewart", "party": "Democratic", "incumbent": true, "website": "https://rebekahforcolorado.com", "ballot_order": 1, "sources": ["src-sos-general-candidates-2026", "src-sos-ballot-order-2026", "src-cga-legislators", "src-bp-hd30", "src-stewart-linktree"]},
+        {"name": "William Tyler Switzer", "party": "Republican", "incumbent": false, "website": "https://www.williamswitzerforcolorado.com/", "ballot_order": 2, "sources": ["src-sos-general-candidates-2026", "src-sos-ballot-order-2026", "src-goodparty-switzer"]}
+      ],
+      "notes": "Rebekah Stewart has held this seat since January 2025.",
+      "sources": ["src-sos-general-candidates-2026", "src-irc-house-city-splits", "src-irc-hd30-sheet", "src-cga-legislators", "src-bp-hd30"]
+    }
+  ],
+  "retention": [],
+  "measures": [],
+  "facts": [
+    {"key": "lakewood-house-districts", "text": "Under the maps drawn in 2021, Lakewood is split among three state House districts: 23, 28 and 30. House District 30 has the most Lakewood residents.", "sources": ["src-irc-house-city-splits", "src-irc-house-final"]},
+    {"key": "lakewood-senate-districts", "text": "Lakewood is split between two state Senate districts: 20 and 22. Both are on the 2026 ballot.", "sources": ["src-irc-senate-city-splits", "src-sos-offices-up-2026"]},
+    {"key": "maps-in-effect", "text": "The state legislative maps were approved by the Colorado Supreme Court, with final small adjustments approved on March 18, 2022. They were first used in the 2022 election and remain in use.", "sources": ["src-irc-house-final", "src-irc-final-maps"]},
+    {"key": "house-all-seats-up", "text": "All 65 state House seats are on the ballot every two years.", "sources": ["src-sos-offices-up-2026"]},
+    {"key": "senate-staggered", "text": "State senators serve four-year terms, and only about half the Senate is elected at a time. In 2026, 21 of 35 Senate seats are on the ballot, including a few to fill vacancies.", "sources": ["src-sos-offices-up-2026"]},
+    {"key": "ballot-order-rule", "text": "On Colorado ballots, major-party candidates are listed first, then minor-party candidates, then unaffiliated candidates. Order within each group was set by a drawing on July 28, 2026.", "sources": ["src-sos-ballot-order-2026"]},
+    {"key": "find-your-district", "text": "Your ballot shows only the House and Senate races for your address. You can look up your district with the state legislature's Find My Legislator tool at leg.colorado.gov/findmylegislator.", "sources": ["src-irc-house-final"]},
+    {"key": "candidate-list-certified", "text": "The Secretary of State certified the general-election candidate list to counties on September 4, 2026.", "sources": ["src-sos-general-candidates-2026"]}
+  ],
+  "open_questions": [
+    "No official source found that says which neighborhoods of Lakewood fall in each district (for example north vs. south). who_votes uses population counts and neighboring communities from the redistricting commission instead. Readers should use leg.colorado.gov/findmylegislator; the commission's interactive map could be used to add street-level descriptions.",
+    "Lakewood resident counts per district are 2020 Census figures from the commission's city-split reports (House: HD23 47,525; HD28 28,468; HD30 80,540. Senate: SD20 66,876; SD22 89,657; both total 156,533).",
+    "The guide gives no reason the SD20 and SD22 incumbents are leaving. Wikipedia (not cited) says Lisa Cutter is running for Jefferson County Commissioner and Jessie Danielson is term-limited; neither was confirmed from an official source.",
+    "Not confirmed whether HD28 candidate David Rein is the same person as Lakewood City Council member David Rein (Ward 4).",
+    "Ballot order was read from the SOS ballot-order table as Democratic/Republican/Libertarian position columns (SD20 and SD22: Republican 1, Democratic 2; HD23: Democratic 1, Libertarian 2; HD28: Democratic 1; HD30: Democratic 1, Republican 2). Worth checking against the Jeffco sample ballot.",
+    "No campaign websites found for Mancuso, Lieder, Harkess, Duran, Hoffkling, Metler or Rein. Hoffkling has an ActBlue donation page through a third-party group, but no campaign website. Stewart's site comes from her campaign's Linktree page, and Switzer's from GoodParty.org; neither site was opened directly.",
+    "The SOS list shows no certified write-in candidates for these five races."
+  ]
+}

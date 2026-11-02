@@ -1,0 +1,455 @@
+{
+  "section": "U.S. House District 7 candidates",
+  "sources": [
+    {
+      "id": "src-cpr-cd7-guide",
+      "title": "Voter guide for Colorado's 7th Congressional District",
+      "publisher": "CPR News",
+      "url": "https://www.cpr.org/2026/09/24/vg-2026-7th-congressional-district-voter-guide/",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-cpr-bennett",
+      "title": "7th Congressional District: Republican Timothy Bennett",
+      "publisher": "CPR News",
+      "url": "https://www.cpr.org/2026/09/25/vg-2026-timothy-bennett-voter-guide/",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-cpr-pettersen",
+      "title": "7th Congressional District: Democrat Rep. Brittany Pettersen",
+      "publisher": "CPR News",
+      "url": "https://www.cpr.org/2026/09/25/vg-2026-brittany-pettersen-voter-guide/",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-cpr-thirdparty",
+      "title": "7th Congressional District third-party candidates",
+      "publisher": "CPR News",
+      "url": "https://www.cpr.org/2026/09/25/vg-2026-7th-congressional-district-third-party-voter-guide/",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-krdo-bennett",
+      "title": "Tim Bennett (2026 U.S. House of Representatives voter profile)",
+      "publisher": "KRDO",
+      "url": "https://krdo.com/2026-u-s-house-of-representatives/2026/06/19/tim-bennett/",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-krdo-pettersen",
+      "title": "Brittany Pettersen (2026 U.S. House of Representatives voter profile)",
+      "publisher": "KRDO",
+      "url": "https://krdo.com/2026-u-s-house-of-representatives/2026/06/24/brittany-pettersen/",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-bp-pettersen",
+      "title": "Brittany Pettersen",
+      "publisher": "Ballotpedia",
+      "url": "https://ballotpedia.org/Brittany_Pettersen",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-pettersen-site",
+      "title": "Brittany Pettersen for Colorado (campaign website)",
+      "publisher": "Brittany Pettersen for Colorado",
+      "url": "https://brittanypettersen.com/",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-pettersen-site-endorsements",
+      "title": "Endorsements - Brittany Pettersen for Colorado",
+      "publisher": "Brittany Pettersen for Colorado",
+      "url": "https://brittanypettersen.com/endorsements/",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-bennett-site",
+      "title": "Tim Bennett for Congress",
+      "publisher": "Tim Bennett for Congress",
+      "url": "https://timbennettforcongress.com/",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-bennett-site-meet",
+      "title": "Meet Tim - Tim Bennett for Congress",
+      "publisher": "Tim Bennett for Congress",
+      "url": "https://timbennettforcongress.com/meet-tim",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-sallis-site",
+      "title": "Dan Kilo for Congress (campaign website)",
+      "publisher": "Dan Kilo campaign",
+      "url": "https://dankilo.com/",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-sallis-site-about",
+      "title": "About - Dan Kilo",
+      "publisher": "Dan Kilo campaign",
+      "url": "https://dankilo.com/about",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-joek-site",
+      "title": "Joe Krzeczkowski for Colorado (campaign website)",
+      "publisher": "Joe Krzeczkowski for Colorado",
+      "url": "https://joeforco.com/",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-joek-site-about",
+      "title": "Meet Joe - Joe Krzeczkowski for Colorado",
+      "publisher": "Joe Krzeczkowski for Colorado",
+      "url": "https://joeforco.com/about/",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-politics1-co",
+      "title": "Colorado 2026 Elections: Candidates for Governor, Senate & House",
+      "publisher": "Politics1",
+      "url": "https://politics1.com/co.htm",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-ivg-clark",
+      "title": "Voter Guide Profile for CO U.S. Rep., Dist. 7 candidate - Lawrence Kyle Clark",
+      "publisher": "iVoterGuide (AFA Action)",
+      "url": "https://ivoterguide.com/candidate/24851",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-coaflcio-2026",
+      "title": "Colorado AFL-CIO 2026 Voter Guide and Endorsements",
+      "publisher": "Colorado AFL-CIO",
+      "url": "https://coaflcio.org/press-releases/colorado-afl-cio-2026-voter-guide-and-endorsements",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-nea-2026",
+      "title": "Our Recommended Candidates - Education Votes (2026 election)",
+      "publisher": "National Education Association (Education Votes)",
+      "url": "https://educationvotes.nea.org/2026-election/our-recommended-candidates",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-fec-pettersen-cand",
+      "title": "PETTERSEN, BRITTANY LOUISE - Candidate overview (H8CO07045), 2026 cycle",
+      "publisher": "Federal Election Commission",
+      "url": "https://www.fec.gov/data/candidate/H8CO07045/?cycle=2026&election_full=false",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-fec-pettersen-cmte",
+      "title": "BRITTANY PETTERSEN FOR COLORADO - Committee overview (C00637215), 2026 cycle",
+      "publisher": "Federal Election Commission",
+      "url": "https://www.fec.gov/data/committee/C00637215/?tab=summary&cycle=2026",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-fec-bennett-cand",
+      "title": "BENNETT, TIMOTHY - Candidate overview (H6CO07122), 2026 cycle",
+      "publisher": "Federal Election Commission",
+      "url": "https://www.fec.gov/data/candidate/H6CO07122/?cycle=2026&election_full=false",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-fec-bennett-f2",
+      "title": "FEC Form 2 Statement of Candidacy - Timothy Bennett (filed 01/21/2026)",
+      "publisher": "Federal Election Commission",
+      "url": "https://docquery.fec.gov/pdf/268/202601219794113268/202601219794113268.pdf",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-fec-joek-cand",
+      "title": "KRZECZKOWSKI, JOE - Candidate overview (H6CO07130), 2026 cycle",
+      "publisher": "Federal Election Commission",
+      "url": "https://www.fec.gov/data/candidate/H6CO07130/?cycle=2026&election_full=false",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-fec-joek-f2",
+      "title": "FEC Form 2 Statement of Candidacy - Joe Krzeczkowski (filed 03/12/2026)",
+      "publisher": "Federal Election Commission",
+      "url": "https://docquery.fec.gov/pdf/120/202603129837937120/202603129837937120.pdf",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-cea-2026",
+      "title": "Colorado Education Association Announces Recommendations for 2026 General Election (Sept. 22, 2026)",
+      "publisher": "Colorado Education Association",
+      "url": "https://coloradoea.org/news-updates/colorado-education-association-announces-recommendations-for-2026-general-election/",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-seiu-2026",
+      "title": "2026 Election Voter Guide",
+      "publisher": "SEIU Local 105",
+      "url": "https://www.seiu105.org/vote/",
+      "retrieved_on": "2026-10-09"
+    }
+  ],
+  "people": [
+    {
+      "name": "Tim Bennett",
+      "contest_id": "us-house-cd7",
+      "aka": [
+        "Timothy Bennett",
+        "BENNETT, TIMOTHY"
+      ],
+      "bio": "Tim Bennett is the Republican nominee and a retired U.S. Army officer who served nearly 30 years and retired in 2018. He was elected in 2025 to the Lewis-Palmer School District 38 Board of Education and lives in Monument.",
+      "bio_sources": [
+        "src-cpr-bennett",
+        "src-cpr-cd7-guide",
+        "src-bennett-site-meet"
+      ],
+      "website": "https://timbennettforcongress.com/",
+      "website_sources": [
+        "src-bennett-site",
+        "src-politics1-co"
+      ],
+      "endorsements": [],
+      "answers": [
+        {
+          "outlet": "KRDO 2026 voter profile",
+          "question": "How does your experience make you qualified to represent the people?",
+          "answer": "My qualifications are centered in a lifetime of service rather than a pursuit of politics. …",
+          "topic": "the-job",
+          "sources": [
+            "src-krdo-bennett"
+          ]
+        },
+        {
+          "outlet": "KRDO 2026 voter profile",
+          "question": "What are your top policy priorities?",
+          "answer": "I’m simply committed to improving everyday life for the people of Colorado's CD-7. …",
+          "topic": "other",
+          "sources": [
+            "src-krdo-bennett"
+          ]
+        },
+        {
+          "outlet": "KRDO 2026 voter profile",
+          "question": "What is one issue you think is being overlooked in this race, and how would you address it?",
+          "answer": "It’s not a single issue that is being looked over. … I simply believe Congress should spend less time representing Washington to Colorado and more time representing Colorado to Washington.",
+          "topic": "the-job",
+          "sources": [
+            "src-krdo-bennett"
+          ]
+        }
+      ],
+      "finance": [
+        {
+          "committee": "TIM BENNETT FOR CONGRESS",
+          "filer": "FEC",
+          "report": "Latest FEC financial summary, 2025-2026 cycle (coverage 2026-01-01 to 2026-06-30); fec.gov did not display the report name in our fetch (coverage end matches the July Quarterly)",
+          "period_end": "2026-06-30",
+          "raised_total": 63306.33,
+          "spent_total": 61980.91,
+          "cash_on_hand": 1325.42,
+          "notes": "Cycle-to-date totals from the FEC candidate page (candidate ID H6CO07122, committee C00935726). FEC also shows $20,000.00 in debts/loans owed by the committee.",
+          "sources": [
+            "src-fec-bennett-cand",
+            "src-fec-bennett-f2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Brittany Pettersen",
+      "contest_id": "us-house-cd7",
+      "aka": [
+        "Brittany Louise Pettersen",
+        "PETTERSEN, BRITTANY LOUISE"
+      ],
+      "bio": "Brittany Pettersen, a Democrat, is the incumbent U.S. representative for the 7th Congressional District, first elected in 2022, and is seeking a third term. She previously served in the Colorado House of Representatives (2013-2019) and the Colorado Senate (2019-2023). She grew up in and lives in Jefferson County.",
+      "bio_sources": [
+        "src-cpr-pettersen",
+        "src-bp-pettersen",
+        "src-cpr-cd7-guide"
+      ],
+      "website": "https://brittanypettersen.com/",
+      "website_sources": [
+        "src-pettersen-site",
+        "src-politics1-co"
+      ],
+      "endorsements": [
+        {
+          "endorser": "Colorado AFL-CIO",
+          "kind": "organization",
+          "title": null,
+          "provenance": "endorser_statement",
+          "sources": [
+            "src-coaflcio-2026"
+          ]
+        },
+        {
+          "endorser": "National Education Association",
+          "kind": "organization",
+          "title": null,
+          "provenance": "endorser_statement",
+          "sources": [
+            "src-nea-2026"
+          ]
+        },
+        {
+          "endorser": "Colorado Education Association",
+          "kind": "organization",
+          "title": null,
+          "provenance": "endorser_statement",
+          "sources": [
+            "src-cea-2026"
+          ]
+        },
+        {
+          "endorser": "SEIU Local 105 (SEIU Colorado voter guide)",
+          "kind": "organization",
+          "title": null,
+          "provenance": "endorser_statement",
+          "sources": [
+            "src-seiu-2026"
+          ]
+        }
+      ],
+      "answers": [
+        {
+          "outlet": "KRDO 2026 voter profile",
+          "question": "How does your experience make you qualified to represent the people?",
+          "answer": "I grew up here in Jefferson County – it's the community that gave me every opportunity to build a better life. As an at-risk youth, I was highly unlikely to graduate high school or college, let alone become a Member of Congress. …",
+          "topic": "the-job",
+          "sources": [
+            "src-krdo-pettersen"
+          ]
+        },
+        {
+          "outlet": "KRDO 2026 voter profile",
+          "question": "What are your top policy priorities?",
+          "answer": "In Congress, I'm fighting to make sure we have a tax system that works for everyone – not just the ultra-wealthy. At a time when affordability is the top concern I hear from families, we should be investing back in the American people …",
+          "topic": "taxes",
+          "sources": [
+            "src-krdo-pettersen"
+          ]
+        }
+      ],
+      "finance": [
+        {
+          "committee": "BRITTANY PETTERSEN FOR COLORADO",
+          "filer": "FEC",
+          "report": "Latest FEC financial summary, 2025-2026 cycle (coverage 2025-01-01 to 2026-06-30); fec.gov did not display the report name in our fetch (coverage end matches the July Quarterly)",
+          "period_end": "2026-06-30",
+          "raised_total": 1866765.19,
+          "spent_total": 1322309.86,
+          "cash_on_hand": 1105387.56,
+          "notes": "Cycle-to-date totals from the FEC candidate and committee pages (candidate ID H8CO07045, committee C00637215). No debts reported.",
+          "sources": [
+            "src-fec-pettersen-cand",
+            "src-fec-pettersen-cmte"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Susan Hall",
+      "contest_id": "us-house-cd7",
+      "aka": [],
+      "bio": "Susan Hall is the Unity Party candidate. She is a teacher who was born and raised in Denver.",
+      "bio_sources": [
+        "src-cpr-thirdparty",
+        "src-cpr-cd7-guide"
+      ],
+      "website": null,
+      "website_sources": [],
+      "endorsements": [],
+      "answers": [],
+      "finance": []
+    },
+    {
+      "name": "Lawrence Kyle Clark",
+      "contest_id": "us-house-cd7",
+      "aka": [
+        "Lawrence Clark"
+      ],
+      "bio": "Lawrence Kyle Clark is the American Constitution Party candidate. He is an entrepreneur based in Colorado Springs.",
+      "bio_sources": [
+        "src-cpr-thirdparty",
+        "src-cpr-cd7-guide"
+      ],
+      "website": null,
+      "website_sources": [],
+      "endorsements": [],
+      "answers": [],
+      "finance": []
+    },
+    {
+      "name": "Dan \"Kilo\" Sallis",
+      "contest_id": "us-house-cd7",
+      "aka": [
+        "Dan Kilo",
+        "Dan Sallis"
+      ],
+      "bio": "Dan \"Kilo\" Sallis is the Libertarian candidate. He is a small business owner based in Jefferson County.",
+      "bio_sources": [
+        "src-cpr-thirdparty",
+        "src-sallis-site-about"
+      ],
+      "website": "https://dankilo.com/",
+      "website_sources": [
+        "src-sallis-site",
+        "src-cpr-thirdparty"
+      ],
+      "endorsements": [],
+      "answers": [],
+      "finance": []
+    },
+    {
+      "name": "Joe Krzeczkowski",
+      "contest_id": "us-house-cd7",
+      "aka": [
+        "Joe K",
+        "KRZECZKOWSKI, JOE",
+        "Krzeczowski"
+      ],
+      "bio": "Joe Krzeczkowski is an unaffiliated candidate and a technology executive who lives in Lakewood. He most recently led a community council in Lakewood and supported the Make Lakewood Livable campaign.",
+      "bio_sources": [
+        "src-cpr-thirdparty",
+        "src-joek-site-about"
+      ],
+      "website": "https://joeforco.com/",
+      "website_sources": [
+        "src-joek-site",
+        "src-cpr-thirdparty"
+      ],
+      "endorsements": [],
+      "answers": [],
+      "finance": [
+        {
+          "committee": "Joe Krzeczkowski for Colorado",
+          "filer": "FEC",
+          "report": "Latest FEC financial summary, 2025-2026 cycle (coverage 2025-11-12 to 2026-06-30); fec.gov did not display the report name in our fetch (coverage end matches the July Quarterly)",
+          "period_end": "2026-06-30",
+          "raised_total": 3530.92,
+          "spent_total": 2614.44,
+          "cash_on_hand": 916.48,
+          "notes": "Cycle-to-date totals from the FEC candidate page (candidate ID H6CO07130, committee C00943241; FEC lists party as Independent). Receipts include $1,331.88 in candidate contributions. No debts reported.",
+          "sources": [
+            "src-fec-joek-cand",
+            "src-fec-joek-f2"
+          ]
+        }
+      ]
+    }
+  ],
+  "open_questions": [
+    "FEC: api.open.fec.gov and the fec.gov district search page (/data/candidates/house/?state=CO&district=07...) were blocked (proxy policy / robots), and fec.gov later rate-limited us (HTTP 429). FEC figures above come from individual fec.gov candidate/committee pages. FEC filing status for Susan Hall, Lawrence Kyle Clark and Dan \"Kilo\" Sallis could NOT be checked; do not state they have no filings until someone checks https://www.fec.gov/data/elections/house/CO/07/2026/ in a browser.",
+    "FEC report names: the fetched fec.gov pages showed coverage through 2026-06-30 but not the report name; that coverage end matches the July Quarterly. The October Quarterly (through Sept 30) is due Oct 15 and the Pre-General Oct 22; refresh all FEC figures after those dates.",
+    "Questionnaires: CPR News's 2026 CD7 candidate pages are written as CPR summaries of interviews with some short direct quotes, not candidates' written answers, so they are not used as answers. KRDO's profiles (Bennett June 19, Pettersen June 24, 2026) present first-person answers, but the page does not say the candidates submitted them in writing; confirm this if the site needs to. Our fetch tool limits quotes to about 125 characters, so the KRDO answers are trimmed with an ellipsis. An editor could add longer excerpts from the pages.",
+    "No 2026 CD7 questionnaire was found from Vote411/LWV, the Colorado Sun, the Denver Post, Colorado Community Media or Colorado Newsline (Colorado Newsline's CD7 guide page https://coloradonewsline.com/voter-guides/contests/2026-general-u-s-house-7th-district/ failed to load). Check again closer to ballot mailing.",
+    "Ballotpedia: Joe Krzeczkowski has Candidate Connection answers (key messages on a 'two-tiered justice system', an 'Economy of Abundance' and overturning Citizens United), but the question text did not appear in our fetch, so they are not included. iVoterGuide says Lawrence Kyle Clark completed Ballotpedia's survey, but Ballotpedia blocked our fetches of his page and of Sallis's. Ballotpedia's CD7 race page was a stale pre-primary cache in our fetch.",
+    "No endorsements were found for Bennett (his site has no endorsements page), Hall, Clark, Sallis or Krzeczkowski. Krzeczkowski's site shows testimonials from private individuals only. Checks of Republican-aligned groups (NRA-PVF, Club for Growth, U.S. Chamber) did not surface any CD7 2026 endorsement; these groups' lists were not fetched directly.",
+    "Susan Hall website: Politics1 lists https://susanhallforcongress.com/, but the site blocked our fetch, and CPR says 'No campaign materials were found at press time.' Politics1 also describes her as a teacher and peace activist who ran in 2012 and 2024. The office she ran for was not verified.",
+    "Krzeczkowski: Politics1 lists votejoek.com as his website, while CPR and the campaign use joeforco.com. Politics1 describes Sallis as a 2010 gubernatorial candidate; this was not verified elsewhere, so it is not in the bio. Sallis's site says he has called the district home since 1967.",
+    "Lawrence Kyle Clark: no campaign website or questionnaire answers were found. iVoterGuide shows 'Did not answer' on every question."
+  ]
+}

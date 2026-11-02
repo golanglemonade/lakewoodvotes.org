@@ -1,0 +1,3500 @@
+{
+  "site": "https://lakewoodvotes.org/",
+  "election_day": "2026-11-03",
+  "built": "2026-11-02",
+  "key_dates": [
+    {
+      "date": "2026-10-05",
+      "what": "Ballots mailed; 24-hour drop boxes open",
+      "source": "src-jeffco-elections"
+    },
+    {
+      "date": "2026-10-19",
+      "what": "Voter Service and Polling Centers open for in-person voting",
+      "source": "src-jeffco-elections"
+    },
+    {
+      "date": "2026-10-26",
+      "what": "Last day to register and still get a ballot in the mail; last recommended day to mail your ballot back",
+      "source": "src-jeffco-elections"
+    },
+    {
+      "date": "2026-11-03",
+      "what": "Election Day: ballots must be received by 7 p.m. You can still register and vote in person that day.",
+      "source": "src-jeffco-elections"
+    }
+  ],
+  "contests": [
+    {
+      "id": "us-senate",
+      "level": "federal",
+      "office": "United States Senator",
+      "district": null,
+      "who_votes": "All Lakewood voters",
+      "seats": 1,
+      "term_years": 6,
+      "what_the_job_is": "One of Colorado's two members of the U.S. Senate. Senators vote on federal laws, the federal budget, treaties, and the president's nominees for judges and cabinet posts.",
+      "candidates": [
+        {
+          "name": "Mark Baisley",
+          "party": "Republican",
+          "incumbent": false,
+          "website": null,
+          "ballot_order": 1,
+          "sources": [
+            "src-jeffco-sample-ballot",
+            "src-jeffco-on-ballot",
+            "src-cpr-midterm-guide"
+          ]
+        },
+        {
+          "name": "John Hickenlooper",
+          "party": "Democratic",
+          "incumbent": true,
+          "website": null,
+          "ballot_order": 2,
+          "sources": [
+            "src-jeffco-sample-ballot",
+            "src-jeffco-on-ballot",
+            "src-cpr-midterm-guide",
+            "src-greenpapers-co"
+          ]
+        },
+        {
+          "name": "Bob Chew",
+          "party": "Forward",
+          "incumbent": false,
+          "website": null,
+          "ballot_order": 3,
+          "sources": [
+            "src-jeffco-sample-ballot",
+            "src-jeffco-on-ballot"
+          ]
+        },
+        {
+          "name": "Christopher Baum",
+          "party": "Approval Voting",
+          "incumbent": false,
+          "website": null,
+          "ballot_order": 4,
+          "sources": [
+            "src-jeffco-sample-ballot",
+            "src-jeffco-on-ballot"
+          ]
+        },
+        {
+          "name": "Blake Huber",
+          "party": "Libertarian",
+          "incumbent": false,
+          "website": null,
+          "ballot_order": 5,
+          "sources": [
+            "src-jeffco-sample-ballot",
+            "src-jeffco-on-ballot"
+          ]
+        },
+        {
+          "name": "Adam Withrow",
+          "party": "Unity",
+          "incumbent": false,
+          "website": null,
+          "ballot_order": 6,
+          "sources": [
+            "src-jeffco-sample-ballot",
+            "src-jeffco-on-ballot"
+          ]
+        }
+      ],
+      "notes": "Yes, Sen. John Hickenlooper's seat is on the 2026 ballot. He won the Democratic primary over Julie Gonzales, and Mark Baisley was the only Republican on the primary ballot. The ballot has a blank line for a write-in.",
+      "sources": [
+        "src-jeffco-sample-ballot",
+        "src-jeffco-on-ballot",
+        "src-cpr-midterm-guide",
+        "src-bhfs-primary",
+        "src-cpr-primary-results",
+        "src-greenpapers-co"
+      ]
+    },
+    {
+      "id": "us-house-cd7",
+      "level": "federal",
+      "office": "U.S. Representative",
+      "district": "Congressional District 7",
+      "who_votes": "All Lakewood voters (Lakewood is in Congressional District 7)",
+      "seats": 1,
+      "term_years": 2,
+      "what_the_job_is": "Represents this district in the U.S. House of Representatives. House members vote on federal laws and the federal budget, and help people who have problems with federal agencies.",
+      "candidates": [
+        {
+          "name": "Tim Bennett",
+          "party": "Republican",
+          "incumbent": false,
+          "website": null,
+          "ballot_order": 1,
+          "sources": [
+            "src-jeffco-sample-ballot",
+            "src-jeffco-on-ballot",
+            "src-cpr-midterm-guide"
+          ]
+        },
+        {
+          "name": "Brittany Pettersen",
+          "party": "Democratic",
+          "incumbent": true,
+          "website": null,
+          "ballot_order": 2,
+          "sources": [
+            "src-jeffco-sample-ballot",
+            "src-jeffco-on-ballot",
+            "src-cpr-midterm-guide",
+            "src-greenpapers-co"
+          ]
+        },
+        {
+          "name": "Susan Hall",
+          "party": "Unity",
+          "incumbent": false,
+          "website": null,
+          "ballot_order": 3,
+          "sources": [
+            "src-jeffco-sample-ballot",
+            "src-jeffco-on-ballot"
+          ]
+        },
+        {
+          "name": "Lawrence Kyle Clark",
+          "party": "American Constitution",
+          "incumbent": false,
+          "website": null,
+          "ballot_order": 4,
+          "sources": [
+            "src-jeffco-sample-ballot",
+            "src-jeffco-on-ballot"
+          ]
+        },
+        {
+          "name": "Dan \"Kilo\" Sallis",
+          "party": "Libertarian",
+          "incumbent": false,
+          "website": null,
+          "ballot_order": 5,
+          "sources": [
+            "src-jeffco-sample-ballot",
+            "src-jeffco-on-ballot"
+          ]
+        },
+        {
+          "name": "Joe Krzeczkowski",
+          "party": "Unaffiliated",
+          "incumbent": false,
+          "website": null,
+          "ballot_order": 6,
+          "sources": [
+            "src-jeffco-sample-ballot",
+            "src-jeffco-on-ballot"
+          ]
+        }
+      ],
+      "notes": "The winner serves in the 120th Congress. The county's sample ballot also lists Districts 1, 2, and 6, but those districts cover other parts of Jefferson County, not Lakewood.",
+      "sources": [
+        "src-jeffco-sample-ballot",
+        "src-jeffco-on-ballot",
+        "src-cpr-midterm-guide",
+        "src-wiki-cd7",
+        "src-bhfs-primary"
+      ]
+    },
+    {
+      "id": "governor",
+      "level": "state",
+      "office": "Governor and Lieutenant Governor (voted on together)",
+      "district": null,
+      "who_votes": "All Lakewood voters",
+      "seats": 1,
+      "term_years": 4,
+      "what_the_job_is": "The governor runs state government, proposes the state budget, signs or vetoes bills, and appoints judges and agency heads. The lieutenant governor takes over if the governor cannot serve. You cast one vote for a governor and running-mate team.",
+      "candidates": [
+        {
+          "name": "Victor Marx / George Washington Markert",
+          "party": "Republican",
+          "incumbent": false,
+          "website": null,
+          "ballot_order": 1,
+          "sources": [
+            "src-jeffco-sample-ballot",
+            "src-jeffco-on-ballot",
+            "src-cpr-midterm-guide"
+          ]
+        },
+        {
+          "name": "Phil Weiser / Lesley Dahlkemper",
+          "party": "Democratic",
+          "incumbent": false,
+          "website": null,
+          "ballot_order": 2,
+          "sources": [
+            "src-jeffco-sample-ballot",
+            "src-jeffco-on-ballot",
+            "src-cpr-midterm-guide"
+          ]
+        },
+        {
+          "name": "Stephen T. Hamilton / James K Treibert",
+          "party": "American Constitution",
+          "incumbent": false,
+          "website": null,
+          "ballot_order": 3,
+          "sources": [
+            "src-jeffco-sample-ballot",
+            "src-jeffco-on-ballot",
+            "src-cpr-midterm-guide"
+          ]
+        },
+        {
+          "name": "Eric Mulder / Wayne Harlos",
+          "party": "Libertarian",
+          "incumbent": false,
+          "website": null,
+          "ballot_order": 4,
+          "sources": [
+            "src-jeffco-sample-ballot",
+            "src-jeffco-on-ballot",
+            "src-cpr-midterm-guide"
+          ]
+        },
+        {
+          "name": "Jeff Peckman / T.J. Cole",
+          "party": "Unity",
+          "incumbent": false,
+          "website": null,
+          "ballot_order": 5,
+          "sources": [
+            "src-jeffco-sample-ballot",
+            "src-jeffco-on-ballot",
+            "src-cpr-midterm-guide"
+          ]
+        },
+        {
+          "name": "Erik Underwood / Frank Atwood",
+          "party": "Approval Voting",
+          "incumbent": false,
+          "website": null,
+          "ballot_order": 6,
+          "sources": [
+            "src-jeffco-sample-ballot",
+            "src-jeffco-on-ballot",
+            "src-cpr-midterm-guide"
+          ]
+        },
+        {
+          "name": "Greg Lopez / Taralyn Romero",
+          "party": "Unaffiliated",
+          "incumbent": false,
+          "website": null,
+          "ballot_order": 7,
+          "sources": [
+            "src-jeffco-sample-ballot",
+            "src-jeffco-on-ballot",
+            "src-cpr-midterm-guide"
+          ]
+        }
+      ],
+      "notes": "This is an open seat. Gov. Jared Polis (Democrat) is term-limited. Phil Weiser, the current Attorney General, won the Democratic primary over Michael Bennet. Victor Marx narrowly won the Republican primary over Barb Kirkmeyer and Scott Bottoms. Weiser's running mate, Lesley Dahlkemper, is a Jefferson County commissioner. Greg Lopez is a former Republican member of Congress who is running unaffiliated. No candidate on the ticket is the current governor or lieutenant governor.",
+      "sources": [
+        "src-jeffco-sample-ballot",
+        "src-jeffco-on-ballot",
+        "src-cpr-midterm-guide",
+        "src-gazette-governor",
+        "src-copolitics-marx-markert",
+        "src-bhfs-primary",
+        "src-greenpapers-co"
+      ]
+    },
+    {
+      "id": "secretary-of-state",
+      "level": "state",
+      "office": "Secretary of State",
+      "district": null,
+      "who_votes": "All Lakewood voters",
+      "seats": 1,
+      "term_years": 4,
+      "what_the_job_is": "Oversees Colorado elections, business filings, and charities and lobbyist registrations, and keeps the statewide voter list.",
+      "candidates": [
+        {
+          "name": "Amanda Gonzalez",
+          "party": "Democratic",
+          "incumbent": false,
+          "website": null,
+          "ballot_order": 1,
+          "sources": [
+            "src-jeffco-sample-ballot",
+            "src-jeffco-on-ballot",
+            "src-cpr-midterm-guide",
+            "src-wiki-sos-2026"
+          ]
+        },
+        {
+          "name": "James Wiley",
+          "party": "Republican",
+          "incumbent": false,
+          "website": null,
+          "ballot_order": 2,
+          "sources": [
+            "src-jeffco-sample-ballot",
+            "src-jeffco-on-ballot",
+            "src-cpr-midterm-guide",
+            "src-wiki-sos-2026"
+          ]
+        },
+        {
+          "name": "Sean Vadney",
+          "party": "Libertarian",
+          "incumbent": false,
+          "website": null,
+          "ballot_order": 3,
+          "sources": [
+            "src-jeffco-sample-ballot",
+            "src-jeffco-on-ballot",
+            "src-wiki-sos-2026"
+          ]
+        },
+        {
+          "name": "Amanda Campbell",
+          "party": "American Constitution",
+          "incumbent": false,
+          "website": null,
+          "ballot_order": 4,
+          "sources": [
+            "src-jeffco-sample-ballot",
+            "src-jeffco-on-ballot"
+          ]
+        },
+        {
+          "name": "Celeste Landry",
+          "party": "Forward",
+          "incumbent": false,
+          "website": null,
+          "ballot_order": 5,
+          "sources": [
+            "src-jeffco-sample-ballot",
+            "src-jeffco-on-ballot"
+          ]
+        }
+      ],
+      "notes": "This is an open seat. Secretary of State Jena Griswold (Democrat) is term-limited and is running for Attorney General. Amanda Gonzalez is the current Jefferson County Clerk and Recorder. Sean Vadney took the Libertarian spot after the party's first nominee withdrew.",
+      "sources": [
+        "src-jeffco-sample-ballot",
+        "src-jeffco-on-ballot",
+        "src-cpr-midterm-guide",
+        "src-wiki-sos-2026",
+        "src-greenpapers-co"
+      ]
+    },
+    {
+      "id": "state-treasurer",
+      "level": "state",
+      "office": "State Treasurer",
+      "district": null,
+      "who_votes": "All Lakewood voters",
+      "seats": 1,
+      "term_years": 4,
+      "what_the_job_is": "Manages and invests the state's money, and runs the program that returns unclaimed property, such as forgotten bank accounts, to its owners.",
+      "candidates": [
+        {
+          "name": "Jeff Bridges",
+          "party": "Democratic",
+          "incumbent": false,
+          "website": null,
+          "ballot_order": 1,
+          "sources": [
+            "src-jeffco-sample-ballot",
+            "src-jeffco-on-ballot",
+            "src-wiki-treasurer-2026"
+          ]
+        },
+        {
+          "name": "Kevin Grantham",
+          "party": "Republican",
+          "incumbent": false,
+          "website": null,
+          "ballot_order": 2,
+          "sources": [
+            "src-jeffco-sample-ballot",
+            "src-jeffco-on-ballot",
+            "src-wiki-treasurer-2026"
+          ]
+        },
+        {
+          "name": "Jodie Barr",
+          "party": "Libertarian",
+          "incumbent": false,
+          "website": null,
+          "ballot_order": 3,
+          "sources": [
+            "src-jeffco-sample-ballot",
+            "src-jeffco-on-ballot"
+          ]
+        },
+        {
+          "name": "Marilee Langner Sturgis",
+          "party": "Approval Voting",
+          "incumbent": false,
+          "website": null,
+          "ballot_order": 4,
+          "sources": [
+            "src-jeffco-sample-ballot",
+            "src-jeffco-on-ballot"
+          ]
+        }
+      ],
+      "notes": "This is an open seat. Treasurer Dave Young (Democrat) is term-limited. Jeff Bridges is a state senator. Kevin Grantham is a Fremont County commissioner and a former state senator.",
+      "sources": [
+        "src-jeffco-sample-ballot",
+        "src-jeffco-on-ballot",
+        "src-cpr-midterm-guide",
+        "src-wiki-treasurer-2026",
+        "src-bhfs-primary"
+      ]
+    },
+    {
+      "id": "attorney-general",
+      "level": "state",
+      "office": "Attorney General",
+      "district": null,
+      "who_votes": "All Lakewood voters",
+      "seats": 1,
+      "term_years": 4,
+      "what_the_job_is": "The state's top lawyer. Represents Colorado in court, gives legal advice to state agencies, and enforces consumer-protection and other state laws.",
+      "candidates": [
+        {
+          "name": "Michael J. Allen",
+          "party": "Republican",
+          "incumbent": false,
+          "website": null,
+          "ballot_order": 1,
+          "sources": [
+            "src-jeffco-sample-ballot",
+            "src-jeffco-on-ballot",
+            "src-bhfs-primary"
+          ]
+        },
+        {
+          "name": "Jena Griswold",
+          "party": "Democratic",
+          "incumbent": false,
+          "website": null,
+          "ballot_order": 2,
+          "sources": [
+            "src-jeffco-sample-ballot",
+            "src-jeffco-on-ballot",
+            "src-bhfs-primary",
+            "src-cpr-primary-results"
+          ]
+        }
+      ],
+      "notes": "This is an open seat. The current Attorney General, Phil Weiser, is running for governor. Jena Griswold is the current Secretary of State. Only two candidates are on the ballot.",
+      "sources": [
+        "src-jeffco-sample-ballot",
+        "src-jeffco-on-ballot",
+        "src-cpr-midterm-guide",
+        "src-bhfs-primary",
+        "src-wiki-sos-2026"
+      ]
+    },
+    {
+      "id": "sboe-cd7",
+      "level": "state",
+      "office": "State Board of Education Member",
+      "district": "Congressional District 7",
+      "who_votes": "All Lakewood voters",
+      "seats": 1,
+      "term_years": 6,
+      "what_the_job_is": "The State Board of Education sets statewide academic standards, licenses teachers, and oversees the Colorado Department of Education. It does not run local schools; school boards do that.",
+      "candidates": [
+        {
+          "name": "Karla Esser",
+          "party": "Democratic",
+          "incumbent": true,
+          "website": null,
+          "ballot_order": 1,
+          "sources": [
+            "src-jeffco-sample-ballot",
+            "src-jeffco-on-ballot",
+            "src-cde-esser",
+            "src-cpr-midterm-guide"
+          ]
+        },
+        {
+          "name": "Steve Barton",
+          "party": "Republican",
+          "incumbent": false,
+          "website": null,
+          "ballot_order": 2,
+          "sources": [
+            "src-jeffco-sample-ballot",
+            "src-jeffco-on-ballot",
+            "src-cpr-midterm-guide"
+          ]
+        },
+        {
+          "name": "Ross Klopf",
+          "party": "Libertarian",
+          "incumbent": false,
+          "website": null,
+          "ballot_order": 3,
+          "sources": [
+            "src-jeffco-sample-ballot",
+            "src-jeffco-on-ballot",
+            "src-cpr-midterm-guide"
+          ]
+        }
+      ],
+      "notes": "Karla Esser was elected to this seat in 2020, and her term ends in January 2027. The at-large State Board of Education seat is not on the 2026 Jefferson County ballot. The county ballot also lists the District 1 seat, which does not cover Lakewood.",
+      "sources": [
+        "src-jeffco-sample-ballot",
+        "src-jeffco-on-ballot",
+        "src-cde-esser",
+        "src-cpr-midterm-guide"
+      ]
+    },
+    {
+      "id": "cu-regent-cd7",
+      "level": "state",
+      "office": "Regent of the University of Colorado",
+      "district": "Congressional District 7",
+      "who_votes": "All Lakewood voters",
+      "seats": 1,
+      "term_years": 6,
+      "what_the_job_is": "The nine-member Board of Regents governs the University of Colorado's four campuses. It sets tuition and the budget, approves major contracts and tenure, and oversees the university president.",
+      "candidates": [
+        {
+          "name": "Paul Mueller",
+          "party": "Republican",
+          "incumbent": false,
+          "website": null,
+          "ballot_order": 1,
+          "sources": [
+            "src-jeffco-sample-ballot",
+            "src-jeffco-on-ballot",
+            "src-cpr-regents-guide"
+          ]
+        },
+        {
+          "name": "Nolbert Chavez",
+          "party": "Democratic",
+          "incumbent": true,
+          "website": null,
+          "ballot_order": 2,
+          "sources": [
+            "src-jeffco-sample-ballot",
+            "src-jeffco-on-ballot",
+            "src-cpr-regents-guide"
+          ]
+        },
+        {
+          "name": "BetteRose Ryan",
+          "party": "Libertarian",
+          "incumbent": false,
+          "website": null,
+          "ballot_order": 3,
+          "sources": [
+            "src-jeffco-sample-ballot",
+            "src-jeffco-on-ballot",
+            "src-cpr-regents-guide"
+          ]
+        }
+      ],
+      "notes": "Nolbert Chavez was first elected in 2020. Regents can serve no more than two terms. The at-large regent seat is not on the 2026 ballot. Only Districts 2, 6, and 7 are up this year, and only District 7 covers Lakewood.",
+      "sources": [
+        "src-jeffco-sample-ballot",
+        "src-jeffco-on-ballot",
+        "src-cpr-regents-guide",
+        "src-cpr-midterm-guide"
+      ]
+    },
+    {
+      "id": "sd-20",
+      "level": "legislature",
+      "office": "Colorado State Senator",
+      "district": "State Senate District 20",
+      "who_votes": "Lakewood voters in State Senate District 20 (about 67,000 Lakewood residents; the district also takes in Arvada, Dakota Ridge, Fairmount and Evergreen)",
+      "seats": 1,
+      "term_years": 4,
+      "what_the_job_is": "State senators write and vote on Colorado's laws and the state budget. The Senate has 35 members.",
+      "candidates": [
+        {
+          "name": "Richard (Rich) Mancuso",
+          "party": "Republican",
+          "incumbent": false,
+          "website": null,
+          "ballot_order": 1,
+          "sources": [
+            "src-sos-general-candidates-2026",
+            "src-sos-ballot-order-2026"
+          ]
+        },
+        {
+          "name": "Sheila Lieder",
+          "party": "Democratic",
+          "incumbent": false,
+          "website": null,
+          "ballot_order": 2,
+          "sources": [
+            "src-sos-general-candidates-2026",
+            "src-sos-ballot-order-2026",
+            "src-cga-legislators"
+          ]
+        }
+      ],
+      "notes": "Open seat. The current senator, Lisa Cutter (Democrat), is not on the 2026 ballot for this seat. Sheila Lieder now serves in the state House (District 28). Lakewood is split between Senate Districts 20 and 22.",
+      "sources": [
+        "src-sos-general-candidates-2026",
+        "src-sos-offices-up-2026",
+        "src-irc-senate-city-splits",
+        "src-irc-sd20-sheet",
+        "src-cga-legislators",
+        "src-cga-cutter"
+      ]
+    },
+    {
+      "id": "sd-22",
+      "level": "legislature",
+      "office": "Colorado State Senator",
+      "district": "State Senate District 22",
+      "who_votes": "Lakewood voters in State Senate District 22 (about 90,000 Lakewood residents; the district also takes in Wheat Ridge, Golden, Applewood and Edgewater)",
+      "seats": 1,
+      "term_years": 4,
+      "what_the_job_is": "State senators write and vote on Colorado's laws and the state budget. The Senate has 35 members.",
+      "candidates": [
+        {
+          "name": "Steve Harkess",
+          "party": "Republican",
+          "incumbent": false,
+          "website": null,
+          "ballot_order": 1,
+          "sources": [
+            "src-sos-general-candidates-2026",
+            "src-sos-ballot-order-2026"
+          ]
+        },
+        {
+          "name": "Monica Irasema Duran",
+          "party": "Democratic",
+          "incumbent": false,
+          "website": null,
+          "ballot_order": 2,
+          "sources": [
+            "src-sos-general-candidates-2026",
+            "src-sos-ballot-order-2026",
+            "src-cga-legislators"
+          ]
+        }
+      ],
+      "notes": "Open seat. The current senator, Jessie Danielson (Democrat), is not on the 2026 ballot for this seat. Monica Duran now serves in the state House (District 23). Lakewood is split between Senate Districts 20 and 22.",
+      "sources": [
+        "src-sos-general-candidates-2026",
+        "src-sos-offices-up-2026",
+        "src-irc-senate-city-splits",
+        "src-irc-sd22-sheet",
+        "src-cga-legislators",
+        "src-bp-sd22"
+      ]
+    },
+    {
+      "id": "hd-23",
+      "level": "legislature",
+      "office": "Colorado State Representative",
+      "district": "State House District 23",
+      "who_votes": "Lakewood voters in House District 23 (about 47,500 Lakewood residents; the district also takes in Wheat Ridge, Applewood, Mountain View and East Pleasant View)",
+      "seats": 1,
+      "term_years": 2,
+      "what_the_job_is": "State representatives write and vote on Colorado's laws and the state budget. The House has 65 members, all elected every two years.",
+      "candidates": [
+        {
+          "name": "Alexis Hoffkling",
+          "party": "Democratic",
+          "incumbent": false,
+          "website": null,
+          "ballot_order": 1,
+          "sources": [
+            "src-sos-general-candidates-2026",
+            "src-sos-ballot-order-2026"
+          ]
+        },
+        {
+          "name": "Ross Metler",
+          "party": "Libertarian",
+          "incumbent": false,
+          "website": null,
+          "ballot_order": 2,
+          "sources": [
+            "src-sos-general-candidates-2026",
+            "src-sos-ballot-order-2026",
+            "src-lp-jeffco"
+          ]
+        }
+      ],
+      "notes": "Open seat. The current representative, Monica Duran (Democrat), is running for State Senate District 22 instead. No Republican is on the ballot.",
+      "sources": [
+        "src-sos-general-candidates-2026",
+        "src-irc-house-city-splits",
+        "src-irc-hd23-sheet",
+        "src-cga-legislators",
+        "src-bp-hd23"
+      ]
+    },
+    {
+      "id": "hd-28",
+      "level": "legislature",
+      "office": "Colorado State Representative",
+      "district": "State House District 28",
+      "who_votes": "Lakewood voters in House District 28 (about 28,500 Lakewood residents; the district also takes in Dakota Ridge and Columbine)",
+      "seats": 1,
+      "term_years": 2,
+      "what_the_job_is": "State representatives write and vote on Colorado's laws and the state budget. The House has 65 members, all elected every two years.",
+      "candidates": [
+        {
+          "name": "David Rein",
+          "party": "Democratic",
+          "incumbent": false,
+          "website": null,
+          "ballot_order": 1,
+          "sources": [
+            "src-sos-general-candidates-2026",
+            "src-sos-ballot-order-2026"
+          ]
+        }
+      ],
+      "notes": "Open seat with one candidate on the ballot. The current representative, Sheila Lieder (Democrat), is running for State Senate District 20 instead. A David Rein serves on Lakewood City Council (Ward 4); the city's page does not mention a state House run, so the guide should not assume they are the same person until confirmed.",
+      "sources": [
+        "src-sos-general-candidates-2026",
+        "src-irc-house-city-splits",
+        "src-irc-hd28-sheet",
+        "src-cga-legislators",
+        "src-bp-hd28"
+      ]
+    },
+    {
+      "id": "hd-30",
+      "level": "legislature",
+      "office": "Colorado State Representative",
+      "district": "State House District 30",
+      "who_votes": "Lakewood voters in House District 30 (about 80,500 Lakewood residents; this district is almost all Lakewood, plus Edgewater)",
+      "seats": 1,
+      "term_years": 2,
+      "what_the_job_is": "State representatives write and vote on Colorado's laws and the state budget. The House has 65 members, all elected every two years.",
+      "candidates": [
+        {
+          "name": "Rebekah Stewart",
+          "party": "Democratic",
+          "incumbent": true,
+          "website": "https://rebekahforcolorado.com",
+          "ballot_order": 1,
+          "sources": [
+            "src-sos-general-candidates-2026",
+            "src-sos-ballot-order-2026",
+            "src-cga-legislators",
+            "src-bp-hd30",
+            "src-stewart-linktree"
+          ]
+        },
+        {
+          "name": "William Tyler Switzer",
+          "party": "Republican",
+          "incumbent": false,
+          "website": "https://www.williamswitzerforcolorado.com/",
+          "ballot_order": 2,
+          "sources": [
+            "src-sos-general-candidates-2026",
+            "src-sos-ballot-order-2026",
+            "src-goodparty-switzer"
+          ]
+        }
+      ],
+      "notes": "Rebekah Stewart has held this seat since January 2025.",
+      "sources": [
+        "src-sos-general-candidates-2026",
+        "src-irc-house-city-splits",
+        "src-irc-hd30-sheet",
+        "src-cga-legislators",
+        "src-bp-hd30"
+      ]
+    },
+    {
+      "id": "jeffco-commissioner-d3",
+      "level": "county",
+      "office": "Jefferson County Commissioner",
+      "district": "Commissioner District 3",
+      "who_votes": "All Lakewood voters (all Jefferson County voters vote for this seat, even though the winner must live in District 3)",
+      "seats": 1,
+      "term_years": 4,
+      "what_the_job_is": "The three county commissioners run Jefferson County government. They set the county budget, pass county rules, and oversee county services like roads, parks, and human services.",
+      "candidates": [
+        {
+          "name": "Stephanie VandenBerg",
+          "party": "Republican",
+          "incumbent": false,
+          "website": null,
+          "ballot_order": 1,
+          "sources": [
+            "src-jeffco-sample-ballot",
+            "src-jeffco-on-the-ballot"
+          ]
+        },
+        {
+          "name": "Lisa A. Cutter",
+          "party": "Democratic",
+          "incumbent": false,
+          "website": null,
+          "ballot_order": 2,
+          "sources": [
+            "src-jeffco-sample-ballot",
+            "src-jeffco-on-the-ballot"
+          ]
+        }
+      ],
+      "notes": "Open seat. Commissioner Lesley Dahlkemper (District 3) chose not to run again; she is also the Democratic nominee for lieutenant governor. Lisa Cutter is a state senator. Only District 3 is on the 2026 ballot; Districts 1 and 2 are not.",
+      "sources": [
+        "src-jeffco-sample-ballot",
+        "src-jeffco-commissioner-history",
+        "src-jeffco-meet-commissioners",
+        "src-gazette-dahlkemper",
+        "src-critical-report-primaries"
+      ]
+    },
+    {
+      "id": "jeffco-clerk",
+      "level": "county",
+      "office": "Jefferson County Clerk and Recorder",
+      "district": null,
+      "who_votes": "All Lakewood voters",
+      "seats": 1,
+      "term_years": 4,
+      "what_the_job_is": "The clerk runs county elections, keeps official land and property records, and issues vehicle titles and registrations and marriage licenses.",
+      "candidates": [
+        {
+          "name": "Paul Poston",
+          "party": "Republican",
+          "incumbent": false,
+          "website": null,
+          "ballot_order": 1,
+          "sources": [
+            "src-jeffco-sample-ballot",
+            "src-jeffco-on-the-ballot"
+          ]
+        },
+        {
+          "name": "Nicole Hensel",
+          "party": "Democratic",
+          "incumbent": false,
+          "website": null,
+          "ballot_order": 2,
+          "sources": [
+            "src-jeffco-sample-ballot",
+            "src-jeffco-on-the-ballot"
+          ]
+        }
+      ],
+      "notes": "Open seat. Current Clerk Amanda Gonzalez (elected 2022) is running for Colorado Secretary of State instead.",
+      "sources": [
+        "src-jeffco-sample-ballot",
+        "src-cosun-gonzalez",
+        "src-ballotbrief-jeffco"
+      ]
+    },
+    {
+      "id": "jeffco-treasurer",
+      "level": "county",
+      "office": "Jefferson County Treasurer",
+      "district": null,
+      "who_votes": "All Lakewood voters",
+      "seats": 1,
+      "term_years": 4,
+      "what_the_job_is": "The treasurer collects property taxes, sends the money to the county, cities, schools, and special districts, and invests county funds.",
+      "candidates": [
+        {
+          "name": "Eric Proctor",
+          "party": "Democratic",
+          "incumbent": false,
+          "website": null,
+          "ballot_order": 1,
+          "sources": [
+            "src-jeffco-sample-ballot",
+            "src-jeffco-on-the-ballot"
+          ]
+        },
+        {
+          "name": "Murl Hendrickson",
+          "party": "Libertarian",
+          "incumbent": false,
+          "website": null,
+          "ballot_order": 2,
+          "sources": [
+            "src-jeffco-sample-ballot",
+            "src-jeffco-on-the-ballot"
+          ]
+        }
+      ],
+      "notes": "Open seat. Current Treasurer Jerry DiTullio (in office since 2018) is not on the ballot. No Republican appears on the official sample ballot for this office.",
+      "sources": [
+        "src-jeffco-sample-ballot",
+        "src-jeffco-treasurer-bio",
+        "src-ballotbrief-jeffco"
+      ]
+    },
+    {
+      "id": "jeffco-assessor",
+      "level": "county",
+      "office": "Jefferson County Assessor",
+      "district": null,
+      "who_votes": "All Lakewood voters",
+      "seats": 1,
+      "term_years": 4,
+      "what_the_job_is": "The assessor sets the value of homes, businesses, and land for property tax purposes.",
+      "candidates": [
+        {
+          "name": "Vera King",
+          "party": "Republican",
+          "incumbent": false,
+          "website": null,
+          "ballot_order": 1,
+          "sources": [
+            "src-jeffco-sample-ballot",
+            "src-jeffco-on-the-ballot"
+          ]
+        },
+        {
+          "name": "Andy Kerr",
+          "party": "Democratic",
+          "incumbent": false,
+          "website": null,
+          "ballot_order": 2,
+          "sources": [
+            "src-jeffco-sample-ballot",
+            "src-jeffco-on-the-ballot"
+          ]
+        },
+        {
+          "name": "Greg Ketcham",
+          "party": "Unaffiliated",
+          "incumbent": false,
+          "website": null,
+          "ballot_order": 3,
+          "sources": [
+            "src-jeffco-sample-ballot",
+            "src-jeffco-on-the-ballot"
+          ]
+        }
+      ],
+      "notes": "Open seat. Current Assessor Scot Kersgaard is not on the ballot. Andy Kerr is now the District 2 county commissioner; he won the Democratic primary over Deputy Assessor Sue Flageolle.",
+      "sources": [
+        "src-jeffco-sample-ballot",
+        "src-jeffco-assessor-bio",
+        "src-jeffco-meet-commissioners",
+        "src-critical-report-primaries",
+        "src-ballotbrief-jeffco"
+      ]
+    },
+    {
+      "id": "jeffco-sheriff",
+      "level": "county",
+      "office": "Jefferson County Sheriff",
+      "district": null,
+      "who_votes": "All Lakewood voters",
+      "seats": 1,
+      "term_years": 4,
+      "what_the_job_is": "The sheriff runs the county jail, patrols unincorporated parts of the county, and provides court security and wildfire response. Lakewood itself has its own city police.",
+      "candidates": [
+        {
+          "name": "Regina \"Reggie\" Marinelli",
+          "party": "Democratic",
+          "incumbent": true,
+          "website": null,
+          "ballot_order": 1,
+          "sources": [
+            "src-jeffco-sample-ballot",
+            "src-critical-report-primaries",
+            "src-ballotbrief-sheriff"
+          ]
+        },
+        {
+          "name": "Randall Doizaki",
+          "party": "Republican",
+          "incumbent": false,
+          "website": null,
+          "ballot_order": 2,
+          "sources": [
+            "src-jeffco-sample-ballot",
+            "src-jeffco-gop-candidates"
+          ]
+        }
+      ],
+      "notes": "Sheriff Marinelli has held the office since January 2023. Weston Imer won the June Republican primary, but Randall Doizaki is the Republican on the certified sample ballot.",
+      "sources": [
+        "src-jeffco-sample-ballot",
+        "src-ballotbrief-sheriff",
+        "src-critical-report-primaries"
+      ]
+    },
+    {
+      "id": "jeffco-surveyor",
+      "level": "county",
+      "office": "Jefferson County Surveyor",
+      "district": null,
+      "who_votes": "All Lakewood voters",
+      "seats": 1,
+      "term_years": 4,
+      "what_the_job_is": "The surveyor keeps survey records and helps settle questions about property lines and county boundaries.",
+      "candidates": [
+        {
+          "name": "Robert Hennessy",
+          "party": "Republican",
+          "incumbent": true,
+          "website": null,
+          "ballot_order": 1,
+          "sources": [
+            "src-jeffco-sample-ballot",
+            "src-critical-report-primaries"
+          ]
+        }
+      ],
+      "notes": "Only one candidate is on the ballot. No Democrat qualified for the primary.",
+      "sources": [
+        "src-jeffco-sample-ballot",
+        "src-critical-report-primaries"
+      ]
+    },
+    {
+      "id": "jeffco-coroner",
+      "level": "county",
+      "office": "Jefferson County Coroner",
+      "district": null,
+      "who_votes": "All Lakewood voters",
+      "seats": 1,
+      "term_years": 4,
+      "what_the_job_is": "The coroner looks into sudden, violent, or unexplained deaths and decides the cause and manner of death.",
+      "candidates": [
+        {
+          "name": "Nick Lobello",
+          "party": "Democratic",
+          "incumbent": false,
+          "website": null,
+          "ballot_order": 1,
+          "sources": [
+            "src-jeffco-sample-ballot",
+            "src-jeffco-on-the-ballot"
+          ]
+        },
+        {
+          "name": "Allison Harmon",
+          "party": "Republican",
+          "incumbent": false,
+          "website": null,
+          "ballot_order": 2,
+          "sources": [
+            "src-jeffco-sample-ballot",
+            "src-jeffco-on-the-ballot"
+          ]
+        }
+      ],
+      "notes": "Open seat. Current Coroner Annette Cannon's term ends December 31, 2026, and she is not on the ballot. Nick Lobello is a former chief deputy coroner; Allison Harmon is a nurse.",
+      "sources": [
+        "src-jeffco-sample-ballot",
+        "src-ballotready-cannon",
+        "src-critical-report-primaries"
+      ]
+    }
+  ],
+  "retention": [
+    {
+      "id": "ret-cosc-hood",
+      "court": "Colorado Supreme Court",
+      "judge": "William W. Hood, III",
+      "who_votes": "All Colorado voters, including all Lakewood voters",
+      "commission_recommendation": "Meets Performance Standards",
+      "sources": [
+        "src-jeffco-sample-ballot",
+        "src-ojpe-2026-list",
+        "src-ojpe-hood"
+      ]
+    },
+    {
+      "id": "ret-coa-freyre",
+      "court": "Colorado Court of Appeals",
+      "judge": "Rebecca Rankin Freyre",
+      "who_votes": "All Colorado voters, including all Lakewood voters",
+      "commission_recommendation": "Meets Performance Standards",
+      "sources": [
+        "src-jeffco-sample-ballot",
+        "src-ojpe-2026-list"
+      ]
+    },
+    {
+      "id": "ret-coa-harris",
+      "court": "Colorado Court of Appeals",
+      "judge": "Elizabeth L. Harris",
+      "who_votes": "All Colorado voters, including all Lakewood voters",
+      "commission_recommendation": "Meets Performance Standards",
+      "sources": [
+        "src-jeffco-sample-ballot",
+        "src-ojpe-2026-list"
+      ]
+    },
+    {
+      "id": "ret-coa-lum",
+      "court": "Colorado Court of Appeals",
+      "judge": "Katharine E. Lum",
+      "who_votes": "All Colorado voters, including all Lakewood voters",
+      "commission_recommendation": "Meets Performance Standards",
+      "sources": [
+        "src-jeffco-sample-ballot",
+        "src-ojpe-2026-list"
+      ]
+    },
+    {
+      "id": "ret-coa-moultrie",
+      "court": "Colorado Court of Appeals",
+      "judge": "Pax Moultrie",
+      "who_votes": "All Colorado voters, including all Lakewood voters",
+      "commission_recommendation": "Meets Performance Standards",
+      "sources": [
+        "src-jeffco-sample-ballot",
+        "src-ojpe-2026-list"
+      ]
+    },
+    {
+      "id": "ret-coa-schock",
+      "court": "Colorado Court of Appeals",
+      "judge": "Karl L. Schock",
+      "who_votes": "All Colorado voters, including all Lakewood voters",
+      "commission_recommendation": "Meets Performance Standards",
+      "sources": [
+        "src-jeffco-sample-ballot",
+        "src-ojpe-2026-list"
+      ]
+    },
+    {
+      "id": "ret-coa-sullivan",
+      "court": "Colorado Court of Appeals",
+      "judge": "Grant Sullivan",
+      "who_votes": "All Colorado voters, including all Lakewood voters",
+      "commission_recommendation": "Meets Performance Standards",
+      "sources": [
+        "src-jeffco-sample-ballot",
+        "src-ojpe-2026-list",
+        "src-ojpe-sullivan"
+      ]
+    },
+    {
+      "id": "ret-1jd-contiguglia",
+      "court": "1st Judicial District Court (Jefferson and Gilpin counties)",
+      "judge": "Chantel E. Contiguglia",
+      "who_votes": "All Jefferson and Gilpin county voters, including all Lakewood voters",
+      "commission_recommendation": "Meets Performance Standards",
+      "sources": [
+        "src-jeffco-sample-ballot",
+        "src-ojpe-2026-list"
+      ]
+    },
+    {
+      "id": "ret-1jd-loewer",
+      "court": "1st Judicial District Court (Jefferson and Gilpin counties)",
+      "judge": "Ryan P. Loewer",
+      "who_votes": "All Jefferson and Gilpin county voters, including all Lakewood voters",
+      "commission_recommendation": "Meets Performance Standards",
+      "sources": [
+        "src-jeffco-sample-ballot",
+        "src-ojpe-2026-list"
+      ]
+    },
+    {
+      "id": "ret-1jd-miloud",
+      "court": "1st Judicial District Court (Jefferson and Gilpin counties)",
+      "judge": "Meegan Miloud",
+      "who_votes": "All Jefferson and Gilpin county voters, including all Lakewood voters",
+      "commission_recommendation": "Meets Performance Standards",
+      "sources": [
+        "src-jeffco-sample-ballot",
+        "src-ojpe-2026-list"
+      ]
+    },
+    {
+      "id": "ret-1jd-poland",
+      "court": "1st Judicial District Court (Jefferson and Gilpin counties)",
+      "judge": "Andrew C. Poland",
+      "who_votes": "All Jefferson and Gilpin county voters, including all Lakewood voters",
+      "commission_recommendation": "Meets Performance Standards",
+      "sources": [
+        "src-jeffco-sample-ballot",
+        "src-ojpe-2026-list"
+      ]
+    },
+    {
+      "id": "ret-1jd-rhamey",
+      "court": "1st Judicial District Court (Jefferson and Gilpin counties)",
+      "judge": "Christopher Rhamey",
+      "who_votes": "All Jefferson and Gilpin county voters, including all Lakewood voters",
+      "commission_recommendation": "Meets Performance Standards",
+      "sources": [
+        "src-jeffco-sample-ballot",
+        "src-ojpe-2026-list"
+      ]
+    },
+    {
+      "id": "ret-1jd-russell",
+      "court": "1st Judicial District Court (Jefferson and Gilpin counties)",
+      "judge": "Tamara S. Russell",
+      "who_votes": "All Jefferson and Gilpin county voters, including all Lakewood voters",
+      "commission_recommendation": "Meets Performance Standards",
+      "sources": [
+        "src-jeffco-sample-ballot",
+        "src-ojpe-2026-list"
+      ]
+    },
+    {
+      "id": "ret-1jd-zenisek",
+      "court": "1st Judicial District Court (Jefferson and Gilpin counties)",
+      "judge": "Christopher C. Zenisek",
+      "who_votes": "All Jefferson and Gilpin county voters, including all Lakewood voters",
+      "commission_recommendation": "Meets Performance Standards",
+      "sources": [
+        "src-jeffco-sample-ballot",
+        "src-ojpe-2026-list"
+      ]
+    },
+    {
+      "id": "ret-jeffco-county-garrido",
+      "court": "Jefferson County Court",
+      "judge": "Sara Garrido",
+      "who_votes": "All Jefferson County voters, including all Lakewood voters",
+      "commission_recommendation": "Meets Performance Standards",
+      "sources": [
+        "src-jeffco-sample-ballot",
+        "src-ojpe-2026-list"
+      ]
+    },
+    {
+      "id": "ret-jeffco-county-magid",
+      "court": "Jefferson County Court",
+      "judge": "Corinne Magid",
+      "who_votes": "All Jefferson County voters, including all Lakewood voters",
+      "commission_recommendation": "Meets Performance Standards",
+      "sources": [
+        "src-jeffco-sample-ballot",
+        "src-ojpe-2026-list"
+      ]
+    },
+    {
+      "id": "ret-jeffco-county-melton",
+      "court": "Jefferson County Court",
+      "judge": "Jennifer Lynn Melton",
+      "who_votes": "All Jefferson County voters, including all Lakewood voters",
+      "commission_recommendation": "Meets Performance Standards",
+      "sources": [
+        "src-jeffco-sample-ballot",
+        "src-ojpe-2026-list"
+      ]
+    }
+  ],
+  "measures": [
+    {
+      "id": "amendment-81",
+      "number": "Amendment 81",
+      "jurisdiction": "State of Colorado",
+      "who_votes": "All registered voters in Colorado, including all Lakewood voters",
+      "short_title": "Police must tell federal immigration officials about certain charges",
+      "how_it_got_on_ballot": "Citizen initiative (petition signatures); filed as Initiative #95",
+      "passing_threshold": "55% (constitutional amendment)",
+      "summary": "This would change the state constitution. When police or prosecutors charge someone with a violent crime, or with any crime if the person has a past felony conviction, and they cannot confirm the person is lawfully in the U.S., they would have to notify the U.S. Department of Homeland Security within 72 hours. Violent crimes include crimes like murder, assault, kidnapping, and aggravated robbery. Today, state law allows cooperation in some criminal matters but limits local help with civil immigration enforcement.",
+      "yes_means": "Law enforcement must notify federal immigration authorities after filing certain criminal charges against people who are not confirmed to be lawfully present.",
+      "no_means": "Current law stays the same, which allows some cooperation in criminal matters but limits local involvement in civil immigration enforcement.",
+      "money": "Small state costs, about $50,000 for the Department of Revenue and $10,000 for the Department of Natural Resources to update systems. Local costs, mostly for district attorney offices, were not estimated.",
+      "supporters": [
+        {
+          "name": "Brighter Colorado",
+          "sources": [
+            "src-sos-contacts"
+          ]
+        },
+        {
+          "name": "Eagle County Republican Women Club",
+          "sources": [
+            "src-sos-contacts"
+          ]
+        }
+      ],
+      "opponents": [
+        {
+          "name": "Colorado Communities First",
+          "sources": [
+            "src-sos-contacts"
+          ]
+        },
+        {
+          "name": "The People's No",
+          "sources": [
+            "src-sos-contacts"
+          ]
+        },
+        {
+          "name": "Vote Common Sense",
+          "sources": [
+            "src-sos-contacts"
+          ]
+        },
+        {
+          "name": "People for a Fair Colorado",
+          "sources": [
+            "src-sos-contacts"
+          ]
+        }
+      ],
+      "sources": [
+        "src-sos-cert-pr",
+        "src-bluebook",
+        "src-sos-contacts"
+      ]
+    },
+    {
+      "id": "amendment-82",
+      "number": "Amendment 82",
+      "jurisdiction": "State of Colorado",
+      "who_votes": "All registered voters in Colorado, including all Lakewood voters",
+      "short_title": "Right to buy and sell natural gas",
+      "how_it_got_on_ballot": "Citizen initiative (petition signatures); filed as Initiative #177",
+      "passing_threshold": "55% (constitutional amendment)",
+      "summary": "This would add a right to the state constitution for homes and businesses to buy natural gas for heating and cooking. It would also protect the right of gas distributors and utilities to sell it. It could limit how much the state and local governments can restrict natural gas, for example through building codes.",
+      "yes_means": "Creates a state constitutional right to buy and sell natural gas for use in homes and businesses.",
+      "no_means": "Current laws and rules about buying and selling natural gas stay the same.",
+      "money": "Small state costs that were not estimated, mostly for the Department of Local Affairs and legal and regulatory work. Local governments with building codes that limit gas could face higher legal and compliance costs.",
+      "supporters": [
+        {
+          "name": "Brighter Colorado",
+          "sources": [
+            "src-sos-contacts"
+          ]
+        },
+        {
+          "name": "Energy Freedom Alliance of the Rockies",
+          "sources": [
+            "src-sos-contacts"
+          ]
+        },
+        {
+          "name": "Affordable Colorado",
+          "sources": [
+            "src-sos-contacts"
+          ]
+        }
+      ],
+      "opponents": [
+        {
+          "name": "No Pollution in the Constitution",
+          "sources": [
+            "src-sos-contacts"
+          ]
+        },
+        {
+          "name": "Vote Common Sense",
+          "sources": [
+            "src-sos-contacts"
+          ]
+        },
+        {
+          "name": "People for a Fair Colorado",
+          "sources": [
+            "src-sos-contacts"
+          ]
+        }
+      ],
+      "sources": [
+        "src-sos-cert-pr",
+        "src-bluebook",
+        "src-sos-contacts"
+      ]
+    },
+    {
+      "id": "amendment-83",
+      "number": "Amendment 83",
+      "jurisdiction": "State of Colorado",
+      "who_votes": "All registered voters in Colorado, including all Lakewood voters",
+      "short_title": "Right to hunt and fish",
+      "how_it_got_on_ballot": "Citizen initiative (petition signatures); filed as Initiative #302",
+      "passing_threshold": "55% (constitutional amendment)",
+      "summary": "This would add a right to hunt and fish, using traditional methods, to the state constitution. It would make hunting and fishing the preferred way to manage wildlife. The state could still regulate hunting and fishing for conservation, public safety, or to keep these activities available in the future.",
+      "yes_means": "Creates a state constitutional right to hunt and fish.",
+      "no_means": "Hunting and fishing continue as allowed under current state and federal law.",
+      "money": "No major change expected right away. Colorado Parks and Wildlife could have added legal and rulemaking costs, and the state could face lawsuit costs. These were not estimated.",
+      "supporters": [
+        {
+          "name": "Let's Go Colorado",
+          "sources": [
+            "src-sos-contacts"
+          ]
+        },
+        {
+          "name": "Vote Yes on 83",
+          "sources": [
+            "src-sos-contacts"
+          ]
+        },
+        {
+          "name": "Colorado's Wildlife Deserve Better",
+          "sources": [
+            "src-sos-contacts"
+          ]
+        },
+        {
+          "name": "Hunt to Conserve Colorado",
+          "sources": [
+            "src-sos-contacts"
+          ]
+        }
+      ],
+      "opponents": [
+        {
+          "name": "Protect Colorado's Constitution",
+          "sources": [
+            "src-sos-contacts"
+          ]
+        },
+        {
+          "name": "Stop the Constitutional Power Grab",
+          "sources": [
+            "src-sos-contacts"
+          ]
+        },
+        {
+          "name": "Colorado Hunters and Anglers for Sensible Wildlife Conservation",
+          "sources": [
+            "src-sos-contacts"
+          ]
+        },
+        {
+          "name": "Vote No 83",
+          "sources": [
+            "src-sos-contacts"
+          ]
+        },
+        {
+          "name": "People for a Fair Colorado",
+          "sources": [
+            "src-sos-contacts"
+          ]
+        }
+      ],
+      "sources": [
+        "src-sos-cert-pr",
+        "src-bluebook",
+        "src-sos-contacts"
+      ]
+    },
+    {
+      "id": "amendment-84",
+      "number": "Amendment 84",
+      "jurisdiction": "State of Colorado",
+      "who_votes": "All registered voters in Colorado, including all Lakewood voters",
+      "short_title": "ID number required on mail ballots",
+      "how_it_got_on_ballot": "Citizen initiative (petition signatures); filed as Initiative #362",
+      "passing_threshold": "55% (constitutional amendment)",
+      "summary": "This would change the state constitution so that mail ballots must include the last four digits of the voter's Social Security number, or their Colorado driver's license or state ID number. This would be in addition to the voter's signature. Voters whose number is missing or does not match could fix it up to eight days after Election Day.",
+      "yes_means": "Voters must provide identification information with their mail ballot, in addition to their signature.",
+      "no_means": "Mail ballots continue to be checked by signature only.",
+      "money": "Up to $2.7 million in state and county costs in 2026-27 and about $1.2 million a year after that. The state would repay counties for part of their costs.",
+      "supporters": [
+        {
+          "name": "Colorado Voter Trust Initiative",
+          "sources": [
+            "src-sos-contacts"
+          ]
+        }
+      ],
+      "opponents": [
+        {
+          "name": "Defend our Ballots Issue Committee",
+          "sources": [
+            "src-sos-contacts"
+          ]
+        },
+        {
+          "name": "Vote Common Sense",
+          "sources": [
+            "src-sos-contacts"
+          ]
+        },
+        {
+          "name": "People for a Fair Colorado",
+          "sources": [
+            "src-sos-contacts"
+          ]
+        }
+      ],
+      "sources": [
+        "src-sos-cert-pr",
+        "src-bluebook",
+        "src-sos-contacts"
+      ]
+    },
+    {
+      "id": "amendment-85",
+      "number": "Amendment 85",
+      "jurisdiction": "State of Colorado",
+      "who_votes": "All registered voters in Colorado, including all Lakewood voters",
+      "short_title": "Plain-language ballot titles",
+      "how_it_got_on_ballot": "Citizen initiative (petition signatures); filed as Initiative #234",
+      "passing_threshold": "55% (constitutional amendment)",
+      "summary": "This would require the titles of all state and local ballot measures to be written in plain language at no higher than an eighth-grade reading level. It would also stop laws from requiring wording in citizen initiative titles that gets in the way of plain language. The measure does not define plain language or say who decides if a title meets the standard.",
+      "yes_means": "Ballot titles must be written in plain language at an eighth-grade reading level.",
+      "no_means": "Current law stays; titles must still be clear, but there is no set reading-level standard.",
+      "money": "A small, unestimated increase in work for the state Title Board.",
+      "supporters": [
+        {
+          "name": "Brighter Colorado",
+          "sources": [
+            "src-sos-contacts"
+          ]
+        }
+      ],
+      "opponents": [
+        {
+          "name": "Vote Common Sense",
+          "sources": [
+            "src-sos-contacts"
+          ]
+        },
+        {
+          "name": "People for a Fair Colorado",
+          "sources": [
+            "src-sos-contacts"
+          ]
+        }
+      ],
+      "sources": [
+        "src-sos-cert-pr",
+        "src-bluebook",
+        "src-lcs-a85",
+        "src-sos-contacts"
+      ]
+    },
+    {
+      "id": "amendment-86",
+      "number": "Amendment 86",
+      "jurisdiction": "State of Colorado",
+      "who_votes": "All registered voters in Colorado, including all Lakewood voters",
+      "short_title": "Rules for redrawing congressional districts between censuses",
+      "how_it_got_on_ballot": "Citizen initiative (petition signatures); filed as Initiative #256",
+      "passing_threshold": "55% (constitutional amendment)",
+      "summary": "Colorado normally redraws its U.S. House districts once every ten years, after the census. This measure says any change made in other years must be approved by the state's Independent Congressional Redistricting Commission and the Colorado Supreme Court. It would require at least three public hearings. It would also ban changes that favor a political party or split communities without need.",
+      "yes_means": "Any new congressional map drawn outside the usual once-a-decade schedule must be approved by the independent commission and the state Supreme Court.",
+      "no_means": "The current system stays, in which congressional districts are redrawn every ten years.",
+      "money": "About $370,000 in any year the commission must meet to review an off-schedule map, plus a small added workload for the courts.",
+      "supporters": [
+        {
+          "name": "Fair Redistricting Colorado",
+          "sources": [
+            "src-sos-contacts"
+          ]
+        },
+        {
+          "name": "Brighter Colorado",
+          "sources": [
+            "src-sos-contacts"
+          ]
+        }
+      ],
+      "opponents": [
+        {
+          "name": "People for a Fair Colorado",
+          "sources": [
+            "src-sos-contacts"
+          ]
+        }
+      ],
+      "sources": [
+        "src-sos-cert-pr",
+        "src-bluebook",
+        "src-lcs-a86",
+        "src-sos-contacts"
+      ]
+    },
+    {
+      "id": "amendment-87",
+      "number": "Amendment 87",
+      "jurisdiction": "State of Colorado",
+      "who_votes": "All registered voters in Colorado, including all Lakewood voters",
+      "short_title": "Graduated (tiered) state income tax",
+      "how_it_got_on_ballot": "Citizen initiative (petition signatures); filed as Initiative #195",
+      "passing_threshold": "Majority (the Blue Book says it needs a simple majority, though it changes the constitution; Colorado Newsline reports this is because its constitutional part only repeals existing language)",
+      "summary": "Colorado now taxes all income at one flat rate of 4.4%. Starting in 2027, this would replace it with six tax brackets, from 3.7% up to 8.4%. People with taxable income up to $500,000 would pay the same or a lower rate on that income, and income above $500,000 would be taxed at 7.4% to 8.4%. The extra money would go to K-12 schools, health care, and early childhood programs, and would not count against the state's TABOR revenue limit. This measure conflicts with Proposition 136; if both pass, a court or the legislature may have to sort out the result.",
+      "yes_means": "Creates a graduated state income tax that raises more money for K-12 education, health care, and early childhood programs, outside the TABOR revenue limit.",
+      "no_means": "Keeps the current constitutional requirement for one flat state income tax rate.",
+      "money": "Estimated to raise about $958 million in its first half-year (2026-27) and about $1.97 billion in 2027-28. Legislative staff estimate taxpayers with taxable income below about $510,800 would pay less, and those above would pay more.",
+      "supporters": [
+        {
+          "name": "Protect Colorado's Future Coalition",
+          "sources": [
+            "src-sos-contacts"
+          ]
+        },
+        {
+          "name": "People for a Fair Colorado",
+          "sources": [
+            "src-sos-contacts"
+          ]
+        }
+      ],
+      "opponents": [
+        {
+          "name": "Americans For Prosperity Colorado Issue Committee",
+          "sources": [
+            "src-sos-contacts"
+          ]
+        },
+        {
+          "name": "Your Family's Future Alliance",
+          "sources": [
+            "src-sos-contacts"
+          ]
+        },
+        {
+          "name": "No on 87, Yes on 136",
+          "sources": [
+            "src-sos-contacts"
+          ]
+        },
+        {
+          "name": "Brighter Colorado",
+          "sources": [
+            "src-sos-contacts"
+          ]
+        },
+        {
+          "name": "Affordable Colorado",
+          "sources": [
+            "src-sos-contacts"
+          ]
+        },
+        {
+          "name": "Let's Go Colorado",
+          "sources": [
+            "src-sos-contacts"
+          ]
+        },
+        {
+          "name": "Don't Price Us Out",
+          "sources": [
+            "src-sos-contacts"
+          ]
+        }
+      ],
+      "sources": [
+        "src-sos-cert-pr",
+        "src-bluebook",
+        "src-lcs-a87",
+        "src-newsline-14",
+        "src-chalkbeat-a87",
+        "src-sos-contacts"
+      ]
+    },
+    {
+      "id": "proposition-nn",
+      "number": "Proposition NN",
+      "jurisdiction": "State of Colorado",
+      "who_votes": "All registered voters in Colorado, including all Lakewood voters",
+      "short_title": "Let the state keep TABOR refund money for schools and kids",
+      "how_it_got_on_ballot": "Referred by the state legislature (Senate Bill 26-135)",
+      "passing_threshold": "Majority",
+      "summary": "Under the Taxpayer's Bill of Rights (TABOR), the state must refund money it collects above a yearly limit. This measure would let the state keep some of that money, up to a new limit tied to K-12 school spending. For the first ten years, the kept money would go to K-12 education and programs that support children; after that, the legislature would decide. It also requires audits and reports.",
+      "yes_means": "The state can keep some or all money that would otherwise be refunded under TABOR and spend it on K-12 education, children's programs, and other purposes.",
+      "no_means": "TABOR refunds continue as under current law, and current funding levels stay the same.",
+      "money": "Legislative staff estimate the state would keep about $330 million in 2026-27 and $521 million in 2027-28, which would eliminate TABOR refunds in those years. School districts would get about $241.5 million in 2026-27 and $234 million in 2027-28.",
+      "supporters": [
+        {
+          "name": "Yes for Colorado Kids",
+          "sources": [
+            "src-sos-contacts"
+          ]
+        },
+        {
+          "name": "People for a Fair Colorado",
+          "sources": [
+            "src-sos-contacts"
+          ]
+        }
+      ],
+      "opponents": [
+        {
+          "name": "Brighter Colorado",
+          "sources": [
+            "src-sos-contacts"
+          ]
+        },
+        {
+          "name": "Affordable Colorado",
+          "sources": [
+            "src-sos-contacts"
+          ]
+        },
+        {
+          "name": "Let's Go Colorado",
+          "sources": [
+            "src-sos-contacts"
+          ]
+        },
+        {
+          "name": "Keep Colorado Affordable",
+          "sources": [
+            "src-sos-contacts"
+          ]
+        },
+        {
+          "name": "Don't Price Us Out",
+          "sources": [
+            "src-sos-contacts"
+          ]
+        }
+      ],
+      "sources": [
+        "src-sos-cert-pr",
+        "src-bluebook",
+        "src-newsline-14",
+        "src-sos-contacts"
+      ]
+    },
+    {
+      "id": "proposition-132",
+      "number": "Proposition 132",
+      "jurisdiction": "State of Colorado",
+      "who_votes": "All registered voters in Colorado, including all Lakewood voters",
+      "short_title": "Tougher penalties for fentanyl crimes",
+      "how_it_got_on_ballot": "Citizen initiative (petition signatures); filed as Initiative #85",
+      "passing_threshold": "Majority",
+      "summary": "This would make having any amount of fentanyl a felony. Today, possessing a small amount is a misdemeanor. It would require at least eight years in prison for selling or distributing any amount. It would also remove some options courts now have to lower penalties.",
+      "yes_means": "Possessing any amount of fentanyl becomes a felony, distribution carries a mandatory minimum of 8 years in prison, and some options to reduce penalties end.",
+      "no_means": "Possessing a small amount stays a misdemeanor, distribution penalties stay based on quantity, and current options to reduce penalties remain.",
+      "money": "State costs for courts, public defenders, and prisons would grow from about $0.9 million in the first year to about $8.9 million in the second year and $68.2 million by the fifth year. County-funded district attorneys would also have higher costs.",
+      "supporters": [
+        {
+          "name": "Brighter Colorado",
+          "sources": [
+            "src-sos-contacts"
+          ]
+        },
+        {
+          "name": "Eagle County Republican Women Club",
+          "sources": [
+            "src-sos-contacts"
+          ]
+        }
+      ],
+      "opponents": [
+        {
+          "name": "The People's No",
+          "sources": [
+            "src-sos-contacts"
+          ]
+        },
+        {
+          "name": "Coloradans For Real Safety Solutions",
+          "sources": [
+            "src-sos-contacts"
+          ]
+        },
+        {
+          "name": "Vote Common Sense",
+          "sources": [
+            "src-sos-contacts"
+          ]
+        },
+        {
+          "name": "People for a Fair Colorado",
+          "sources": [
+            "src-sos-contacts"
+          ]
+        }
+      ],
+      "sources": [
+        "src-sos-cert-pr",
+        "src-bluebook",
+        "src-sos-contacts"
+      ]
+    },
+    {
+      "id": "proposition-133",
+      "number": "Proposition 133",
+      "jurisdiction": "State of Colorado",
+      "who_votes": "All registered voters in Colorado, including all Lakewood voters",
+      "short_title": "Life in prison for child sex trafficking",
+      "how_it_got_on_ballot": "Citizen initiative (petition signatures); filed as Initiative #108",
+      "passing_threshold": "Majority",
+      "summary": "This would make the penalty for sex trafficking of a child life in prison without parole. It would also widen the crime to include knowingly giving something of value to buy sexual activity with a minor. Today the penalty is 8 to 48 years in prison plus parole.",
+      "yes_means": "The penalty for child sex trafficking becomes life in prison without parole, and the crime is expanded to include buying sexual activity with a minor.",
+      "no_means": "Current penalties of 8 to 48 years in prison plus mandatory parole stay in place.",
+      "money": "Prison costs would start in about 14 years (around $180,000 in 2041-42) and rise by about $180,000 each year for several years. Small added workload for courts, public defenders, and district attorneys.",
+      "supporters": [
+        {
+          "name": "Protect Kids Colorado - Issue Committee",
+          "sources": [
+            "src-sos-contacts"
+          ]
+        },
+        {
+          "name": "Protect Our Children",
+          "sources": [
+            "src-sos-contacts"
+          ]
+        }
+      ],
+      "opponents": [
+        {
+          "name": "Vote Common Sense",
+          "sources": [
+            "src-sos-contacts"
+          ]
+        },
+        {
+          "name": "People for a Fair Colorado",
+          "sources": [
+            "src-sos-contacts"
+          ]
+        }
+      ],
+      "sources": [
+        "src-sos-cert-pr",
+        "src-bluebook",
+        "src-sos-contacts"
+      ]
+    },
+    {
+      "id": "proposition-134",
+      "number": "Proposition 134",
+      "jurisdiction": "State of Colorado",
+      "who_votes": "All registered voters in Colorado, including all Lakewood voters",
+      "short_title": "School and college sports teams based on biological sex",
+      "how_it_got_on_ballot": "Citizen initiative (petition signatures); filed as Initiative #109",
+      "passing_threshold": "Majority",
+      "summary": "This would require every school sports team, from elementary school through college, to be labeled for boys only, girls only, or mixed. Students would have to play on teams that match their biological sex or on mixed teams. Girls could play on a boys' team if there is no girls' team for that sport. It applies to public and private schools, but not separate youth leagues.",
+      "yes_means": "All school-based teams must be designated for biological males, biological females, or mixed, and schools must adopt sex-eligibility policies.",
+      "no_means": "Schools, districts, and athletic associations keep setting their own policies under current state and federal law.",
+      "money": "No dollar estimate. Schools, districts, and colleges would have small costs to update policies; the state could have costs only if a district refuses to comply.",
+      "supporters": [
+        {
+          "name": "Protect Kids Colorado - Issue Committee",
+          "sources": [
+            "src-sos-contacts"
+          ]
+        },
+        {
+          "name": "Protect Our Children",
+          "sources": [
+            "src-sos-contacts"
+          ]
+        }
+      ],
+      "opponents": [
+        {
+          "name": "The People's No",
+          "sources": [
+            "src-sos-contacts"
+          ]
+        },
+        {
+          "name": "Families not Politics",
+          "sources": [
+            "src-sos-contacts"
+          ]
+        },
+        {
+          "name": "No on 134 and 135",
+          "sources": [
+            "src-sos-contacts"
+          ]
+        },
+        {
+          "name": "Protect Trans Kids",
+          "sources": [
+            "src-sos-contacts"
+          ]
+        },
+        {
+          "name": "Vote Common Sense",
+          "sources": [
+            "src-sos-contacts"
+          ]
+        },
+        {
+          "name": "People for a Fair Colorado",
+          "sources": [
+            "src-sos-contacts"
+          ]
+        }
+      ],
+      "sources": [
+        "src-sos-cert-pr",
+        "src-bluebook",
+        "src-lcs-p134",
+        "src-sos-contacts"
+      ]
+    },
+    {
+      "id": "proposition-135",
+      "number": "Proposition 135",
+      "jurisdiction": "State of Colorado",
+      "who_votes": "All registered voters in Colorado, including all Lakewood voters",
+      "short_title": "Ban on gender-related surgery for minors",
+      "how_it_got_on_ballot": "Citizen initiative (petition signatures); filed as Initiative #110",
+      "passing_threshold": "Majority",
+      "summary": "This would ban surgery on people under 18 that changes their biological sex characteristics because of how they see their sex or gender. It would also stop state or federal funds, Medicaid, and private insurance from paying for these surgeries. Counseling and other non-surgical care would not be affected. Some medical conditions are exempt.",
+      "yes_means": "These surgeries on minors are prohibited, and public funds and insurance cannot pay for them.",
+      "no_means": "Current state law stays, which protects access to these surgeries and allows insurance to cover them.",
+      "money": "No dollar estimate. Legislative staff expect minimal state costs for updating rules and handling complaints, and possibly small savings for Medicaid and state employee health plans.",
+      "supporters": [
+        {
+          "name": "Protect Kids Colorado - Issue Committee",
+          "sources": [
+            "src-sos-contacts"
+          ]
+        },
+        {
+          "name": "Protect Our Children",
+          "sources": [
+            "src-sos-contacts"
+          ]
+        }
+      ],
+      "opponents": [
+        {
+          "name": "The People's No",
+          "sources": [
+            "src-sos-contacts"
+          ]
+        },
+        {
+          "name": "Families not Politics",
+          "sources": [
+            "src-sos-contacts"
+          ]
+        },
+        {
+          "name": "No on 134 and 135",
+          "sources": [
+            "src-sos-contacts"
+          ]
+        },
+        {
+          "name": "Protect Trans Kids",
+          "sources": [
+            "src-sos-contacts"
+          ]
+        },
+        {
+          "name": "Vote Common Sense",
+          "sources": [
+            "src-sos-contacts"
+          ]
+        },
+        {
+          "name": "People for a Fair Colorado",
+          "sources": [
+            "src-sos-contacts"
+          ]
+        }
+      ],
+      "sources": [
+        "src-sos-cert-pr",
+        "src-bluebook",
+        "src-lcs-p135",
+        "src-sos-contacts"
+      ]
+    },
+    {
+      "id": "proposition-136",
+      "number": "Proposition 136",
+      "jurisdiction": "State of Colorado",
+      "who_votes": "All registered voters in Colorado, including all Lakewood voters",
+      "short_title": "Cap the state income tax rate at 4.4%",
+      "how_it_got_on_ballot": "Citizen initiative (petition signatures); filed as Initiative #232",
+      "passing_threshold": "Majority",
+      "summary": "This would put a 4.4% cap on the state income tax rate into state law, starting in 2027. It applies to people and businesses. It does not change today's 4.4% rate. It conflicts with Amendment 87; if both pass, a court or the legislature may have to sort out the result.",
+      "yes_means": "The current 4.4% rate becomes the highest rate allowed in state law.",
+      "no_means": "The rate stays at 4.4% for now, but no new limit is written into law.",
+      "money": "No change to state or local revenue or spending, according to legislative staff.",
+      "supporters": [
+        {
+          "name": "Brighter Colorado",
+          "sources": [
+            "src-sos-contacts"
+          ]
+        },
+        {
+          "name": "No on 87, Yes on 136",
+          "sources": [
+            "src-sos-contacts"
+          ]
+        }
+      ],
+      "opponents": [
+        {
+          "name": "Vote Common Sense",
+          "sources": [
+            "src-sos-contacts"
+          ]
+        },
+        {
+          "name": "People for a Fair Colorado",
+          "sources": [
+            "src-sos-contacts"
+          ]
+        },
+        {
+          "name": "Protect Colorado's Future Coalition",
+          "sources": [
+            "src-sos-contacts"
+          ]
+        }
+      ],
+      "sources": [
+        "src-sos-cert-pr",
+        "src-bluebook",
+        "src-lcs-p136",
+        "src-sos-contacts"
+      ]
+    },
+    {
+      "id": "proposition-137",
+      "number": "Proposition 137",
+      "jurisdiction": "State of Colorado",
+      "who_votes": "All registered voters in Colorado, including all Lakewood voters",
+      "short_title": "Use sporting goods sales tax for conservation and wildfire work",
+      "how_it_got_on_ballot": "Citizen initiative (petition signatures); filed as Initiative #308",
+      "passing_threshold": "Majority",
+      "summary": "This would take sales tax the state already collects on sporting goods and send it to land, water, and forest conservation, wildfire prevention, and outdoor recreation. The money would go to Great Outdoors Colorado, the State Forest Service and Department of Natural Resources, Colorado Parks and Wildlife, and the state outdoor recreation office. It would not raise taxes or prices. The money would not count against the state's TABOR revenue limit, which means smaller TABOR refunds in years when there are refunds.",
+      "yes_means": "Sporting goods sales tax money goes to the named conservation and wildfire programs and is exempt from the state revenue limit.",
+      "no_means": "That money stays in the state's general budget, under the revenue limit, to be spent by the legislature or refunded when required.",
+      "money": "About $175 million in 2027-28 and $180 million in 2028-29 would move out of the state's general fund to these programs. TABOR refunds for tax year 2027 would fall by about $175 million; some sales-tax refunds per filer would drop by roughly $26 to $166.",
+      "supporters": [
+        {
+          "name": "Protect Colorado's Land and Water, Prevent Wildfires",
+          "sources": [
+            "src-sos-contacts"
+          ]
+        }
+      ],
+      "opponents": [
+        {
+          "name": "Protect Colorado's Land, Communities, and Tax Dollars",
+          "sources": [
+            "src-sos-contacts"
+          ]
+        }
+      ],
+      "sources": [
+        "src-sos-cert-pr",
+        "src-bluebook",
+        "src-lcs-p137",
+        "src-sos-contacts"
+      ]
+    },
+    {
+      "id": "lakewood-2g",
+      "number": "Ballot Issue 2G",
+      "jurisdiction": "City of Lakewood",
+      "who_votes": "All City of Lakewood voters",
+      "short_title": "City sales tax increase for public safety and traffic safety",
+      "how_it_got_on_ballot": "Referred by city council (Aug. 24, 2026, 8-2 vote)",
+      "passing_threshold": "Majority",
+      "summary": "This would raise Lakewood's city sales and use tax from 3% to 3.5%. Food, including groceries, would not pay the added half-cent. The new money could only be used for public safety (including crime prevention and homelessness response) and traffic safety (streets, sidewalks, slowing traffic, and walking and biking safety). The city could keep and spend all of this money without TABOR limits. The city says the tax would be the first increase in about 20 years.",
+      "yes_means": "The city sales tax goes up by half a cent per dollar (to 3.5%), with the money set aside for public safety and traffic safety.",
+      "no_means": "The city sales tax stays at 3%.",
+      "money": "Up to $17.6 million in the first full year, then whatever the tax raises after that. That is 50 cents on a $100 taxable purchase. Food for home use is exempt from the increase.",
+      "supporters": [
+        {
+          "name": "Councilmembers Glenda Sinks, Jeslin Shahrezaei and Jacob LaBure (spoke for sending it to voters)",
+          "sources": [
+            "src-transcript-salestax"
+          ]
+        }
+      ],
+      "opponents": [
+        {
+          "name": "Mayor Wendi Strom and Councilmember Ken Cruz (voted against putting it on the ballot; reasons not reported)",
+          "sources": [
+            "src-transcript-salestax"
+          ]
+        }
+      ],
+      "sources": [
+        "src-jeffco-tabor-2026",
+        "src-jeffco-on-ballot",
+        "src-transcript-salestax",
+        "src-lkw-nov2026",
+        "src-lkw-o-2026-29"
+      ]
+    },
+    {
+      "id": "lakewood-2h",
+      "number": "Ballot Question 2H",
+      "jurisdiction": "City of Lakewood",
+      "who_votes": "All City of Lakewood voters",
+      "short_title": "When new mayor and council terms begin",
+      "how_it_got_on_ballot": "Referred by city council (Ordinance O-2026-25, Aug. 10, 2026, 11-0 vote)",
+      "passing_threshold": "Majority",
+      "summary": "This changes the city charter to say that a newly elected mayor or council member starts their term at the first regular council meeting after election results are certified. The city says this lets council hold its first November meeting instead of canceling it. The city says the actual swearing-in date would not change. If passed, it takes effect Jan. 1, 2027.",
+      "yes_means": "New mayor and council terms start at the first regular council meeting after results are certified.",
+      "no_means": "The charter's current wording on when terms start stays the same.",
+      "money": null,
+      "supporters": [],
+      "opponents": [],
+      "sources": [
+        "src-lkw-o-2026-25",
+        "src-lkw-ord-votes-2026",
+        "src-jeffco-on-ballot"
+      ]
+    },
+    {
+      "id": "lakewood-2i",
+      "number": "Ballot Question 2I",
+      "jurisdiction": "City of Lakewood",
+      "who_votes": "All City of Lakewood voters",
+      "short_title": "Voter approval required for city property tax increases",
+      "how_it_got_on_ballot": "Referred by city council (Ordinance O-2026-27, as amended, Aug. 10, 2026, 11-0 vote)",
+      "passing_threshold": "Majority",
+      "summary": "This would repeal and replace Section 12.12 of the city charter, the section on property taxes. According to the county's ballot information, the new section removes an outdated allowance for a yearly property tax increase and bars the city from raising property taxes unless voters approve.",
+      "yes_means": "The charter's property tax section is replaced with language that bars city property tax increases without a vote of the people.",
+      "no_means": "The current Section 12.12 of the charter stays as it is.",
+      "money": null,
+      "supporters": [],
+      "opponents": [],
+      "sources": [
+        "src-jeffco-on-ballot",
+        "src-lkw-ord-votes-2026",
+        "src-lkw-nov2026",
+        "src-jeffco-tabor-2026"
+      ]
+    },
+    {
+      "id": "lakewood-2j",
+      "number": "Ballot Question 2J",
+      "jurisdiction": "City of Lakewood",
+      "who_votes": "All City of Lakewood voters",
+      "short_title": "Timing of elections on citizen initiatives and referendums",
+      "how_it_got_on_ballot": "Referred by city council (Ordinance O-2026-28, Aug. 10, 2026, 11-0 vote)",
+      "passing_threshold": "Majority",
+      "summary": "When citizens petition to pass or repeal a city law, the charter now says the election must be held 30 to 90 days after the petition is found sufficient. This would change that window to 60 to 150 days. The city says the old window worked for in-person voting but is hard to meet for mail-ballot elections. If passed, it takes effect Jan. 1, 2027.",
+      "yes_means": "Elections on citizen initiatives and referendums would be held 60 to 150 days after a petition is found sufficient.",
+      "no_means": "The current 30-to-90-day window stays in place.",
+      "money": null,
+      "supporters": [],
+      "opponents": [],
+      "sources": [
+        "src-lkw-o-2026-28",
+        "src-lkw-ord-votes-2026",
+        "src-jeffco-on-ballot"
+      ]
+    },
+    {
+      "id": "jeffco-schools-5a",
+      "number": "Ballot Issue 5A",
+      "jurisdiction": "Jeffco Public Schools (Jefferson County School District R-1)",
+      "who_votes": "All Lakewood voters (all of Lakewood is in Jeffco Public Schools, which covers Jefferson County)",
+      "short_title": "School property tax for staff pay and career programs",
+      "how_it_got_on_ballot": "Referred by the school board (Aug. 20, 2026, unanimous)",
+      "passing_threshold": "Majority",
+      "summary": "This is a mill levy override, a local property tax increase for schools. It would raise $73 million a year, starting with taxes paid in 2027. Most of the money would go to pay for teachers, support staff and school leaders. About $10 million would expand career and technical education. A citizen committee would review spending and the district would report each year. Jeffco last passed a tax increase like this in 2018.",
+      "yes_means": "Property taxes go up to give Jeffco Schools $73 million more per year for staff pay and career programs.",
+      "no_means": "This school property tax increase does not happen.",
+      "money": "$73 million a year. The district says 5A and 5B together would cost about $3.50 a month per $100,000 of home value (about $42 a year), or about $273 a year on a $650,000 home.",
+      "supporters": [
+        {
+          "name": "Jeffco Board of Education (voted unanimously to refer; Vice President Erin Kenworthy and member Denine Echevarria spoke in favor)",
+          "sources": [
+            "src-chalkbeat-referral"
+          ]
+        }
+      ],
+      "opponents": [],
+      "sources": [
+        "src-jeffco-tabor-2026",
+        "src-jeffco-on-ballot",
+        "src-jeffco-schools-mlo",
+        "src-chalkbeat-guide",
+        "src-chalkbeat-referral"
+      ]
+    },
+    {
+      "id": "jeffco-schools-5b",
+      "number": "Ballot Issue 5B",
+      "jurisdiction": "Jeffco Public Schools (Jefferson County School District R-1)",
+      "who_votes": "All Lakewood voters (all of Lakewood is in Jeffco Public Schools, which covers Jefferson County)",
+      "short_title": "School property tax for building repairs, technology and safety",
+      "how_it_got_on_ballot": "Referred by the school board (Aug. 20, 2026, unanimous)",
+      "passing_threshold": "Majority",
+      "summary": "This is a special property tax for school buildings under the state's Debt Free Schools law. It would raise $60 million in its first year, and the amount could grow with inflation after that. The money must go into a separate fund for repairs, construction, technology and maintenance, such as roofs, heating and cooling, plumbing, parking lots and security. It is pay-as-you-go, not a bond, so no debt is taken on. The same citizen committee as 5A would oversee it.",
+      "yes_means": "Property taxes go up to give Jeffco Schools $60 million a year, rising with inflation, for building repairs, technology and safety.",
+      "no_means": "This school property tax increase does not happen.",
+      "money": "$60 million in the first year, which can rise with inflation. See 5A for the combined cost estimate to homeowners.",
+      "supporters": [
+        {
+          "name": "Jeffco Board of Education (voted unanimously to refer)",
+          "sources": [
+            "src-chalkbeat-referral"
+          ]
+        }
+      ],
+      "opponents": [],
+      "sources": [
+        "src-jeffco-tabor-2026",
+        "src-jeffco-on-ballot",
+        "src-jeffco-schools-mlo",
+        "src-chalkbeat-guide",
+        "src-chalkbeat-referral"
+      ]
+    },
+    {
+      "id": "west-metro-fire-7c",
+      "number": "Ballot Issue 7C",
+      "jurisdiction": "West Metro Fire Protection District",
+      "who_votes": "Voters living inside West Metro Fire Rescue's district. The district says it serves the City of Lakewood. Check your sample ballot to confirm.",
+      "short_title": "Fire district sales tax for emergency medical and fire services",
+      "how_it_got_on_ballot": "Referred by the fire district board",
+      "passing_threshold": "Majority",
+      "summary": "This would add a new 0.75% sales tax inside the West Metro Fire district. Groceries, gas and medicine would be exempt. The money would pay for emergency medical and fire response, staffing, safety gear for firefighters and paramedics, rescue equipment, and wildfire response. The district says it faces a $40 million funding gap in 2027 and has not asked voters for new money in over 20 years. A citizen board would review spending monthly, with a yearly independent audit.",
+      "yes_means": "A new 0.75% fire district sales tax is added (75 cents on a $100 purchase) to fund fire and emergency medical services.",
+      "no_means": "No new fire district sales tax.",
+      "money": "Up to $36.3 million in fiscal year 2027, then whatever the tax raises after that. The county's tax notice includes written comments against it, but they are not signed by a named group.",
+      "supporters": [
+        {
+          "name": "West Metro Fire Protection District (district's ballot information page)",
+          "sources": [
+            "src-wmfr-7c"
+          ]
+        }
+      ],
+      "opponents": [],
+      "sources": [
+        "src-jeffco-tabor-2026",
+        "src-jeffco-on-ballot",
+        "src-wmfr-7c",
+        "src-wmfr-communities"
+      ]
+    },
+    {
+      "id": "frpr-7a",
+      "number": "Ballot Issue 7A",
+      "jurisdiction": "Front Range Passenger Rail District",
+      "who_votes": "All Lakewood voters (state law SB26-172 names Lakewood as fully inside the district)",
+      "short_title": "Sales tax and borrowing for Front Range passenger rail",
+      "how_it_got_on_ballot": "Referred by the Front Range Passenger Rail District board (Aug. 28, 2026, 14-1 vote)",
+      "passing_threshold": "Majority of all votes cast across the whole district",
+      "summary": "This would add a 0.333% sales tax (about a third of a cent per dollar) in a district that runs along the Front Range and includes Lakewood. It would also let the district borrow up to $580 million. The money would build and run a planned passenger train, called the Colorado Connector, between Fort Collins and Pueblo. Service between Denver and Fort Collins is planned first. The legislature redrew the district in 2026 to include named cities, including Lakewood.",
+      "yes_means": "A new 0.333% district sales tax is added and the district may borrow up to $580 million for Front Range passenger rail.",
+      "no_means": "No new rail district sales tax or borrowing.",
+      "money": "About $295 million a year at first, rising later. Up to $580 million in debt, with total repayment up to about $785 million.",
+      "supporters": [
+        {
+          "name": "John Putnam, chair of the Front Range Passenger Rail District",
+          "sources": [
+            "src-ballotpedia-frpr"
+          ]
+        },
+        {
+          "name": "Jack Wheeler, president, Colorado Rail Passenger Association",
+          "sources": [
+            "src-ballotpedia-frpr"
+          ]
+        }
+      ],
+      "opponents": [
+        {
+          "name": "Randal O'Toole, Independence Institute",
+          "sources": [
+            "src-ballotpedia-frpr"
+          ]
+        },
+        {
+          "name": "Denver Gazette Editorial Board",
+          "sources": [
+            "src-ballotpedia-frpr"
+          ]
+        }
+      ],
+      "sources": [
+        "src-jeffco-on-ballot",
+        "src-sb26-172",
+        "src-ballotpedia-frpr",
+        "src-complete-frpr"
+      ]
+    }
+  ],
+  "facts": [
+    {
+      "key": "election-day",
+      "text": "Election Day is Tuesday, November 3, 2026. Polls and drop boxes close at 7 p.m.",
+      "sources": [
+        "src-jeffco-elections",
+        "src-cpr-midterm-guide"
+      ]
+    },
+    {
+      "key": "ballots-mailed",
+      "text": "Jefferson County began mailing ballots and opened its drop boxes on October 5, 2026.",
+      "sources": [
+        "src-jeffco-elections"
+      ]
+    },
+    {
+      "key": "vote-centers",
+      "text": "In-person vote centers in Jefferson County open on Monday, October 19, 2026.",
+      "sources": [
+        "src-jeffco-elections"
+      ]
+    },
+    {
+      "key": "mail-deadline",
+      "text": "October 26, 2026 is the last day to mail your ballot back. After that, use a drop box or a vote center. It is also the last day to register and still get a ballot by mail. You can register in person through 7 p.m. on Election Day.",
+      "sources": [
+        "src-jeffco-elections",
+        "src-cpr-midterm-guide"
+      ]
+    },
+    {
+      "key": "lakewood-cd7",
+      "text": "Lakewood is in Colorado's 7th Congressional District, so Lakewood voters see the District 7 races for U.S. House, State Board of Education, and CU Regent.",
+      "sources": [
+        "src-wiki-cd7",
+        "src-cde-esser"
+      ]
+    },
+    {
+      "key": "sample-ballot-note",
+      "text": "The county sample ballot lists every race in Jefferson County. Each voter gets only the races for where they live.",
+      "sources": [
+        "src-jeffco-on-ballot"
+      ]
+    },
+    {
+      "key": "rtd-lakewood",
+      "text": "RTD's own website says Lakewood is in Director District M, and a 2026 RTD news release says District D includes southeast Lakewood. The District M and D directors' terms end in 2028, so these seats are not on the 2026 ballot. Jefferson County's 2026 ballot lists RTD races only for Districts J, L, and N, and each has one candidate.",
+      "sources": [
+        "src-rtd-board",
+        "src-rtd-arcuri-sworn",
+        "src-jeffco-sample-ballot"
+      ]
+    },
+    {
+      "key": "rtd-changes",
+      "text": "RTD directors elected in 2026 serve two-year terms. Starting with the 2028 election, the board changes to five elected members plus four members appointed by the governor.",
+      "sources": [
+        "src-denverite-rtd-guide"
+      ]
+    },
+    {
+      "key": "statewide-measure-count",
+      "text": "There are 14 statewide measures on the November 3, 2026 ballot: Amendments 81 through 87 and Propositions NN and 132 through 137. The Secretary of State certified them on September 4, 2026.",
+      "sources": [
+        "src-sos-cert-pr",
+        "src-bluebook",
+        "src-bp-news"
+      ]
+    },
+    {
+      "key": "how-measures-got-on-ballot",
+      "text": "Thirteen of the 14 measures were put on the ballot by citizen petitions. Only Proposition NN was sent to voters by the state legislature.",
+      "sources": [
+        "src-bluebook",
+        "src-bp-news"
+      ]
+    },
+    {
+      "key": "amendments-vs-propositions",
+      "text": "An 'Amendment' changes the Colorado Constitution and usually needs 55% of the vote to pass. A 'Proposition' changes state law and needs a simple majority.",
+      "sources": [
+        "src-bluebook",
+        "src-bp-news"
+      ]
+    },
+    {
+      "key": "competing-income-tax-measures",
+      "text": "Amendment 87 (graduated income tax) and Proposition 136 (4.4% income tax cap) conflict. If both pass, legislative staff say the exact result is unclear and a court or the legislature may need to resolve it.",
+      "sources": [
+        "src-lcs-a87",
+        "src-lcs-p136"
+      ]
+    },
+    {
+      "key": "blue-book-what-it-is",
+      "text": "The State Ballot Information Booklet, called the Blue Book, is written by nonpartisan Legislative Council Staff. It explains each statewide measure with arguments for and against and an estimate of its cost.",
+      "sources": [
+        "src-bluebook",
+        "src-lcs-bluebook-page"
+      ]
+    },
+    {
+      "key": "blue-book-mailed",
+      "text": "The Blue Book is mailed to every Colorado household with a registered voter. It is also online at leg.colorado.gov, in Spanish, and in audio through the Colorado Talking Book Library.",
+      "sources": [
+        "src-bluebook",
+        "src-lcs-bluebook-page"
+      ]
+    },
+    {
+      "key": "blue-book-request",
+      "text": "To request another copy of the Blue Book or a Spanish copy, email Legislative Council Staff at bluebook.ga@coleg.gov.",
+      "sources": [
+        "src-lcs-bluebook-page"
+      ]
+    },
+    {
+      "key": "campaign-committee-list",
+      "text": "The Secretary of State keeps a list of groups that have registered to support or oppose each measure. The list may change before the election.",
+      "sources": [
+        "src-sos-contacts",
+        "src-lcs-bluebook-page"
+      ]
+    },
+    {
+      "key": "election-day-and-ballots",
+      "text": "Election Day is Tuesday, November 3, 2026. Polling places are open 7 a.m. to 7 p.m. Mail ballots were scheduled to go out to registered voters starting October 2 through October 9, 2026.",
+      "sources": [
+        "src-bluebook",
+        "src-newsline-14"
+      ]
+    },
+    {
+      "key": "front-range-rail-not-statewide",
+      "text": "Ballot Issue 7A, a Front Range Passenger Rail District sales tax, is in the Blue Book but is not statewide. Only voters inside that district will see it. Check the Jefferson County sample ballot to see if it is on yours.",
+      "sources": [
+        "src-sos-cert-pr",
+        "src-bluebook"
+      ]
+    },
+    {
+      "key": "lakewood-house-districts",
+      "text": "Under the maps drawn in 2021, Lakewood is split among three state House districts: 23, 28 and 30. House District 30 has the most Lakewood residents.",
+      "sources": [
+        "src-irc-house-city-splits",
+        "src-irc-house-final"
+      ]
+    },
+    {
+      "key": "lakewood-senate-districts",
+      "text": "Lakewood is split between two state Senate districts: 20 and 22. Both are on the 2026 ballot.",
+      "sources": [
+        "src-irc-senate-city-splits",
+        "src-sos-offices-up-2026"
+      ]
+    },
+    {
+      "key": "maps-in-effect",
+      "text": "The state legislative maps were approved by the Colorado Supreme Court, with final small adjustments approved on March 18, 2022. They were first used in the 2022 election and remain in use.",
+      "sources": [
+        "src-irc-house-final",
+        "src-irc-final-maps"
+      ]
+    },
+    {
+      "key": "house-all-seats-up",
+      "text": "All 65 state House seats are on the ballot every two years.",
+      "sources": [
+        "src-sos-offices-up-2026"
+      ]
+    },
+    {
+      "key": "senate-staggered",
+      "text": "State senators serve four-year terms, and only about half the Senate is elected at a time. In 2026, 21 of 35 Senate seats are on the ballot, including a few to fill vacancies.",
+      "sources": [
+        "src-sos-offices-up-2026"
+      ]
+    },
+    {
+      "key": "ballot-order-rule",
+      "text": "On Colorado ballots, major-party candidates are listed first, then minor-party candidates, then unaffiliated candidates. Order within each group was set by a drawing on July 28, 2026.",
+      "sources": [
+        "src-sos-ballot-order-2026"
+      ]
+    },
+    {
+      "key": "find-your-district",
+      "text": "Your ballot shows only the House and Senate races for your address. You can look up your district with the state legislature's Find My Legislator tool at leg.colorado.gov/findmylegislator.",
+      "sources": [
+        "src-irc-house-final"
+      ]
+    },
+    {
+      "key": "candidate-list-certified",
+      "text": "The Secretary of State certified the general-election candidate list to counties on September 4, 2026.",
+      "sources": [
+        "src-sos-general-candidates-2026"
+      ]
+    },
+    {
+      "key": "jeffco-sample-ballot-url",
+      "text": "Jefferson County publishes one all-inclusive sample ballot (English and Spanish) that shows every race and question in the county, dated September 30, 2026: https://www.jeffco.us/DocumentCenter/View/59222. Each voter's real ballot shows only the races for where they live. No separate Lakewood-only sample ballot was found.",
+      "sources": [
+        "src-jeffco-sample-ballot",
+        "src-jeffco-on-the-ballot"
+      ]
+    },
+    {
+      "key": "jeffco-on-the-ballot-page",
+      "text": "The county's 'On the Ballot' page lists all 2026 candidates and measures: https://www.jeffco.us/4652/On-the-Ballot",
+      "sources": [
+        "src-jeffco-on-the-ballot"
+      ]
+    },
+    {
+      "key": "commissioners-elected-at-large",
+      "text": "Jefferson County has three commissioners. Each must live in one of three commissioner districts, but every county voter votes for every commissioner seat. Terms are four years.",
+      "sources": [
+        "src-jeffco-commissioner-history",
+        "src-jeffco-meet-commissioners"
+      ]
+    },
+    {
+      "key": "current-commissioners",
+      "text": "The current commissioners are Rachel Zenzinger (District 1), Andy Kerr (District 2), and Lesley Dahlkemper (District 3). Only the District 3 seat is on the 2026 ballot.",
+      "sources": [
+        "src-jeffco-meet-commissioners",
+        "src-jeffco-sample-ballot"
+      ]
+    },
+    {
+      "key": "kerr-possible-vacancy",
+      "text": "If Commissioner Andy Kerr wins the assessor race, his District 2 commissioner seat would become vacant. If Lesley Dahlkemper is elected lieutenant governor, she would leave her District 3 seat before her term ends.",
+      "sources": [
+        "src-gazette-dahlkemper"
+      ]
+    },
+    {
+      "key": "da-not-on-ballot",
+      "text": "The District Attorney for the 1st Judicial District is not on the 2026 ballot. Alexis King (Democrat) was first elected in November 2020; the 2026 sample ballot has no DA race.",
+      "sources": [
+        "src-sos-king-history",
+        "src-firstda-king",
+        "src-jeffco-sample-ballot"
+      ]
+    },
+    {
+      "key": "retention-how-it-works",
+      "text": "Judges do not run against anyone. Voters answer YES or NO on whether each judge should stay on the bench. A state commission reviews each judge first; every judge on the Lakewood ballot in 2026 was rated 'Meets Performance Standards.'",
+      "sources": [
+        "src-jeffco-sample-ballot",
+        "src-ojpe-2026-list"
+      ]
+    },
+    {
+      "key": "retention-evaluations-url",
+      "text": "Full judge reviews are posted at https://judicialperformance.colorado.gov/know-your-judges/2026-judicial-performance-evaluations",
+      "sources": [
+        "src-ojpe-2026-list"
+      ]
+    },
+    {
+      "key": "election-day-hours",
+      "text": "Election Day is Tuesday, November 3, 2026. In-person voting on Election Day runs from 7 a.m. to 7 p.m.",
+      "sources": [
+        "src-jeffco-on-the-ballot"
+      ]
+    },
+    {
+      "key": "jeffco-clerk-contact",
+      "text": "The Jefferson County Clerk's office is at 3500 Illinois Street, Suite 1100, Golden, CO 80401. Phone: 303-271-8111.",
+      "sources": [
+        "src-jeffco-on-the-ballot"
+      ]
+    },
+    {
+      "key": "no-lakewood-council-races-2026",
+      "text": "There are no Lakewood mayor or city council races on the 2026 ballot. Lakewood elects its mayor and council in November of odd-numbered years, for four-year terms. Even years may have city ballot questions only.",
+      "sources": [
+        "src-lkw-elections"
+      ]
+    },
+    {
+      "key": "next-city-election",
+      "text": "The next regular Lakewood city election, with mayor and council races, is expected in November 2027 (first Tuesday of November is Nov. 2, 2027).",
+      "sources": [
+        "src-lkw-elections"
+      ]
+    },
+    {
+      "key": "april-2026-special-what",
+      "text": "On April 7, 2026, Lakewood held an all-mail special election on four questions. Residents had petitioned to repeal four zoning ordinances (2025-27 to 2025-30) that council passed on Oct. 13, 2025. The new rules would have allowed duplexes, townhomes and small multiplexes in most neighborhoods that had been single-family only. A yes vote meant repeal; a no vote meant keep.",
+      "sources": [
+        "src-lkw-special",
+        "src-transcript-special-preview",
+        "src-denverite-explainer"
+      ]
+    },
+    {
+      "key": "april-2026-special-result",
+      "text": "Voters repealed all four zoning ordinances. Final official results: about 62% voted yes (repeal) and about 37% to 38% voted no on each question, with 35,760 ballots cast. Question 1, for example, was 22,310 yes to 13,357 no. The prior zoning rules came back.",
+      "sources": [
+        "src-lkw-special",
+        "src-cosun-zoning",
+        "src-cml-spring2026"
+      ]
+    },
+    {
+      "key": "april-2026-special-sides",
+      "text": "The repeal side was led by Karen Gordey and the Lakewood Citizens Alliance, with Imagine Lakewood and Lakewood for All. The keep side, Make Lakewood Livable, was backed by Mayor Wendi Strom, Rep. Brittany Pettersen, the ACLU and AARP Colorado. City Council had passed a resolution urging a no vote.",
+      "sources": [
+        "src-denverite-explainer",
+        "src-cosun-zoning",
+        "src-transcript-special-preview"
+      ]
+    },
+    {
+      "key": "lakewood-tabor-decided-2024",
+      "text": "Lakewood's measure to permanently keep revenue above TABOR limits is not on the 2026 ballot. It was Ballot Issue 2A in November 2024. The money kept is split among parks and open space, public safety, and streets and sidewalks. A 2018 vote had allowed this only through 2025.",
+      "sources": [
+        "src-bell-2024",
+        "src-cbs-tabor-2024",
+        "src-lkw-r-2024-54"
+      ]
+    },
+    {
+      "key": "lakewood-tabor-2024-result",
+      "text": "Lakewood voters approved 2024's Ballot Issue 2A, according to a local newsletter. This guide did not get the official vote count.",
+      "sources": [
+        "src-informer-tabor"
+      ]
+    },
+    {
+      "key": "no-county-rtd-measures",
+      "text": "The county's list of 2026 local measures shows no Jefferson County, RTD, Foothills Park & Recreation District, or library district question. For Lakewood, the local questions are 2G, 2H, 2I, 2J, 5A, 5B, 7A and 7C (7C only inside West Metro Fire).",
+      "sources": [
+        "src-jeffco-on-ballot",
+        "src-jeffco-tabor-2026"
+      ]
+    },
+    {
+      "key": "vacancy-amendment-failed",
+      "text": "A fourth proposed charter change, on how to fill council vacancies, did not pass council (0-11 on Aug. 10, 2026) and is not on the ballot.",
+      "sources": [
+        "src-lkw-ord-votes-2026",
+        "src-lkw-o-2026-26"
+      ]
+    },
+    {
+      "key": "election-day",
+      "text": "Election Day is Tuesday, Nov. 3, 2026. Ballots must be received by 7 p.m. that day. Postmarks do not count.",
+      "sources": [
+        "src-jeffco-upcoming",
+        "src-jeffco-tabor-2026"
+      ]
+    },
+    {
+      "key": "ballots-mailed",
+      "text": "Jefferson County mails ballots and opens drop boxes on Oct. 5, 2026.",
+      "sources": [
+        "src-jeffco-upcoming",
+        "src-jeffco-elections"
+      ]
+    },
+    {
+      "key": "register-deadline-mail",
+      "text": "To get a ballot in the mail, register or update your address by Monday, Oct. 26, 2026 (8 days before Election Day). You can do this online at GoVoteColorado.gov.",
+      "sources": [
+        "src-jeffco-upcoming",
+        "src-sos-reg-faq"
+      ]
+    },
+    {
+      "key": "same-day-registration",
+      "text": "After Oct. 26, you can still register and vote in person at any Voter Service and Polling Center, up to and on Election Day.",
+      "sources": [
+        "src-sos-reg-faq"
+      ]
+    },
+    {
+      "key": "last-day-to-mail",
+      "text": "Monday, Oct. 26 is the last day the county advises mailing your ballot back. After that, use a drop box or a vote center. Mailed ballots need postage; drop boxes do not.",
+      "sources": [
+        "src-jeffco-upcoming",
+        "src-jeffco-voting-sites"
+      ]
+    },
+    {
+      "key": "drop-boxes",
+      "text": "Drop boxes are open Oct. 5 until 7 p.m. on Nov. 3. Most are open 24 hours. Lakewood drop boxes include Belmar Library (555 S Allison Pkwy), Lakewood Civic Center (480 S Allison Pkwy), Lakewood Library (10200 W 20th Ave), Carmody, Green Mountain and Lakewood Link rec centers, Foothills Fieldhouse, Ray Ross Park, Jeffco Public Health (645 Parfet St), and drive-up boxes at Colorado Christian University and Red Rocks Community College. Full list: jeffco.us/3907/Find-a-Voting-Site.",
+      "sources": [
+        "src-jeffco-voting-sites"
+      ]
+    },
+    {
+      "key": "vote-centers",
+      "text": "Voter Service and Polling Centers start opening Oct. 19. Hours are 8 a.m. to 5 p.m. weekdays through Nov. 2, 8 a.m. to 5 p.m. on Saturday Oct. 31, and 7 a.m. to 7 p.m. on Election Day. Belmar Library opens Oct. 19. More Lakewood centers open Oct. 30 (Green Mountain Rec Center, Lakewood Link Rec Center, Jeffco Public Health, Red Rocks Community College, West Metro Fire Training Center) and Nov. 2 (Bear Valley Church, Lakewood Elks Lodge, Lakewood Library).",
+      "sources": [
+        "src-jeffco-voting-sites"
+      ]
+    },
+    {
+      "key": "ballot-tracking",
+      "text": "You can sign up to track your ballot by text, email or phone through BallotTrax (ballottrax.coloradosos.gov). The county's Track Your Ballot link goes there.",
+      "sources": [
+        "src-jeffco-track",
+        "src-ballottrax"
+      ]
+    },
+    {
+      "key": "id-rules",
+      "text": "You must show ID to vote in person. First-time mail voters may need to send a copy of ID with their ballot. Accepted ID includes a Colorado driver's license or ID, U.S. passport, Medicare or Medicaid card, or a utility bill, bank statement or paycheck from the last 60 days with your name and Colorado address. Digital IDs count.",
+      "sources": [
+        "src-sos-id"
+      ]
+    },
+    {
+      "key": "county-contact",
+      "text": "Jefferson County Elections: 3500 Illinois St., Suite 1100, Golden, CO 80401; phone 303-271-8111; website jeffco.us/4947/Elections. Check your registration at GoVoteColorado.gov.",
+      "sources": [
+        "src-jeffco-elections",
+        "src-jeffco-upcoming"
+      ]
+    },
+    {
+      "key": "registration-eligibility",
+      "text": "To vote you must be a U.S. citizen, 18 or older by Election Day, and a Colorado resident for at least 22 days before the election.",
+      "sources": [
+        "src-lkw-nov2026"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "src-jeffco-sample-ballot",
+      "title": "All-Inclusive Sample Ballot for Jefferson County, Colorado, General Election, November 3, 2026 (header: JEFFCO SAMPLE 2026-09-30)",
+      "publisher": "Jefferson County Clerk and Recorder",
+      "url": "https://www.jeffco.us/DocumentCenter/View/59222",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-jeffco-on-ballot",
+      "title": "On the Ballot (Local Ballot Measures)",
+      "publisher": "Jefferson County Clerk and Recorder",
+      "url": "https://www.jeffco.us/4652/On-the-Ballot",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-jeffco-elections",
+      "title": "Elections",
+      "publisher": "Jefferson County Clerk and Recorder",
+      "url": "https://www.jeffco.us/4947/Elections",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-cpr-midterm-guide",
+      "title": "CPR News' voter guide to the 2026 midterm election",
+      "publisher": "Colorado Public Radio",
+      "url": "https://www.cpr.org/2026/09/24/vg-2026-colorado-midterm-election-voter-guide/",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-cpr-regents-guide",
+      "title": "Voter guide for the University of Colorado Board of Regents",
+      "publisher": "Colorado Public Radio",
+      "url": "https://www.cpr.org/2026/09/24/vg-2026-cu-board-of-regents-voter-guide/",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-cpr-primary-results",
+      "title": "See all the Colorado 2026 primary results, as they happened",
+      "publisher": "Colorado Public Radio",
+      "url": "https://www.cpr.org/2026/06/30/colorado-primary-election-2026-results-live-updates/",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-bhfs-primary",
+      "title": "Colorado 2026 Primary Election Results (client alert, July 1, 2026)",
+      "publisher": "Brownstein Hyatt Farber Schreck",
+      "url": "https://www.bhfs.com/wp-content/uploads/2026/07/Client-Alert-CO-Primary-Election-Results-2026.final_.formatted.pdf",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-copolitics-marx-markert",
+      "title": "Republican Victor Marx taps George Markert as his lieutenant governor pick",
+      "publisher": "Colorado Politics",
+      "url": "https://www.coloradopolitics.com/2026/07/31/republican-victor-marx-taps-george-markert-as-his-lieutenant-governor-pick-in-colorados-gubernatorial-race/",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-gazette-governor",
+      "title": "Colorado governor: Weiser, Marx and Lopez vie for top state seat",
+      "publisher": "Denver Gazette",
+      "url": "https://www.denvergazette.com/2026/10/02/colorado-governor-weiser-marx-and-lopez-vie-for-top-state-seat-4/",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-greenpapers-co",
+      "title": "Colorado 2026 General Election",
+      "publisher": "The Green Papers",
+      "url": "https://www.thegreenpapers.com/G26/CO",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-wiki-sos-2026",
+      "title": "2026 Colorado Secretary of State election",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/2026_Colorado_Secretary_of_State_election",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-wiki-treasurer-2026",
+      "title": "2026 Colorado State Treasurer election",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/2026_Colorado_State_Treasurer_election",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-wiki-cd7",
+      "title": "Colorado's 7th congressional district",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Colorado%27s_7th_congressional_district",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-cde-esser",
+      "title": "Board Member Karla Esser (D)",
+      "publisher": "Colorado Department of Education",
+      "url": "https://ed.cde.state.co.us/cdeboard/board-member-profiles-karla-esser",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-rtd-board",
+      "title": "Board of Directors",
+      "publisher": "Regional Transportation District (RTD)",
+      "url": "https://www.rtd-denver.com/about-rtd/board-of-directors",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-rtd-arcuri-sworn",
+      "title": "RTD Board of Directors elects new chair and officers, swears in new member",
+      "publisher": "Regional Transportation District (RTD)",
+      "url": "https://www.rtd-denver.com/community/news/2026/rtd-board-of-directors-elects-new-chair-and-officers-swears-in-new-member-during-tuesday-meeting",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-denverite-rtd-guide",
+      "title": "Voter guide to the Regional Transportation Board of Directors election",
+      "publisher": "Denverite",
+      "url": "https://denverite.com/2026/09/25/vg-2026-rtd-board-voter-guide/",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-sos-cert-pr",
+      "title": "Secretary of State certifies 14 statewide ballot measures (news release, Sept. 4, 2026)",
+      "publisher": "Colorado Secretary of State",
+      "url": "https://www.coloradosos.gov/pubs/newsRoom/pressReleases/2026/PR20260904BallotCertification.html",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-sos-contacts",
+      "title": "Amendments and Propositions on the 2026 Ballot - committees in favor and opposed",
+      "publisher": "Colorado Secretary of State",
+      "url": "https://www.coloradosos.gov/pubs/elections/Initiatives/ballot/contacts/2026.html",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-bluebook",
+      "title": "2026 State Ballot Information Booklet (Blue Book), accessible PDF",
+      "publisher": "Colorado Legislative Council Staff",
+      "url": "https://content.leg.colorado.gov/sites/default/files/2026-blue-book-en-accessible.pdf",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-lcs-bluebook-page",
+      "title": "Ballot Information Booklet (Blue Book) page",
+      "publisher": "Colorado General Assembly / Legislative Council Staff",
+      "url": "https://leg.colorado.gov/initiatives/ballot-information-booklet-blue-book",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-lcs-a85",
+      "title": "Blue Book analysis: Amendment 85, Plain Language Ballot Titles",
+      "publisher": "Colorado Legislative Council Staff",
+      "url": "https://www.leg.colorado.gov/ballots/plain-language-ballot-titles-2/files/blue-book",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-lcs-a86",
+      "title": "Blue Book analysis: Amendment 86, Requirements for Off-Cycle Congressional Redistricting",
+      "publisher": "Colorado Legislative Council Staff",
+      "url": "https://leg.colorado.gov/ballots/requirements-for-off-cycle-congressional-redistricting-2/files/blue-book",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-lcs-a87",
+      "title": "Blue Book analysis: Amendment 87, Graduated Income Tax",
+      "publisher": "Colorado Legislative Council Staff",
+      "url": "https://leg.colorado.gov/ballots/graduated-income-tax-2/files/blue-book",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-lcs-p134",
+      "title": "Blue Book analysis: Proposition 134, Male and Female Participation in School and Collegiate Sports",
+      "publisher": "Colorado Legislative Council Staff",
+      "url": "https://leg.colorado.gov/ballots/male-and-female-participation-in-school-and-collegiate-sports-2/files/blue-book",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-lcs-p135",
+      "title": "Blue Book analysis: Proposition 135, Prohibit Surgery on Minors in Response to Perception of Sex or Gender",
+      "publisher": "Colorado Legislative Council Staff",
+      "url": "https://leg.colorado.gov/ballots/prohibit-surgery-on-minors-in-response-to-perception-of-sex-or-gender-2/files/blue-book",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-lcs-p136",
+      "title": "Blue Book analysis: Proposition 136, Income Tax Rate Limit",
+      "publisher": "Colorado Legislative Council Staff",
+      "url": "https://www.leg.colorado.gov/ballots/income-tax-rate-limit-2/files/blue-book",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-lcs-p137",
+      "title": "Blue Book analysis: Proposition 137, Direct Sporting Goods Sales Tax Revenue for Conservation",
+      "publisher": "Colorado Legislative Council Staff",
+      "url": "https://leg.colorado.gov/ballots/direct-sporting-goods-sales-tax-revenue-for-conservation-2/files/blue-book",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-bp-news",
+      "title": "Colorado voters will decide on 14 ballot measures in 2026",
+      "publisher": "Ballotpedia News",
+      "url": "https://news.ballotpedia.org/2026/09/14/colorado-voters-will-decide-on-14-ballot-measures-in-2026/",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-newsline-14",
+      "title": "14 measures will appear on Colorado's statewide ballot in 2026",
+      "publisher": "Colorado Newsline",
+      "url": "https://coloradonewsline.com/2026/09/08/14-measures-will-appear-on-colorados-statewide-ballot-in-2026/",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-chalkbeat-a87",
+      "title": "2026 Colorado voter guide: What to know about Amendment 87",
+      "publisher": "Chalkbeat Colorado",
+      "url": "https://www.chalkbeat.org/colorado/2026/10/01/voter-guide-amendment-87-ballot-measure-school-funding/",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-sos-general-candidates-2026",
+      "title": "2026 General Election Official Candidate List",
+      "publisher": "Colorado Secretary of State",
+      "url": "https://www.sos.state.co.us/pubs/elections/vote/generalCandidates.html",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-sos-ballot-order-2026",
+      "title": "2026 General Election Ballot Order (major and minor party candidates)",
+      "publisher": "Colorado Secretary of State",
+      "url": "https://www.sos.state.co.us/pubs/elections/vote/generalBallotOrder.html",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-sos-offices-up-2026",
+      "title": "2026 Offices Up for Election",
+      "publisher": "Colorado Secretary of State",
+      "url": "https://www.sos.state.co.us/pubs/elections/vote/officeUpForElection.html",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-irc-house-city-splits",
+      "title": "Assigned District Splits (Cities), 2021 Final Approved House Plan",
+      "publisher": "Colorado Independent Redistricting Commissions",
+      "url": "https://redistricting.colorado.gov/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6OTAzLCJwdXIiOiJibG9iX2lkIn19--2fc8361d7bf4bf8771f41f5425ec02fef64c97db/City%20Splits.pdf",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-irc-senate-city-splits",
+      "title": "Assigned District Splits (Cities), 2021 Final Approved Senate Plan (Errata)",
+      "publisher": "Colorado Independent Redistricting Commissions",
+      "url": "https://redistricting.colorado.gov/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6OTQ3LCJwdXIiOiJibG9iX2lkIn19--3493eaa57e7362efba8792f0328f84668d91c1bc/City%20Splits.pdf",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-irc-house-final",
+      "title": "House Final Approved Plan",
+      "publisher": "Colorado Independent Redistricting Commissions",
+      "url": "https://redistricting.colorado.gov/content/house-final-approved",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-irc-final-maps",
+      "title": "2021 Final Maps",
+      "publisher": "Colorado Independent Redistricting Commissions",
+      "url": "https://redistricting.colorado.gov/content/2021-final-maps",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-irc-hd23-sheet",
+      "title": "2021 House District 23 data sheet",
+      "publisher": "Colorado Independent Redistricting Commissions",
+      "url": "https://redistricting.colorado.gov/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaDBFIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--eb6621b01bcfdbd9024c46e9b5bf55773ef4ffe4/2021_House_District_23.pdf",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-irc-hd28-sheet",
+      "title": "2021 House District 28 data sheet",
+      "publisher": "Colorado Independent Redistricting Commissions",
+      "url": "https://redistricting.colorado.gov/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTA0OCwicHVyIjoiYmxvYl9pZCJ9fQ==--3e8dc0377891442f5a361f0efef0411f95e83195/2021_House_District_28.pdf",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-irc-hd30-sheet",
+      "title": "2021 House District 30 data sheet",
+      "publisher": "Colorado Independent Redistricting Commissions",
+      "url": "https://redistricting.colorado.gov/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTA0NiwicHVyIjoiYmxvYl9pZCJ9fQ==--f4f6c5de112ada95de26bc88891d6d8c987542b6/2021_House_District_30.pdf",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-irc-sd20-sheet",
+      "title": "2021 Senate District 20 data sheet",
+      "publisher": "Colorado Independent Redistricting Commissions",
+      "url": "https://redistricting.colorado.gov/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdFFEIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--e2b0fcb53323be5a5373f91eb86f14edf849d6f4/2021_Senate_District_20.pdf",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-irc-sd22-sheet",
+      "title": "2021 Senate District 22 data sheet",
+      "publisher": "Colorado Independent Redistricting Commissions",
+      "url": "https://redistricting.colorado.gov/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdFlEIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--315c3276144afe15fb8103ab82bb4aed74c2b1ca/2021_Senate_District_22.pdf",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-cga-legislators",
+      "title": "Legislators",
+      "publisher": "Colorado General Assembly",
+      "url": "https://leg.colorado.gov/legislators",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-cga-cutter",
+      "title": "Lisa Cutter",
+      "publisher": "Colorado General Assembly",
+      "url": "https://leg.colorado.gov/legislators/lisa-cutter",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-bp-hd30",
+      "title": "Colorado House of Representatives District 30",
+      "publisher": "Ballotpedia",
+      "url": "https://ballotpedia.org/Colorado_House_of_Representatives_District_30",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-bp-hd28",
+      "title": "Colorado House of Representatives District 28",
+      "publisher": "Ballotpedia",
+      "url": "https://ballotpedia.org/Colorado_House_of_Representatives_District_28",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-bp-hd23",
+      "title": "Colorado House of Representatives District 23",
+      "publisher": "Ballotpedia",
+      "url": "https://ballotpedia.org/Colorado_House_of_Representatives_District_23",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-bp-sd20",
+      "title": "Colorado State Senate District 20",
+      "publisher": "Ballotpedia",
+      "url": "https://ballotpedia.org/Colorado_State_Senate_District_20",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-bp-sd22",
+      "title": "Colorado State Senate District 22",
+      "publisher": "Ballotpedia",
+      "url": "https://ballotpedia.org/Colorado_State_Senate_District_22",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-lakewood-rein",
+      "title": "David Rein, City Council Member",
+      "publisher": "City of Lakewood",
+      "url": "https://www.lakewoodco.gov/Local-Government/City-Council/City-Council-Members/David-Rein",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-stewart-linktree",
+      "title": "Rebekah for Colorado (campaign links page)",
+      "publisher": "Rebekah Stewart campaign (Linktree)",
+      "url": "https://linktr.ee/rebekahforcolorado",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-goodparty-switzer",
+      "title": "William Switzer candidate profile",
+      "publisher": "GoodParty.org",
+      "url": "https://goodparty.org/people/william-switzer-ee8d2df5",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-lp-jeffco",
+      "title": "Jefferson County (Libertarian Party of Colorado)",
+      "publisher": "Libertarian Party of Colorado",
+      "url": "https://lpcolorado.org/jefferson-county",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-jeffco-on-the-ballot",
+      "title": "On the Ballot (2026 General Election)",
+      "publisher": "Jefferson County Clerk and Recorder, Elections Division",
+      "url": "https://www.jeffco.us/4652/On-the-Ballot",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-jeffco-commissioner-history",
+      "title": "History of the County Commissioners' Office",
+      "publisher": "Jefferson County, Colorado",
+      "url": "https://www.jeffco.us/1987/History-of-the-County-Commissioners-Offi",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-jeffco-meet-commissioners",
+      "title": "Meet the Commissioners",
+      "publisher": "Jefferson County, Colorado",
+      "url": "https://www.jeffco.us/664/Meet-the-Commissioners",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-jeffco-treasurer-bio",
+      "title": "Treasurer Biography",
+      "publisher": "Jefferson County, Colorado",
+      "url": "https://www.jeffco.us/3795/Treasurer-Biography",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-jeffco-assessor-bio",
+      "title": "Assessor Biography",
+      "publisher": "Jefferson County, Colorado",
+      "url": "https://www.jeffco.us/533/Assessor-Biography",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-ojpe-2026-list",
+      "title": "2026 Judicial Performance Evaluations",
+      "publisher": "Colorado Office of Judicial Performance Evaluation",
+      "url": "https://judicialperformance.colorado.gov/know-your-judges/2026-judicial-performance-evaluations",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-ojpe-hood",
+      "title": "Hood III, William W. 2026 Evaluation",
+      "publisher": "Colorado Office of Judicial Performance Evaluation",
+      "url": "https://judicialperformance.colorado.gov/hood-iii-william-w-2026-evaluation",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-ojpe-sullivan",
+      "title": "Sullivan, Grant 2026 Evaluation",
+      "publisher": "Colorado Office of Judicial Performance Evaluation",
+      "url": "https://judicialperformance.colorado.gov/sullivan-grant-2026-evaluation",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-sos-king-history",
+      "title": "Alexis King (D) - candidate election history",
+      "publisher": "Colorado Secretary of State, Historical Election Data",
+      "url": "https://historicalelectiondata.coloradosos.gov/candidates/view/257",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-firstda-king",
+      "title": "DA Alexis King",
+      "publisher": "First Judicial District Attorney's Office",
+      "url": "https://firstda.co/who-we-are/da-alexis-king/",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-gazette-dahlkemper",
+      "title": "Jefferson County to fill commissioner vacancy after Dahlkemper tapped for lieutenant governor",
+      "publisher": "Denver Gazette",
+      "url": "https://www.denvergazette.com/2026/07/23/jefferson-county-to-fill-commissioner-vacancy-after-dahlkemper-tapped-for-lieutenant-governor/",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-cosun-gonzalez",
+      "title": "Amanda Gonzalez wins Democratic primary for Colorado secretary of state",
+      "publisher": "The Colorado Sun",
+      "url": "https://coloradosun.com/2026/06/30/colorado-primary-election-secretary-of-state-results/",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-critical-report-primaries",
+      "title": "Commissioner Andy Kerr Wins Democratic Primary for Jefferson County Assessor (2026 CO county primaries)",
+      "publisher": "The Critical Report (Substack, Brett Hense)",
+      "url": "https://criticalreport.substack.com/p/2026-co-county-primaries",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-ballotbrief-jeffco",
+      "title": "Jefferson County (Colorado) 2026 races",
+      "publisher": "The Ballot Brief",
+      "url": "https://www.theballotbrief.com/state/colorado/jefferson-county",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-ballotbrief-sheriff",
+      "title": "Jefferson County Sheriff - Marinelli vs. Doizaki",
+      "publisher": "The Ballot Brief",
+      "url": "https://theballotbrief.com/state/colorado/jefferson-county/sheriff",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-ballotready-cannon",
+      "title": "Annette Cannon",
+      "publisher": "BallotReady",
+      "url": "https://www.ballotready.org/people/annette-cannon",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-jeffco-gop-candidates",
+      "title": "Meet Your 2026 Candidates",
+      "publisher": "Jefferson County Republican Party",
+      "url": "https://jeffcorepublicans.com/meet-your-2026-candidates/",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-jeffco-dems-candidates",
+      "title": "Jefferson County Candidates 2026",
+      "publisher": "Jefferson County Democratic Party",
+      "url": "https://www.jeffcodems.org/2026-candidates-jeffco",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-jeffco-tabor-2026",
+      "title": "2026 General Election TABOR Notice (ballot issue booklet)",
+      "publisher": "Jefferson County Clerk and Recorder",
+      "url": "https://www.jeffco.us/DocumentCenter/View/59081/2026-General-TABOR-Booklet-PDF",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-jeffco-upcoming",
+      "title": "Upcoming Election",
+      "publisher": "Jefferson County Clerk and Recorder",
+      "url": "https://www.jeffco.us/5015/Upcoming-Election",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-jeffco-voting-sites",
+      "title": "Find a Voting Site",
+      "publisher": "Jefferson County Clerk and Recorder",
+      "url": "https://www.jeffco.us/3907/Find-a-Voting-Site",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-jeffco-track",
+      "title": "Track Your Ballot (redirects to BallotTrax)",
+      "publisher": "Jefferson County Clerk and Recorder / Colorado Secretary of State",
+      "url": "https://www.jeffco.us/5013/Track-Your-Ballot",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-ballottrax",
+      "title": "BallotTrax Colorado",
+      "publisher": "Colorado Secretary of State",
+      "url": "https://ballottrax.coloradosos.gov/voter/",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-sos-reg-faq",
+      "title": "Voter Registration FAQs",
+      "publisher": "Colorado Secretary of State",
+      "url": "https://www.sos.state.co.us/pubs/elections/FAQs/VoterRegistrationFAQ.html",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-sos-id",
+      "title": "Acceptable Forms of Identification",
+      "publisher": "Colorado Secretary of State",
+      "url": "https://www.sos.state.co.us/pubs/elections/vote/acceptableFormsOfID.html",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-lkw-elections",
+      "title": "Elections (City Clerk's Office)",
+      "publisher": "City of Lakewood",
+      "url": "https://www.lakewoodco.gov/City-Hall/Departments/City-Clerks-Office/Elections",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-lkw-nov2026",
+      "title": "November 3, 2026 General Election",
+      "publisher": "City of Lakewood",
+      "url": "https://www.lakewoodco.gov/Local-Government/Departments/City-Clerks-Office/Elections/November-3-2026-General-Election",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-lkw-special",
+      "title": "April 7 Special Election",
+      "publisher": "City of Lakewood",
+      "url": "https://www.lakewoodco.gov/SpecialElection",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-lkw-ord-votes-2026",
+      "title": "2026 Lakewood City Council Ordinances list with votes",
+      "publisher": "City of Lakewood",
+      "url": "https://www.lakewoodco.gov/files/assets/public/v/11/city-clerks-office/pdfs/city-council-votes/2026/2026-lakewood-city-council-ordinances-list-da-compliant.pdf",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-lkw-o-2026-25",
+      "title": "Ordinance O-2026-25 (Charter Amendment No. 2, term start)",
+      "publisher": "City of Lakewood",
+      "url": "https://www.lakewoodco.gov/files/assets/public/v/1/city-clerks-office/pdfs/legal-notices/o-2026-25.pdf",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-lkw-o-2026-28",
+      "title": "Ordinance O-2026-28 (Charter Amendment No. 1, initiative/referendum election time frames)",
+      "publisher": "City of Lakewood",
+      "url": "https://www.lakewoodco.gov/files/assets/public/v/1/city-clerks-office/pdfs/legal-notices/o-2026-28.pdf",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-lkw-o-2026-29",
+      "title": "Ordinance O-2026-29 (appropriation for Nov. 3, 2026 election)",
+      "publisher": "City of Lakewood",
+      "url": "https://www.lakewoodco.gov/files/assets/public/v/1/city-clerks-office/pdfs/legal-notices/o-2026-29.pdf",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-lkw-o-2026-26",
+      "title": "Ordinance O-2026-26 (failed; council vacancies charter amendment)",
+      "publisher": "City of Lakewood",
+      "url": "https://www.lakewoodco.gov/files/assets/public/v/1/city-clerks-office/pdfs/city-council-ordinances/2026/ordinance-o-2026-26-failed.pdf",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-lkw-r-2024-54",
+      "title": "Resolution R-2024-54 (support for Ballot Issue 2A, 2024)",
+      "publisher": "City of Lakewood",
+      "url": "https://www.lakewoodco.gov/Local-Government/Departments/City-Clerks-Office/City-Council-Ordinances-Resolutions/2024-Resolutions/R-2024-54",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-transcript-salestax",
+      "title": "Lakewood council sends sales tax increase to voters (Aug. 31, 2026)",
+      "publisher": "Jeffco Transcript / Colorado Community Media",
+      "url": "https://www.jeffcotranscript.com/news/article_cd5931e7-fba1-46be-bbfa-ca200017a72b.html",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-transcript-special-preview",
+      "title": "Lakewood special election on zoning ordinances (Mar. 12, 2026)",
+      "publisher": "Jeffco Transcript / Colorado Community Media",
+      "url": "https://www.jeffcotranscript.com/news/article_34cd2a1b-03f9-4640-8086-551caa3b08a1.html",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-transcript-special-results",
+      "title": "Early results in Lakewood zoning special election",
+      "publisher": "Jeffco Transcript / Colorado Community Media",
+      "url": "https://www.jeffcotranscript.com/news/article_22a3a86b-0b54-4d78-a1c8-2e34aca19bda.html",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-cosun-zoning",
+      "title": "Lakewood voters strike down pro-density zoning (Apr. 8, 2026)",
+      "publisher": "The Colorado Sun",
+      "url": "https://coloradosun.com/2026/04/08/lakewood-housing-voters-strike-down-pro-density-zoning/",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-denverite-explainer",
+      "title": "Lakewood development special election explainer (Apr. 2, 2026)",
+      "publisher": "Denverite",
+      "url": "https://denverite.com/2026/04/02/lakewood-development-special-election-explainer/",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-chalkbeat-guide",
+      "title": "Voter guide 2026: Jeffco Public Schools 5A and 5B (Oct. 7, 2026)",
+      "publisher": "Chalkbeat Colorado",
+      "url": "https://www.chalkbeat.org/colorado/2026/10/07/voter-guide-jeffco-public-schools-ballot-issues-5a-5b/",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-chalkbeat-referral",
+      "title": "Jeffco voters will consider $133 million in tax increases (Aug. 21, 2026)",
+      "publisher": "Chalkbeat Colorado",
+      "url": "https://www.chalkbeat.org/colorado/2026/08/21/jeffco-school-board-puts-133-million-mill-levy-overrides-on-ballot/",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-jeffco-schools-mlo",
+      "title": "2026 Mill Levy Override and Special Mill",
+      "publisher": "Jeffco Public Schools",
+      "url": "https://www.jeffcopublicschools.org/about/bond-and-mill-levy-overview/2026-mill-levy-override-and-special-mill",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-wmfr-7c",
+      "title": "West Metro November Ballot Issue (7C)",
+      "publisher": "West Metro Fire Protection District",
+      "url": "https://www.westmetrofire.org/west-metro-november-ballot-issue",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-wmfr-communities",
+      "title": "Communities Covered",
+      "publisher": "West Metro Fire Protection District",
+      "url": "https://www.westmetrofire.org/communities-covered",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-sb26-172",
+      "title": "SB26-172 session law (Front Range Passenger Rail District boundaries)",
+      "publisher": "Colorado General Assembly",
+      "url": "https://leg.colorado.gov/laws/session-laws/SB26-172/153/download",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-ballotpedia-frpr",
+      "title": "Two multi-county transit districts will decide on sales tax measures (Sept. 9, 2026)",
+      "publisher": "Ballotpedia News",
+      "url": "https://news.ballotpedia.org/2026/09/09/two-multi-county-transit-districts-in-california-and-colorado-will-decide-on-sales-tax-measures-to-fund-public-transportation-projects-in-november/",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-complete-frpr",
+      "title": "Front Range rail district tax and debt measure (Aug. 27, 2026)",
+      "publisher": "Complete Colorado",
+      "url": "https://completecolorado.com/2026/08/27/front-range-rail-district-major-tax-debt-hike/",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-cbs-tabor-2024",
+      "title": "Lakewood City Council approves ballot measure to permanently lift TABOR limits (Aug. 21, 2024)",
+      "publisher": "CBS News Colorado",
+      "url": "https://www.cbsnews.com/colorado/news/lakewood-city-council-approves-ballot-measure-permanently-lift-colorado-tabor-limits",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-bell-2024",
+      "title": "Communities Look to Ballot to Raise Revenue (Oct. 24, 2024)",
+      "publisher": "Bell Policy Center",
+      "url": "https://bellpolicy.org/2024/10/24/communities-look-to-ballot-to-raise-revenue",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-informer-tabor",
+      "title": "Broken promise on TABOR and corporate dark money",
+      "publisher": "Lakewood Informer (Substack newsletter)",
+      "url": "https://lakewoodinformer.substack.com/p/broken-promise-on-tabor-and-corporate",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-cml-spring2026",
+      "title": "Spring 2026 municipal election results",
+      "publisher": "Colorado Municipal League",
+      "url": "https://www.cml.org/home/publications-news/article-detail/spring-2026-municipal-election-results",
+      "retrieved_on": "2026-10-09"
+    }
+  ]
+}

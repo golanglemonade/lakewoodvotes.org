@@ -1,0 +1,653 @@
+{
+  "section": "Local measures and how to vote",
+  "sources": [
+    {
+      "id": "src-jeffco-tabor-2026",
+      "title": "2026 General Election TABOR Notice (ballot issue booklet)",
+      "publisher": "Jefferson County Clerk and Recorder",
+      "url": "https://www.jeffco.us/DocumentCenter/View/59081/2026-General-TABOR-Booklet-PDF",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-jeffco-on-ballot",
+      "title": "On the Ballot (Local Ballot Measures)",
+      "publisher": "Jefferson County Clerk and Recorder",
+      "url": "https://www.jeffco.us/4652/On-the-Ballot",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-jeffco-elections",
+      "title": "Elections",
+      "publisher": "Jefferson County Clerk and Recorder",
+      "url": "https://www.jeffco.us/4947/Elections",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-jeffco-upcoming",
+      "title": "Upcoming Election",
+      "publisher": "Jefferson County Clerk and Recorder",
+      "url": "https://www.jeffco.us/5015/Upcoming-Election",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-jeffco-voting-sites",
+      "title": "Find a Voting Site",
+      "publisher": "Jefferson County Clerk and Recorder",
+      "url": "https://www.jeffco.us/3907/Find-a-Voting-Site",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-jeffco-track",
+      "title": "Track Your Ballot (redirects to BallotTrax)",
+      "publisher": "Jefferson County Clerk and Recorder / Colorado Secretary of State",
+      "url": "https://www.jeffco.us/5013/Track-Your-Ballot",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-ballottrax",
+      "title": "BallotTrax Colorado",
+      "publisher": "Colorado Secretary of State",
+      "url": "https://ballottrax.coloradosos.gov/voter/",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-sos-reg-faq",
+      "title": "Voter Registration FAQs",
+      "publisher": "Colorado Secretary of State",
+      "url": "https://www.sos.state.co.us/pubs/elections/FAQs/VoterRegistrationFAQ.html",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-sos-id",
+      "title": "Acceptable Forms of Identification",
+      "publisher": "Colorado Secretary of State",
+      "url": "https://www.sos.state.co.us/pubs/elections/vote/acceptableFormsOfID.html",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-lkw-elections",
+      "title": "Elections (City Clerk's Office)",
+      "publisher": "City of Lakewood",
+      "url": "https://www.lakewoodco.gov/City-Hall/Departments/City-Clerks-Office/Elections",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-lkw-nov2026",
+      "title": "November 3, 2026 General Election",
+      "publisher": "City of Lakewood",
+      "url": "https://www.lakewoodco.gov/Local-Government/Departments/City-Clerks-Office/Elections/November-3-2026-General-Election",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-lkw-special",
+      "title": "April 7 Special Election",
+      "publisher": "City of Lakewood",
+      "url": "https://www.lakewoodco.gov/SpecialElection",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-lkw-ord-votes-2026",
+      "title": "2026 Lakewood City Council Ordinances list with votes",
+      "publisher": "City of Lakewood",
+      "url": "https://www.lakewoodco.gov/files/assets/public/v/11/city-clerks-office/pdfs/city-council-votes/2026/2026-lakewood-city-council-ordinances-list-da-compliant.pdf",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-lkw-o-2026-25",
+      "title": "Ordinance O-2026-25 (Charter Amendment No. 2, term start)",
+      "publisher": "City of Lakewood",
+      "url": "https://www.lakewoodco.gov/files/assets/public/v/1/city-clerks-office/pdfs/legal-notices/o-2026-25.pdf",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-lkw-o-2026-28",
+      "title": "Ordinance O-2026-28 (Charter Amendment No. 1, initiative/referendum election time frames)",
+      "publisher": "City of Lakewood",
+      "url": "https://www.lakewoodco.gov/files/assets/public/v/1/city-clerks-office/pdfs/legal-notices/o-2026-28.pdf",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-lkw-o-2026-29",
+      "title": "Ordinance O-2026-29 (appropriation for Nov. 3, 2026 election)",
+      "publisher": "City of Lakewood",
+      "url": "https://www.lakewoodco.gov/files/assets/public/v/1/city-clerks-office/pdfs/legal-notices/o-2026-29.pdf",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-lkw-o-2026-26",
+      "title": "Ordinance O-2026-26 (failed; council vacancies charter amendment)",
+      "publisher": "City of Lakewood",
+      "url": "https://www.lakewoodco.gov/files/assets/public/v/1/city-clerks-office/pdfs/city-council-ordinances/2026/ordinance-o-2026-26-failed.pdf",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-lkw-r-2024-54",
+      "title": "Resolution R-2024-54 (support for Ballot Issue 2A, 2024)",
+      "publisher": "City of Lakewood",
+      "url": "https://www.lakewoodco.gov/Local-Government/Departments/City-Clerks-Office/City-Council-Ordinances-Resolutions/2024-Resolutions/R-2024-54",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-transcript-salestax",
+      "title": "Lakewood council sends sales tax increase to voters (Aug. 31, 2026)",
+      "publisher": "Jeffco Transcript / Colorado Community Media",
+      "url": "https://www.jeffcotranscript.com/news/article_cd5931e7-fba1-46be-bbfa-ca200017a72b.html",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-transcript-special-preview",
+      "title": "Lakewood special election on zoning ordinances (Mar. 12, 2026)",
+      "publisher": "Jeffco Transcript / Colorado Community Media",
+      "url": "https://www.jeffcotranscript.com/news/article_34cd2a1b-03f9-4640-8086-551caa3b08a1.html",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-transcript-special-results",
+      "title": "Early results in Lakewood zoning special election",
+      "publisher": "Jeffco Transcript / Colorado Community Media",
+      "url": "https://www.jeffcotranscript.com/news/article_22a3a86b-0b54-4d78-a1c8-2e34aca19bda.html",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-cosun-zoning",
+      "title": "Lakewood voters strike down pro-density zoning (Apr. 8, 2026)",
+      "publisher": "The Colorado Sun",
+      "url": "https://coloradosun.com/2026/04/08/lakewood-housing-voters-strike-down-pro-density-zoning/",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-denverite-explainer",
+      "title": "Lakewood development special election explainer (Apr. 2, 2026)",
+      "publisher": "Denverite",
+      "url": "https://denverite.com/2026/04/02/lakewood-development-special-election-explainer/",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-chalkbeat-guide",
+      "title": "Voter guide 2026: Jeffco Public Schools 5A and 5B (Oct. 7, 2026)",
+      "publisher": "Chalkbeat Colorado",
+      "url": "https://www.chalkbeat.org/colorado/2026/10/07/voter-guide-jeffco-public-schools-ballot-issues-5a-5b/",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-chalkbeat-referral",
+      "title": "Jeffco voters will consider $133 million in tax increases (Aug. 21, 2026)",
+      "publisher": "Chalkbeat Colorado",
+      "url": "https://www.chalkbeat.org/colorado/2026/08/21/jeffco-school-board-puts-133-million-mill-levy-overrides-on-ballot/",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-jeffco-schools-mlo",
+      "title": "2026 Mill Levy Override and Special Mill",
+      "publisher": "Jeffco Public Schools",
+      "url": "https://www.jeffcopublicschools.org/about/bond-and-mill-levy-overview/2026-mill-levy-override-and-special-mill",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-wmfr-7c",
+      "title": "West Metro November Ballot Issue (7C)",
+      "publisher": "West Metro Fire Protection District",
+      "url": "https://www.westmetrofire.org/west-metro-november-ballot-issue",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-wmfr-communities",
+      "title": "Communities Covered",
+      "publisher": "West Metro Fire Protection District",
+      "url": "https://www.westmetrofire.org/communities-covered",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-sb26-172",
+      "title": "SB26-172 session law (Front Range Passenger Rail District boundaries)",
+      "publisher": "Colorado General Assembly",
+      "url": "https://leg.colorado.gov/laws/session-laws/SB26-172/153/download",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-ballotpedia-frpr",
+      "title": "Two multi-county transit districts will decide on sales tax measures (Sept. 9, 2026)",
+      "publisher": "Ballotpedia News",
+      "url": "https://news.ballotpedia.org/2026/09/09/two-multi-county-transit-districts-in-california-and-colorado-will-decide-on-sales-tax-measures-to-fund-public-transportation-projects-in-november/",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-complete-frpr",
+      "title": "Front Range rail district tax and debt measure (Aug. 27, 2026)",
+      "publisher": "Complete Colorado",
+      "url": "https://completecolorado.com/2026/08/27/front-range-rail-district-major-tax-debt-hike/",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-cbs-tabor-2024",
+      "title": "Lakewood City Council approves ballot measure to permanently lift TABOR limits (Aug. 21, 2024)",
+      "publisher": "CBS News Colorado",
+      "url": "https://www.cbsnews.com/colorado/news/lakewood-city-council-approves-ballot-measure-permanently-lift-colorado-tabor-limits",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-bell-2024",
+      "title": "Communities Look to Ballot to Raise Revenue (Oct. 24, 2024)",
+      "publisher": "Bell Policy Center",
+      "url": "https://bellpolicy.org/2024/10/24/communities-look-to-ballot-to-raise-revenue",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-informer-tabor",
+      "title": "Broken promise on TABOR and corporate dark money",
+      "publisher": "Lakewood Informer (Substack newsletter)",
+      "url": "https://lakewoodinformer.substack.com/p/broken-promise-on-tabor-and-corporate",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-cml-spring2026",
+      "title": "Spring 2026 municipal election results",
+      "publisher": "Colorado Municipal League",
+      "url": "https://www.cml.org/home/publications-news/article-detail/spring-2026-municipal-election-results",
+      "retrieved_on": "2026-10-09"
+    }
+  ],
+  "contests": [],
+  "retention": [],
+  "measures": [
+    {
+      "id": "lakewood-2g",
+      "number": "Ballot Issue 2G",
+      "jurisdiction": "City of Lakewood",
+      "who_votes": "All City of Lakewood voters",
+      "short_title": "City sales tax increase for public safety and traffic safety",
+      "how_it_got_on_ballot": "Referred by city council (Aug. 24, 2026, 8-2 vote)",
+      "passing_threshold": "Majority",
+      "summary": "This would raise Lakewood's city sales and use tax from 3% to 3.5%. Food, including groceries, would not pay the added half-cent. The new money could only be used for public safety (including crime prevention and homelessness response) and traffic safety (streets, sidewalks, slowing traffic, and walking and biking safety). The city could keep and spend all of this money without TABOR limits. The city says the tax would be the first increase in about 20 years.",
+      "yes_means": "The city sales tax goes up by half a cent per dollar (to 3.5%), with the money set aside for public safety and traffic safety.",
+      "no_means": "The city sales tax stays at 3%.",
+      "money": "Up to $17.6 million in the first full year, then whatever the tax raises after that. That is 50 cents on a $100 taxable purchase. Food for home use is exempt from the increase.",
+      "supporters": [
+        {
+          "name": "Councilmembers Glenda Sinks, Jeslin Shahrezaei and Jacob LaBure (spoke for sending it to voters)",
+          "sources": [
+            "src-transcript-salestax"
+          ]
+        }
+      ],
+      "opponents": [
+        {
+          "name": "Mayor Wendi Strom and Councilmember Ken Cruz (voted against putting it on the ballot; reasons not reported)",
+          "sources": [
+            "src-transcript-salestax"
+          ]
+        }
+      ],
+      "sources": [
+        "src-jeffco-tabor-2026",
+        "src-jeffco-on-ballot",
+        "src-transcript-salestax",
+        "src-lkw-nov2026",
+        "src-lkw-o-2026-29"
+      ]
+    },
+    {
+      "id": "lakewood-2h",
+      "number": "Ballot Question 2H",
+      "jurisdiction": "City of Lakewood",
+      "who_votes": "All City of Lakewood voters",
+      "short_title": "When new mayor and council terms begin",
+      "how_it_got_on_ballot": "Referred by city council (Ordinance O-2026-25, Aug. 10, 2026, 11-0 vote)",
+      "passing_threshold": "Majority",
+      "summary": "This changes the city charter to say that a newly elected mayor or council member starts their term at the first regular council meeting after election results are certified. The city says this lets council hold its first November meeting instead of canceling it. The city says the actual swearing-in date would not change. If passed, it takes effect Jan. 1, 2027.",
+      "yes_means": "New mayor and council terms start at the first regular council meeting after results are certified.",
+      "no_means": "The charter's current wording on when terms start stays the same.",
+      "money": null,
+      "supporters": [],
+      "opponents": [],
+      "sources": [
+        "src-lkw-o-2026-25",
+        "src-lkw-ord-votes-2026",
+        "src-jeffco-on-ballot"
+      ]
+    },
+    {
+      "id": "lakewood-2i",
+      "number": "Ballot Question 2I",
+      "jurisdiction": "City of Lakewood",
+      "who_votes": "All City of Lakewood voters",
+      "short_title": "Voter approval required for city property tax increases",
+      "how_it_got_on_ballot": "Referred by city council (Ordinance O-2026-27, as amended, Aug. 10, 2026, 11-0 vote)",
+      "passing_threshold": "Majority",
+      "summary": "This would repeal and replace Section 12.12 of the city charter, the section on property taxes. According to the county's ballot information, the new section removes an outdated allowance for a yearly property tax increase and bars the city from raising property taxes unless voters approve.",
+      "yes_means": "The charter's property tax section is replaced with language that bars city property tax increases without a vote of the people.",
+      "no_means": "The current Section 12.12 of the charter stays as it is.",
+      "money": null,
+      "supporters": [],
+      "opponents": [],
+      "sources": [
+        "src-jeffco-on-ballot",
+        "src-lkw-ord-votes-2026",
+        "src-lkw-nov2026",
+        "src-jeffco-tabor-2026"
+      ]
+    },
+    {
+      "id": "lakewood-2j",
+      "number": "Ballot Question 2J",
+      "jurisdiction": "City of Lakewood",
+      "who_votes": "All City of Lakewood voters",
+      "short_title": "Timing of elections on citizen initiatives and referendums",
+      "how_it_got_on_ballot": "Referred by city council (Ordinance O-2026-28, Aug. 10, 2026, 11-0 vote)",
+      "passing_threshold": "Majority",
+      "summary": "When citizens petition to pass or repeal a city law, the charter now says the election must be held 30 to 90 days after the petition is found sufficient. This would change that window to 60 to 150 days. The city says the old window worked for in-person voting but is hard to meet for mail-ballot elections. If passed, it takes effect Jan. 1, 2027.",
+      "yes_means": "Elections on citizen initiatives and referendums would be held 60 to 150 days after a petition is found sufficient.",
+      "no_means": "The current 30-to-90-day window stays in place.",
+      "money": null,
+      "supporters": [],
+      "opponents": [],
+      "sources": [
+        "src-lkw-o-2026-28",
+        "src-lkw-ord-votes-2026",
+        "src-jeffco-on-ballot"
+      ]
+    },
+    {
+      "id": "jeffco-schools-5a",
+      "number": "Ballot Issue 5A",
+      "jurisdiction": "Jeffco Public Schools (Jefferson County School District R-1)",
+      "who_votes": "All Lakewood voters (all of Lakewood is in Jeffco Public Schools, which covers Jefferson County)",
+      "short_title": "School property tax for staff pay and career programs",
+      "how_it_got_on_ballot": "Referred by the school board (Aug. 20, 2026, unanimous)",
+      "passing_threshold": "Majority",
+      "summary": "This is a mill levy override, a local property tax increase for schools. It would raise $73 million a year, starting with taxes paid in 2027. Most of the money would go to pay for teachers, support staff and school leaders. About $10 million would expand career and technical education. A citizen committee would review spending and the district would report each year. Jeffco last passed a tax increase like this in 2018.",
+      "yes_means": "Property taxes go up to give Jeffco Schools $73 million more per year for staff pay and career programs.",
+      "no_means": "This school property tax increase does not happen.",
+      "money": "$73 million a year. The district says 5A and 5B together would cost about $3.50 a month per $100,000 of home value (about $42 a year), or about $273 a year on a $650,000 home.",
+      "supporters": [
+        {
+          "name": "Jeffco Board of Education (voted unanimously to refer; Vice President Erin Kenworthy and member Denine Echevarria spoke in favor)",
+          "sources": [
+            "src-chalkbeat-referral"
+          ]
+        }
+      ],
+      "opponents": [],
+      "sources": [
+        "src-jeffco-tabor-2026",
+        "src-jeffco-on-ballot",
+        "src-jeffco-schools-mlo",
+        "src-chalkbeat-guide",
+        "src-chalkbeat-referral"
+      ]
+    },
+    {
+      "id": "jeffco-schools-5b",
+      "number": "Ballot Issue 5B",
+      "jurisdiction": "Jeffco Public Schools (Jefferson County School District R-1)",
+      "who_votes": "All Lakewood voters (all of Lakewood is in Jeffco Public Schools, which covers Jefferson County)",
+      "short_title": "School property tax for building repairs, technology and safety",
+      "how_it_got_on_ballot": "Referred by the school board (Aug. 20, 2026, unanimous)",
+      "passing_threshold": "Majority",
+      "summary": "This is a special property tax for school buildings under the state's Debt Free Schools law. It would raise $60 million in its first year, and the amount could grow with inflation after that. The money must go into a separate fund for repairs, construction, technology and maintenance, such as roofs, heating and cooling, plumbing, parking lots and security. It is pay-as-you-go, not a bond, so no debt is taken on. The same citizen committee as 5A would oversee it.",
+      "yes_means": "Property taxes go up to give Jeffco Schools $60 million a year, rising with inflation, for building repairs, technology and safety.",
+      "no_means": "This school property tax increase does not happen.",
+      "money": "$60 million in the first year, which can rise with inflation. See 5A for the combined cost estimate to homeowners.",
+      "supporters": [
+        {
+          "name": "Jeffco Board of Education (voted unanimously to refer)",
+          "sources": [
+            "src-chalkbeat-referral"
+          ]
+        }
+      ],
+      "opponents": [],
+      "sources": [
+        "src-jeffco-tabor-2026",
+        "src-jeffco-on-ballot",
+        "src-jeffco-schools-mlo",
+        "src-chalkbeat-guide",
+        "src-chalkbeat-referral"
+      ]
+    },
+    {
+      "id": "west-metro-fire-7c",
+      "number": "Ballot Issue 7C",
+      "jurisdiction": "West Metro Fire Protection District",
+      "who_votes": "Voters living inside West Metro Fire Rescue's district. The district says it serves the City of Lakewood. Check your sample ballot to confirm.",
+      "short_title": "Fire district sales tax for emergency medical and fire services",
+      "how_it_got_on_ballot": "Referred by the fire district board",
+      "passing_threshold": "Majority",
+      "summary": "This would add a new 0.75% sales tax inside the West Metro Fire district. Groceries, gas and medicine would be exempt. The money would pay for emergency medical and fire response, staffing, safety gear for firefighters and paramedics, rescue equipment, and wildfire response. The district says it faces a $40 million funding gap in 2027 and has not asked voters for new money in over 20 years. A citizen board would review spending monthly, with a yearly independent audit.",
+      "yes_means": "A new 0.75% fire district sales tax is added (75 cents on a $100 purchase) to fund fire and emergency medical services.",
+      "no_means": "No new fire district sales tax.",
+      "money": "Up to $36.3 million in fiscal year 2027, then whatever the tax raises after that. The county's tax notice includes written comments against it, but they are not signed by a named group.",
+      "supporters": [
+        {
+          "name": "West Metro Fire Protection District (district's ballot information page)",
+          "sources": [
+            "src-wmfr-7c"
+          ]
+        }
+      ],
+      "opponents": [],
+      "sources": [
+        "src-jeffco-tabor-2026",
+        "src-jeffco-on-ballot",
+        "src-wmfr-7c",
+        "src-wmfr-communities"
+      ]
+    },
+    {
+      "id": "frpr-7a",
+      "number": "Ballot Issue 7A",
+      "jurisdiction": "Front Range Passenger Rail District",
+      "who_votes": "All Lakewood voters (state law SB26-172 names Lakewood as fully inside the district)",
+      "short_title": "Sales tax and borrowing for Front Range passenger rail",
+      "how_it_got_on_ballot": "Referred by the Front Range Passenger Rail District board (Aug. 28, 2026, 14-1 vote)",
+      "passing_threshold": "Majority of all votes cast across the whole district",
+      "summary": "This would add a 0.333% sales tax (about a third of a cent per dollar) in a district that runs along the Front Range and includes Lakewood. It would also let the district borrow up to $580 million. The money would build and run a planned passenger train, called the Colorado Connector, between Fort Collins and Pueblo. Service between Denver and Fort Collins is planned first. The legislature redrew the district in 2026 to include named cities, including Lakewood.",
+      "yes_means": "A new 0.333% district sales tax is added and the district may borrow up to $580 million for Front Range passenger rail.",
+      "no_means": "No new rail district sales tax or borrowing.",
+      "money": "About $295 million a year at first, rising later. Up to $580 million in debt, with total repayment up to about $785 million.",
+      "supporters": [
+        {
+          "name": "John Putnam, chair of the Front Range Passenger Rail District",
+          "sources": [
+            "src-ballotpedia-frpr"
+          ]
+        },
+        {
+          "name": "Jack Wheeler, president, Colorado Rail Passenger Association",
+          "sources": [
+            "src-ballotpedia-frpr"
+          ]
+        }
+      ],
+      "opponents": [
+        {
+          "name": "Randal O'Toole, Independence Institute",
+          "sources": [
+            "src-ballotpedia-frpr"
+          ]
+        },
+        {
+          "name": "Denver Gazette Editorial Board",
+          "sources": [
+            "src-ballotpedia-frpr"
+          ]
+        }
+      ],
+      "sources": [
+        "src-jeffco-on-ballot",
+        "src-sb26-172",
+        "src-ballotpedia-frpr",
+        "src-complete-frpr"
+      ]
+    }
+  ],
+  "facts": [
+    {
+      "key": "no-lakewood-council-races-2026",
+      "text": "There are no Lakewood mayor or city council races on the 2026 ballot. Lakewood elects its mayor and council in November of odd-numbered years, for four-year terms. Even years may have city ballot questions only.",
+      "sources": [
+        "src-lkw-elections"
+      ]
+    },
+    {
+      "key": "next-city-election",
+      "text": "The next regular Lakewood city election, with mayor and council races, is expected in November 2027 (first Tuesday of November is Nov. 2, 2027).",
+      "sources": [
+        "src-lkw-elections"
+      ]
+    },
+    {
+      "key": "april-2026-special-what",
+      "text": "On April 7, 2026, Lakewood held an all-mail special election on four questions. Residents had petitioned to repeal four zoning ordinances (2025-27 to 2025-30) that council passed on Oct. 13, 2025. The new rules would have allowed duplexes, townhomes and small multiplexes in most neighborhoods that had been single-family only. A yes vote meant repeal; a no vote meant keep.",
+      "sources": [
+        "src-lkw-special",
+        "src-transcript-special-preview",
+        "src-denverite-explainer"
+      ]
+    },
+    {
+      "key": "april-2026-special-result",
+      "text": "Voters repealed all four zoning ordinances. Final official results: about 62% voted yes (repeal) and about 37% to 38% voted no on each question, with 35,760 ballots cast. Question 1, for example, was 22,310 yes to 13,357 no. The prior zoning rules came back.",
+      "sources": [
+        "src-lkw-special",
+        "src-cosun-zoning",
+        "src-cml-spring2026"
+      ]
+    },
+    {
+      "key": "april-2026-special-sides",
+      "text": "The repeal side was led by Karen Gordey and the Lakewood Citizens Alliance, with Imagine Lakewood and Lakewood for All. The keep side, Make Lakewood Livable, was backed by Mayor Wendi Strom, Rep. Brittany Pettersen, the ACLU and AARP Colorado. City Council had passed a resolution urging a no vote.",
+      "sources": [
+        "src-denverite-explainer",
+        "src-cosun-zoning",
+        "src-transcript-special-preview"
+      ]
+    },
+    {
+      "key": "lakewood-tabor-decided-2024",
+      "text": "Lakewood's measure to permanently keep revenue above TABOR limits is not on the 2026 ballot. It was Ballot Issue 2A in November 2024. The money kept is split among parks and open space, public safety, and streets and sidewalks. A 2018 vote had allowed this only through 2025.",
+      "sources": [
+        "src-bell-2024",
+        "src-cbs-tabor-2024",
+        "src-lkw-r-2024-54"
+      ]
+    },
+    {
+      "key": "lakewood-tabor-2024-result",
+      "text": "Lakewood voters approved 2024's Ballot Issue 2A, according to a local newsletter. This guide did not get the official vote count.",
+      "sources": [
+        "src-informer-tabor"
+      ]
+    },
+    {
+      "key": "no-county-rtd-measures",
+      "text": "The county's list of 2026 local measures shows no Jefferson County, RTD, Foothills Park & Recreation District, or library district question. For Lakewood, the local questions are 2G, 2H, 2I, 2J, 5A, 5B, 7A and 7C (7C only inside West Metro Fire).",
+      "sources": [
+        "src-jeffco-on-ballot",
+        "src-jeffco-tabor-2026"
+      ]
+    },
+    {
+      "key": "vacancy-amendment-failed",
+      "text": "A fourth proposed charter change, on how to fill council vacancies, did not pass council (0-11 on Aug. 10, 2026) and is not on the ballot.",
+      "sources": [
+        "src-lkw-ord-votes-2026",
+        "src-lkw-o-2026-26"
+      ]
+    },
+    {
+      "key": "election-day",
+      "text": "Election Day is Tuesday, Nov. 3, 2026. Ballots must be received by 7 p.m. that day. Postmarks do not count.",
+      "sources": [
+        "src-jeffco-upcoming",
+        "src-jeffco-tabor-2026"
+      ]
+    },
+    {
+      "key": "ballots-mailed",
+      "text": "Jefferson County mails ballots and opens drop boxes on Oct. 5, 2026.",
+      "sources": [
+        "src-jeffco-upcoming",
+        "src-jeffco-elections"
+      ]
+    },
+    {
+      "key": "register-deadline-mail",
+      "text": "To get a ballot in the mail, register or update your address by Monday, Oct. 26, 2026 (8 days before Election Day). You can do this online at GoVoteColorado.gov.",
+      "sources": [
+        "src-jeffco-upcoming",
+        "src-sos-reg-faq"
+      ]
+    },
+    {
+      "key": "same-day-registration",
+      "text": "After Oct. 26, you can still register and vote in person at any Voter Service and Polling Center, up to and on Election Day.",
+      "sources": [
+        "src-sos-reg-faq"
+      ]
+    },
+    {
+      "key": "last-day-to-mail",
+      "text": "Monday, Oct. 26 is the last day the county advises mailing your ballot back. After that, use a drop box or a vote center. Mailed ballots need postage; drop boxes do not.",
+      "sources": [
+        "src-jeffco-upcoming",
+        "src-jeffco-voting-sites"
+      ]
+    },
+    {
+      "key": "drop-boxes",
+      "text": "Drop boxes are open Oct. 5 until 7 p.m. on Nov. 3. Most are open 24 hours. Lakewood drop boxes include Belmar Library (555 S Allison Pkwy), Lakewood Civic Center (480 S Allison Pkwy), Lakewood Library (10200 W 20th Ave), Carmody, Green Mountain and Lakewood Link rec centers, Foothills Fieldhouse, Ray Ross Park, Jeffco Public Health (645 Parfet St), and drive-up boxes at Colorado Christian University and Red Rocks Community College. Full list: jeffco.us/3907/Find-a-Voting-Site.",
+      "sources": [
+        "src-jeffco-voting-sites"
+      ]
+    },
+    {
+      "key": "vote-centers",
+      "text": "Voter Service and Polling Centers start opening Oct. 19. Hours are 8 a.m. to 5 p.m. weekdays through Nov. 2, 8 a.m. to 5 p.m. on Saturday Oct. 31, and 7 a.m. to 7 p.m. on Election Day. Belmar Library opens Oct. 19. More Lakewood centers open Oct. 30 (Green Mountain Rec Center, Lakewood Link Rec Center, Jeffco Public Health, Red Rocks Community College, West Metro Fire Training Center) and Nov. 2 (Bear Valley Church, Lakewood Elks Lodge, Lakewood Library).",
+      "sources": [
+        "src-jeffco-voting-sites"
+      ]
+    },
+    {
+      "key": "ballot-tracking",
+      "text": "You can sign up to track your ballot by text, email or phone through BallotTrax (ballottrax.coloradosos.gov). The county's Track Your Ballot link goes there.",
+      "sources": [
+        "src-jeffco-track",
+        "src-ballottrax"
+      ]
+    },
+    {
+      "key": "id-rules",
+      "text": "You must show ID to vote in person. First-time mail voters may need to send a copy of ID with their ballot. Accepted ID includes a Colorado driver's license or ID, U.S. passport, Medicare or Medicaid card, or a utility bill, bank statement or paycheck from the last 60 days with your name and Colorado address. Digital IDs count.",
+      "sources": [
+        "src-sos-id"
+      ]
+    },
+    {
+      "key": "county-contact",
+      "text": "Jefferson County Elections: 3500 Illinois St., Suite 1100, Golden, CO 80401; phone 303-271-8111; website jeffco.us/4947/Elections. Check your registration at GoVoteColorado.gov.",
+      "sources": [
+        "src-jeffco-elections",
+        "src-jeffco-upcoming"
+      ]
+    },
+    {
+      "key": "registration-eligibility",
+      "text": "To vote you must be a U.S. citizen, 18 or older by Election Day, and a Colorado resident for at least 22 days before the election.",
+      "sources": [
+        "src-lkw-nov2026"
+      ]
+    }
+  ],
+  "open_questions": [
+    "Lakewood 2G: no registered issue committee for or against was found. The only named supporters and opponents are council members based on their referral votes and comments.",
+    "Jeffco 5A/5B and West Metro 7C: the county tax notice has unsigned comments for and against. No named campaign committees were found in sources.",
+    "West Metro Fire 7C: the district says it serves the City of Lakewood, but not checked against a boundary map whether every Lakewood address is inside the district. Some south Lakewood areas may differ. Voters should check their sample ballot.",
+    "Front Range Passenger Rail 7A: the $295M/yr and $580M debt figures come from news reports and the county's ballot-title excerpt. The official TABOR notice for 7A was not in the county booklet retrieved.",
+    "Lakewood 2024 Ballot Issue 2A (permanent TABOR retention): the only source found for 'approved' is a local Substack newsletter. Official 2024 vote totals (Jeffco Clarity results) could not be fetched.",
+    "Mail ballot send date: Jeffco says Oct. 5; the City of Lakewood page says 'first week of October.' Treated Oct. 5 as the county's date.",
+    "Charter amendment ballot positions: the mapping (2H = Amendment No. 2 term start; 2J = Amendment No. 1 initiative timing) is from matching titles in the county list against ordinance titles, not from a single official cross-reference.",
+    "Foothills Park & Recreation District, RTD, Jefferson County government, library district, and Lakewood-area metro districts: no measures found on the county's 2026 local list. Some small metro districts may run separate elections not listed there.",
+    "Charter amendment numbering (No. 1 / No. 2) for 2H and 2J not shown in county title excerpts; removed from labels."
+  ]
+}

@@ -1,0 +1,602 @@
+{
+  "section": "Statewide office candidates",
+  "sources": [
+    {
+      "id": "src-cpol-sos",
+      "title": "Secretary of State | Gonzalez, Wiley are top contenders for open seat",
+      "publisher": "Colorado Politics",
+      "url": "https://www.coloradopolitics.com/2026/10/02/gonzales-wiley-vadney-landry-secretary-of-state/",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-wiki-sos",
+      "title": "2026 Colorado Secretary of State election",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/2026_Colorado_Secretary_of_State_election",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-sun-sos-primary",
+      "title": "Colorado primary election: secretary of state results",
+      "publisher": "The Colorado Sun",
+      "url": "https://coloradosun.com/2026/06/30/colorado-primary-election-secretary-of-state-results/",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-gonzalez-site",
+      "title": "Amanda Gonzalez for Colorado",
+      "publisher": "Amanda Gonzalez campaign",
+      "url": "https://www.amandaforcolorado.com/",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-krdo-wiley",
+      "title": "James Wiley (2026 Secretary of State race)",
+      "publisher": "KRDO",
+      "url": "https://krdo.com/2026-secretary-of-state-race/2026/06/15/james-wiley/",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-wiley-site",
+      "title": "James Wiley for Colorado",
+      "publisher": "James Wiley campaign",
+      "url": "https://wileyforcolorado.com/",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-cpr-vadney",
+      "title": "2026 primary election voter guide: Colorado secretary of state, Sean Vadney",
+      "publisher": "CPR News",
+      "url": "https://www.cpr.org/2026/05/29/vg-2026-primary-election-colorado-secretary-of-state-sean-vadney/",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-vadney-site",
+      "title": "Sean Vadney for Colorado Secretary of State",
+      "publisher": "Sean Vadney campaign",
+      "url": "https://seanvadneyforsos.org/",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-vadney-about",
+      "title": "About Sean",
+      "publisher": "Sean Vadney campaign",
+      "url": "https://seanvadneyforsos.org/about-sean",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-ballotready-campbell",
+      "title": "Amanda Campbell",
+      "publisher": "BallotReady",
+      "url": "https://www.ballotready.org/people/amanda-campbell",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-krdo-campbell-2022",
+      "title": "KRDO Voter Guide: Amanda Campbell",
+      "publisher": "KRDO",
+      "url": "https://krdo.com/2022-voter-guide/2022/10/28/krdo-voter-guide-amanda-campbell/",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-campbell-site",
+      "title": "Amanda Campbell campaign site",
+      "publisher": "Amanda Campbell campaign",
+      "url": "http://www.campbellgoodforcolorado.com/",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-landry-site",
+      "title": "Celeste Landry for Secretary of State",
+      "publisher": "Celeste Landry campaign",
+      "url": "https://www.celeste4sos.com/",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-landry-meet",
+      "title": "Meet Celeste",
+      "publisher": "Celeste Landry campaign",
+      "url": "https://www.celeste4sos.com/meet",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-cpol-treas",
+      "title": "State Treasurer | Grantham, Bridges, Barr seek top financial position",
+      "publisher": "Colorado Politics",
+      "url": "https://www.coloradopolitics.com/2026/10/02/state-treasurer-grantham-bridges-barr-seek-top-financial-position-3/",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-wiki-treas",
+      "title": "2026 Colorado State Treasurer election",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/2026_Colorado_State_Treasurer_election",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-leg-bridges",
+      "title": "Senator Jeff Bridges",
+      "publisher": "Colorado General Assembly",
+      "url": "https://leg.colorado.gov/legislators/jeff-bridges",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-wiki-bridges",
+      "title": "Jeff Bridges (politician)",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Jeff_Bridges_(politician)",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-bridges-site",
+      "title": "Jeff Bridges for Colorado Treasurer",
+      "publisher": "Jeff Bridges campaign",
+      "url": "https://bridgesforcolorado.com/",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-cpr-grantham",
+      "title": "Kevin Grantham runs for Colorado treasurer",
+      "publisher": "CPR News",
+      "url": "https://www.cpr.org/2025/09/16/kevin-grantham-runs-for-colorado-treasurer-2026/",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-grantham-site",
+      "title": "Kevin Grantham for Treasurer",
+      "publisher": "Kevin Grantham campaign",
+      "url": "https://citizensforkevingrantham.com/",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-goodparty-sturgis",
+      "title": "Marilee Sturgis, Colorado Treasurer",
+      "publisher": "GoodParty.org",
+      "url": "https://goodparty.org/candidate/marilee-sturgis/colorado-treasurer",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-ballotbrief-sturgis",
+      "title": "Marilee Langner Sturgis",
+      "publisher": "The Ballot Brief",
+      "url": "https://theballotbrief.com/candidate/marilee-langner-sturgis-co",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-cpol-ag",
+      "title": "Attorney General | Griswold, Allen vie to become next attorney general",
+      "publisher": "Colorado Politics",
+      "url": "https://www.coloradopolitics.com/2026/10/02/colorado-griswold-allen-attorney-general-race/",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-wiki-ag",
+      "title": "2026 Colorado Attorney General election",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/2026_Colorado_Attorney_General_election",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-griswold-about",
+      "title": "About Jena",
+      "publisher": "Jena Griswold campaign",
+      "url": "https://www.jenaforcolorado.com/about",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-allen-site",
+      "title": "Michael Allen for Colorado",
+      "publisher": "Michael Allen campaign",
+      "url": "https://michaelallenforcolorado.com/",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-cde-esser",
+      "title": "Board Member Profiles: Karla Esser",
+      "publisher": "Colorado Department of Education",
+      "url": "https://ed.cde.state.co.us/cdeboard/board-member-profiles-karla-esser",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-bp-esser",
+      "title": "Karla Esser",
+      "publisher": "Ballotpedia",
+      "url": "https://ballotpedia.org/Karla_Esser",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-ballotbrief-sboe7",
+      "title": "Member, Colorado State Board of Education, 7th Congressional District",
+      "publisher": "The Ballot Brief",
+      "url": "https://theballotbrief.com/state/colorado/fremont-county/member-colorado-state-board-of-education-7th-congressional-district",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-ivg-barton",
+      "title": "Steve Barton",
+      "publisher": "iVoterGuide",
+      "url": "https://ivoterguide.com/candidate/92887/race/32771/election/1475",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-barton-site",
+      "title": "Steve Barton campaign for CD7 State Board of Education",
+      "publisher": "Steve Barton campaign",
+      "url": "https://www.stevebartoncampaignforcd7statesboardofeducation.com/",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-ivg-klopf",
+      "title": "Ross Klopf",
+      "publisher": "iVoterGuide",
+      "url": "https://ivoterguide.com/candidate/72945/race/32771/election/1475",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-regents-chavez",
+      "title": "Nolbert Chavez",
+      "publisher": "University of Colorado Board of Regents",
+      "url": "https://regents.cu.edu/meet-the-regents/nolbert-chavez",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-cudenver-citycenter",
+      "title": "CityCenter: Contact Us",
+      "publisher": "CU Denver",
+      "url": "https://www.ucdenver.edu/centers/city-center/contact-us",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-ballotbrief-regent7",
+      "title": "Member, University of Colorado Board of Regents, 7th Congressional District",
+      "publisher": "The Ballot Brief",
+      "url": "https://theballotbrief.com/state/colorado/park-county/member-university-of-colorado-board-of-regents-7th-congressional-district",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-mueller-site",
+      "title": "Paul Mueller for CU Regent",
+      "publisher": "Paul Mueller campaign",
+      "url": "https://paulmuellerforco.com/",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-ivg-ryan",
+      "title": "Bette Rose Ryan",
+      "publisher": "iVoterGuide",
+      "url": "https://ivoterguide.com/candidate/72992/race/32775/election/1475",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-lpco-candidates",
+      "title": "Candidates",
+      "publisher": "Libertarian Party of Colorado",
+      "url": "https://lpcolorado.org/candidates-2",
+      "retrieved_on": "2026-10-09"
+    }
+  ],
+  "people": [
+    {
+      "name": "Amanda Gonzalez",
+      "contest_id": "secretary-of-state",
+      "aka": [],
+      "bio": "Amanda Gonzalez, a Democrat, is the Jefferson County clerk and recorder, an office she won in 2022. An attorney, she was executive director of Colorado Common Cause from 2018 to 2021 and is an adjunct law professor at the University of Denver.",
+      "bio_sources": [
+        "src-sun-sos-primary",
+        "src-wiki-sos",
+        "src-gonzalez-site"
+      ],
+      "website": "https://www.amandaforcolorado.com/",
+      "website_sources": [
+        "src-cpol-sos",
+        "src-gonzalez-site"
+      ],
+      "endorsements": [],
+      "answers": [],
+      "finance": []
+    },
+    {
+      "name": "James Wiley",
+      "contest_id": "secretary-of-state",
+      "aka": [],
+      "bio": "James Wiley is the Republican nominee and a former executive director of the Libertarian Party of Colorado who switched parties to run. He holds a degree and an MBA from CSU-Pueblo, has worked as a business consultant, and has been involved in election-related lawsuits and advocacy, including founding a group called the Union of Ballot Counters.",
+      "bio_sources": [
+        "src-wiki-sos",
+        "src-krdo-wiley",
+        "src-wiley-site",
+        "src-cpol-sos"
+      ],
+      "website": "https://wileyforcolorado.com/",
+      "website_sources": [
+        "src-cpol-sos",
+        "src-wiley-site"
+      ],
+      "endorsements": [],
+      "answers": [],
+      "finance": []
+    },
+    {
+      "name": "Sean Vadney",
+      "contest_id": "secretary-of-state",
+      "aka": [],
+      "bio": "Sean Vadney, of Highlands Ranch, is a musician and small business owner who has been involved with the Libertarian Party of Colorado since 2019 and has served as its communications director. The party's vacancy committee named him its nominee after primary winner Alex Astley withdrew.",
+      "bio_sources": [
+        "src-cpr-vadney",
+        "src-wiki-sos",
+        "src-vadney-about"
+      ],
+      "website": "https://seanvadneyforsos.org/",
+      "website_sources": [
+        "src-cpol-sos",
+        "src-vadney-site"
+      ],
+      "endorsements": [],
+      "answers": [],
+      "finance": []
+    },
+    {
+      "name": "Amanda Campbell",
+      "contest_id": "secretary-of-state",
+      "aka": [],
+      "bio": "Amanda Campbell is the American Constitution Party nominee for secretary of state, an office she also ran for in 2018 and 2022. A Colorado native, she describes herself as a former business owner.",
+      "bio_sources": [
+        "src-ballotready-campbell",
+        "src-krdo-campbell-2022",
+        "src-campbell-site"
+      ],
+      "website": "http://www.campbellgoodforcolorado.com/",
+      "website_sources": [
+        "src-ballotready-campbell",
+        "src-campbell-site"
+      ],
+      "endorsements": [],
+      "answers": [],
+      "finance": []
+    },
+    {
+      "name": "Celeste Landry",
+      "contest_id": "secretary-of-state",
+      "aka": [],
+      "bio": "Celeste Landry, of Boulder, is the Forward Party nominee. She has worked as a math teacher and a manufacturing production scheduler, and has been a volunteer lobbyist on election issues, including with the League of Women Voters, and a leader of groups that advocate for alternative voting methods.",
+      "bio_sources": [
+        "src-landry-meet",
+        "src-cpol-sos"
+      ],
+      "website": "https://www.celeste4sos.com/",
+      "website_sources": [
+        "src-cpol-sos",
+        "src-landry-site"
+      ],
+      "endorsements": [],
+      "answers": [],
+      "finance": []
+    },
+    {
+      "name": "Jeff Bridges",
+      "contest_id": "state-treasurer",
+      "aka": [],
+      "bio": "Jeff Bridges, a Democrat from Greenwood Village, has represented Senate District 26 in the Colorado Senate since 2019 and serves on the legislature's Joint Budget Committee. He served in the Colorado House from 2017 to 2019 and earlier worked for U.S. Sen. Ken Salazar and for Union Theological Seminary.",
+      "bio_sources": [
+        "src-wiki-bridges",
+        "src-leg-bridges",
+        "src-bridges-site",
+        "src-wiki-treas"
+      ],
+      "website": "https://bridgesforcolorado.com/",
+      "website_sources": [
+        "src-cpol-treas",
+        "src-bridges-site"
+      ],
+      "endorsements": [],
+      "answers": [],
+      "finance": []
+    },
+    {
+      "name": "Kevin Grantham",
+      "contest_id": "state-treasurer",
+      "aka": [],
+      "bio": "Kevin Grantham, a Republican from Cañon City, has been a Fremont County commissioner since 2021. He served in the Colorado Senate from 2011 to 2019, including as Senate president in 2017 and 2018, and served on the Joint Budget Committee.",
+      "bio_sources": [
+        "src-cpr-grantham",
+        "src-wiki-treas",
+        "src-cpol-treas"
+      ],
+      "website": "https://citizensforkevingrantham.com/",
+      "website_sources": [
+        "src-cpol-treas",
+        "src-grantham-site"
+      ],
+      "endorsements": [],
+      "answers": [],
+      "finance": []
+    },
+    {
+      "name": "Jodie Barr",
+      "contest_id": "state-treasurer",
+      "aka": [],
+      "bio": "Jodie Barr is the Libertarian nominee for state treasurer and, according to Colorado Politics, has run a small business and studied state and municipal finance.",
+      "bio_sources": [
+        "src-cpol-treas"
+      ],
+      "website": null,
+      "website_sources": [],
+      "endorsements": [],
+      "answers": [],
+      "finance": []
+    },
+    {
+      "name": "Marilee Langner Sturgis",
+      "contest_id": "state-treasurer",
+      "aka": [],
+      "bio": null,
+      "bio_sources": [],
+      "website": null,
+      "website_sources": [
+        "src-ballotbrief-sturgis",
+        "src-goodparty-sturgis"
+      ],
+      "endorsements": [],
+      "answers": [],
+      "finance": []
+    },
+    {
+      "name": "Michael J. Allen",
+      "contest_id": "attorney-general",
+      "aka": [
+        "Michael Allen"
+      ],
+      "bio": "Michael J. Allen, a Republican, has been district attorney for the 4th Judicial District (El Paso and Teller counties) since 2021; he was first elected in 2020 and re-elected in 2024. He served eight years in the U.S. Navy and worked as a consumer protection attorney in the Kansas Attorney General's Office.",
+      "bio_sources": [
+        "src-cpol-ag",
+        "src-allen-site",
+        "src-wiki-ag"
+      ],
+      "website": "https://michaelallenforcolorado.com/",
+      "website_sources": [
+        "src-cpol-ag",
+        "src-allen-site"
+      ],
+      "endorsements": [],
+      "answers": [],
+      "finance": []
+    },
+    {
+      "name": "Jena Griswold",
+      "contest_id": "attorney-general",
+      "aka": [],
+      "bio": "Jena Griswold, a Democrat, has been Colorado secretary of state since 2019 and is term-limited in that office. An attorney who grew up in Estes Park, she previously practiced international anti-corruption law in Washington, D.C., and directed the Colorado governor's Washington, D.C., office.",
+      "bio_sources": [
+        "src-cpol-ag",
+        "src-griswold-about",
+        "src-wiki-ag"
+      ],
+      "website": "https://www.jenaforcolorado.com/",
+      "website_sources": [
+        "src-cpol-ag",
+        "src-griswold-about"
+      ],
+      "endorsements": [],
+      "answers": [],
+      "finance": []
+    },
+    {
+      "name": "Karla Esser",
+      "contest_id": "sboe-cd7",
+      "aka": [],
+      "bio": "Karla Esser, a Democrat from Lakewood, has represented the 7th Congressional District on the State Board of Education since January 2021. She has worked in education for more than 35 years as a teacher, school and district administrator and professor, and recently retired as director of the Master of Arts in Education program at Regis University.",
+      "bio_sources": [
+        "src-cde-esser",
+        "src-bp-esser"
+      ],
+      "website": "https://www.karlaesser.com/",
+      "website_sources": [
+        "src-ballotbrief-sboe7"
+      ],
+      "endorsements": [],
+      "answers": [],
+      "finance": []
+    },
+    {
+      "name": "Steve Barton",
+      "contest_id": "sboe-cd7",
+      "aka": [
+        "Steven Barton"
+      ],
+      "bio": "Steve Barton, a Republican, is a patent attorney who most recently worked at Cozen O'Connor and earlier at Lathrop GPM, after working as an engineer at Intel and Ford Microelectronics. He holds degrees in engineering, law, medicine and business, and lists himself as vacancy chair of the Fremont County Republican Central Committee.",
+      "bio_sources": [
+        "src-ivg-barton",
+        "src-barton-site"
+      ],
+      "website": "https://www.stevebartoncampaignforcd7statesboardofeducation.com/",
+      "website_sources": [
+        "src-ivg-barton",
+        "src-barton-site"
+      ],
+      "endorsements": [],
+      "answers": [],
+      "finance": []
+    },
+    {
+      "name": "Ross Klopf",
+      "contest_id": "sboe-cd7",
+      "aka": [],
+      "bio": "Ross Klopf, a Libertarian, is a civil engineer who has worked for about 25 years in water resources and transportation. He was previously active with the Libertarian Party of Jefferson County.",
+      "bio_sources": [
+        "src-ivg-klopf"
+      ],
+      "website": null,
+      "website_sources": [],
+      "endorsements": [],
+      "answers": [],
+      "finance": []
+    },
+    {
+      "name": "Paul Mueller",
+      "contest_id": "cu-regent-cd7",
+      "aka": [],
+      "bio": "Paul Mueller, a Republican from Leadville, is a senior research fellow at the American Institute for Economic Research and owns a bed and breakfast in Leadville. He holds a Ph.D. in economics from George Mason University and previously taught at The King's College in New York City.",
+      "bio_sources": [
+        "src-mueller-site",
+        "src-ballotbrief-regent7"
+      ],
+      "website": "https://paulmuellerforco.com/",
+      "website_sources": [
+        "src-ballotbrief-regent7",
+        "src-mueller-site"
+      ],
+      "endorsements": [],
+      "answers": [],
+      "finance": []
+    },
+    {
+      "name": "Nolbert Chavez",
+      "contest_id": "cu-regent-cd7",
+      "aka": [],
+      "bio": "Nolbert Chavez, a Democrat from Lakewood, has represented the 7th Congressional District on the University of Colorado Board of Regents since 2021. He is chief of external initiatives and executive director of CityCenter at CU Denver, and served four terms in the Colorado House of Representatives from 1995 to 2002.",
+      "bio_sources": [
+        "src-regents-chavez",
+        "src-cudenver-citycenter"
+      ],
+      "website": "https://chavezforcu.com/",
+      "website_sources": [
+        "src-ballotbrief-regent7"
+      ],
+      "endorsements": [],
+      "answers": [],
+      "finance": []
+    },
+    {
+      "name": "BetteRose Ryan",
+      "contest_id": "cu-regent-cd7",
+      "aka": [
+        "Bette Rose Ryan",
+        "BettyRose Ryan"
+      ],
+      "bio": "BetteRose Ryan, a Libertarian, is an Army veteran who studied mathematics at Metropolitan State University of Denver. She was a Libertarian candidate for Colorado State Senate District 20 in 2022.",
+      "bio_sources": [
+        "src-ivg-ryan",
+        "src-lpco-candidates"
+      ],
+      "website": null,
+      "website_sources": [],
+      "endorsements": [],
+      "answers": [],
+      "finance": []
+    }
+  ],
+  "open_questions": [
+    "Amanda Gonzalez: no official Jefferson County bio page found; 'won in 2022' per Colorado Sun (took office Jan 2023 presumably); home city not sourced (Sun says Jefferson County resident).",
+    "James Wiley: current home city not sourced (campaign mailing address is Littleton; raised partly in Pueblo). Bio relies partly on self-reported KRDO questionnaire and campaign site.",
+    "Amanda Campbell: campaign site campbellgoodforcolorado.com has no year references and may be a carry-over from 2018/2022 runs; BallotReady lists it for 2026. No 2026 news coverage found (Colorado Politics' SoS roundup omits her). Home city unknown.",
+    "Celeste Landry: Ballotpedia also lists Melissa Richards (Unaffiliated) in the SoS general election; she is not in our contest list - confirm against certified ballot.",
+    "Jeff Bridges: Colorado Politics and his campaign call him Joint Budget Committee chair; leg.colorado.gov lists him as JBC vice chair. Bio says 'serves on' the JBC to avoid the conflict.",
+    "Jodie Barr: no campaign website, home city, or detailed bio found; bio rests only on Colorado Politics.",
+    "Marilee Langner Sturgis: no bio, home city or campaign website found (GoodParty profile unclaimed; Ballot Brief says no campaign website as of Sept 8, 2026); bio left null. Did not respond to Colorado Politics questionnaire.",
+    "Michael J. Allen and Jena Griswold: current home cities not sourced.",
+    "Karla Esser: campaign site karlaesser.com is cited by The Ballot Brief but blocked from direct fetch (robots); not independently verified.",
+    "Steve Barton: home city not stated (Fremont County GOP chair role suggests Fremont County). iVoterGuide data is self-reported.",
+    "Ross Klopf: no campaign website (only Facebook 'Ross Klopf for CD7' and X accounts per iVoterGuide); home city unknown. iVoterGuide also shows a 2022 US House CD7 profile, not confirmed elsewhere so omitted from bio.",
+    "Nolbert Chavez: chavezforcu.com cited by The Ballot Brief but blocked from direct fetch; regents.cu.edu lists an older title (Chief Strategy Officer) while CU Denver's CityCenter page lists Chief of External Initiatives & Executive Director - used the latter.",
+    "BetteRose Ryan: no campaign website or home city found; LP Colorado spells her name 'BettyRose' in one listing and iVoterGuide uses 'Bette Rose'. Bio is from self-reported iVoterGuide profile."
+  ]
+}

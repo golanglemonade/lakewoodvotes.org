@@ -1,0 +1,787 @@
+{
+  "section": "Federal and statewide offices",
+  "sources": [
+    {
+      "id": "src-jeffco-sample-ballot",
+      "title": "2026 General Election Sample Ballot (all possible races, Jefferson County)",
+      "publisher": "Jefferson County Clerk and Recorder",
+      "url": "https://www.jeffco.us/DocumentCenter/View/59222",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-jeffco-on-ballot",
+      "title": "On the Ballot (2026 General Election)",
+      "publisher": "Jefferson County Clerk and Recorder",
+      "url": "https://www.jeffco.us/4652/On-the-Ballot",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-jeffco-elections",
+      "title": "Elections: key dates for the 2026 General Election",
+      "publisher": "Jefferson County Clerk and Recorder",
+      "url": "https://www.jeffco.us/4947/Elections",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-cpr-midterm-guide",
+      "title": "CPR News' voter guide to the 2026 midterm election",
+      "publisher": "Colorado Public Radio",
+      "url": "https://www.cpr.org/2026/09/24/vg-2026-colorado-midterm-election-voter-guide/",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-cpr-regents-guide",
+      "title": "Voter guide for the University of Colorado Board of Regents",
+      "publisher": "Colorado Public Radio",
+      "url": "https://www.cpr.org/2026/09/24/vg-2026-cu-board-of-regents-voter-guide/",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-cpr-primary-results",
+      "title": "See all the Colorado 2026 primary results, as they happened",
+      "publisher": "Colorado Public Radio",
+      "url": "https://www.cpr.org/2026/06/30/colorado-primary-election-2026-results-live-updates/",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-bhfs-primary",
+      "title": "Colorado 2026 Primary Election Results (client alert, July 1, 2026)",
+      "publisher": "Brownstein Hyatt Farber Schreck",
+      "url": "https://www.bhfs.com/wp-content/uploads/2026/07/Client-Alert-CO-Primary-Election-Results-2026.final_.formatted.pdf",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-copolitics-marx-markert",
+      "title": "Republican Victor Marx taps George Markert as his lieutenant governor pick",
+      "publisher": "Colorado Politics",
+      "url": "https://www.coloradopolitics.com/2026/07/31/republican-victor-marx-taps-george-markert-as-his-lieutenant-governor-pick-in-colorados-gubernatorial-race/",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-gazette-governor",
+      "title": "Colorado governor: Weiser, Marx and Lopez vie for top state seat",
+      "publisher": "Denver Gazette",
+      "url": "https://www.denvergazette.com/2026/10/02/colorado-governor-weiser-marx-and-lopez-vie-for-top-state-seat-4/",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-greenpapers-co",
+      "title": "Colorado 2026 General Election",
+      "publisher": "The Green Papers",
+      "url": "https://www.thegreenpapers.com/G26/CO",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-wiki-sos-2026",
+      "title": "2026 Colorado Secretary of State election",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/2026_Colorado_Secretary_of_State_election",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-wiki-treasurer-2026",
+      "title": "2026 Colorado State Treasurer election",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/2026_Colorado_State_Treasurer_election",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-wiki-cd7",
+      "title": "Colorado's 7th congressional district",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Colorado%27s_7th_congressional_district",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-cde-esser",
+      "title": "Board Member Karla Esser (D)",
+      "publisher": "Colorado Department of Education",
+      "url": "https://ed.cde.state.co.us/cdeboard/board-member-profiles-karla-esser",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-rtd-board",
+      "title": "Board of Directors",
+      "publisher": "Regional Transportation District (RTD)",
+      "url": "https://www.rtd-denver.com/about-rtd/board-of-directors",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-rtd-arcuri-sworn",
+      "title": "RTD Board of Directors elects new chair and officers, swears in new member",
+      "publisher": "Regional Transportation District (RTD)",
+      "url": "https://www.rtd-denver.com/community/news/2026/rtd-board-of-directors-elects-new-chair-and-officers-swears-in-new-member-during-tuesday-meeting",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-denverite-rtd-guide",
+      "title": "Voter guide to the Regional Transportation Board of Directors election",
+      "publisher": "Denverite",
+      "url": "https://denverite.com/2026/09/25/vg-2026-rtd-board-voter-guide/",
+      "retrieved_on": "2026-10-09"
+    }
+  ],
+  "contests": [
+    {
+      "id": "us-senate",
+      "level": "federal",
+      "office": "United States Senator",
+      "district": null,
+      "who_votes": "All Lakewood voters",
+      "seats": 1,
+      "term_years": 6,
+      "what_the_job_is": "One of Colorado's two members of the U.S. Senate. Senators vote on federal laws, the federal budget, treaties, and the president's nominees for judges and cabinet posts.",
+      "candidates": [
+        {
+          "name": "Mark Baisley",
+          "party": "Republican",
+          "incumbent": false,
+          "website": null,
+          "ballot_order": 1,
+          "sources": [
+            "src-jeffco-sample-ballot",
+            "src-jeffco-on-ballot",
+            "src-cpr-midterm-guide"
+          ]
+        },
+        {
+          "name": "John Hickenlooper",
+          "party": "Democratic",
+          "incumbent": true,
+          "website": null,
+          "ballot_order": 2,
+          "sources": [
+            "src-jeffco-sample-ballot",
+            "src-jeffco-on-ballot",
+            "src-cpr-midterm-guide",
+            "src-greenpapers-co"
+          ]
+        },
+        {
+          "name": "Bob Chew",
+          "party": "Forward",
+          "incumbent": false,
+          "website": null,
+          "ballot_order": 3,
+          "sources": [
+            "src-jeffco-sample-ballot",
+            "src-jeffco-on-ballot"
+          ]
+        },
+        {
+          "name": "Christopher Baum",
+          "party": "Approval Voting",
+          "incumbent": false,
+          "website": null,
+          "ballot_order": 4,
+          "sources": [
+            "src-jeffco-sample-ballot",
+            "src-jeffco-on-ballot"
+          ]
+        },
+        {
+          "name": "Blake Huber",
+          "party": "Libertarian",
+          "incumbent": false,
+          "website": null,
+          "ballot_order": 5,
+          "sources": [
+            "src-jeffco-sample-ballot",
+            "src-jeffco-on-ballot"
+          ]
+        },
+        {
+          "name": "Adam Withrow",
+          "party": "Unity",
+          "incumbent": false,
+          "website": null,
+          "ballot_order": 6,
+          "sources": [
+            "src-jeffco-sample-ballot",
+            "src-jeffco-on-ballot"
+          ]
+        }
+      ],
+      "notes": "Yes, Sen. John Hickenlooper's seat is on the 2026 ballot. He won the Democratic primary over Julie Gonzales, and Mark Baisley was the only Republican on the primary ballot. The ballot has a blank line for a write-in.",
+      "sources": [
+        "src-jeffco-sample-ballot",
+        "src-jeffco-on-ballot",
+        "src-cpr-midterm-guide",
+        "src-bhfs-primary",
+        "src-cpr-primary-results",
+        "src-greenpapers-co"
+      ]
+    },
+    {
+      "id": "us-house-cd7",
+      "level": "federal",
+      "office": "U.S. Representative",
+      "district": "Congressional District 7",
+      "who_votes": "All Lakewood voters (Lakewood is in Congressional District 7)",
+      "seats": 1,
+      "term_years": 2,
+      "what_the_job_is": "Represents this district in the U.S. House of Representatives. House members vote on federal laws and the federal budget, and help people who have problems with federal agencies.",
+      "candidates": [
+        {
+          "name": "Tim Bennett",
+          "party": "Republican",
+          "incumbent": false,
+          "website": null,
+          "ballot_order": 1,
+          "sources": [
+            "src-jeffco-sample-ballot",
+            "src-jeffco-on-ballot",
+            "src-cpr-midterm-guide"
+          ]
+        },
+        {
+          "name": "Brittany Pettersen",
+          "party": "Democratic",
+          "incumbent": true,
+          "website": null,
+          "ballot_order": 2,
+          "sources": [
+            "src-jeffco-sample-ballot",
+            "src-jeffco-on-ballot",
+            "src-cpr-midterm-guide",
+            "src-greenpapers-co"
+          ]
+        },
+        {
+          "name": "Susan Hall",
+          "party": "Unity",
+          "incumbent": false,
+          "website": null,
+          "ballot_order": 3,
+          "sources": [
+            "src-jeffco-sample-ballot",
+            "src-jeffco-on-ballot"
+          ]
+        },
+        {
+          "name": "Lawrence Kyle Clark",
+          "party": "American Constitution",
+          "incumbent": false,
+          "website": null,
+          "ballot_order": 4,
+          "sources": [
+            "src-jeffco-sample-ballot",
+            "src-jeffco-on-ballot"
+          ]
+        },
+        {
+          "name": "Dan \"Kilo\" Sallis",
+          "party": "Libertarian",
+          "incumbent": false,
+          "website": null,
+          "ballot_order": 5,
+          "sources": [
+            "src-jeffco-sample-ballot",
+            "src-jeffco-on-ballot"
+          ]
+        },
+        {
+          "name": "Joe Krzeczkowski",
+          "party": "Unaffiliated",
+          "incumbent": false,
+          "website": null,
+          "ballot_order": 6,
+          "sources": [
+            "src-jeffco-sample-ballot",
+            "src-jeffco-on-ballot"
+          ]
+        }
+      ],
+      "notes": "The winner serves in the 120th Congress. The county's sample ballot also lists Districts 1, 2, and 6, but those districts cover other parts of Jefferson County, not Lakewood.",
+      "sources": [
+        "src-jeffco-sample-ballot",
+        "src-jeffco-on-ballot",
+        "src-cpr-midterm-guide",
+        "src-wiki-cd7",
+        "src-bhfs-primary"
+      ]
+    },
+    {
+      "id": "governor",
+      "level": "state",
+      "office": "Governor and Lieutenant Governor (voted on together)",
+      "district": null,
+      "who_votes": "All Lakewood voters",
+      "seats": 1,
+      "term_years": 4,
+      "what_the_job_is": "The governor runs state government, proposes the state budget, signs or vetoes bills, and appoints judges and agency heads. The lieutenant governor takes over if the governor cannot serve. You cast one vote for a governor and running-mate team.",
+      "candidates": [
+        {
+          "name": "Victor Marx / George Washington Markert",
+          "party": "Republican",
+          "incumbent": false,
+          "website": null,
+          "ballot_order": 1,
+          "sources": [
+            "src-jeffco-sample-ballot",
+            "src-jeffco-on-ballot",
+            "src-cpr-midterm-guide"
+          ]
+        },
+        {
+          "name": "Phil Weiser / Lesley Dahlkemper",
+          "party": "Democratic",
+          "incumbent": false,
+          "website": null,
+          "ballot_order": 2,
+          "sources": [
+            "src-jeffco-sample-ballot",
+            "src-jeffco-on-ballot",
+            "src-cpr-midterm-guide"
+          ]
+        },
+        {
+          "name": "Stephen T. Hamilton / James K Treibert",
+          "party": "American Constitution",
+          "incumbent": false,
+          "website": null,
+          "ballot_order": 3,
+          "sources": [
+            "src-jeffco-sample-ballot",
+            "src-jeffco-on-ballot",
+            "src-cpr-midterm-guide"
+          ]
+        },
+        {
+          "name": "Eric Mulder / Wayne Harlos",
+          "party": "Libertarian",
+          "incumbent": false,
+          "website": null,
+          "ballot_order": 4,
+          "sources": [
+            "src-jeffco-sample-ballot",
+            "src-jeffco-on-ballot",
+            "src-cpr-midterm-guide"
+          ]
+        },
+        {
+          "name": "Jeff Peckman / T.J. Cole",
+          "party": "Unity",
+          "incumbent": false,
+          "website": null,
+          "ballot_order": 5,
+          "sources": [
+            "src-jeffco-sample-ballot",
+            "src-jeffco-on-ballot",
+            "src-cpr-midterm-guide"
+          ]
+        },
+        {
+          "name": "Erik Underwood / Frank Atwood",
+          "party": "Approval Voting",
+          "incumbent": false,
+          "website": null,
+          "ballot_order": 6,
+          "sources": [
+            "src-jeffco-sample-ballot",
+            "src-jeffco-on-ballot",
+            "src-cpr-midterm-guide"
+          ]
+        },
+        {
+          "name": "Greg Lopez / Taralyn Romero",
+          "party": "Unaffiliated",
+          "incumbent": false,
+          "website": null,
+          "ballot_order": 7,
+          "sources": [
+            "src-jeffco-sample-ballot",
+            "src-jeffco-on-ballot",
+            "src-cpr-midterm-guide"
+          ]
+        }
+      ],
+      "notes": "This is an open seat. Gov. Jared Polis (Democrat) is term-limited. Phil Weiser, the current Attorney General, won the Democratic primary over Michael Bennet. Victor Marx narrowly won the Republican primary over Barb Kirkmeyer and Scott Bottoms. Weiser's running mate, Lesley Dahlkemper, is a Jefferson County commissioner. Greg Lopez is a former Republican member of Congress who is running unaffiliated. No candidate on the ticket is the current governor or lieutenant governor.",
+      "sources": [
+        "src-jeffco-sample-ballot",
+        "src-jeffco-on-ballot",
+        "src-cpr-midterm-guide",
+        "src-gazette-governor",
+        "src-copolitics-marx-markert",
+        "src-bhfs-primary",
+        "src-greenpapers-co"
+      ]
+    },
+    {
+      "id": "secretary-of-state",
+      "level": "state",
+      "office": "Secretary of State",
+      "district": null,
+      "who_votes": "All Lakewood voters",
+      "seats": 1,
+      "term_years": 4,
+      "what_the_job_is": "Oversees Colorado elections, business filings, and charities and lobbyist registrations, and keeps the statewide voter list.",
+      "candidates": [
+        {
+          "name": "Amanda Gonzalez",
+          "party": "Democratic",
+          "incumbent": false,
+          "website": null,
+          "ballot_order": 1,
+          "sources": [
+            "src-jeffco-sample-ballot",
+            "src-jeffco-on-ballot",
+            "src-cpr-midterm-guide",
+            "src-wiki-sos-2026"
+          ]
+        },
+        {
+          "name": "James Wiley",
+          "party": "Republican",
+          "incumbent": false,
+          "website": null,
+          "ballot_order": 2,
+          "sources": [
+            "src-jeffco-sample-ballot",
+            "src-jeffco-on-ballot",
+            "src-cpr-midterm-guide",
+            "src-wiki-sos-2026"
+          ]
+        },
+        {
+          "name": "Sean Vadney",
+          "party": "Libertarian",
+          "incumbent": false,
+          "website": null,
+          "ballot_order": 3,
+          "sources": [
+            "src-jeffco-sample-ballot",
+            "src-jeffco-on-ballot",
+            "src-wiki-sos-2026"
+          ]
+        },
+        {
+          "name": "Amanda Campbell",
+          "party": "American Constitution",
+          "incumbent": false,
+          "website": null,
+          "ballot_order": 4,
+          "sources": [
+            "src-jeffco-sample-ballot",
+            "src-jeffco-on-ballot"
+          ]
+        },
+        {
+          "name": "Celeste Landry",
+          "party": "Forward",
+          "incumbent": false,
+          "website": null,
+          "ballot_order": 5,
+          "sources": [
+            "src-jeffco-sample-ballot",
+            "src-jeffco-on-ballot"
+          ]
+        }
+      ],
+      "notes": "This is an open seat. Secretary of State Jena Griswold (Democrat) is term-limited and is running for Attorney General. Amanda Gonzalez is the current Jefferson County Clerk and Recorder. Sean Vadney took the Libertarian spot after the party's first nominee withdrew.",
+      "sources": [
+        "src-jeffco-sample-ballot",
+        "src-jeffco-on-ballot",
+        "src-cpr-midterm-guide",
+        "src-wiki-sos-2026",
+        "src-greenpapers-co"
+      ]
+    },
+    {
+      "id": "state-treasurer",
+      "level": "state",
+      "office": "State Treasurer",
+      "district": null,
+      "who_votes": "All Lakewood voters",
+      "seats": 1,
+      "term_years": 4,
+      "what_the_job_is": "Manages and invests the state's money, and runs the program that returns unclaimed property, such as forgotten bank accounts, to its owners.",
+      "candidates": [
+        {
+          "name": "Jeff Bridges",
+          "party": "Democratic",
+          "incumbent": false,
+          "website": null,
+          "ballot_order": 1,
+          "sources": [
+            "src-jeffco-sample-ballot",
+            "src-jeffco-on-ballot",
+            "src-wiki-treasurer-2026"
+          ]
+        },
+        {
+          "name": "Kevin Grantham",
+          "party": "Republican",
+          "incumbent": false,
+          "website": null,
+          "ballot_order": 2,
+          "sources": [
+            "src-jeffco-sample-ballot",
+            "src-jeffco-on-ballot",
+            "src-wiki-treasurer-2026"
+          ]
+        },
+        {
+          "name": "Jodie Barr",
+          "party": "Libertarian",
+          "incumbent": false,
+          "website": null,
+          "ballot_order": 3,
+          "sources": [
+            "src-jeffco-sample-ballot",
+            "src-jeffco-on-ballot"
+          ]
+        },
+        {
+          "name": "Marilee Langner Sturgis",
+          "party": "Approval Voting",
+          "incumbent": false,
+          "website": null,
+          "ballot_order": 4,
+          "sources": [
+            "src-jeffco-sample-ballot",
+            "src-jeffco-on-ballot"
+          ]
+        }
+      ],
+      "notes": "This is an open seat. Treasurer Dave Young (Democrat) is term-limited. Jeff Bridges is a state senator. Kevin Grantham is a Fremont County commissioner and a former state senator.",
+      "sources": [
+        "src-jeffco-sample-ballot",
+        "src-jeffco-on-ballot",
+        "src-cpr-midterm-guide",
+        "src-wiki-treasurer-2026",
+        "src-bhfs-primary"
+      ]
+    },
+    {
+      "id": "attorney-general",
+      "level": "state",
+      "office": "Attorney General",
+      "district": null,
+      "who_votes": "All Lakewood voters",
+      "seats": 1,
+      "term_years": 4,
+      "what_the_job_is": "The state's top lawyer. Represents Colorado in court, gives legal advice to state agencies, and enforces consumer-protection and other state laws.",
+      "candidates": [
+        {
+          "name": "Michael J. Allen",
+          "party": "Republican",
+          "incumbent": false,
+          "website": null,
+          "ballot_order": 1,
+          "sources": [
+            "src-jeffco-sample-ballot",
+            "src-jeffco-on-ballot",
+            "src-bhfs-primary"
+          ]
+        },
+        {
+          "name": "Jena Griswold",
+          "party": "Democratic",
+          "incumbent": false,
+          "website": null,
+          "ballot_order": 2,
+          "sources": [
+            "src-jeffco-sample-ballot",
+            "src-jeffco-on-ballot",
+            "src-bhfs-primary",
+            "src-cpr-primary-results"
+          ]
+        }
+      ],
+      "notes": "This is an open seat. The current Attorney General, Phil Weiser, is running for governor. Jena Griswold is the current Secretary of State. Only two candidates are on the ballot.",
+      "sources": [
+        "src-jeffco-sample-ballot",
+        "src-jeffco-on-ballot",
+        "src-cpr-midterm-guide",
+        "src-bhfs-primary",
+        "src-wiki-sos-2026"
+      ]
+    },
+    {
+      "id": "sboe-cd7",
+      "level": "state",
+      "office": "State Board of Education Member",
+      "district": "Congressional District 7",
+      "who_votes": "All Lakewood voters",
+      "seats": 1,
+      "term_years": 6,
+      "what_the_job_is": "The State Board of Education sets statewide academic standards, licenses teachers, and oversees the Colorado Department of Education. It does not run local schools; school boards do that.",
+      "candidates": [
+        {
+          "name": "Karla Esser",
+          "party": "Democratic",
+          "incumbent": true,
+          "website": null,
+          "ballot_order": 1,
+          "sources": [
+            "src-jeffco-sample-ballot",
+            "src-jeffco-on-ballot",
+            "src-cde-esser",
+            "src-cpr-midterm-guide"
+          ]
+        },
+        {
+          "name": "Steve Barton",
+          "party": "Republican",
+          "incumbent": false,
+          "website": null,
+          "ballot_order": 2,
+          "sources": [
+            "src-jeffco-sample-ballot",
+            "src-jeffco-on-ballot",
+            "src-cpr-midterm-guide"
+          ]
+        },
+        {
+          "name": "Ross Klopf",
+          "party": "Libertarian",
+          "incumbent": false,
+          "website": null,
+          "ballot_order": 3,
+          "sources": [
+            "src-jeffco-sample-ballot",
+            "src-jeffco-on-ballot",
+            "src-cpr-midterm-guide"
+          ]
+        }
+      ],
+      "notes": "Karla Esser was elected to this seat in 2020, and her term ends in January 2027. The at-large State Board of Education seat is not on the 2026 Jefferson County ballot. The county ballot also lists the District 1 seat, which does not cover Lakewood.",
+      "sources": [
+        "src-jeffco-sample-ballot",
+        "src-jeffco-on-ballot",
+        "src-cde-esser",
+        "src-cpr-midterm-guide"
+      ]
+    },
+    {
+      "id": "cu-regent-cd7",
+      "level": "state",
+      "office": "Regent of the University of Colorado",
+      "district": "Congressional District 7",
+      "who_votes": "All Lakewood voters",
+      "seats": 1,
+      "term_years": 6,
+      "what_the_job_is": "The nine-member Board of Regents governs the University of Colorado's four campuses. It sets tuition and the budget, approves major contracts and tenure, and oversees the university president.",
+      "candidates": [
+        {
+          "name": "Paul Mueller",
+          "party": "Republican",
+          "incumbent": false,
+          "website": null,
+          "ballot_order": 1,
+          "sources": [
+            "src-jeffco-sample-ballot",
+            "src-jeffco-on-ballot",
+            "src-cpr-regents-guide"
+          ]
+        },
+        {
+          "name": "Nolbert Chavez",
+          "party": "Democratic",
+          "incumbent": true,
+          "website": null,
+          "ballot_order": 2,
+          "sources": [
+            "src-jeffco-sample-ballot",
+            "src-jeffco-on-ballot",
+            "src-cpr-regents-guide"
+          ]
+        },
+        {
+          "name": "BetteRose Ryan",
+          "party": "Libertarian",
+          "incumbent": false,
+          "website": null,
+          "ballot_order": 3,
+          "sources": [
+            "src-jeffco-sample-ballot",
+            "src-jeffco-on-ballot",
+            "src-cpr-regents-guide"
+          ]
+        }
+      ],
+      "notes": "Nolbert Chavez was first elected in 2020. Regents can serve no more than two terms. The at-large regent seat is not on the 2026 ballot. Only Districts 2, 6, and 7 are up this year, and only District 7 covers Lakewood.",
+      "sources": [
+        "src-jeffco-sample-ballot",
+        "src-jeffco-on-ballot",
+        "src-cpr-regents-guide",
+        "src-cpr-midterm-guide"
+      ]
+    }
+  ],
+  "retention": [],
+  "measures": [],
+  "facts": [
+    {
+      "key": "election-day",
+      "text": "Election Day is Tuesday, November 3, 2026. Polls and drop boxes close at 7 p.m.",
+      "sources": [
+        "src-jeffco-elections",
+        "src-cpr-midterm-guide"
+      ]
+    },
+    {
+      "key": "ballots-mailed",
+      "text": "Jefferson County began mailing ballots and opened its drop boxes on October 5, 2026.",
+      "sources": [
+        "src-jeffco-elections"
+      ]
+    },
+    {
+      "key": "vote-centers",
+      "text": "In-person vote centers in Jefferson County open on Monday, October 19, 2026.",
+      "sources": [
+        "src-jeffco-elections"
+      ]
+    },
+    {
+      "key": "mail-deadline",
+      "text": "October 26, 2026 is the last day to mail your ballot back. After that, use a drop box or a vote center. It is also the last day to register and still get a ballot by mail. You can register in person through 7 p.m. on Election Day.",
+      "sources": [
+        "src-jeffco-elections",
+        "src-cpr-midterm-guide"
+      ]
+    },
+    {
+      "key": "lakewood-cd7",
+      "text": "Lakewood is in Colorado's 7th Congressional District, so Lakewood voters see the District 7 races for U.S. House, State Board of Education, and CU Regent.",
+      "sources": [
+        "src-wiki-cd7",
+        "src-cde-esser"
+      ]
+    },
+    {
+      "key": "sample-ballot-note",
+      "text": "The county sample ballot lists every race in Jefferson County. Each voter gets only the races for where they live.",
+      "sources": [
+        "src-jeffco-on-ballot"
+      ]
+    },
+    {
+      "key": "rtd-lakewood",
+      "text": "RTD's own website says Lakewood is in Director District M, and a 2026 RTD news release says District D includes southeast Lakewood. The District M and D directors' terms end in 2028, so these seats are not on the 2026 ballot. Jefferson County's 2026 ballot lists RTD races only for Districts J, L, and N, and each has one candidate.",
+      "sources": [
+        "src-rtd-board",
+        "src-rtd-arcuri-sworn",
+        "src-jeffco-sample-ballot"
+      ]
+    },
+    {
+      "key": "rtd-changes",
+      "text": "RTD directors elected in 2026 serve two-year terms. Starting with the 2028 election, the board changes to five elected members plus four members appointed by the governor.",
+      "sources": [
+        "src-denverite-rtd-guide"
+      ]
+    }
+  ],
+  "open_questions": [
+    "The Colorado Secretary of State's certified 2026 general-election candidate list (sos.state.co.us / coloradosos.gov) could not be loaded from this research environment. Candidate names, parties, and ballot order come from Jefferson County's official 2026 General Election sample ballot and its On the Ballot page, which cross-check with CPR's guide. Compare against the SOS list before publishing.",
+    "ballot_order is the order on Jefferson County's sample ballot. Colorado sets ballot order by party lottery, so this should match every Lakewood ballot, but check it.",
+    "Write-in candidates are not listed. The sample ballot shows only a blank write-in line. The Green Papers names declared write-ins for U.S. Senate (Ryan Apelbaum, Will Powers, Donald 'Don' Willoughby), but this is not an official source. Check the SOS list for certified write-ins.",
+    "RTD: no 2026 RTD director race appears to cover Lakewood. District M (Lakewood) and District D (southeast Lakewood) are not up until 2028, and the RTD descriptions of District N (unincorporated Jefferson County, Evergreen, Conifer, Morrison, Ken-Caryl) and District L do not mention Lakewood. Neither RTD nor the county gave a precinct-level map that could rule out a small piece of Lakewood falling in District N or L. Check against RTD's interactive district map or Jeffco's ballot-style list. The District N race (Cindy Arcuri, appointed incumbent, unopposed) and the District L race (Ian Harwick, incumbent, unopposed) were left out of contests for this reason.",
+    "Lakewood is listed entirely in CD-7 based on Wikipedia's list of the district's communities. No official map was fetched; confirm with the Colorado redistricting commission map or Jeffco ballot styles.",
+    "Lt. Gov. Dianne Primavera is not on the ballot. The Green Papers says she is not seeking re-election; no official source was found.",
+    "Candidate campaign websites are not included (all set to null) and still need to be gathered and checked."
+  ]
+}

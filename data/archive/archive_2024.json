@@ -1,0 +1,1259 @@
+{
+  "election": {
+    "id": "2024-11-general",
+    "date": "2024-11-05",
+    "name": "November 5, 2024 general election",
+    "kind": "general",
+    "summary": "Lakewood voters chose a president, their member of Congress (CD-7), a CU regent, state representatives and two Jefferson County commissioners, and voted on 14 statewide measures. Locally, voters approved Lakewood Ballot Issue 2A, which lets the city keep revenue above its TABOR limit permanently, along with Jefferson County 1A and RTD 7A, which made similar changes for the county and RTD.",
+    "turnout": "Jefferson County: 367,408 ballots from 437,432 active voters (about 84%). Lakewood (Ballot Issue 2A contest): 89,396 ballots from 111,507 registered voters (80.2%). Statewide: 3,240,549 ballots (79.5% of active voters).",
+    "sources": [
+      "src-jeffco-summary-2024",
+      "src-jeffco-report-2024",
+      "src-sos-cert-2024"
+    ]
+  },
+  "sources": [
+    {
+      "id": "src-jeffco-summary-2024",
+      "title": "Election Summary Report, Jefferson County, Colorado, 2024 General Election, November 5, 2024 (certified count, signed Nov. 26, 2024)",
+      "publisher": "Jefferson County Clerk and Recorder (copy posted by the Town of Morrison)",
+      "url": "https://morrisonco.us/DocumentCenter/View/2636/Election-Summary-Report---Jefferson-County",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-jeffco-report-2024",
+      "title": "November 2024 General Election report to the community",
+      "publisher": "Jefferson County Clerk and Recorder",
+      "url": "https://www.jeffco.us/DocumentCenter/View/49629",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-sos-cert-2024",
+      "title": "Secretary of State certifies 2024 General Election results (news release, Dec. 6, 2024)",
+      "publisher": "Colorado Secretary of State",
+      "url": "https://coloradosos.gov/pubs/newsRoom/pressReleases/2024/PR20241206Election.html",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-sos-abstract-2024",
+      "title": "2024 Abstract of Votes Cast (biennial abstract; officeholder directory)",
+      "publisher": "Colorado Secretary of State",
+      "url": "https://coloradosos.gov/pubs/elections/Results/2024/2024BiennialAbstract.pdf",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-bp-measures-2024",
+      "title": "Colorado 2024 ballot measures",
+      "publisher": "Ballotpedia",
+      "url": "https://ballotpedia.org/Colorado_2024_ballot_measures",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-bp-president-2024",
+      "title": "Presidential election in Colorado, 2024",
+      "publisher": "Ballotpedia",
+      "url": "https://ballotpedia.org/Presidential_election_in_Colorado,_2024",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-bp-hd23",
+      "title": "Colorado House of Representatives District 23",
+      "publisher": "Ballotpedia",
+      "url": "https://ballotpedia.org/Colorado_House_of_Representatives_District_23",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-bp-hd28",
+      "title": "Colorado House of Representatives District 28",
+      "publisher": "Ballotpedia",
+      "url": "https://ballotpedia.org/Colorado_House_of_Representatives_District_28",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-bp-hd30",
+      "title": "Colorado House of Representatives District 30",
+      "publisher": "Ballotpedia",
+      "url": "https://ballotpedia.org/Colorado_House_of_Representatives_District_30",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-wiki-house-2024",
+      "title": "2024 United States House of Representatives elections in Colorado",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/2024_United_States_House_of_Representatives_elections_in_Colorado",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-wiki-regent-2024",
+      "title": "2024 University of Colorado Board of Regents at-large election",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/2024_University_of_Colorado_Board_of_Regents_at-large_election",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-cp-regents-2024",
+      "title": "Colorado voters fill 3 seats for University of Colorado Board of Regents",
+      "publisher": "Colorado Politics",
+      "url": "https://www.coloradopolitics.com/2024/11/07/colorado-voters-fill-3-seats-for-university-of-colorado-board-of-regents/",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-cbs-lakewood-2a",
+      "title": "Lakewood City Council approves ballot measure to permanently lift Colorado's TABOR limits",
+      "publisher": "CBS News Colorado",
+      "url": "https://www.cbsnews.com/colorado/news/lakewood-city-council-approves-ballot-measure-permanently-lift-colorado-tabor-limits",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-ballotready-lakewood-2a",
+      "title": "Issue 2A (City of Lakewood) ballot text",
+      "publisher": "BallotReady",
+      "url": "https://www.ballotready.org/measures/issue-2a-227c5d0b-86e6-4158-acaa-6228232fbb0a",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-jeffco-1a",
+      "title": "2024 Ballot Measure and Statement (Jefferson County Ballot Issue 1A)",
+      "publisher": "Jefferson County, Colorado",
+      "url": "https://www.jeffco.us/4520/2024-Ballot-Measure-and-Statement",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-cpr-7a",
+      "title": "Measure to forever lift TABOR restrictions from RTD appears heading toward victory",
+      "publisher": "Colorado Public Radio",
+      "url": "https://cpr.org/2024/11/05/ballot-measure-7a-tabor-revenue-rtd-results",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-ccm-commish-2024",
+      "title": "Jefferson County commissioner election results, 2024",
+      "publisher": "Colorado Community Media",
+      "url": "https://www.coloradocommunitymedia.com/archives/jeffco/election-home-page/article_2a0a0950-1a0c-5ef9-8ba5-9c2a51e29fae.html",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-cp-commish-guide-2024",
+      "title": "Jefferson County commissioner candidates, 2024 voter guide",
+      "publisher": "Colorado Politics",
+      "url": "https://www.coloradopolitics.com/2024/10/16/jefferson-county-commissioner-candidates-2024-voter-guide/",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-rtd-sworn-2025",
+      "title": "Eight directors sworn in on RTD board at tonight's meeting (Jan. 7, 2025)",
+      "publisher": "Regional Transportation District",
+      "url": "https://www.rtd-denver.com/community/news/eight-directors-sworn-in-on-rtd-board-at-tonight-s-meeting",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-rtd-sworn-2023",
+      "title": "Eight directors sworn in on RTD Board of Directors (Jan. 2023)",
+      "publisher": "Regional Transportation District",
+      "url": "https://www.rtd-denver.com/community/news/eight-directors-sworn-rtd-board-of-directors",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-sos-hist-king",
+      "title": "Alexis King (D), candidate history",
+      "publisher": "Colorado Secretary of State, historical election data",
+      "url": "https://historicalelectiondata.coloradosos.gov/candidates/view/257",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-firstda-king",
+      "title": "DA Alexis King",
+      "publisher": "Office of the District Attorney, 1st Judicial District",
+      "url": "https://firstda.co/who-we-are/da-alexis-king/",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-ctr-hd30",
+      "title": "Former Lakewood councilwoman running for state rep attacks Lakewood councilwoman ... (HD30 race)",
+      "publisher": "Colorado Times Recorder",
+      "url": "https://coloradotimesrecorder.com/2024/10/former-lakewood-councilwoman-running-for-state-rep-attacks-lakewood-councilwoman-for-using-position-to-run-for-state-rep/65347",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-wiki-stewart",
+      "title": "Rebekah Stewart",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Rebekah_Stewart",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-cpr-regent-2024",
+      "title": "University of Colorado Regents: At-large election (2024)",
+      "publisher": "CPR News",
+      "url": "https://www.cpr.org/2024/10/14/vg-2024-university-of-colorado-regents-at-large-election/",
+      "retrieved_on": "2026-10-09"
+    }
+  ],
+  "contests": [
+    {
+      "id": "2024-president",
+      "level": "federal",
+      "office": "President and Vice President of the United States",
+      "district": null,
+      "who_voted": "All Lakewood voters",
+      "seats": 1,
+      "nonpartisan": false,
+      "results_status": "certified",
+      "candidates": [
+        {
+          "name": "Kamala D. Harris / Tim Walz",
+          "party": "Democratic",
+          "incumbent": false,
+          "votes": 210875,
+          "pct": 58.3,
+          "won": true
+        },
+        {
+          "name": "Donald J. Trump / JD Vance",
+          "party": "Republican",
+          "incumbent": false,
+          "votes": 140505,
+          "pct": 38.84,
+          "won": false
+        },
+        {
+          "name": "Robert F. Kennedy Jr. / Nicole Shanahan",
+          "party": "Unaffiliated",
+          "incumbent": false,
+          "votes": 4251,
+          "pct": 1.18,
+          "won": false
+        },
+        {
+          "name": "Chase Russell Oliver / Mike ter Maat",
+          "party": "Libertarian",
+          "incumbent": false,
+          "votes": 2785,
+          "pct": 0.77,
+          "won": false
+        },
+        {
+          "name": "Jill Stein / Rudolph Ware",
+          "party": "Green",
+          "incumbent": false,
+          "votes": 1949,
+          "pct": 0.54,
+          "won": false
+        },
+        {
+          "name": "Cornel West / Melina Abdullah",
+          "party": "Unity",
+          "incumbent": false,
+          "votes": 529,
+          "pct": 0.15,
+          "won": false
+        },
+        {
+          "name": "Randall Terry / Stephen E. Broden",
+          "party": "American Constitution",
+          "incumbent": false,
+          "votes": 407,
+          "pct": 0.11,
+          "won": false
+        },
+        {
+          "name": "Blake Huber / Andrea Denault",
+          "party": "Approval Voting",
+          "incumbent": false,
+          "votes": 203,
+          "pct": 0.06,
+          "won": false
+        },
+        {
+          "name": "Peter Sonski / Lauren Onak (write-in)",
+          "party": "American Solidarity",
+          "incumbent": false,
+          "votes": 121,
+          "pct": 0.03,
+          "won": false
+        },
+        {
+          "name": "Claudia De la Cruz / Karina Garcia (write-in)",
+          "party": "Party for Socialism and Liberation",
+          "incumbent": false,
+          "votes": 90,
+          "pct": 0.02,
+          "won": false
+        },
+        {
+          "name": "Bill Frankel / Steve Jenkins (write-in)",
+          "party": "Unaffiliated",
+          "incumbent": false,
+          "votes": 1,
+          "pct": 0.0,
+          "won": false
+        }
+      ],
+      "notes": "Jefferson County totals (Percentages computed from the certified counts (share of votes cast for candidates, excluding under/overvotes). Write-ins with zero county votes omitted.) 'Won' reflects Colorado's statewide result: Harris/Walz carried Colorado with 1,728,159 votes (54.1%) to Trump/Vance's 1,377,441 (43.1%) out of 3,192,745 statewide, winning all 10 electoral votes. Trump/Vance won the presidency nationally. Party labels from Ballotpedia's statewide results.",
+      "sources": [
+        "src-jeffco-summary-2024",
+        "src-bp-president-2024"
+      ]
+    },
+    {
+      "id": "2024-us-house-cd7",
+      "level": "federal",
+      "office": "U.S. Representative",
+      "district": "Congressional District 7",
+      "who_voted": "All Lakewood voters (Lakewood is in CD-7)",
+      "seats": 1,
+      "nonpartisan": false,
+      "results_status": "certified",
+      "candidates": [
+        {
+          "name": "Brittany Pettersen",
+          "party": "Democratic",
+          "incumbent": true,
+          "votes": 178809,
+          "pct": 58.39,
+          "won": true
+        },
+        {
+          "name": "Sergei Matveyuk",
+          "party": "Republican",
+          "incumbent": false,
+          "votes": 116297,
+          "pct": 37.98,
+          "won": false
+        },
+        {
+          "name": "Patrick Bohan",
+          "party": "Libertarian",
+          "incumbent": false,
+          "votes": 7059,
+          "pct": 2.31,
+          "won": false
+        },
+        {
+          "name": "Ron Tupa",
+          "party": "Unity",
+          "incumbent": false,
+          "votes": 4032,
+          "pct": 1.32,
+          "won": false
+        },
+        {
+          "name": "Patrick Flaherty (write-in)",
+          "party": null,
+          "incumbent": false,
+          "votes": 29,
+          "pct": 0.01,
+          "won": false
+        }
+      ],
+      "notes": "Jefferson County portion only (Percentages computed from the certified counts (share of votes cast for candidates, excluding under/overvotes).) District-wide: Pettersen 235,688 (55.33%), Matveyuk 175,273 (41.15%), Bohan 9,697 (2.28%), Tupa 5,271 (1.24%), write-in 37; total 425,966 (Wikipedia; district-wide figures not checked against the SOS abstract).",
+      "sources": [
+        "src-jeffco-summary-2024",
+        "src-wiki-house-2024",
+        "src-sos-abstract-2024"
+      ]
+    },
+    {
+      "id": "2024-cu-regent-at-large",
+      "level": "state",
+      "office": "Regent of the University of Colorado",
+      "district": "At large",
+      "who_voted": "All Lakewood voters (statewide)",
+      "seats": 1,
+      "nonpartisan": false,
+      "results_status": "certified",
+      "candidates": [
+        {
+          "name": "Elliott Hood",
+          "party": "Democratic",
+          "incumbent": false,
+          "votes": 179308,
+          "pct": 53.75,
+          "won": true
+        },
+        {
+          "name": "Eric Rinard",
+          "party": "Republican",
+          "incumbent": false,
+          "votes": 144171,
+          "pct": 43.22,
+          "won": false
+        },
+        {
+          "name": "T.J. Cole",
+          "party": "Unity",
+          "incumbent": false,
+          "votes": 6749,
+          "pct": 2.02,
+          "won": false
+        },
+        {
+          "name": "Thomas Reasoner",
+          "party": "Approval Voting",
+          "incumbent": false,
+          "votes": 3347,
+          "pct": 1.0,
+          "won": false
+        }
+      ],
+      "notes": "Jefferson County totals (Percentages computed from the certified counts (share of votes cast for candidates, excluding under/overvotes).) Open seat: incumbent Lesley Smith (D) did not seek re-election. Statewide: Hood 1,478,661 (50.45%), Rinard 1,363,271 (46.52%), Cole 59,612 (2.03%), Reasoner 29,232 (1.00%); total 2,930,776 (Wikipedia). The other 2024 regent races (Districts 3 and 5) were not on Lakewood ballots. Party labels from CPR News' 2024 guide (the county report prints none).",
+      "sources": [
+        "src-jeffco-summary-2024",
+        "src-wiki-regent-2024",
+        "src-cp-regents-2024",
+        "src-sos-abstract-2024",
+        "src-cpr-regent-2024"
+      ]
+    },
+    {
+      "id": "2024-co-house-23",
+      "level": "legislature",
+      "office": "Colorado State Representative",
+      "district": "House District 23",
+      "who_voted": "Lakewood voters in House District 23",
+      "seats": 1,
+      "nonpartisan": false,
+      "results_status": "certified",
+      "candidates": [
+        {
+          "name": "Monica Irasema Duran",
+          "party": "Democratic",
+          "incumbent": true,
+          "votes": 31854,
+          "pct": 63.8,
+          "won": true
+        },
+        {
+          "name": "Cory Ohnesorge",
+          "party": "Republican",
+          "incumbent": false,
+          "votes": 18073,
+          "pct": 36.2,
+          "won": false
+        }
+      ],
+      "notes": "Jefferson County totals, which equal the district-wide total of 49,927 reported by Ballotpedia. Percentages computed from the certified counts (share of votes cast for candidates, excluding under/overvotes).",
+      "sources": [
+        "src-jeffco-summary-2024",
+        "src-bp-hd23",
+        "src-sos-abstract-2024"
+      ]
+    },
+    {
+      "id": "2024-co-house-28",
+      "level": "legislature",
+      "office": "Colorado State Representative",
+      "district": "House District 28",
+      "who_voted": "Lakewood voters in House District 28",
+      "seats": 1,
+      "nonpartisan": false,
+      "results_status": "certified",
+      "candidates": [
+        {
+          "name": "Sheila Lieder",
+          "party": "Democratic",
+          "incumbent": true,
+          "votes": 26960,
+          "pct": 52.84,
+          "won": true
+        },
+        {
+          "name": "Peter Boddie",
+          "party": "Republican",
+          "incumbent": false,
+          "votes": 24066,
+          "pct": 47.16,
+          "won": false
+        }
+      ],
+      "notes": "Jefferson County totals, which equal the district-wide total of 51,026 reported by Ballotpedia. Percentages computed from the certified counts (share of votes cast for candidates, excluding under/overvotes).",
+      "sources": [
+        "src-jeffco-summary-2024",
+        "src-bp-hd28",
+        "src-sos-abstract-2024"
+      ]
+    },
+    {
+      "id": "2024-co-house-30",
+      "level": "legislature",
+      "office": "Colorado State Representative",
+      "district": "House District 30",
+      "who_voted": "Lakewood voters in House District 30",
+      "seats": 1,
+      "nonpartisan": false,
+      "results_status": "certified",
+      "candidates": [
+        {
+          "name": "Rebekah Stewart",
+          "party": "Democratic",
+          "incumbent": false,
+          "votes": 26647,
+          "pct": 62.25,
+          "won": true
+        },
+        {
+          "name": "Ramey Johnson",
+          "party": "Republican",
+          "incumbent": false,
+          "votes": 16162,
+          "pct": 37.75,
+          "won": false
+        }
+      ],
+      "notes": "Jefferson County totals, which equal the district-wide total of 42,809 reported by Ballotpedia. Open seat: the district had been represented by Democrat Chris Kennedy, who was not on the 2024 ballot; Stewart was a Lakewood City Council member. Percentages computed from the certified counts (share of votes cast for candidates, excluding under/overvotes).",
+      "sources": [
+        "src-jeffco-summary-2024",
+        "src-bp-hd30",
+        "src-ctr-hd30",
+        "src-wiki-stewart",
+        "src-sos-abstract-2024"
+      ]
+    },
+    {
+      "id": "2024-jeffco-commissioner-1",
+      "level": "county",
+      "office": "Jefferson County Commissioner",
+      "district": "District 1",
+      "who_voted": "All Jefferson County voters (commissioners are elected countywide)",
+      "seats": 1,
+      "nonpartisan": false,
+      "results_status": "certified",
+      "candidates": [
+        {
+          "name": "Rachel Zenzinger",
+          "party": "Democratic",
+          "incumbent": false,
+          "votes": 187145,
+          "pct": 54.73,
+          "won": true
+        },
+        {
+          "name": "Charlie Johnson",
+          "party": "Republican",
+          "incumbent": false,
+          "votes": 143570,
+          "pct": 41.99,
+          "won": false
+        },
+        {
+          "name": "Orion Schalhamer",
+          "party": "Libertarian",
+          "incumbent": false,
+          "votes": 7716,
+          "pct": 2.26,
+          "won": false
+        },
+        {
+          "name": "Eric Bodenstab",
+          "party": "Unity",
+          "incumbent": false,
+          "votes": 3522,
+          "pct": 1.03,
+          "won": false
+        }
+      ],
+      "notes": "Countywide totals. Open seat previously held by Tracy Kraft-Tharp. Percentages computed from the certified counts (share of votes cast for candidates, excluding under/overvotes).",
+      "sources": [
+        "src-jeffco-summary-2024",
+        "src-ccm-commish-2024",
+        "src-cp-commish-guide-2024"
+      ]
+    },
+    {
+      "id": "2024-jeffco-commissioner-2",
+      "level": "county",
+      "office": "Jefferson County Commissioner",
+      "district": "District 2",
+      "who_voted": "All Jefferson County voters (commissioners are elected countywide)",
+      "seats": 1,
+      "nonpartisan": false,
+      "results_status": "certified",
+      "candidates": [
+        {
+          "name": "Andy Kerr",
+          "party": "Democratic",
+          "incumbent": true,
+          "votes": 188220,
+          "pct": 56.18,
+          "won": true
+        },
+        {
+          "name": "Natalie Menten",
+          "party": "Republican",
+          "incumbent": false,
+          "votes": 146803,
+          "pct": 43.82,
+          "won": false
+        }
+      ],
+      "notes": "Countywide totals. Kerr was first elected in 2020. Percentages computed from the certified counts (share of votes cast for candidates, excluding under/overvotes).",
+      "sources": [
+        "src-jeffco-summary-2024",
+        "src-ccm-commish-2024",
+        "src-cp-commish-guide-2024"
+      ]
+    },
+    {
+      "id": "2024-da-1st-jd",
+      "level": "county",
+      "office": "District Attorney",
+      "district": "1st Judicial District (Jefferson and Gilpin counties)",
+      "who_voted": "All Lakewood voters",
+      "seats": 1,
+      "nonpartisan": false,
+      "results_status": "certified",
+      "candidates": [
+        {
+          "name": "Alexis King",
+          "party": "Democratic",
+          "incumbent": true,
+          "votes": 228841,
+          "pct": 100.0,
+          "won": true
+        }
+      ],
+      "notes": "Jefferson County votes only (Gilpin County votes not included). King was the only candidate on the ballot; 138,567 Jefferson County ballots left this race blank. She was first elected in 2020.",
+      "sources": [
+        "src-jeffco-summary-2024",
+        "src-sos-hist-king",
+        "src-firstda-king"
+      ]
+    },
+    {
+      "id": "2024-rtd-m",
+      "level": "district",
+      "office": "RTD Board of Directors",
+      "district": "District M",
+      "who_voted": "Most Lakewood voters (District M covers most of Lakewood, plus Golden, Wheat Ridge, Lakeside, Mountain View)",
+      "seats": 1,
+      "nonpartisan": true,
+      "results_status": "certified",
+      "candidates": [
+        {
+          "name": "Brett Paglieri",
+          "party": null,
+          "incumbent": false,
+          "votes": 70897,
+          "pct": 99.18,
+          "won": true
+        },
+        {
+          "name": "Richard \"Dick\" Shuster (write-in)",
+          "party": null,
+          "incumbent": false,
+          "votes": 589,
+          "pct": 0.82,
+          "won": false
+        }
+      ],
+      "notes": "Jefferson County totals. Paglieri was the only candidate printed on the ballot; 46,731 ballots left the race blank. He succeeded Marjorie Sloan (elected 2020) and was sworn in Jan. 7, 2025. Percentages computed from the certified counts (share of votes cast for candidates, excluding under/overvotes).",
+      "sources": [
+        "src-jeffco-summary-2024",
+        "src-rtd-sworn-2025",
+        "src-rtd-sworn-2023"
+      ]
+    },
+    {
+      "id": "2024-rtd-d",
+      "level": "district",
+      "office": "RTD Board of Directors",
+      "district": "District D",
+      "who_voted": "Voters in southeast Lakewood within RTD District D",
+      "seats": 1,
+      "nonpartisan": true,
+      "results_status": "certified",
+      "candidates": [
+        {
+          "name": "Chris D. Gutschenritter",
+          "party": null,
+          "incumbent": false,
+          "votes": 2930,
+          "pct": 53.45,
+          "won": true
+        },
+        {
+          "name": "Barbara McManus",
+          "party": null,
+          "incumbent": false,
+          "votes": 2552,
+          "pct": 46.55,
+          "won": false
+        }
+      ],
+      "notes": "Jefferson County portion only; the district also covers parts of Denver and Arapahoe County, and district-wide totals were not collected. Gutschenritter won and was sworn in as a new director on Jan. 7, 2025. Percentages computed from the certified counts (share of votes cast for candidates, excluding under/overvotes).",
+      "sources": [
+        "src-jeffco-summary-2024",
+        "src-rtd-sworn-2025"
+      ]
+    }
+  ],
+  "measures": [
+    {
+      "id": "2024-lakewood-2a",
+      "number": "Ballot Issue 2A",
+      "jurisdiction": "City of Lakewood",
+      "short_title": "Keep revenue above TABOR limits permanently",
+      "summary": "Let the city keep and spend all revenue above its TABOR limit starting in 2026, with no new or higher tax. The extra money is split equally among parks, recreation and open space; public safety; and streets, sidewalks, paths and infrastructure, and kept in a separate account. A 2017 voter approval to keep this revenue was set to expire in 2025. Jefferson County count: 89,396 ballots cast of 111,507 registered Lakewood voters.",
+      "yes_votes": 51365,
+      "no_votes": 31686,
+      "yes_pct": 61.85,
+      "passed": true,
+      "results_status": "certified",
+      "sources": [
+        "src-jeffco-summary-2024",
+        "src-ballotready-lakewood-2a",
+        "src-cbs-lakewood-2a"
+      ]
+    },
+    {
+      "id": "2024-jeffco-1a",
+      "number": "Ballot Issue 1A",
+      "jurisdiction": "Jefferson County",
+      "short_title": "County keeps revenue above TABOR limits",
+      "summary": "Let Jefferson County keep and spend all revenue from its existing sources starting in fiscal year 2024, without raising any tax or mill levy. The money goes to roads, bridges and other infrastructure and to public safety, including wildfire and flood work and mental health and addiction programs, with yearly review by an independent auditor and a citizen committee.",
+      "yes_votes": 197090,
+      "no_votes": 143822,
+      "yes_pct": 57.81,
+      "passed": true,
+      "results_status": "certified",
+      "sources": [
+        "src-jeffco-summary-2024",
+        "src-jeffco-1a"
+      ]
+    },
+    {
+      "id": "2024-rtd-7a",
+      "number": "Ballot Issue 7A",
+      "jurisdiction": "Regional Transportation District (RTD)",
+      "short_title": "RTD keeps revenue above TABOR limits",
+      "summary": "Permanently exempt RTD from TABOR revenue and spending limits so it can keep revenue it would otherwise refund. Yes/No counts are Jefferson County totals; district-wide totals were not collected.",
+      "yes_votes": 209659,
+      "no_votes": 130970,
+      "yes_pct": 61.55,
+      "passed": true,
+      "results_status": "certified",
+      "sources": [
+        "src-jeffco-summary-2024",
+        "src-cpr-7a"
+      ]
+    },
+    {
+      "id": "2024-co-amendment-g",
+      "number": "Amendment G",
+      "jurisdiction": "State of Colorado",
+      "short_title": "Veterans' property tax exemption",
+      "summary": "Extend the veterans' property tax exemption to veterans with individual unemployability status. Constitutional amendment; needed 55% statewide. Statewide: 2,212,022 yes, 812,638 no.",
+      "yes_votes": 251028,
+      "no_votes": 96456,
+      "yes_pct": 72.24,
+      "passed": true,
+      "results_status": "certified",
+      "sources": [
+        "src-jeffco-summary-2024",
+        "src-bp-measures-2024"
+      ]
+    },
+    {
+      "id": "2024-co-amendment-h",
+      "number": "Amendment H",
+      "jurisdiction": "State of Colorado",
+      "short_title": "Judicial discipline board",
+      "summary": "Create an independent board to decide judicial discipline cases. Constitutional amendment; needed 55% statewide. Statewide: 2,150,820 yes, 793,642 no.",
+      "yes_votes": 245332,
+      "no_votes": 92857,
+      "yes_pct": 72.54,
+      "passed": true,
+      "results_status": "certified",
+      "sources": [
+        "src-jeffco-summary-2024",
+        "src-bp-measures-2024"
+      ]
+    },
+    {
+      "id": "2024-co-amendment-i",
+      "number": "Amendment I",
+      "jurisdiction": "State of Colorado",
+      "short_title": "No bail for first-degree murder",
+      "summary": "Allow courts to deny bail for first-degree murder when proof is evident or the presumption is great. Constitutional amendment; needed 55% statewide. Statewide: 2,058,063 yes, 953,652 no.",
+      "yes_votes": 244135,
+      "no_votes": 100932,
+      "yes_pct": 70.75,
+      "passed": true,
+      "results_status": "certified",
+      "sources": [
+        "src-jeffco-summary-2024",
+        "src-bp-measures-2024"
+      ]
+    },
+    {
+      "id": "2024-co-amendment-j",
+      "number": "Amendment J",
+      "jurisdiction": "State of Colorado",
+      "short_title": "Remove same-sex marriage ban",
+      "summary": "Remove the constitutional language defining marriage as only between one man and one woman. Constitutional amendment; needed 55% statewide. Statewide: 1,982,200 yes, 1,099,228 no.",
+      "yes_votes": 244903,
+      "no_votes": 107952,
+      "yes_pct": 69.41,
+      "passed": true,
+      "results_status": "certified",
+      "sources": [
+        "src-jeffco-summary-2024",
+        "src-bp-measures-2024"
+      ]
+    },
+    {
+      "id": "2024-co-amendment-k",
+      "number": "Amendment K",
+      "jurisdiction": "State of Colorado",
+      "short_title": "Petition and retention deadlines",
+      "summary": "Move up deadlines for filing initiative and referendum petitions and for judicial retention notices. Constitutional amendment; needed 55% statewide. Statewide: 1,293,879 yes, 1,591,312 no.",
+      "yes_votes": 152129,
+      "no_votes": 179816,
+      "yes_pct": 45.83,
+      "passed": false,
+      "results_status": "certified",
+      "sources": [
+        "src-jeffco-summary-2024",
+        "src-bp-measures-2024"
+      ]
+    },
+    {
+      "id": "2024-co-amendment-79",
+      "number": "Amendment 79",
+      "jurisdiction": "State of Colorado",
+      "short_title": "Right to abortion",
+      "summary": "Add a right to abortion to the state constitution and remove the ban on using public funds for abortion. Constitutional amendment; needed 55% statewide. Statewide: 1,921,593 yes, 1,179,261 no.",
+      "yes_votes": 232101,
+      "no_votes": 122900,
+      "yes_pct": 65.38,
+      "passed": true,
+      "results_status": "certified",
+      "sources": [
+        "src-jeffco-summary-2024",
+        "src-bp-measures-2024"
+      ]
+    },
+    {
+      "id": "2024-co-amendment-80",
+      "number": "Amendment 80",
+      "jurisdiction": "State of Colorado",
+      "short_title": "Right to school choice",
+      "summary": "Add a right to K-12 school choice to the state constitution. Constitutional amendment; needed 55% statewide. It received less than 50% statewide. Statewide: 1,507,236 yes, 1,548,679 no.",
+      "yes_votes": 160676,
+      "no_votes": 189914,
+      "yes_pct": 45.83,
+      "passed": false,
+      "results_status": "certified",
+      "sources": [
+        "src-jeffco-summary-2024",
+        "src-bp-measures-2024"
+      ]
+    },
+    {
+      "id": "2024-co-proposition-jj",
+      "number": "Proposition JJ",
+      "jurisdiction": "State of Colorado",
+      "short_title": "Keep sports betting tax revenue",
+      "summary": "Let the state keep all sports betting tax revenue above $29 million a year, rather than refund it. Statewide: 2,340,370 yes, 721,237 no.",
+      "yes_votes": 271634,
+      "no_votes": 81082,
+      "yes_pct": 77.01,
+      "passed": true,
+      "results_status": "certified",
+      "sources": [
+        "src-jeffco-summary-2024",
+        "src-bp-measures-2024"
+      ]
+    },
+    {
+      "id": "2024-co-proposition-kk",
+      "number": "Proposition KK",
+      "jurisdiction": "State of Colorado",
+      "short_title": "Tax on guns and ammunition",
+      "summary": "Add a 6.5% excise tax on sales of firearms and ammunition, with the money going to designated programs. Statewide: 1,675,123 yes, 1,406,112 no.",
+      "yes_votes": 202441,
+      "no_votes": 149574,
+      "yes_pct": 57.51,
+      "passed": true,
+      "results_status": "certified",
+      "sources": [
+        "src-jeffco-summary-2024",
+        "src-bp-measures-2024"
+      ]
+    },
+    {
+      "id": "2024-co-proposition-127",
+      "number": "Proposition 127",
+      "jurisdiction": "State of Colorado",
+      "short_title": "Ban hunting of mountain lions, bobcats and lynx",
+      "summary": "Ban trophy hunting of mountain lions, bobcats and lynx. Statewide: 1,382,048 yes, 1,671,710 no.",
+      "yes_votes": 158481,
+      "no_votes": 189931,
+      "yes_pct": 45.49,
+      "passed": false,
+      "results_status": "certified",
+      "sources": [
+        "src-jeffco-summary-2024",
+        "src-bp-measures-2024"
+      ]
+    },
+    {
+      "id": "2024-co-proposition-128",
+      "number": "Proposition 128",
+      "jurisdiction": "State of Colorado",
+      "short_title": "Longer time before parole for violent crimes",
+      "summary": "Require people convicted of certain violent crimes to serve more of their sentence before they can be considered for parole. Statewide: 1,869,231 yes, 1,140,284 no.",
+      "yes_votes": 207327,
+      "no_votes": 135755,
+      "yes_pct": 60.43,
+      "passed": true,
+      "results_status": "certified",
+      "sources": [
+        "src-jeffco-summary-2024",
+        "src-bp-measures-2024"
+      ]
+    },
+    {
+      "id": "2024-co-proposition-129",
+      "number": "Proposition 129",
+      "jurisdiction": "State of Colorado",
+      "short_title": "Veterinary professional associates",
+      "summary": "Create a new licensed veterinary professional associate role. Statewide: 1,572,545 yes, 1,407,814 no.",
+      "yes_votes": 178209,
+      "no_votes": 161598,
+      "yes_pct": 52.44,
+      "passed": true,
+      "results_status": "certified",
+      "sources": [
+        "src-jeffco-summary-2024",
+        "src-bp-measures-2024"
+      ]
+    },
+    {
+      "id": "2024-co-proposition-130",
+      "number": "Proposition 130",
+      "jurisdiction": "State of Colorado",
+      "short_title": "Police funding",
+      "summary": "Create a state Peace Officer Training and Support Fund. Statewide: 1,583,118 yes, 1,415,528 no.",
+      "yes_votes": 173885,
+      "no_votes": 168157,
+      "yes_pct": 50.84,
+      "passed": true,
+      "results_status": "certified",
+      "sources": [
+        "src-jeffco-summary-2024",
+        "src-bp-measures-2024"
+      ]
+    },
+    {
+      "id": "2024-co-proposition-131",
+      "number": "Proposition 131",
+      "jurisdiction": "State of Colorado",
+      "short_title": "Top-four primaries and ranked-choice voting",
+      "summary": "Replace party primaries for certain offices with one all-candidate primary, with the top four advancing to a ranked-choice general election. Statewide: 1,385,060 yes, 1,595,256 no.",
+      "yes_votes": 160907,
+      "no_votes": 180181,
+      "yes_pct": 47.17,
+      "passed": false,
+      "results_status": "certified",
+      "sources": [
+        "src-jeffco-summary-2024",
+        "src-bp-measures-2024"
+      ]
+    },
+    {
+      "id": "2024-retain-berkenkotter",
+      "number": "Judicial retention: Justice Berkenkotter",
+      "jurisdiction": "Colorado Supreme Court",
+      "short_title": "Retain Justice Berkenkotter?",
+      "summary": "Whether to keep Justice Berkenkotter in office. Jefferson County totals (the county report prints surnames only).",
+      "yes_votes": 190440,
+      "no_votes": 88769,
+      "yes_pct": 68.21,
+      "passed": true,
+      "results_status": "certified",
+      "sources": [
+        "src-jeffco-summary-2024"
+      ]
+    },
+    {
+      "id": "2024-retain-boatright",
+      "number": "Judicial retention: Justice Boatright",
+      "jurisdiction": "Colorado Supreme Court",
+      "short_title": "Retain Justice Boatright?",
+      "summary": "Whether to keep Justice Boatright in office. Jefferson County totals (the county report prints surnames only).",
+      "yes_votes": 178083,
+      "no_votes": 99116,
+      "yes_pct": 64.24,
+      "passed": true,
+      "results_status": "certified",
+      "sources": [
+        "src-jeffco-summary-2024"
+      ]
+    },
+    {
+      "id": "2024-retain-marquez",
+      "number": "Judicial retention: Justice Márquez",
+      "jurisdiction": "Colorado Supreme Court",
+      "short_title": "Retain Justice Márquez?",
+      "summary": "Whether to keep Justice Márquez in office. Jefferson County totals (the county report prints surnames only).",
+      "yes_votes": 185472,
+      "no_votes": 92863,
+      "yes_pct": 66.64,
+      "passed": true,
+      "results_status": "certified",
+      "sources": [
+        "src-jeffco-summary-2024"
+      ]
+    },
+    {
+      "id": "2024-retain-dunn",
+      "number": "Judicial retention: Judge Dunn",
+      "jurisdiction": "Colorado Court of Appeals",
+      "short_title": "Retain Judge Dunn?",
+      "summary": "Whether to keep Judge Dunn in office. Jefferson County totals (the county report prints surnames only).",
+      "yes_votes": 189837,
+      "no_votes": 80045,
+      "yes_pct": 70.34,
+      "passed": true,
+      "results_status": "certified",
+      "sources": [
+        "src-jeffco-summary-2024"
+      ]
+    },
+    {
+      "id": "2024-retain-jones",
+      "number": "Judicial retention: Judge Jones",
+      "jurisdiction": "Colorado Court of Appeals",
+      "short_title": "Retain Judge Jones?",
+      "summary": "Whether to keep Judge Jones in office. Jefferson County totals (the county report prints surnames only).",
+      "yes_votes": 164634,
+      "no_votes": 102441,
+      "yes_pct": 61.64,
+      "passed": true,
+      "results_status": "certified",
+      "sources": [
+        "src-jeffco-summary-2024"
+      ]
+    },
+    {
+      "id": "2024-retain-kuhn",
+      "number": "Judicial retention: Judge Kuhn",
+      "jurisdiction": "Colorado Court of Appeals",
+      "short_title": "Retain Judge Kuhn?",
+      "summary": "Whether to keep Judge Kuhn in office. Jefferson County totals (the county report prints surnames only).",
+      "yes_votes": 184736,
+      "no_votes": 82821,
+      "yes_pct": 69.05,
+      "passed": true,
+      "results_status": "certified",
+      "sources": [
+        "src-jeffco-summary-2024"
+      ]
+    },
+    {
+      "id": "2024-retain-roman",
+      "number": "Judicial retention: Judge Román",
+      "jurisdiction": "Colorado Court of Appeals",
+      "short_title": "Retain Judge Román?",
+      "summary": "Whether to keep Judge Román in office. Jefferson County totals (the county report prints surnames only).",
+      "yes_votes": 182284,
+      "no_votes": 84791,
+      "yes_pct": 68.25,
+      "passed": true,
+      "results_status": "certified",
+      "sources": [
+        "src-jeffco-summary-2024"
+      ]
+    },
+    {
+      "id": "2024-retain-schutz",
+      "number": "Judicial retention: Judge Schutz",
+      "jurisdiction": "Colorado Court of Appeals",
+      "short_title": "Retain Judge Schutz?",
+      "summary": "Whether to keep Judge Schutz in office. Jefferson County totals (the county report prints surnames only).",
+      "yes_votes": 177526,
+      "no_votes": 88313,
+      "yes_pct": 66.78,
+      "passed": true,
+      "results_status": "certified",
+      "sources": [
+        "src-jeffco-summary-2024"
+      ]
+    },
+    {
+      "id": "2024-retain-carrithers",
+      "number": "Judicial retention: Judge Carrithers",
+      "jurisdiction": "District Court, 1st Judicial District",
+      "short_title": "Retain Judge Carrithers?",
+      "summary": "Whether to keep Judge Carrithers in office. Jefferson County totals (the county report prints surnames only).",
+      "yes_votes": 177687,
+      "no_votes": 86270,
+      "yes_pct": 67.32,
+      "passed": true,
+      "results_status": "certified",
+      "sources": [
+        "src-jeffco-summary-2024"
+      ]
+    },
+    {
+      "id": "2024-retain-hunt",
+      "number": "Judicial retention: Judge Hunt",
+      "jurisdiction": "District Court, 1st Judicial District",
+      "short_title": "Retain Judge Hunt?",
+      "summary": "Whether to keep Judge Hunt in office. Jefferson County totals (the county report prints surnames only).",
+      "yes_votes": 182406,
+      "no_votes": 80801,
+      "yes_pct": 69.3,
+      "passed": true,
+      "results_status": "certified",
+      "sources": [
+        "src-jeffco-summary-2024"
+      ]
+    },
+    {
+      "id": "2024-retain-burback",
+      "number": "Judicial retention: Judge Burback",
+      "jurisdiction": "Jefferson County Court",
+      "short_title": "Retain Judge Burback?",
+      "summary": "Whether to keep Judge Burback in office. Jefferson County totals (the county report prints surnames only).",
+      "yes_votes": 186413,
+      "no_votes": 78303,
+      "yes_pct": 70.42,
+      "passed": true,
+      "results_status": "certified",
+      "sources": [
+        "src-jeffco-summary-2024"
+      ]
+    },
+    {
+      "id": "2024-retain-carpenter",
+      "number": "Judicial retention: Judge Carpenter",
+      "jurisdiction": "Jefferson County Court",
+      "short_title": "Retain Judge Carpenter?",
+      "summary": "Whether to keep Judge Carpenter in office. Jefferson County totals (the county report prints surnames only).",
+      "yes_votes": 186503,
+      "no_votes": 78151,
+      "yes_pct": 70.47,
+      "passed": true,
+      "results_status": "certified",
+      "sources": [
+        "src-jeffco-summary-2024"
+      ]
+    },
+    {
+      "id": "2024-retain-goman",
+      "number": "Judicial retention: Judge Goman",
+      "jurisdiction": "Jefferson County Court",
+      "short_title": "Retain Judge Goman?",
+      "summary": "Whether to keep Judge Goman in office. Jefferson County totals (the county report prints surnames only).",
+      "yes_votes": 183095,
+      "no_votes": 80213,
+      "yes_pct": 69.54,
+      "passed": true,
+      "results_status": "certified",
+      "sources": [
+        "src-jeffco-summary-2024"
+      ]
+    },
+    {
+      "id": "2024-retain-peper",
+      "number": "Judicial retention: Judge Peper",
+      "jurisdiction": "Jefferson County Court",
+      "short_title": "Retain Judge Peper?",
+      "summary": "Whether to keep Judge Peper in office. Jefferson County totals (the county report prints surnames only).",
+      "yes_votes": 185159,
+      "no_votes": 78725,
+      "yes_pct": 70.17,
+      "passed": true,
+      "results_status": "certified",
+      "sources": [
+        "src-jeffco-summary-2024"
+      ]
+    },
+    {
+      "id": "2024-retain-wheeler",
+      "number": "Judicial retention: Judge Wheeler",
+      "jurisdiction": "Jefferson County Court",
+      "short_title": "Retain Judge Wheeler?",
+      "summary": "Whether to keep Judge Wheeler in office. Jefferson County totals (the county report prints surnames only).",
+      "yes_votes": 187382,
+      "no_votes": 77149,
+      "yes_pct": 70.84,
+      "passed": true,
+      "results_status": "certified",
+      "sources": [
+        "src-jeffco-summary-2024"
+      ]
+    }
+  ],
+  "facts": [
+    {
+      "key": "jeffco-turnout",
+      "text": "Jefferson County counted 367,408 ballots from 437,432 active voters (about 84%): 342,033 by mail and 25,363 in person. The county canvass certified the results on Nov. 27, 2024.",
+      "sources": [
+        "src-jeffco-summary-2024",
+        "src-jeffco-report-2024"
+      ]
+    },
+    {
+      "key": "lakewood-turnout",
+      "text": "In the Lakewood Ballot Issue 2A contest, 89,396 ballots were counted from 111,507 registered Lakewood voters (80.2%).",
+      "sources": [
+        "src-jeffco-summary-2024"
+      ]
+    },
+    {
+      "key": "statewide-turnout",
+      "text": "Statewide, 3,240,549 of 4,074,680 active voters cast ballots (79.5%); 92.2% voted by mail. The Secretary of State certified the statewide results on Dec. 6, 2024.",
+      "sources": [
+        "src-sos-cert-2024"
+      ]
+    },
+    {
+      "key": "no-state-senate-race",
+      "text": "No state Senate race covering Lakewood (Senate Districts 20 and 22) was on the 2024 ballot; the only Jefferson County senate contests were Districts 16, 19 and 26.",
+      "sources": [
+        "src-jeffco-summary-2024"
+      ]
+    },
+    {
+      "key": "no-sboe-race",
+      "text": "Lakewood voters had no State Board of Education race in 2024. The only board race on Jefferson County ballots was for Congressional District 2, which does not include Lakewood.",
+      "sources": [
+        "src-jeffco-summary-2024"
+      ]
+    },
+    {
+      "key": "no-jeffco-schools-measure",
+      "text": "The certified county report lists no Jeffco Public Schools ballot measure in November 2024.",
+      "sources": [
+        "src-jeffco-summary-2024"
+      ]
+    },
+    {
+      "key": "statewide-measures-count",
+      "text": "Colorado voters decided 14 statewide measures in 2024: seven constitutional amendments (G, H, I, J, K, 79, 80) and seven statutory propositions (JJ, KK, 127, 128, 129, 130, 131). Amendments needed 55% to pass.",
+      "sources": [
+        "src-bp-measures-2024"
+      ]
+    },
+    {
+      "key": "all-judges-retained",
+      "text": "Every judge on the Jefferson County ballot received a majority 'yes' vote in Jefferson County.",
+      "sources": [
+        "src-jeffco-summary-2024"
+      ]
+    }
+  ],
+  "open_questions": [
+    "Lakewood-only vote counts (by precinct) for races other than Ballot Issue 2A were not collected; most figures are Jefferson County totals.",
+    "Lakewood 2A result is taken from the certified Jefferson County summary report (copy hosted on morrisonco.us). No City of Lakewood page with the 2024 result was found; jeffco.us results pages could not be fetched.",
+    "District-wide totals for RTD Ballot Issue 7A and RTD District D were not collected (only Jefferson County portions).",
+    "Statewide figures for president, CD-7, CU regent and measures come from Ballotpedia and Wikipedia; they were not checked line-by-line against the SOS abstract, which could not be fully read.",
+    "Party labels are not printed in the Jefferson County summary report; they come from Ballotpedia, Wikipedia, Colorado Community Media and the SOS abstract. Ron Tupa (CD-7) is shown as Unity in Wikipedia's results table but as Independent elsewhere on that page.",
+    "Judges' full first names are not in the county report; only surnames are given.",
+    "Confirm whether any part of Lakewood falls in House Districts 24 or 25, Senate District 16, or the Foothills Park & Recreation District (Ballot Issue 6D, approved 44,954 to 14,500). Foothills says it serves unincorporated Jefferson County.",
+    "The Jeffco report gives 342,033 mail + 25,363 in-person = 367,396 ballots, 12 fewer than the 367,408 in the summary report; the gap is not explained."
+  ]
+}

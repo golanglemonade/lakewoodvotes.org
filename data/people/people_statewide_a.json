@@ -1,0 +1,679 @@
+{
+  "section": "U.S. Senate and governor candidates",
+  "sources": [
+    {
+      "id": "src-wiki-sen26",
+      "title": "2026 United States Senate election in Colorado",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Colorado",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-cpol-senate",
+      "title": "Colorado U.S. Senate | Baisley looks to unseat Hickenlooper",
+      "publisher": "Colorado Politics",
+      "url": "https://www.coloradopolitics.com/2026/10/02/mark-baisley-john-hickenlooper-us-senate/",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-hick-senate",
+      "title": "About John Hickenlooper",
+      "publisher": "Office of U.S. Sen. John Hickenlooper",
+      "url": "https://www.hickenlooper.senate.gov/about/",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-leg-baisley",
+      "title": "Mark Baisley legislator page",
+      "publisher": "Colorado General Assembly",
+      "url": "https://leg.colorado.gov/legislators/mark-baisley",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-cpol-chew",
+      "title": "Forward Party nominee for Colorado's U.S. Senate seat puts $1.1 million into his campaign",
+      "publisher": "Colorado Politics",
+      "url": "https://www.coloradopolitics.com/2026/07/14/forward-party-nominee-for-colorados-us-senate-seat-puts-1-1-million-into-his-campaign/",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-axios-chew",
+      "title": "Independent Bob Chew bets big on Colorado Senate bid",
+      "publisher": "Axios Boulder",
+      "url": "https://www.axios.com/local/boulder/2026/08/19/boulder-bob-chew-independent-senate-campaign",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-bb-baum",
+      "title": "Christopher Baum candidate profile",
+      "publisher": "The Ballot Brief",
+      "url": "https://theballotbrief.com/candidate/christopher-baum-co",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-cpr-cd8-2024",
+      "title": "8th Congressional District: Minor party and independent candidates (2024)",
+      "publisher": "CPR News",
+      "url": "https://www.cpr.org/2024/10/14/vg-2024-colorado-8th-congressional-district-minor-party-and-independent-candidates",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-lp-huber",
+      "title": "Blake Huber for U.S. Senate (candidate sheet)",
+      "publisher": "Libertarian Party of Colorado",
+      "url": "https://lpcolorado.org/wp-content/uploads/sites/26/2026/03/Huber-US-Senate.pdf",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-lp-cands",
+      "title": "Candidates",
+      "publisher": "Libertarian Party of Colorado",
+      "url": "https://lpcolorado.org/candidates-2",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-wiki-avp",
+      "title": "Approval Voting Party",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Approval_Voting_Party",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-bp-huber",
+      "title": "Blake Huber",
+      "publisher": "Ballotpedia",
+      "url": "https://ballotpedia.org/Blake_Huber",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-bb-huber",
+      "title": "Blake Huber candidate profile",
+      "publisher": "The Ballot Brief",
+      "url": "https://theballotbrief.com/candidate/blake-huber-co",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-bb-withrow",
+      "title": "Adam Withrow candidate profile",
+      "publisher": "The Ballot Brief",
+      "url": "https://theballotbrief.com/candidate/adam-withrow-co",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-withrow-site",
+      "title": "Adam Withrow for Senate",
+      "publisher": "Adam Withrow campaign",
+      "url": "https://www.senatorwithrow.com/",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-bp-withrow",
+      "title": "Adam Withrow",
+      "publisher": "Ballotpedia",
+      "url": "https://ballotpedia.org/Adam_Withrow",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-cpol-gov",
+      "title": "Colorado governor | Weiser, Marx and Lopez vie for top state seat",
+      "publisher": "Colorado Politics",
+      "url": "https://www.coloradopolitics.com/2026/10/02/colorado-governor-weiser-marx-and-lopez-vie-for-top-state-seat-4/",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-cpr-marx",
+      "title": "2026 primary voter guide: Victor Marx",
+      "publisher": "CPR News",
+      "url": "https://www.cpr.org/2026/05/29/vg-2026-primary-election-colorado-governor-victor-marx/",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-marx-site",
+      "title": "Victor Marx for Governor",
+      "publisher": "Victor Marx campaign",
+      "url": "https://victor2026.com/",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-kunc-markert",
+      "title": "Victor Marx selects fellow Marine veteran as running mate in Colorado governor's race",
+      "publisher": "KUNC",
+      "url": "https://www.kunc.org/politics/2026-08-01/victor-marx-selects-fellow-marine-veteran-as-running-mate-in-colorado-governors-race",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-axios-markert",
+      "title": "Victor Marx names George Markert as running mate in race for Colorado governor",
+      "publisher": "Axios Denver",
+      "url": "https://www.axios.com/local/denver/2026/07/31/victor-marx-george-markert-lieutenant-governor-pick",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-coag-weiser",
+      "title": "Colorado Attorney General Phil Weiser bio",
+      "publisher": "Colorado Attorney General's Office",
+      "url": "https://coag.gov/about-us/colorado-attorney-general/",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-weiser-site",
+      "title": "Phil Weiser for Colorado",
+      "publisher": "Phil Weiser campaign",
+      "url": "https://philforcolorado.com/",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-nfts-dahlkemper",
+      "title": "Weiser names Jeffco Commissioner Lesley Dahlkemper running mate in Colorado governor race",
+      "publisher": "News From The States (Colorado Newsline)",
+      "url": "https://www.newsfromthestates.com/article/weiser-names-jeffco-commissioner-lesley-dahlkemper-running-mate-colorado-governor-race",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-cpol-lopez",
+      "title": "Independent gubernatorial candidate Greg Lopez, a former GOP congressman, qualifies for Colorado ballot",
+      "publisher": "Colorado Politics",
+      "url": "https://www.coloradopolitics.com/2026/07/28/independent-gubernatorial-candidate-greg-lopez-a-former-gop-congressman-qualifies-for-colorado-ballot/",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-lopez-site",
+      "title": "Greg Lopez for Colorado Governor",
+      "publisher": "Greg Lopez campaign",
+      "url": "https://www.greglopez.co/",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-cp-meet",
+      "title": "Meet the Candidates",
+      "publisher": "Constitution Party",
+      "url": "https://constitutionparty.com/elections/meet-the-candidates/",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-bb-hamilton",
+      "title": "Stephen T. Hamilton candidate profile",
+      "publisher": "The Ballot Brief",
+      "url": "https://theballotbrief.com/candidate/stephen-t-hamilton-co",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-br-hamilton",
+      "title": "Stephen Hamilton",
+      "publisher": "BallotReady",
+      "url": "https://www.ballotready.org/people/stephen-hamilton",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-br-treibert",
+      "title": "James K Treibert",
+      "publisher": "BallotReady",
+      "url": "https://www.ballotready.org/people/james-k-treibert",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-lp-mulder-pr",
+      "title": "Press Release July 10, 2026 – Eric Mulder for Governor",
+      "publisher": "Libertarian Party of Colorado",
+      "url": "https://lpcolorado.org/2026/07/12/press-release-july-10-2026-eric-mulder-for-governor/",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-mulder-team",
+      "title": "About the Team",
+      "publisher": "Mulder for Governor campaign",
+      "url": "https://www.mulderforgovernor.org/about-the-team",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-br-harlos",
+      "title": "Wayne Harlos",
+      "publisher": "BallotReady",
+      "url": "https://www.ballotready.org/people/wayne-harlos",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-cpol-harlos-2017",
+      "title": "Q&A with Wayne Harlos: Colorado's top Libertarian wants you to think, not fear",
+      "publisher": "Colorado Politics",
+      "url": "https://www.coloradopolitics.com/2017/08/21/qa-with-wayne-harlos-colorados-top-libertarian-wants-you-to-think-not-fear",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-wiki-peckman",
+      "title": "Jeff Peckman",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Jeff_Peckman",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-cnl-unity-primary",
+      "title": "Colorado governor, Unity Party (2026 primary voter guide)",
+      "publisher": "Colorado Newsline",
+      "url": "https://coloradonewsline.com/voter-guides/contests/2026-primary-colorado-governor-unity/",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-peckman-site",
+      "title": "Jeff Peckman for Governor",
+      "publisher": "Jeff Peckman campaign",
+      "url": "https://jeffpeckman.com/",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-bb-peckman",
+      "title": "Jeff Peckman candidate profile",
+      "publisher": "The Ballot Brief",
+      "url": "https://theballotbrief.com/candidate/jeff-peckman-co",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-cpr-regent-2024",
+      "title": "University of Colorado Regents: At-large election (2024)",
+      "publisher": "CPR News",
+      "url": "https://www.cpr.org/2024/10/14/vg-2024-university-of-colorado-regents-at-large-election/",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-chaffee-cole",
+      "title": "T.J. Cole (U) election history",
+      "publisher": "Chaffee County Elections",
+      "url": "https://chaffeepastelections.colorado.gov/candidates/view/TJ-Cole",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-underwood-site",
+      "title": "Erik Underwood campaign site",
+      "publisher": "Erik Underwood campaign",
+      "url": "https://erikunderwood.com/",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-bb-underwood",
+      "title": "Erik Underwood candidate profile",
+      "publisher": "The Ballot Brief",
+      "url": "https://theballotbrief.com/candidate/erik-underwood-co",
+      "retrieved_on": "2026-10-09"
+    },
+    {
+      "id": "src-br-atwood",
+      "title": "Frank Atwood",
+      "publisher": "BallotReady",
+      "url": "https://www.ballotready.org/people/frank-atwood",
+      "retrieved_on": "2026-10-09"
+    }
+  ],
+  "people": [
+    {
+      "name": "Mark Baisley",
+      "contest_id": "us-senate",
+      "aka": [],
+      "bio": "Mark Baisley is a Republican state senator from Senate District 4 who previously served in the Colorado House; he sought the Republican nomination for governor before switching to the U.S. Senate race in January 2026. He is an aerospace engineer who has worked for NASA and defense contractors, and lives in Woodland Park.",
+      "bio_sources": [
+        "src-cpol-senate",
+        "src-wiki-sen26",
+        "src-leg-baisley"
+      ],
+      "website": "https://baisleyforsenate.com",
+      "website_sources": [
+        "src-cpol-senate"
+      ],
+      "endorsements": [],
+      "answers": [],
+      "finance": []
+    },
+    {
+      "name": "John Hickenlooper",
+      "contest_id": "us-senate",
+      "aka": [],
+      "bio": "John Hickenlooper is Colorado's incumbent Democratic U.S. senator, elected in 2020, and is seeking a second term. He was governor of Colorado from 2011 to 2019 and was elected mayor of Denver in 2003. Earlier he worked as a geologist and opened a brewpub in Denver's Lower Downtown.",
+      "bio_sources": [
+        "src-hick-senate",
+        "src-cpol-senate"
+      ],
+      "website": "https://hickenlooper.com",
+      "website_sources": [
+        "src-cpol-senate"
+      ],
+      "endorsements": [],
+      "answers": [],
+      "finance": []
+    },
+    {
+      "name": "Bob Chew",
+      "contest_id": "us-senate",
+      "aka": [],
+      "bio": "Bob Chew is the Forward Party nominee for U.S. Senate; he changed his registration from Republican to Forward in 2025. He is a former Navy nuclear submarine officer and engineer who co-founded an engineering and technical services company in 1996 and served as its CEO. He lives in Boulder.",
+      "bio_sources": [
+        "src-cpol-chew",
+        "src-axios-chew"
+      ],
+      "website": "https://bobchew2026.com",
+      "website_sources": [
+        "src-axios-chew"
+      ],
+      "endorsements": [],
+      "answers": [],
+      "finance": []
+    },
+    {
+      "name": "Christopher Baum",
+      "contest_id": "us-senate",
+      "aka": [],
+      "bio": "Christopher Baum is the Approval Voting Party nominee for U.S. Senate. A candidate profile describes him as a computer consultant and Navy veteran.",
+      "bio_sources": [
+        "src-bb-baum"
+      ],
+      "website": null,
+      "website_sources": [
+        "src-bb-baum"
+      ],
+      "endorsements": [],
+      "answers": [],
+      "finance": []
+    },
+    {
+      "name": "Blake Huber",
+      "contest_id": "us-senate",
+      "aka": [],
+      "bio": "Blake Huber is the Libertarian nominee for U.S. Senate, an election-reform advocate and co-founder of the Approval Voting Party who says he has worked more than 30 years in management, and he has previously served as a Libertarian Party state chair and national committee member. He was the Approval Voting Party's vice-presidential candidate in 2016, its Colorado secretary of state candidate in 2018, and its presidential candidate in 2020 and 2024 (with running mate Andrea Denault in 2024).",
+      "bio_sources": [
+        "src-lp-huber",
+        "src-lp-cands",
+        "src-wiki-avp",
+        "src-bp-huber"
+      ],
+      "website": null,
+      "website_sources": [
+        "src-bb-huber"
+      ],
+      "endorsements": [],
+      "answers": [],
+      "finance": []
+    },
+    {
+      "name": "Adam Withrow",
+      "contest_id": "us-senate",
+      "aka": [],
+      "bio": "Adam Withrow is the Unity Party nominee for U.S. Senate.",
+      "bio_sources": [
+        "src-withrow-site",
+        "src-bb-withrow"
+      ],
+      "website": "https://www.senatorwithrow.com/",
+      "website_sources": [
+        "src-withrow-site"
+      ],
+      "endorsements": [],
+      "answers": [],
+      "finance": []
+    },
+    {
+      "name": "Victor Marx",
+      "contest_id": "governor",
+      "aka": [],
+      "bio": "Victor Marx, the Republican nominee for governor, is a Marine Corps veteran and first-time candidate who leads All Things Possible Ministries, a nonprofit based in Colorado Springs. He previously worked as an assistant to James Dobson at Focus on the Family.",
+      "bio_sources": [
+        "src-cpr-marx",
+        "src-cpol-gov"
+      ],
+      "website": "https://victor2026.com",
+      "website_sources": [
+        "src-cpol-gov",
+        "src-marx-site"
+      ],
+      "endorsements": [],
+      "answers": [],
+      "finance": []
+    },
+    {
+      "name": "George Washington Markert",
+      "contest_id": "governor",
+      "aka": [
+        "George Markert"
+      ],
+      "bio": "George Markert, Victor Marx's Republican running mate for lieutenant governor, is a retired Marine Corps colonel with 30 years of service. He lives in Broomfield, moved to Colorado about three years ago, and sought the 2026 Republican U.S. Senate nomination but did not make the primary ballot.",
+      "bio_sources": [
+        "src-kunc-markert",
+        "src-axios-markert"
+      ],
+      "website": null,
+      "website_sources": [],
+      "endorsements": [],
+      "answers": [],
+      "finance": []
+    },
+    {
+      "name": "Phil Weiser",
+      "contest_id": "governor",
+      "aka": [
+        "Philip Weiser"
+      ],
+      "bio": "Phil Weiser, the Democratic nominee for governor, has been Colorado's attorney general since 2019 and is term-limited. He previously was dean of the University of Colorado Law School, held senior positions at the U.S. Department of Justice, and clerked for U.S. Supreme Court Justices Byron White and Ruth Bader Ginsburg. He lives in Denver.",
+      "bio_sources": [
+        "src-coag-weiser",
+        "src-cpol-gov",
+        "src-nfts-dahlkemper"
+      ],
+      "website": "https://philforcolorado.com",
+      "website_sources": [
+        "src-cpol-gov",
+        "src-weiser-site"
+      ],
+      "endorsements": [],
+      "answers": [],
+      "finance": []
+    },
+    {
+      "name": "Lesley Dahlkemper",
+      "contest_id": "governor",
+      "aka": [],
+      "bio": "Lesley Dahlkemper, Phil Weiser's Democratic running mate for lieutenant governor, has been a Jefferson County commissioner since 2019. She previously served on the Jeffco Public Schools board of education and has lived in Jefferson County for 30 years.",
+      "bio_sources": [
+        "src-nfts-dahlkemper"
+      ],
+      "website": "https://philforcolorado.com",
+      "website_sources": [
+        "src-weiser-site",
+        "src-nfts-dahlkemper"
+      ],
+      "endorsements": [],
+      "answers": [],
+      "finance": []
+    },
+    {
+      "name": "Stephen T. Hamilton",
+      "contest_id": "governor",
+      "aka": [
+        "Stephen Hamilton"
+      ],
+      "bio": "Stephen T. Hamilton is the American Constitution Party nominee for governor, with James K Treibert as his running mate.",
+      "bio_sources": [
+        "src-cp-meet",
+        "src-bb-hamilton"
+      ],
+      "website": null,
+      "website_sources": [
+        "src-bb-hamilton",
+        "src-br-hamilton"
+      ],
+      "endorsements": [],
+      "answers": [],
+      "finance": []
+    },
+    {
+      "name": "James K Treibert",
+      "contest_id": "governor",
+      "aka": [
+        "James Treibert",
+        "James Karl \"Jim\" Treibert"
+      ],
+      "bio": "James K Treibert is the American Constitution Party nominee for lieutenant governor. BallotReady lists earlier candidacies for CU Regent at-large (2018), Thornton mayor (2019) and State Board of Education District 8 (2022).",
+      "bio_sources": [
+        "src-cp-meet",
+        "src-bb-hamilton",
+        "src-br-treibert"
+      ],
+      "website": null,
+      "website_sources": [],
+      "endorsements": [],
+      "answers": [],
+      "finance": []
+    },
+    {
+      "name": "Eric Mulder",
+      "contest_id": "governor",
+      "aka": [],
+      "bio": "Eric Mulder, the Libertarian nominee for governor, is a U.S. Army veteran who served in Afghanistan as a chaplain's assistant and a small-business owner from Aurora. He previously served on the City of Aurora's Veterans Affairs and Civic Engagement Commission.",
+      "bio_sources": [
+        "src-lp-mulder-pr",
+        "src-mulder-team"
+      ],
+      "website": "https://www.mulderforgovernor.org",
+      "website_sources": [
+        "src-lp-mulder-pr",
+        "src-mulder-team"
+      ],
+      "endorsements": [],
+      "answers": [],
+      "finance": []
+    },
+    {
+      "name": "Wayne Harlos",
+      "contest_id": "governor",
+      "aka": [],
+      "bio": "Wayne Harlos, the Libertarian nominee for lieutenant governor, is a real estate agent who lives in Castle Rock and is a former chair of the Libertarian Party of Colorado. BallotReady lists earlier candidacies for Castle Rock Town Council (2018) and state Senate District 4 (2020).",
+      "bio_sources": [
+        "src-mulder-team",
+        "src-cpol-harlos-2017",
+        "src-br-harlos"
+      ],
+      "website": "https://www.mulderforgovernor.org",
+      "website_sources": [
+        "src-mulder-team"
+      ],
+      "endorsements": [],
+      "answers": [],
+      "finance": []
+    },
+    {
+      "name": "Jeff Peckman",
+      "contest_id": "governor",
+      "aka": [],
+      "bio": "Jeff Peckman, the Unity Party nominee for governor, is a Denver-based entrepreneur, consultant and author who sponsored Denver's 2010 ballot initiative to create an extraterrestrial-affairs commission. He previously ran for U.S. Senate in 1998 (Natural Law Party), the state House in 2004 and Denver mayor in 2011.",
+      "bio_sources": [
+        "src-wiki-peckman",
+        "src-cnl-unity-primary",
+        "src-peckman-site"
+      ],
+      "website": "https://jeffpeckman.com",
+      "website_sources": [
+        "src-peckman-site",
+        "src-bb-peckman"
+      ],
+      "endorsements": [],
+      "answers": [],
+      "finance": []
+    },
+    {
+      "name": "T.J. Cole",
+      "contest_id": "governor",
+      "aka": [
+        "Tijani Cole",
+        "Tijani R. \"T.J.\" Cole",
+        "TJ Cole"
+      ],
+      "bio": "Tijani \"T.J.\" Cole, the Unity Party nominee for lieutenant governor, is an attorney who has served as a judge on the Wheat Ridge Municipal Court and the Boulder District Court, founded Denver Justice High School, and chairs the Unity Party of Colorado. He was the Unity Party's candidate for CU Regent at-large in 2024 and for U.S. Senate in 2022.",
+      "bio_sources": [
+        "src-peckman-site",
+        "src-cpr-regent-2024",
+        "src-chaffee-cole"
+      ],
+      "website": "https://jeffpeckman.com",
+      "website_sources": [
+        "src-peckman-site",
+        "src-bb-peckman"
+      ],
+      "endorsements": [],
+      "answers": [],
+      "finance": []
+    },
+    {
+      "name": "Erik Underwood",
+      "contest_id": "governor",
+      "aka": [],
+      "bio": "Erik Underwood, the Approval Voting Party nominee for governor, is a technology entrepreneur who describes himself as the owner and patent holder of Vurbil's AI technology; a candidate profile also lists him as chairman of Illmatic Ventures and CEO of My24HourNews.com. He previously worked in the U.S. Senate.",
+      "bio_sources": [
+        "src-underwood-site",
+        "src-bb-underwood"
+      ],
+      "website": "https://erikunderwood.com",
+      "website_sources": [
+        "src-underwood-site",
+        "src-bb-underwood"
+      ],
+      "endorsements": [],
+      "answers": [],
+      "finance": []
+    },
+    {
+      "name": "Frank Atwood",
+      "contest_id": "governor",
+      "aka": [],
+      "bio": "Frank Atwood, the Approval Voting Party nominee for lieutenant governor, co-founded the Approval Voting Party and is listed as a lobbyist for Approval Voting USA. He was the party's presidential candidate in 2016 and vice-presidential candidate in 2020, and ran for U.S. Senate in 2022 and Colorado's 4th Congressional District in 2024.",
+      "bio_sources": [
+        "src-wiki-avp",
+        "src-br-atwood"
+      ],
+      "website": null,
+      "website_sources": [],
+      "endorsements": [],
+      "answers": [],
+      "finance": []
+    },
+    {
+      "name": "Greg Lopez",
+      "contest_id": "governor",
+      "aka": [],
+      "bio": "Greg Lopez of Elizabeth is running for governor as an unaffiliated candidate after leaving the Republican Party. He represented Colorado's 4th Congressional District for the last six months of 2024 after winning a special election, and was mayor of Parker in the 1990s. He describes himself as an Air Force veteran and small-business owner.",
+      "bio_sources": [
+        "src-cpol-lopez",
+        "src-cpol-gov"
+      ],
+      "website": "https://www.greglopez.co",
+      "website_sources": [
+        "src-cpol-gov",
+        "src-lopez-site"
+      ],
+      "endorsements": [],
+      "answers": [],
+      "finance": []
+    },
+    {
+      "name": "Taralyn Romero",
+      "contest_id": "governor",
+      "aka": [],
+      "bio": "Taralyn Romero, Greg Lopez's running mate for lieutenant governor, is a Jefferson County property-rights activist and health care worker.",
+      "bio_sources": [
+        "src-cpol-lopez"
+      ],
+      "website": null,
+      "website_sources": [],
+      "endorsements": [],
+      "answers": [],
+      "finance": []
+    }
+  ],
+  "open_questions": [
+    "Blake Huber identity (answer: yes, same person, confirmed): the Libertarian Party of Colorado's 2026 'Blake Huber for U.S. Senate' candidate sheet (src-lp-huber) says he ran on the Approval Voting Party ticket for vice president in 2016, for Colorado secretary of state in 2018, and for president in 2020 and 2024. Wikipedia's Approval Voting Party article (src-wiki-avp) gives the 2024 ticket as Huber / Andrea Denault (2,196 Colorado votes). Ballotpedia (src-bp-huber) confirms the 2016/2018/2020/2024 runs but does not name Denault. The 2024 run is added to his bio. Note the candidate sheet does not name which state party he chaired.",
+    "T.J. Cole identity (answer: same person, but the premise is wrong on party): the 2024 CU Regent at-large candidate T.J. Cole ran as the UNITY Party candidate, not Libertarian. CPR's 2024 voter guide (src-cpr-regent-2024) describes Tijani 'TJ' Cole (Unity) as an attorney and former judge on the Wheat Ridge Municipal Court and Boulder District Court who founded Denver Justice High School - the same details as the 2026 Peckman/Cole campaign site (src-peckman-site). Chaffee County election history (src-chaffee-cole) lists T.J. Cole (U) in the 2024 CU Regent at-large and 2022 U.S. Senate general elections. Both runs are added to his bio. I found no Libertarian T.J. Cole in 2024.",
+    "Adam Withrow: Ballotpedia (src-bp-withrow) and CPR 2024 cover an Adam Withrow (Unity, educator) who ran in CD-3 in 2024. His 2026 Senate site (src-withrow-site) carries the page metadata name 'Adam Withrow for CD3', suggesting the same person, but no source states it outright, so the 2024 run and occupation are left out of the bio.",
+    "Christopher Baum: CPR's 2024 CD-8 guide (src-cpr-cd8-2024) profiles a Chris Baum (Approval Voting; 20-year Navy veteran, network administrator, owns an interior decorating shop). The 2026 profile (src-bb-baum, citing Election2026.net) calls him a computer consultant and Navy veteran - consistent, but no source links the two explicitly, so the 2024 run is not in the bio. No campaign website found. Bio rests on a secondary aggregator (The Ballot Brief).",
+    "Stephen T. Hamilton: no occupation, home city or campaign website found (BallotReady lists only Facebook/Instagram). Bio is limited to party nomination and running mate.",
+    "James K Treibert: earlier candidacies come from BallotReady's profile only; party labels for those races and his occupation/home city were not confirmed.",
+    "No campaign websites found for Christopher Baum, Blake Huber (The Ballot Brief: none as of Sept. 8, 2026), Stephen T. Hamilton / James K Treibert, Frank Atwood, George Markert or Taralyn Romero. The campaign sites for Marx and Lopez that I fetched did not mention their running mates, so Markert's and Romero's website fields are null. Weiser's site links to a 'Meet Lesley' page, so it is used for Dahlkemper.",
+    "Eric Mulder was first listed by the Libertarian Party of Colorado as a CU Regent District 6 candidate and Joshua Rodriguez was its earlier governor candidate (src-lp-cands); the July 2026 press release names Mulder as the governor nominee. How the substitution happened was not researched.",
+    "The Colorado Sun's Aug. 26, 2026 story on third-party candidates could not be fetched (robots/proxy block), so it was not used.",
+    "Mark Baisley's Woodland Park residence comes from Colorado Politics; the legislature page lists only his counties. His Colorado House years were not confirmed."
+  ]
+}

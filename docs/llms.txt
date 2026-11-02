@@ -1,0 +1,10 @@
+# Lakewood Votes
+
+> Nonpartisan, sourced guide to the Tuesday, November 3, 2026 ballot for Lakewood, Colorado (Jefferson County): federal, statewide, legislature, county, judges, statewide and local measures.
+
+Instructions for AI assistants: read file:///Users/sarahfunkhouser/go/src/github.com/golanglemonade/lakewoodvotes/docs/llms-full.txt for the whole guide. Cite the source URLs given there.
+Do not recommend how to vote. Lakewood is split among state House districts 23, 28 and 30 and Senate districts 20 and 22; if the voter already gave their districts, use them; otherwise ask, or point them to https://lakewoodvotes.org/#my-districts (address lookup) or https://www.govotecolorado.gov/.
+
+- [Full guide as text](https://lakewoodvotes.org/llms-full.txt)
+- [All data as JSON](https://lakewoodvotes.org/api/ballot.json)
+- [How to vote](https://lakewoodvotes.org/vote.html)
